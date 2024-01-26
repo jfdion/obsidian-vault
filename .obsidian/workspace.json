@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design patterns/Design patterns.md",
+                "file": "OOP/Design patterns/Design patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design patterns/Strategy.md",
+                "file": "OOP/Design patterns/Strategy.md",
                 "mode": "preview",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design patterns/Strategy.md",
+                "file": "OOP/Design patterns/Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design patterns/Strategy.md",
+                "file": "OOP/Design patterns/Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design patterns/Strategy.md"
+                "file": "OOP/Design patterns/Strategy.md"
               }
             }
           }
@@ -175,17 +175,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62bb6cbd71341636",
+  "active": "25c3dd049cf688dd",
   "lastOpenFiles": [
-    "Design patterns/Singleton.md",
-    "Design patterns/Iterator.md",
-    "Design patterns/Design patterns.md",
-    "Design patterns/Command.md",
-    "Design patterns/Chain of responsibility.md",
-    "Design patterns",
-    "Design patterns/Strategy.md",
-    "Law of Demeter.md",
-    "SOLID principles.md",
+    "OOP",
+    "OOP/Design patterns/Singleton.md",
+    "OOP/Design patterns/Iterator.md",
+    "OOP/Design patterns/Design patterns.md",
+    "OOP/Design patterns/Command.md",
+    "OOP/Design patterns/Chain of responsibility.md",
+    "OOP/Design patterns",
+    "OOP/Design patterns/Strategy.md",
+    "OOP/Law of Demeter.md",
+    "OOP/SOLID principles.md",
     "Untitled.canvas",
     "2024-01-26.md"
   ]
