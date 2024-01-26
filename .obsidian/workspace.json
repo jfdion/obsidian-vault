@@ -22,9 +22,33 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "29806ef38f0d6c3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62bb6cbd71341636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design patterns.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -70,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Design patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Design patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Design patterns.md"
+              }
             }
           }
         ],
@@ -148,11 +175,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8b21a67ee7a80ec",
+  "active": "62bb6cbd71341636",
   "lastOpenFiles": [
+    "Singleton.md",
+    "Design patterns.md",
+    "Iterator.md",
+    "Strategy.md",
     "Command.md",
     "Chain of responsibility.md",
-    "Strategy.md",
     "Law of Demeter.md",
     "SOLID principles.md",
     "Untitled.canvas",

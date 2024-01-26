@@ -1,4 +1,4 @@
-#behavioral-pattern #design-pattern #oop 
+#oop #design-pattern #behavioral-pattern 
 
 Encapsulate a request as an object, thereby letting you parameterize clients with different  Requests, queue or log requests, and support undoable operations.
 
