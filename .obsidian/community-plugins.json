@@ -1,5 +1,6 @@
 [
   "obsidian-plantuml",
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "auto-note-mover"
 ]

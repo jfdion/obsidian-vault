@@ -1,11 +1,5 @@
----
-created: ["{{date}} {{time}}"]
-aliases: ["Recipe: {{title}}"]
-tags:
-- Recipe/
----
+#food #recipes
 
-# 🍽 Recipe -> 
 
 # ❓ Information
 Type:: 
