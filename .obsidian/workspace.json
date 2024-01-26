@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "e281756dc25fe72e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fb2449e80baf764",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4292e627788c21c4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb6445ff77d489c2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76c5414fa12fbbfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e1b1828b667ee93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c3dd049cf688dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8b21a67ee7a80ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#behavioral-pattern",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d082e428587b079",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb738e2bffc7e4ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "80b24794e70ec942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2acd96348eb5ed4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fdea8d9fdcdab70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bfc0805b6345bc7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "2d12221c7932d577",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a8b21a67ee7a80ec",
+  "lastOpenFiles": [
+    "Command.md",
+    "Chain of responsibility.md",
+    "Strategy.md",
+    "Law of Demeter.md",
+    "SOLID principles.md",
+    "Untitled.canvas",
+    "2024-01-26.md"
+  ]
+}
