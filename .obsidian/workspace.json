@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software development/Don't repeat yourself.md",
+                "file": "Software development/OOP/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software development/Don't repeat yourself.md",
+                "file": "Software development/OOP/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software development/Don't repeat yourself.md",
+                "file": "Software development/OOP/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software development/Don't repeat yourself.md"
+                "file": "Software development/OOP/Untitled.md"
               }
             }
           }
@@ -177,10 +177,13 @@
   },
   "active": "62bb6cbd71341636",
   "lastOpenFiles": [
+    "_templates/Basic note.md",
+    "Software development/OOP/Untitled.md",
+    "_templates",
+    "Software development/Don't repeat yourself.md",
     "v4q11k8t.bmp",
     "Untitled.md",
     "Software development",
-    "Software development/Don't repeat yourself.md",
     "Software development/OOP/Tell don't Ask.md",
     "Software development/OOP/Law of Demeter.md",
     "Software development/OOP/SOLID principles.md",
