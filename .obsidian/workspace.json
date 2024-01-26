@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP/Design patterns/Design patterns.md",
+                "file": "Software development/OOP/Design patterns/Design patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP/Design patterns/Strategy.md",
-                "mode": "preview",
+                "file": "Software development/Don't repeat yourself.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP/Design patterns/Strategy.md",
+                "file": "Software development/Don't repeat yourself.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP/Design patterns/Strategy.md",
+                "file": "Software development/Don't repeat yourself.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP/Design patterns/Strategy.md"
+                "file": "Software development/Don't repeat yourself.md"
               }
             }
           }
@@ -175,18 +175,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25c3dd049cf688dd",
+  "active": "62bb6cbd71341636",
   "lastOpenFiles": [
-    "OOP",
-    "OOP/Design patterns/Singleton.md",
-    "OOP/Design patterns/Iterator.md",
-    "OOP/Design patterns/Design patterns.md",
-    "OOP/Design patterns/Command.md",
-    "OOP/Design patterns/Chain of responsibility.md",
-    "OOP/Design patterns",
-    "OOP/Design patterns/Strategy.md",
-    "OOP/Law of Demeter.md",
-    "OOP/SOLID principles.md",
+    "v4q11k8t.bmp",
+    "Untitled.md",
+    "Software development",
+    "Software development/Don't repeat yourself.md",
+    "Software development/OOP/Tell don't Ask.md",
+    "Software development/OOP/Law of Demeter.md",
+    "Software development/OOP/SOLID principles.md",
+    "Software development/OOP/Design patterns/Strategy.md",
+    "Software development/OOP",
+    "Software development/OOP/Design patterns/Singleton.md",
+    "Software development/OOP/Design patterns/Iterator.md",
+    "Software development/OOP/Design patterns/Design patterns.md",
+    "Software development/OOP/Design patterns/Command.md",
+    "Software development/OOP/Design patterns/Chain of responsibility.md",
+    "Software development/OOP/Design patterns",
     "Untitled.canvas",
     "2024-01-26.md"
   ]

@@ -1,4 +1,4 @@
-#design-guideline #oop 
+#oop #design-guideline 
 
 The **Law of Demeter** (**LoD**) or **principle of least knowledge** is a design guideline for developing [software](https://en.wikipedia.org/wiki/Software)
 
