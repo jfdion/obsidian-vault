@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/js-ts/Gameloop.md",
+                "file": "Programming/go/Makefile.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ts",
+                "query": "tag:#go-lang",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/js-ts/Gameloop.md",
+                "file": "Programming/go/Makefile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/js-ts/Gameloop.md",
+                "file": "Programming/go/Makefile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/js-ts/Gameloop.md"
+                "file": "Programming/go/Makefile.md"
               }
             }
           }
@@ -227,8 +227,8 @@
   },
   "active": "ba7f014960b6d909",
   "lastOpenFiles": [
-    "Programming/go/Makefile.md",
     "Programming/js-ts/Gameloop.md",
+    "Programming/go/Makefile.md",
     "Programming/js-ts",
     "Templates/code snippet.md",
     "Programming/go",
