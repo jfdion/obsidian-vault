@@ -19,3 +19,4 @@ Looking at the reasons for change, is a very powerful modelling heuristic.
 
 **References**
 * https://verraes.net/2014/08/dry-is-about-knowledge/
+* https://fr.wikipedia.org/wiki/Ne_vous_r%C3%A9p%C3%A9tez_pas
