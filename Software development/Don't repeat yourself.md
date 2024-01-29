@@ -1,5 +1,7 @@
 #design-guideline 
 
+ « Dans un système, toute connaissance doit avoir une représentation unique, non ambiguë, faisant autorité »
+ 
  DRY is about Knowledge
 
 Code duplication is not the issue.
