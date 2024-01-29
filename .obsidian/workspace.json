@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temporary table.md",
+                "file": "Programming/sql 🐷/Temporary table.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temporary table.md",
+                "file": "Programming/sql 🐷/Temporary table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temporary table.md",
+                "file": "Programming/sql 🐷/Temporary table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temporary table.md"
+                "file": "Programming/sql 🐷/Temporary table.md"
               }
             }
           }
@@ -260,11 +260,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25c3dd049cf688dd",
+  "active": "e22a9120da9bda01",
   "lastOpenFiles": [
     "Software development/Don't repeat yourself.md",
     "Templates/code snippet.md",
-    "Temporary table.md",
+    "Programming/sql 🐷/Temporary table.md",
     "Programming/sql 🐷",
     "Programming/js-ts/Gameloop.md",
     "Software development/OOP/Design patterns/Chain of responsibility.md",
