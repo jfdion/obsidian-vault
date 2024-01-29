@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Create temporary table.md",
+                "file": "Temporary table.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Create temporary table.md",
+                "file": "Temporary table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Create temporary table.md",
+                "file": "Temporary table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Create temporary table.md"
+                "file": "Temporary table.md"
               }
             }
           }
@@ -260,10 +260,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e22a9120da9bda01",
+  "active": "25c3dd049cf688dd",
   "lastOpenFiles": [
+    "Software development/Don't repeat yourself.md",
+    "Templates/code snippet.md",
+    "Temporary table.md",
+    "Programming/sql 🐷",
     "Programming/js-ts/Gameloop.md",
-    "Create temporary table.md",
     "Software development/OOP/Design patterns/Chain of responsibility.md",
     "Software development/OOP/Design patterns/Command.md",
     "Software development/OOP/Design patterns/Design patterns.md",
@@ -273,10 +276,8 @@
     "Software development/OOP/Law of Demeter.md",
     "Software development/OOP/SOLID principles.md",
     "Software development/OOP/Tell don't Ask.md",
-    "Software development/Don't repeat yourself.md",
     "Untitled.canvas",
     "Programming/go/Makefile.md",
-    "Templates/code snippet.md",
     "Software development/OOP/Design patterns/schemas/Strategy pattern UML.md",
     "Software development/OOP/Design patterns/schemas",
     "Excalidraw/Drawing 2024-01-29 10.52.34.excalidraw.md",

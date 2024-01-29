@@ -17,6 +17,11 @@
       "folder": "Programming/js-ts",
       "tag": "#typescript",
       "pattern": ""
+    },
+    {
+      "folder": "Programming/mysql",
+      "tag": "#mysql",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
