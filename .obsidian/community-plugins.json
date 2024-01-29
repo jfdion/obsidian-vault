@@ -3,5 +3,6 @@
   "obsidian-git",
   "dataview",
   "quickadd",
-  "templater-obsidian"
+  "templater-obsidian",
+  "auto-note-mover"
 ]
