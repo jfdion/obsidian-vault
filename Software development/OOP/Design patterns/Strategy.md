@@ -19,5 +19,3 @@ Strategy -l-* Context
 Strategy <|-d- ConcreteStrategy1
 Strategy <|-d- ConcreteStrategy2
 ```
-
-![[Strategy pattern UML]]

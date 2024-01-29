@@ -99,14 +99,28 @@
             "id": "6d53aa3a7b5855e8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Strategy pattern UML.md"
+                "file": "Software development/OOP/Design patterns/Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0270912e5f9d9a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/go/Makefile.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -172,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Strategy pattern UML.md",
+                "file": "Programming/go/Makefile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Strategy pattern UML.md",
+                "file": "Programming/go/Makefile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Strategy pattern UML.md"
+                "file": "Programming/go/Makefile.md"
               }
             }
           }
@@ -272,17 +286,22 @@
       }
     ]
   },
-  "active": "6d53aa3a7b5855e8",
+  "active": "a0270912e5f9d9a5",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-29 10.52.34.excalidraw.md",
+    "Programming/js-ts/Gameloop.md",
+    "Templates/code snippet.md",
+    "Software development/OOP/Design patterns/Command.md",
+    "Software development/OOP/Design patterns/Design patterns.md",
+    "Software development/OOP/Design patterns/Iterator.md",
+    "Software development/OOP/Design patterns/Singleton.md",
     "Software development/OOP/Design patterns/Strategy.md",
-    "Excalidraw/Strategy pattern UML.md",
+    "Software development/OOP/Design patterns/schemas/Strategy pattern UML.md",
+    "Software development/OOP/Design patterns/schemas",
+    "Excalidraw/Drawing 2024-01-29 10.52.34.excalidraw.md",
     "Programming/go/Makefile.md",
     "Excalidraw",
     "Untitled.canvas",
-    "Programming/js-ts/Gameloop.md",
     "Programming/js-ts",
-    "Templates/code snippet.md",
     "Programming/go",
     "Programming",
     "_templates/Basic note.md",
@@ -296,10 +315,6 @@
     "v4q11k8t.bmp",
     "Software development",
     "Software development/OOP",
-    "Software development/OOP/Design patterns/Singleton.md",
-    "Software development/OOP/Design patterns/Iterator.md",
-    "Software development/OOP/Design patterns/Design patterns.md",
-    "Software development/OOP/Design patterns/Command.md",
     "Software development/OOP/Design patterns/Chain of responsibility.md",
     "Software development/OOP/Design patterns",
     "2024-01-26.md"
