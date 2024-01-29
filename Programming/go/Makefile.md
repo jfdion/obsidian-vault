@@ -12,8 +12,8 @@ Make file de base pour compiler et exécuter une application en `Go`
 
 ```Makefile
 run: build
-    @./bin/movies-backend
+    @./bin/api-backend
 
 build:
-    @go build -o bin/movies-backend main.go
+    @go build -o bin/api-backend main.go
 ```
