@@ -2,6 +2,7 @@
 tags:
   - code
   - snippet
+  - "#go-lang"
 language: Go
 created: 2024-01-29 Mon
 last_updated: 2024-01-29 Mon

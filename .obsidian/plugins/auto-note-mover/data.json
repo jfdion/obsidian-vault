@@ -5,14 +5,20 @@
   "folder_tag_pattern": [
     {
       "folder": "Programming/go",
-      "tag": "",
+      "tag": "#go-lang",
+      "pattern": ""
+    },
+    {
+      "folder": "Programming/js-ts",
+      "tag": "#js",
+      "pattern": ""
+    },
+    {
+      "folder": "Programming/js-ts",
+      "tag": "#ts",
       "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
-  "excluded_folder": [
-    {
-      "folder": ""
-    }
-  ]
+  "excluded_folder": []
 }
