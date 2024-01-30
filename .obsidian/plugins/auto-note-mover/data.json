@@ -37,6 +37,11 @@
       "folder": "Articles",
       "tag": "#article",
       "pattern": ""
+    },
+    {
+      "folder": "Resources",
+      "tag": "#resources",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

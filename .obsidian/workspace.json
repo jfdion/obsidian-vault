@@ -166,9 +166,45 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "bb5de6045eb436f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Nerd fonts.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "14609c8315e81f61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Powershell profile config.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "64a7e73c4d732efd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "oh-my-posh-overrides.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -234,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/resources.md",
+                "file": "oh-my-posh-overrides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/resources.md",
+                "file": "oh-my-posh-overrides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/resources.md"
+                "file": "oh-my-posh-overrides.md"
               }
             }
           }
@@ -296,10 +332,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "668687970db1318c",
+  "active": "64a7e73c4d732efd",
   "lastOpenFiles": [
-    "Templates/article.md",
+    "Powershell profile config.md",
+    "oh-my-posh-overrides.md",
+    "Resources/Nerd fonts.md",
     "Templates/resources.md",
+    "Resources",
+    "Templates/article.md",
     "Snippets/json/Windows powershell color theme.md",
     "Templates/code snippet.md",
     "Snippets/php/Repository as collection.md",
@@ -331,9 +371,6 @@
     "Snippets",
     "_templates/Basic note.md",
     "_templates/Recipe.md",
-    "Software development/OOP/Test.md",
-    "Templates",
-    "v4q11k8t.bmp",
-    "2024-01-26.md"
+    "v4q11k8t.bmp"
   ]
 }
