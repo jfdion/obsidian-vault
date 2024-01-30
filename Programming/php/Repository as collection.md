@@ -3,13 +3,12 @@ tags:
   - code
   - snippet
   - php
-language: 
+language: PHP
 created: 2024-01-30 Tue
 last_updated: 2024-01-30 Tue
 ---
 ## Description
 Using the repository pattern as a collection
-
 ### Interface
 
 ```PHP
@@ -273,5 +272,6 @@ final class DoctrineORMUserRepository extends DoctrineORMRepository implements U
     }
 }
 ```
-**References**
+
+## References
 * https://blog.mnavarro.dev/the-repository-pattern-done-right

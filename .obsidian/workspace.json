@@ -149,7 +149,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repository as collection.md",
+                "file": "Programming/sql 🐷/Temporary table.md",
                 "mode": "source",
                 "source": false
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#code",
+                "query": "tag:php",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository as collection.md",
+                "file": "Programming/sql 🐷/Temporary table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repository as collection.md",
+                "file": "Programming/sql 🐷/Temporary table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repository as collection.md"
+                "file": "Programming/sql 🐷/Temporary table.md"
               }
             }
           }
@@ -286,12 +286,13 @@
   },
   "active": "5165cf03f946c711",
   "lastOpenFiles": [
-    "Templates/code snippet.md",
-    "Repository as collection.md",
-    "Articles/DRY is about Knowledge.md",
-    "Templates/article.md",
+    "Programming/php/Repository as collection.md",
     "Programming/js-ts/Gameloop.md",
     "Programming/go/Makefile.md",
+    "Templates/code snippet.md",
+    "Programming/php",
+    "Articles/DRY is about Knowledge.md",
+    "Templates/article.md",
     "Programming/sql 🐷/Temporary table.md",
     "Articles",
     "Programming/sql 🐷",
@@ -318,7 +319,6 @@
     "Templates",
     "v4q11k8t.bmp",
     "Software development",
-    "Software development/OOP",
     "2024-01-26.md"
   ]
 }
