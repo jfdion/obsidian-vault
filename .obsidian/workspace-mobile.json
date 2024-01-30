@@ -11,12 +11,8 @@
             "id": "04aaddcb11873098",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "From android.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "From android.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "From android.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "From android.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -132,8 +124,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "852c74aa54661c3d",
+  "active": "04aaddcb11873098",
   "lastOpenFiles": [
-    "From android.md"
+    "From android.md",
+    "Snippets/json/oh-my-posh-overrides.md",
+    "Snippets/json/Windows powershell color theme.md",
+    "Templates/resources.md",
+    "Snippets/php/Repository as collection.md",
+    "Resources/Nerd fonts.md",
+    "Powershell profile config.md",
+    "Snippets/go/Makefile.md",
+    "Snippets/sql 🐷/Temporary table.md",
+    "Snippets/js-ts/Gameloop.md",
+    "/Templates/code snippet.md",
+    "/Snippets/json/oh-my-posh-overrides.md",
+    "/Snippets/json/Windows powershell color theme.md",
+    "/Templates/resources.md",
+    "Articles/article.md",
+    "/Snippets/php/Repository as collection.md",
+    "/Resources/Nerd fonts.md",
+    "/Powershell profile config.md",
+    "/Articles/DRY is about Knowledge.md",
+    "/Snippets/go/Makefile.md",
+    "/Snippets/sql 🐷/Temporary table.md",
+    "/Snippets/js-ts/Gameloop.md",
+    "Snippets/sql 🐷",
+    "Snippets/php",
+    "Snippets/json",
+    "Snippets/js-ts",
+    "Snippets/go",
+    "Snippets",
+    "Resources",
+    "/Snippets/sql 🐷",
+    "/Snippets/php",
+    "/Snippets/json"
   ]
 }
