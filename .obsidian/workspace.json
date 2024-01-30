@@ -142,9 +142,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5165cf03f946c711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repository as collection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -210,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/DRY is about Knowledge.md",
+                "file": "Repository as collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/DRY is about Knowledge.md",
+                "file": "Repository as collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/DRY is about Knowledge.md"
+                "file": "Repository as collection.md"
               }
             }
           }
@@ -272,14 +284,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad72ddb4114e85f5",
+  "active": "5165cf03f946c711",
   "lastOpenFiles": [
-    "Templates/article.md",
     "Templates/code snippet.md",
+    "Repository as collection.md",
+    "Articles/DRY is about Knowledge.md",
+    "Templates/article.md",
     "Programming/js-ts/Gameloop.md",
     "Programming/go/Makefile.md",
     "Programming/sql 🐷/Temporary table.md",
-    "Articles/DRY is about Knowledge.md",
     "Articles",
     "Programming/sql 🐷",
     "Software development/OOP/Design patterns/Chain of responsibility.md",
