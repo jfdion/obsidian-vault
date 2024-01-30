@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/code snippet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/code snippet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/code snippet.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -143,8 +139,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25c3dd049cf688dd",
+  "active": "f4c222863bfec28c",
   "lastOpenFiles": [
+    "Templates/code snippet.md",
     "Programming/sql 🐷/Temporary table.md",
     "Programming/js-ts/Gameloop.md",
     "Programming/go/Makefile.md",
@@ -153,7 +150,6 @@
     "Programming/go",
     "Programming",
     "Untitled.md",
-    "Templates/code snippet.md",
     "_templates/Basic note.md",
     "Software development/OOP/Tell don't Ask.md",
     "_templates/Recipe.md",
