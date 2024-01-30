@@ -276,9 +276,10 @@
   "lastOpenFiles": [
     "Templates/code snippet.md",
     "Templates/article.md",
+    "Software development/DRY is about Knowledge.md",
+    "Articles",
     "Programming/js-ts/Gameloop.md",
     "Programming/sql 🐷/Temporary table.md",
-    "Software development/Don't repeat yourself.md",
     "Programming/sql 🐷",
     "Software development/OOP/Design patterns/Chain of responsibility.md",
     "Software development/OOP/Design patterns/Command.md",
@@ -305,7 +306,6 @@
     "v4q11k8t.bmp",
     "Software development",
     "Software development/OOP",
-    "Software development/OOP/Design patterns",
     "2024-01-26.md"
   ]
 }
