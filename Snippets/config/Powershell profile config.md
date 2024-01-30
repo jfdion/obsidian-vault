@@ -2,6 +2,7 @@
 tags:
   - "#code"
   - "#snippet"
+  - "#config"
   - "#powershell"
 language: Powershell
 created: 2024-01-30 Tue
