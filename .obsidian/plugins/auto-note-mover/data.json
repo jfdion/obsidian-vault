@@ -9,23 +9,28 @@
       "pattern": ""
     },
     {
-      "folder": "Programming/js-ts",
+      "folder": "Snippets/js-ts",
       "tag": "#javascript",
       "pattern": ""
     },
     {
-      "folder": "Programming/js-ts",
+      "folder": "Snippets/js-ts",
       "tag": "#typescript",
       "pattern": ""
     },
     {
-      "folder": "Programming/sql 🐷",
+      "folder": "Snippets/sql 🐷",
       "tag": "#sql",
       "pattern": ""
     },
     {
-      "folder": "Programming/php",
+      "folder": "Snippets/php",
       "tag": "#php",
+      "pattern": ""
+    },
+    {
+      "folder": "Snippets/json",
+      "tag": "#json",
       "pattern": ""
     },
     {

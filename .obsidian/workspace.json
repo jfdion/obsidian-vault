@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/go/Makefile.md",
+                "file": "Snippets/go/Makefile.md",
                 "mode": "source",
                 "source": true
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/go/Makefile.md",
+                "file": "Snippets/go/Makefile.md",
                 "mode": "source",
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/js-ts/Gameloop.md",
+                "file": "Snippets/js-ts/Gameloop.md",
                 "mode": "source",
                 "source": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/js-ts/Gameloop.md",
+                "file": "Snippets/js-ts/Gameloop.md",
                 "mode": "source",
                 "source": true
               }
@@ -149,14 +149,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software development/OOP/Design patterns/Command.md",
+                "file": "Templates/code snippet.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "668687970db1318c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/resources.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -222,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software development/OOP/Design patterns/Command.md",
+                "file": "Templates/resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software development/OOP/Design patterns/Command.md",
+                "file": "Templates/resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software development/OOP/Design patterns/Command.md"
+                "file": "Templates/resources.md"
               }
             }
           }
@@ -284,42 +296,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5165cf03f946c711",
+  "active": "668687970db1318c",
   "lastOpenFiles": [
-    "Software development/OOP/Design patterns/Design patterns.md",
-    "Templates/code snippet.md",
     "Templates/article.md",
+    "Templates/resources.md",
+    "Snippets/json/Windows powershell color theme.md",
+    "Templates/code snippet.md",
+    "Snippets/php/Repository as collection.md",
+    "Snippets/json",
+    "Software development/OOP/Design patterns/Command.md",
+    "Software development/OOP/Design patterns/Design patterns.md",
     "Software development/OOP/Tell don't Ask.md",
     "Software development/OOP/SOLID principles.md",
     "Software development/OOP/Law of Demeter.md",
     "Software development/OOP/Design patterns/Strategy.md",
     "Software development/OOP/Design patterns/Singleton.md",
     "Software development/OOP/Design patterns/Iterator.md",
-    "Software development/OOP/Design patterns/Command.md",
     "Software development/OOP/Design patterns/Chain of responsibility.md",
-    "Programming/php/Repository as collection.md",
-    "Programming/sql 🐷/Temporary table.md",
-    "Programming/js-ts/Gameloop.md",
-    "Programming/go/Makefile.md",
+    "Snippets/sql 🐷/Temporary table.md",
+    "Snippets/js-ts/Gameloop.md",
+    "Snippets/go/Makefile.md",
     "Articles/DRY is about Knowledge.md",
     "From android.md",
-    "Programming/php",
+    "Snippets/php",
     "Articles",
-    "Programming/sql 🐷",
+    "Snippets/sql 🐷",
     "Untitled.canvas",
     "Software development/OOP/Design patterns/schemas/Strategy pattern UML.md",
     "Software development/OOP/Design patterns/schemas",
     "Excalidraw/Drawing 2024-01-29 10.52.34.excalidraw.md",
     "Excalidraw",
-    "Programming/js-ts",
-    "Programming/go",
-    "Programming",
+    "Snippets/js-ts",
+    "Snippets/go",
+    "Snippets",
     "_templates/Basic note.md",
     "_templates/Recipe.md",
     "Software development/OOP/Test.md",
     "Templates",
     "v4q11k8t.bmp",
-    "Software development",
     "2024-01-26.md"
   ]
 }
