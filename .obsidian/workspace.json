@@ -31,7 +31,7 @@
               "state": {
                 "file": "Software development/OOP/Design patterns/Design patterns.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -43,7 +43,7 @@
               "state": {
                 "file": "Software development/OOP/Tell don't Ask.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -55,7 +55,7 @@
               "state": {
                 "file": "Templates/code snippet.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -67,7 +67,7 @@
               "state": {
                 "file": "Templates/code snippet.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -79,7 +79,7 @@
               "state": {
                 "file": "Programming/go/Makefile.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -91,7 +91,7 @@
               "state": {
                 "file": "Programming/go/Makefile.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -103,7 +103,7 @@
               "state": {
                 "file": "Software development/OOP/Design patterns/Strategy.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -115,7 +115,7 @@
               "state": {
                 "file": "Programming/js-ts/Gameloop.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -127,7 +127,7 @@
               "state": {
                 "file": "Programming/js-ts/Gameloop.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -139,7 +139,7 @@
               "state": {
                 "file": "Articles/DRY is about Knowledge.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -149,8 +149,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/article.md",
-                "mode": "source",
+                "file": "Software development/OOP/Design patterns/Command.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/article.md",
+                "file": "Software development/OOP/Design patterns/Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/article.md",
+                "file": "Software development/OOP/Design patterns/Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/article.md"
+                "file": "Software development/OOP/Design patterns/Command.md"
               }
             }
           }
@@ -286,6 +286,7 @@
   },
   "active": "5165cf03f946c711",
   "lastOpenFiles": [
+    "Software development/OOP/Design patterns/Design patterns.md",
     "Templates/code snippet.md",
     "Templates/article.md",
     "Software development/OOP/Tell don't Ask.md",
@@ -294,7 +295,6 @@
     "Software development/OOP/Design patterns/Strategy.md",
     "Software development/OOP/Design patterns/Singleton.md",
     "Software development/OOP/Design patterns/Iterator.md",
-    "Software development/OOP/Design patterns/Design patterns.md",
     "Software development/OOP/Design patterns/Command.md",
     "Software development/OOP/Design patterns/Chain of responsibility.md",
     "Programming/php/Repository as collection.md",
