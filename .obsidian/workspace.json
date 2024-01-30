@@ -149,9 +149,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/sql 🐷/Temporary table.md",
+                "file": "Templates/article.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/sql 🐷/Temporary table.md",
+                "file": "Templates/article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/sql 🐷/Temporary table.md",
+                "file": "Templates/article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/sql 🐷/Temporary table.md"
+                "file": "Templates/article.md"
               }
             }
           }
@@ -286,25 +286,26 @@
   },
   "active": "5165cf03f946c711",
   "lastOpenFiles": [
+    "Templates/code snippet.md",
+    "Templates/article.md",
+    "Software development/OOP/Tell don't Ask.md",
+    "Software development/OOP/SOLID principles.md",
+    "Software development/OOP/Law of Demeter.md",
+    "Software development/OOP/Design patterns/Strategy.md",
+    "Software development/OOP/Design patterns/Singleton.md",
+    "Software development/OOP/Design patterns/Iterator.md",
+    "Software development/OOP/Design patterns/Design patterns.md",
+    "Software development/OOP/Design patterns/Command.md",
+    "Software development/OOP/Design patterns/Chain of responsibility.md",
     "Programming/php/Repository as collection.md",
+    "Programming/sql 🐷/Temporary table.md",
     "Programming/js-ts/Gameloop.md",
     "Programming/go/Makefile.md",
-    "Templates/code snippet.md",
-    "Programming/php",
     "Articles/DRY is about Knowledge.md",
-    "Templates/article.md",
-    "Programming/sql 🐷/Temporary table.md",
+    "From android.md",
+    "Programming/php",
     "Articles",
     "Programming/sql 🐷",
-    "Software development/OOP/Design patterns/Chain of responsibility.md",
-    "Software development/OOP/Design patterns/Command.md",
-    "Software development/OOP/Design patterns/Design patterns.md",
-    "Software development/OOP/Design patterns/Iterator.md",
-    "Software development/OOP/Design patterns/Singleton.md",
-    "Software development/OOP/Design patterns/Strategy.md",
-    "Software development/OOP/Law of Demeter.md",
-    "Software development/OOP/SOLID principles.md",
-    "Software development/OOP/Tell don't Ask.md",
     "Untitled.canvas",
     "Software development/OOP/Design patterns/schemas/Strategy pattern UML.md",
     "Software development/OOP/Design patterns/schemas",
