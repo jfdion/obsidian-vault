@@ -3,13 +3,21 @@ tags:
   - "#code"
   - "#snippet"
   - "#json"
-language: 
+  - "#config"
+  - "#powershell"
+language: JSON
 created: 2024-01-30 Tue
 last_updated: 2024-01-30 Tue
 ---
 ## Description
 
 Overrides for Oh my posh ([https://ohmyposh.dev/docs/themes](https://ohmyposh.dev/docs/themes))
+
+Use override:
+`oh-my-posh init pwsh --config 'C:/path-to-file' | Invoke-Expression`
+
+References
+https://ohmyposh.dev/docs/installation/customize
 
 ```JSON
 {

@@ -197,8 +197,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oh-my-posh-overrides.md",
-                "mode": "source",
+                "file": "Snippets/json/Windows powershell color theme.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -233,7 +233,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:php",
+                "query": "tag:#powershell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,7 +250,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -270,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oh-my-posh-overrides.md",
+                "file": "Snippets/json/Windows powershell color theme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oh-my-posh-overrides.md",
+                "file": "Snippets/json/Windows powershell color theme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oh-my-posh-overrides.md"
+                "file": "Snippets/json/Windows powershell color theme.md"
               }
             }
           }
@@ -332,17 +333,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64a7e73c4d732efd",
+  "active": "a8b21a67ee7a80ec",
   "lastOpenFiles": [
+    "Snippets/json/oh-my-posh-overrides.md",
     "Powershell profile config.md",
-    "oh-my-posh-overrides.md",
+    "Snippets/sql 🐷/Temporary table.md",
+    "Snippets/php/Repository as collection.md",
+    "Snippets/json/Windows powershell color theme.md",
     "Resources/Nerd fonts.md",
     "Templates/resources.md",
     "Resources",
     "Templates/article.md",
-    "Snippets/json/Windows powershell color theme.md",
     "Templates/code snippet.md",
-    "Snippets/php/Repository as collection.md",
     "Snippets/json",
     "Software development/OOP/Design patterns/Command.md",
     "Software development/OOP/Design patterns/Design patterns.md",
@@ -353,7 +355,6 @@
     "Software development/OOP/Design patterns/Singleton.md",
     "Software development/OOP/Design patterns/Iterator.md",
     "Software development/OOP/Design patterns/Chain of responsibility.md",
-    "Snippets/sql 🐷/Temporary table.md",
     "Snippets/js-ts/Gameloop.md",
     "Snippets/go/Makefile.md",
     "Articles/DRY is about Knowledge.md",
