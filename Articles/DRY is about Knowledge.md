@@ -1,5 +1,8 @@
 ---
-tags: #design-guideline #article
+tags:
+  - "#article"
+  - design-guideline
+  - dry
 created: 2024-01-26 Fri
 ---
 

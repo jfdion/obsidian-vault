@@ -137,9 +137,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/article.md",
+                "file": "Articles/DRY is about Knowledge.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tags #go-lan",
+                "query": "tag:#code",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/article.md",
+                "file": "Articles/DRY is about Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/article.md",
+                "file": "Articles/DRY is about Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/article.md"
+                "file": "Articles/DRY is about Knowledge.md"
               }
             }
           }
@@ -274,12 +274,13 @@
   },
   "active": "ad72ddb4114e85f5",
   "lastOpenFiles": [
-    "Templates/code snippet.md",
     "Templates/article.md",
-    "Software development/DRY is about Knowledge.md",
-    "Articles",
+    "Templates/code snippet.md",
     "Programming/js-ts/Gameloop.md",
+    "Programming/go/Makefile.md",
     "Programming/sql 🐷/Temporary table.md",
+    "Articles/DRY is about Knowledge.md",
+    "Articles",
     "Programming/sql 🐷",
     "Software development/OOP/Design patterns/Chain of responsibility.md",
     "Software development/OOP/Design patterns/Command.md",
@@ -291,7 +292,6 @@
     "Software development/OOP/SOLID principles.md",
     "Software development/OOP/Tell don't Ask.md",
     "Untitled.canvas",
-    "Programming/go/Makefile.md",
     "Software development/OOP/Design patterns/schemas/Strategy pattern UML.md",
     "Software development/OOP/Design patterns/schemas",
     "Excalidraw/Drawing 2024-01-29 10.52.34.excalidraw.md",
