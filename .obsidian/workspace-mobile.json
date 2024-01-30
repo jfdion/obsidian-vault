@@ -11,8 +11,12 @@
             "id": "04aaddcb11873098",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/code snippet.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Templates/code snippet.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Templates/code snippet.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Templates/code snippet.md"
+          }
         }
       }
     ],
@@ -126,6 +134,13 @@
   },
   "active": "04aaddcb11873098",
   "lastOpenFiles": [
+    "Articles to read.md",
+    "/Articles to read.md",
+    "Templates/article.md",
+    "Snippets/config/Powershell profile config.md",
+    "/Snippets/config/Powershell profile config.md",
+    "Snippets/config",
+    "/Snippets/config",
     "From android.md",
     "Snippets/json/oh-my-posh-overrides.md",
     "Snippets/json/Windows powershell color theme.md",
@@ -140,7 +155,6 @@
     "/Snippets/json/oh-my-posh-overrides.md",
     "/Snippets/json/Windows powershell color theme.md",
     "/Templates/resources.md",
-    "Articles/article.md",
     "/Snippets/php/Repository as collection.md",
     "/Resources/Nerd fonts.md",
     "/Powershell profile config.md",
@@ -155,8 +169,6 @@
     "Snippets/go",
     "Snippets",
     "Resources",
-    "/Snippets/sql 🐷",
-    "/Snippets/php",
-    "/Snippets/json"
+    "/Snippets/sql 🐷"
   ]
 }
