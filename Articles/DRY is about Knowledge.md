@@ -1,8 +1,8 @@
 ---
 tags:
   - "#article"
-  - design-guideline
-  - dry
+  - "#design-guideline"
+  - "#dry"
 created: 2024-01-26 Fri
 ---
 
