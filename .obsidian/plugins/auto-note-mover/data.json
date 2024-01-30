@@ -4,7 +4,7 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "Programming/go",
+      "folder": "Snippets/go",
       "tag": "#go-lang",
       "pattern": ""
     },
@@ -31,6 +31,11 @@
     {
       "folder": "Snippets/json",
       "tag": "#json",
+      "pattern": ""
+    },
+    {
+      "folder": "Snippets/config",
+      "tag": "#config",
       "pattern": ""
     },
     {
