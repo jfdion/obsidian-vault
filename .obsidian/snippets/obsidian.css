@@ -1,13 +1,18 @@
 .chip {
-    display: inline-block;
+
+    position: relative;
+    border-radius: 8px;
+    user-select: none;
+    white-space: nowrap;
+    padding: .366rem .66rem;
+    font-size: .75rem;
     background-color: #999;
     color: #fff;
-    border-radius: 4px;
-    padding: 2px 6px;
+
+
     margin: 0;
-    font-weight: 500;
-    font-variant: small-caps;
-    line-height: 1.4em;
+    font-weight: 700;
+    text-transform: uppercase;
 }
 
 .note {
