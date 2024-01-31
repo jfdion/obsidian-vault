@@ -37,5 +37,29 @@ WHERE type = "murder"
   AND date = "20180115"
 ```
 
+### Témoins
+Premier témoins - Dernière maison sur Northwestern Dr
+```SQL
+SELECT * 
+FROM person 
+WHERE address_street_name = "Northwestern Dr" 
+ORDER BY address_number DESC 
+LIMIT 1
+```
+Deuxième témoin - Annabel habitant sur Franklin avenue
+```SQL
+SELECT * 
+FROM person 
+WHERE address_street_name = "Franklin Ave"
+  AND name LIKE "Annabel%"
+```
+
+### Interrogatoires
+Trouver les interrogatoires des deux témoins
+```SQL
+SELECT * 
+FROM interview
+WHERE person_id = '16371' OR person_id = '14887'
+```
 ## References
 * https://mystery.knightlab.com/
