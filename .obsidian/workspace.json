@@ -38,15 +38,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/article.md",
+                "file": "Articles to read.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbf397ef3d64c6ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles/Mocks Aren't Stubs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/article.md",
+                "file": "Articles/Mocks Aren't Stubs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/article.md",
+                "file": "Articles/Mocks Aren't Stubs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/article.md"
+                "file": "Articles/Mocks Aren't Stubs.md"
               }
             }
           }
@@ -174,10 +186,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30fe0b28a7863ed6",
+  "active": "fbf397ef3d64c6ca",
   "lastOpenFiles": [
-    "Articles to read.md",
     "Articles/DRY is about Knowledge.md",
+    "Articles/Mocks Aren't Stubs.md",
+    "Articles to read.md",
     "Templates/article.md",
     "Test.md",
     "schema.png",
@@ -206,7 +219,6 @@
     "Software development/OOP/Law of Demeter.md",
     "Software development/OOP/Design patterns/Strategy.md",
     "Software development/OOP/Design patterns/Singleton.md",
-    "Software development/OOP/Design patterns/Iterator.md",
     "Snippets/php",
     "Articles",
     "Snippets/sql 🐷",

@@ -6,7 +6,6 @@ tags:
 created: 2024-01-26 Fri
 ---
 # DRY is about Knowledge
-
 https://verraes.net/2014/08/dry-is-about-knowledge/
 ## Extraits
 ### Knowledge
