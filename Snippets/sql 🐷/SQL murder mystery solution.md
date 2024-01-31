@@ -144,22 +144,24 @@ INNER JOIN interview i
   ON p.id = i.person_id 
 WHERE p.name ="Jeremy Bowers"
 ```
-
-> I was hired by a woman with a lot of money. I don't know her name but I know she's around 5'5" (65") or 5'7" (67"). She has red hair and she drives a Tesla Model S. I know that she attended the SQL Symphony Concert 3 times in December 2017.
-
+### Commanditaire du meurtre
 ```SQL
-SELECT p.name, i.*
-FROM person p 
-INNER JOIN income i
-  ON p.ssn = i.ssn
-```
-
-```SQL
-SELECT p.name, i.*
+SELECT DISTINCT p.name
 FROM person p 
 INNER JOIN drivers_license dl
   ON p.license_id = dl.id
-WHERE dl.
+INNER JOIN facebook_event_checkin fb
+  ON p.id = fb.person_id
+WHERE dl.hair_color = "red"
+  AND dl.gender = "female"
+  AND dl.car_make = "Tesla"
+  AND dl.car_model = "Model S"
+  AND dl.height >= 65 AND dl.height <= 67
+  AND fb.event_name = "SQL Symphony Concert"
+```
+### Solution
+```SQL
+INSERT INTO solution VALUES (1, 'Miranda Priestly');
 ```
 ## References
 * https://mystery.knightlab.com/
