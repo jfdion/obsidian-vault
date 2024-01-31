@@ -1,21 +1,30 @@
-.chip {
+:root {
+    /* COLORS (T1) */
+    --txt-white: #fff;
+    --bg-green: #393;
 
+    /* THEME (T2) */
+    --txt-color-light: var(--txt-white);
+
+    /* USES (T3) */
+    --txt-chip-note: var(--txt-color-light);
+    --bg-chip-note: var(--bg-green)
+}
+
+.chip {
+    background-color: #999;
+    border-radius: 6px;
+    color: #fff;
+    font-size: .7rem;
+    font-weight: 700;
+    padding: .3rem .4rem;
     position: relative;
-    border-radius: 8px;
+    text-transform: uppercase;
     user-select: none;
     white-space: nowrap;
-    padding: .366rem .66rem;
-    font-size: .75rem;
-    background-color: #999;
-    color: #fff;
-
-
-    margin: 0;
-    font-weight: 700;
-    text-transform: uppercase;
 }
 
 .note {
-    background-color: #9f9;
-    color: #222;
+    background-color: var(--bg-chip-note);
+    color: var(--txt-color-light);
 }
