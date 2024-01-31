@@ -59,14 +59,11 @@ Trouver les interrogatoires des deux témoins
 ```SQL
 SELECT * 
 FROM interview
-WHERE person_id = '16371' OR person_id = '14887'
+WHERE person_id = '16371' 
+   OR person_id = '14887'
 ```
-|   |   |
-|---|---|
-|14887|I heard a gunshot and then saw a man run out. He had a "Get Fit Now Gym" bag. The membership number on the bag started with "48Z". Only gold members have those bags. The man got into a car with a plate that included "H42W".|
-|16371|I saw the murder happen, and I recognized the killer from my gym when I was working out last week on January the 9th.|
 ### Suspects
-Gym 
+Abonnés du Gym avec un membership "gold" et s'étant entrainé le 9 janvier 2018
 ```SQL
 SELECT * 
 FROM get_fit_now_member gfnm
@@ -75,6 +72,13 @@ INNER JOIN get_fit_now_check_in gfnci
 WHERE id LIKE '48Z%'
   AND membership_status = "gold"
   AND check_in_date = "20180109"
+```
+Propriétaires d'un véhicule ayant "H42W" dans le numéro d'immatriculation
+```SQL
+SELECT * 
+FROM drivers_license 
+WHERE plate_number 
+LIKE "%H42W%"    
 ```
 ## References
 * https://mystery.knightlab.com/
