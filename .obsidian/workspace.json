@@ -25,10 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/sql 🐷/SQL murder mystery solution.md",
+                "file": "Articles/article.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/sql 🐷/SQL murder mystery solution.md",
+                "file": "Articles/article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/sql 🐷/SQL murder mystery solution.md",
+                "file": "Articles/article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/sql 🐷/SQL murder mystery solution.md"
+                "file": "Articles/article.md"
               }
             }
           }
@@ -164,7 +164,8 @@
   "active": "a40904a128e446cf",
   "lastOpenFiles": [
     "Resources/SQL games.md",
-    "Snippets/sql 🐷/SQL murder mystery solution.md",
+    "Resources/SQL games/SQL murder mystery solution.md",
+    "Resources/SQL games",
     "![[schema.png]].md",
     "schema.png",
     "Articles/article.md",
@@ -192,7 +193,6 @@
     "Software development/OOP/Design patterns/Chain of responsibility.md",
     "Snippets/js-ts/Gameloop.md",
     "Snippets/go/Makefile.md",
-    "Articles/DRY is about Knowledge.md",
     "Snippets/php",
     "Articles",
     "Snippets/sql 🐷",
@@ -200,7 +200,6 @@
     "Software development/OOP/Design patterns/schemas",
     "Excalidraw",
     "Snippets/js-ts",
-    "Snippets/go",
     "v4q11k8t.bmp"
   ]
 }

@@ -1,11 +1,9 @@
 ---
 tags:
-  - "#code"
-  - "#snippet"
-  - sql
-language: SQL
+  - "#resources"
+  - "#solution"
 created: 2024-01-31 Wed
-last_updated: 2024-01-31 Wed
+from: "[[SQL games]]"
 ---
 # SQL Murder Mystery
 *Can you find out whodunnit?*
