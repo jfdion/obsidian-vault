@@ -39,9 +39,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles to read.md",
-                "mode": "preview",
-                "source": false
+                "file": "Resources/SQL Murder Mystery Solution.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles to read.md",
+                "file": "Resources/SQL Murder Mystery Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles to read.md",
+                "file": "Resources/SQL Murder Mystery Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles to read.md"
+                "file": "Resources/SQL Murder Mystery Solution.md"
               }
             }
           }
@@ -176,20 +177,20 @@
   },
   "active": "fbf397ef3d64c6ca",
   "lastOpenFiles": [
-    "Articles/Mocks Aren't Stubs.md",
     "Resources/SQL games.md",
+    "Resources/SQL Murder Mystery Solution.md",
+    "Resources/SQL games",
     "Resources/resources.md",
-    "Resources/SQL Murder Mystery.md",
-    "Articles/article.md",
+    "Resources/Nerd fonts.md",
+    "Articles/Mocks Aren't Stubs.md",
     "Articles/DRY is about Knowledge.md",
+    "Articles/article.md",
     "Articles to read.md",
     "Templates/article.md",
     "Test.md",
     "schema.png",
     "Templates/code snippet.md",
     "Templates/resources.md",
-    "Resources/SQL games.md",
-    "Resources/SQL games/SQL Murder Mystery.md",
     "SQL murder mystery solution.md",
     "Resources/SQL games/SQL murder mystery solution.md",
     "![[schema.png]].md",
@@ -201,19 +202,16 @@
     "Snippets/json/oh-my-posh-overrides.md",
     "Snippets/sql 🐷/Temporary table.md",
     "Snippets/php/Repository as collection.md",
-    "Resources/Nerd fonts.md",
     "Resources",
     "Snippets/json",
     "Software development/OOP/Design patterns/Command.md",
     "Software development/OOP/Design patterns/Design patterns.md",
-    "Software development/OOP/Tell don't Ask.md",
     "Snippets/php",
     "Articles",
     "Snippets/sql 🐷",
     "Untitled.canvas",
     "Software development/OOP/Design patterns/schemas",
     "Excalidraw",
-    "Snippets/js-ts",
     "v4q11k8t.bmp"
   ]
 }
