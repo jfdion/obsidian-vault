@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/php/Repository as collection.md",
+                "file": "Resources/SQL games/SQL Murder Mystery.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Snippets/php/Repository as collection.md",
+            "file": "Resources/SQL games/SQL Murder Mystery.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Snippets/php/Repository as collection.md",
+            "file": "Resources/SQL games/SQL Murder Mystery.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Snippets/php/Repository as collection.md"
+            "file": "Resources/SQL games/SQL Murder Mystery.md"
           }
         }
       }
@@ -132,23 +132,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "852c74aa54661c3d",
+  "active": "04aaddcb11873098",
   "lastOpenFiles": [
     "Resources/SQL games.md",
-    "Resources/SQL games/SQL Murder Mystery.md",
-    "Articles/Mocks Aren't Stubs.md",
-    "Resources/resources.md",
-    "/Templates/code snippet.md",
-    "Articles/article.md",
-    "Snippets/sql 🐷/SQL games.md",
-    "Resources/SQL Murder Mystery.md",
+    "Resources/SQL Murder Mystery Solution.md",
+    "/Resources/SQL games.md",
+    "/Resources/SQL Murder Mystery Solution.md",
     "/Articles to read.md",
     "/Articles/Mocks Aren't Stubs.md",
+    "Snippets/php/Repository as collection.md",
+    "Resources/SQL games/SQL games.md",
+    "Resources/SQL games/SQL Murder Mystery.md",
+    "Articles/Mocks Aren't Stubs.md",
+    "Templates/resources.md",
+    "/Templates/code snippet.md",
+    "Templates/article.md",
+    "Resources/SQL games/SQL Murder Mystery.md",
     "/Articles/DRY is about Knowledge.md",
     "Resources/SQL games",
     "/Resources/SQL games",
     "Snippets/sql 🐷/Temporary table.md",
-    "Snippets/php/Repository as collection.md",
     "Articles to read.md",
     "Templates/code snippet.md",
     "Templates/article.md",
@@ -161,9 +164,6 @@
     "Snippets/json/Windows powershell color theme.md",
     "Templates/resources.md",
     "Resources/Nerd fonts.md",
-    "Powershell profile config.md",
-    "Snippets/go/Makefile.md",
-    "Snippets/js-ts/Gameloop.md",
     "Snippets/sql 🐷",
     "Snippets/php",
     "Snippets/json",
