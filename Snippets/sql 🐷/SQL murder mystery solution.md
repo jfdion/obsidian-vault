@@ -65,6 +65,17 @@ WHERE person_id = '16371'
    OR person_id = '14887'
 ```
 
+Où étaient les témoins le jour du meurtre
+```SQL
+SELECT p.name, f.* 
+FROM facebook_event_checkin f INNER 
+JOIN person p 
+  ON p.id = f.person_id 
+WHERE (person_id = '14887' 
+	   OR person_id='16371')
+  AND date='20180115'
+```
+
 Check-in d'Annabel au gym
 ```SQL
 SELECT * 
@@ -85,6 +96,17 @@ WHERE id LIKE '48Z%'
   AND check_in_date = "20180109"
   AND (check_in_time >= 1600 
        OR check_in_time <= 1700)
+```
+Qui était à l'événement en plus de nos témoins
+```SQL
+SELECT p.name, f.* 
+FROM facebook_event_checkin f INNER 
+JOIN person p 
+ON p.id = f.person_id 
+WHERE event_id = '4719' 
+  AND date='20180115'
+  AND (person_id != '14887' 
+	   OR person_id !='16371')
 ```
 Propriétaires d'un véhicule ayant "H42W" dans le numéro d'immatriculation
 ```SQL
