@@ -62,6 +62,15 @@ FROM interview
 WHERE person_id = '16371' 
    OR person_id = '14887'
 ```
+
+Checkin d'Annabel au gym
+```SQL
+SELECT * 
+FROM get_fit_now_member gfnm
+INNER JOIN get_fit_now_check_in gfnci
+  ON gfnm.id = gfnci.membership_id
+WHERE person_id = '16371' 
+```
 ### Suspects
 Abonnés du Gym avec un membership "gold" et s'étant entrainé le 9 janvier 2018
 ```SQL
@@ -72,6 +81,7 @@ INNER JOIN get_fit_now_check_in gfnci
 WHERE id LIKE '48Z%'
   AND membership_status = "gold"
   AND check_in_date = "20180109"
+  AND (check_in_date > 1600 OR check_out_date < 1700)
 ```
 Propriétaires d'un véhicule ayant "H42W" dans le numéro d'immatriculation
 ```SQL
