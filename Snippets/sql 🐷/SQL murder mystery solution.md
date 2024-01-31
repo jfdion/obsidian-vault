@@ -145,6 +145,8 @@ INNER JOIN interview i
 WHERE p.name ="Jeremy Bowers"
 ```
 
+> I was hired by a woman with a lot of money. I don't know her name but I know she's around 5'5" (65") or 5'7" (67"). She has red hair and she drives a Tesla Model S. I know that she attended the SQL Symphony Concert 3 times in December 2017.
+
 ```SQL
 SELECT p.name, i.*
 FROM person p 
@@ -152,5 +154,12 @@ INNER JOIN income i
   ON p.ssn = i.ssn
 ```
 
+```SQL
+SELECT p.name, i.*
+FROM person p 
+INNER JOIN drivers_license dl
+  ON p.license_id = dl.id
+WHERE dl.
+```
 ## References
 * https://mystery.knightlab.com/
