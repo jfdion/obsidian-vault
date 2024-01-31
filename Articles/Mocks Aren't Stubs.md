@@ -17,4 +17,7 @@ https://martinfowler.com/articles/mocksArentStubs.html
 	* Objet nécessaire pour le test
 ## Extraits
 
+### Classical
+> state verification
 
+### mockist
