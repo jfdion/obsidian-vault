@@ -174,10 +174,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25c3dd049cf688dd",
+  "active": "30fe0b28a7863ed6",
   "lastOpenFiles": [
-    "Test.md",
+    "Articles to read.md",
+    "Articles/DRY is about Knowledge.md",
     "Templates/article.md",
+    "Test.md",
     "schema.png",
     "Templates/code snippet.md",
     "Templates/resources.md",
@@ -188,7 +190,6 @@
     "![[schema.png]].md",
     "Templates/article 1.md",
     "Resources/SQL games",
-    "Articles to read.md",
     "Snippets/config/Powershell profile config.md",
     "Snippets/config",
     "Snippets/json/Windows powershell color theme.md",
