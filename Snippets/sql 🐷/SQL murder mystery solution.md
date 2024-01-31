@@ -9,10 +9,9 @@ last_updated: 2024-01-31 Wed
 ---
 # SQL Murder Mystery
 *Can you find out whodunnit?*
-## Solution
+## Partie 1
 ### Tables
 Permet de récupérer les tables du schéma
-
 ```SQL
 SELECT name 
   FROM sqlite_master
@@ -26,7 +25,6 @@ SELECT sql
   FROM sqlite_master
  where name = 'crime_scene_report' -- changer le nom de la table pour celle dont vous voulez récupréer le schéma
 ```
-
 ### Rapport de scène de crime
 Récupérer la liste des crimes correspondants à  des meurtres à SQL City
 ```SQL
@@ -36,7 +34,6 @@ WHERE type = "murder"
   AND city = "SQL City" 
   AND date = "20180115"
 ```
-
 ### Témoins
 Premier témoins - Dernière maison sur Northwestern Dr
 ```SQL
@@ -53,7 +50,6 @@ FROM person
 WHERE address_street_name = "Franklin Ave"
   AND name LIKE "Annabel%"
 ```
-
 ### Interrogatoires
 Trouver les interrogatoires des deux témoins
 ```SQL
@@ -64,7 +60,6 @@ INNER JOIN person p
 WHERE person_id = '16371' 
    OR person_id = '14887'
 ```
-
 Où étaient les témoins le jour du meurtre
 ```SQL
 SELECT p.name, f.* 
@@ -75,7 +70,6 @@ WHERE (person_id = '14887'
 	   OR person_id='16371')
   AND date='20180115'
 ```
-
 Check-in d'Annabel au gym
 ```SQL
 SELECT * 
@@ -116,7 +110,6 @@ WHERE event_id = '4719'
   AND date='20180115'
   AND person_id NOT in ('14887', '16371')
 ```
-
 ### Meurtrier
 Le meurtrier est un membre du gym qui était présent sur les lieux du crime (autre que les témoins)
 ```SQL
@@ -137,10 +130,20 @@ WHERE gfnm.id LIKE '48Z%'
   AND date='20180115'
   AND p.id NOT in ('14887', '16371')
 ```
-
 ### Solution
 ```SQL
-
+INSERT INTO solution VALUES (1, 'Jeremy Bowers');
 ```
+## Partie 2
+### Interrogatoire
+Interrogatoire avec Jeremy Bowers
+```SQL
+SELECT p.name, i.* 
+FROM person p 
+INNER JOIN interview i 
+  ON p.id = i.person_id 
+WHERE p.name ="Jeremy Bowers"
+```
+
 ## References
 * https://mystery.knightlab.com/
