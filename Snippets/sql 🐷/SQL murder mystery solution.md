@@ -145,5 +145,12 @@ INNER JOIN interview i
 WHERE p.name ="Jeremy Bowers"
 ```
 
+```SQL
+SELECT p.name, i.*
+FROM person p 
+INNER JOIN income i
+  ON p.ssn = i.ssn
+```
+
 ## References
 * https://mystery.knightlab.com/
