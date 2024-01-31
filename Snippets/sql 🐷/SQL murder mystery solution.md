@@ -95,6 +95,7 @@ LIKE "%H42W%"
 SELECT * 
 FROM facebook_event_checkin
 WHERE date = "20180115"
+AND (person_id = "28819" OR person_id ="67318")
 
 ## References
 * https://mystery.knightlab.com/
