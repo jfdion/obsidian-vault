@@ -25,15 +25,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/article.md",
+                "file": "Templates/resources.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "30fe0b28a7863ed6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/SQL games/SQL Island.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/article.md",
+                "file": "Resources/SQL games/SQL Island.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/article.md",
+                "file": "Resources/SQL games/SQL Island.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/article.md"
+                "file": "Resources/SQL games/SQL Island.md"
               }
             }
           }
@@ -161,14 +174,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a40904a128e446cf",
+  "active": "30fe0b28a7863ed6",
   "lastOpenFiles": [
-    "Resources/SQL games.md",
     "Resources/SQL games/SQL murder mystery solution.md",
-    "Resources/SQL games",
+    "Resources/SQL games/SQL Island.md",
+    "Resources/SQL games.md",
+    "Templates/resources.md",
+    "Templates/code snippet.md",
+    "Templates/article.md",
+    "Test.md",
     "![[schema.png]].md",
+    "Templates/article 1.md",
+    "Resources/SQL games",
     "schema.png",
-    "Articles/article.md",
     "Articles to read.md",
     "Snippets/config/Powershell profile config.md",
     "Snippets/config",
@@ -177,10 +195,7 @@
     "Snippets/sql 🐷/Temporary table.md",
     "Snippets/php/Repository as collection.md",
     "Resources/Nerd fonts.md",
-    "Templates/resources.md",
     "Resources",
-    "Templates/article.md",
-    "Templates/code snippet.md",
     "Snippets/json",
     "Software development/OOP/Design patterns/Command.md",
     "Software development/OOP/Design patterns/Design patterns.md",
@@ -192,7 +207,6 @@
     "Software development/OOP/Design patterns/Iterator.md",
     "Software development/OOP/Design patterns/Chain of responsibility.md",
     "Snippets/js-ts/Gameloop.md",
-    "Snippets/go/Makefile.md",
     "Snippets/php",
     "Articles",
     "Snippets/sql 🐷",

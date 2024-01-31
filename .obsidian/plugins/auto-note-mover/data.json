@@ -50,5 +50,9 @@
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
-  "excluded_folder": []
+  "excluded_folder": [
+    {
+      "folder": "Templates"
+    }
+  ]
 }
