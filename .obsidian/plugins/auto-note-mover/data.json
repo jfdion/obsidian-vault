@@ -4,8 +4,18 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
+      "folder": "Articles",
+      "tag": "#article",
+      "pattern": ""
+    },
+    {
+      "folder": "Resources",
+      "tag": "#resources",
+      "pattern": ""
+    },
+    {
       "folder": "Snippets/go",
-      "tag": "#go-lang",
+      "tag": "#go-lang #snippet",
       "pattern": ""
     },
     {
@@ -36,16 +46,6 @@
     {
       "folder": "Snippets/config",
       "tag": "#config",
-      "pattern": ""
-    },
-    {
-      "folder": "Articles",
-      "tag": "#article",
-      "pattern": ""
-    },
-    {
-      "folder": "Resources",
-      "tag": "#resources",
       "pattern": ""
     }
   ],

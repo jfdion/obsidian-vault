@@ -4,219 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9fb2449e80baf764",
+        "id": "569c222767ffdacb",
         "type": "tabs",
         "children": [
           {
-            "id": "4292e627788c21c4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "eb6445ff77d489c2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "29806ef38f0d6c3e",
+            "id": "a51f8f0a42ca1391",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software development/OOP/Design patterns/Design patterns.md",
+                "file": "Resources/SQL games.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "62bb6cbd71341636",
+            "id": "a40904a128e446cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software development/OOP/Tell don't Ask.md",
+                "file": "Resources/SQL games.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70fe91a64907e1a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/code snippet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d1e74aafafba4d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/code snippet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ae45709078f2ac6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/go/Makefile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba7f014960b6d909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/go/Makefile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d53aa3a7b5855e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software development/OOP/Design patterns/Strategy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0270912e5f9d9a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/js-ts/Gameloop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e22a9120da9bda01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/js-ts/Gameloop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad72ddb4114e85f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles/DRY is about Knowledge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5165cf03f946c711",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/code snippet.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "668687970db1318c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb5de6045eb436f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Nerd fonts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14609c8315e81f61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/config/Powershell profile config.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64a7e73c4d732efd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/article.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57046ebb7b5913c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles to read.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles to read.md",
+                "file": "Resources/SQL games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles to read.md",
+                "file": "Resources/SQL games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles to read.md"
+                "file": "Resources/SQL games.md"
               }
             }
           }
@@ -344,8 +160,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57046ebb7b5913c4",
+  "active": "a40904a128e446cf",
   "lastOpenFiles": [
+    "Snippets/sql 🐷/SQL murder mystery solution.md",
+    "Resources/SQL games.md",
     "Articles to read.md",
     "Snippets/config/Powershell profile config.md",
     "Snippets/config",
@@ -378,11 +196,9 @@
     "Untitled.canvas",
     "Software development/OOP/Design patterns/schemas/Strategy pattern UML.md",
     "Software development/OOP/Design patterns/schemas",
-    "Excalidraw/Drawing 2024-01-29 10.52.34.excalidraw.md",
     "Excalidraw",
     "Snippets/js-ts",
     "Snippets/go",
-    "_templates/Basic note.md",
     "v4q11k8t.bmp"
   ]
 }
