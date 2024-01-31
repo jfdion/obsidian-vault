@@ -97,6 +97,15 @@ WHERE id LIKE '48Z%'
   AND (check_in_time >= 1600 
        OR check_in_time <= 1700)
 ```
+Propriétaires d'un véhicule ayant "H42W" dans le numéro d'immatriculation
+```SQL
+SELECT p.name, d.* 
+FROM drivers_license d 
+INNER JOIN person p
+  ON p.license_id = d.id
+WHERE plate_number 
+LIKE "%H42W%"    
+```
 Qui était à l'événement en plus de nos témoins
 ```SQL
 SELECT p.name, f.* 
@@ -105,18 +114,33 @@ JOIN person p
 ON p.id = f.person_id 
 WHERE event_id = '4719' 
   AND date='20180115'
-  AND (person_id != '14887' 
-	   OR person_id !='16371')
+  AND person_id NOT in ('14887', '16371')
 ```
-Propriétaires d'un véhicule ayant "H42W" dans le numéro d'immatriculation
+
+### Meurtrier
+Le meurtrier est un membre du gym qui était présent sur les lieux du crime (autre que les témoins)
 ```SQL
-SELECT * 
-FROM drivers_license 
-WHERE plate_number 
-LIKE "%H42W%"    
+SELECT p.name
+FROM facebook_event_checkin f INNER 
+INNER JOIN person p 
+  ON p.id = f.person_id 
+INNER JOIN get_fit_now_member gfnm
+  ON gfnm.person_id = p.id
+INNER JOIN get_fit_now_check_in gfnci
+  ON gfnm.id = gfnci.membership_id
+WHERE gfnm.id LIKE '48Z%'
+  AND membership_status = "gold"
+  AND check_in_date = "20180109"
+  AND (check_in_time >= 1600 
+       OR check_in_time <= 1700)
+  AND event_id = '4719' 
+  AND date='20180115'
+  AND p.id NOT in ('14887', '16371')
 ```
 
+### Solution
+```SQL
 
-
+```
 ## References
 * https://mystery.knightlab.com/
