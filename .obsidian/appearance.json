@@ -3,5 +3,8 @@
   "theme": "obsidian",
   "cssTheme": "Minimal",
   "textFontFamily": "",
-  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono"
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
 }
