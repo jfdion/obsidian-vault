@@ -57,8 +57,10 @@ WHERE address_street_name = "Franklin Ave"
 ### Interrogatoires
 Trouver les interrogatoires des deux témoins
 ```SQL
-SELECT * 
-FROM interview
+SELECT p.name, i.* 
+FROM interview i
+INNER JOIN person p
+  ON p.id = i.person_id
 WHERE person_id = '16371' 
    OR person_id = '14887'
 ```
@@ -92,10 +94,7 @@ WHERE plate_number
 LIKE "%H42W%"    
 ```
 
-SELECT * 
-FROM facebook_event_checkin
-WHERE date = "20180115"
-AND (person_id = "28819" OR person_id ="67318")
+
 
 ## References
 * https://mystery.knightlab.com/
