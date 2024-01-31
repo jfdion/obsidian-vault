@@ -11,7 +11,10 @@ https://martinfowler.com/articles/mocksArentStubs.html
 
 ## Lexique
 
-**System Under Test**
+* ***System Under Test (SUT)**
+	* objet testé
+* **Collaborator**
+	* Objet nécessaire pour le test
 ## Extraits
 
 
