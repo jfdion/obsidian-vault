@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/SQL games.md",
+                "file": "Snippets/sql 🐷/SQL murder mystery solution.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/SQL games.md",
+                "file": "Snippets/sql 🐷/SQL murder mystery solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/SQL games.md",
+                "file": "Snippets/sql 🐷/SQL murder mystery solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/SQL games.md"
+                "file": "Snippets/sql 🐷/SQL murder mystery solution.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "a40904a128e446cf",
   "lastOpenFiles": [
-    "Snippets/sql 🐷/SQL murder mystery solution.md",
     "Resources/SQL games.md",
+    "Snippets/sql 🐷/SQL murder mystery solution.md",
     "![[schema.png]].md",
     "schema.png",
     "Articles/article.md",
