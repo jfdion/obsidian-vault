@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/SQL games/SQL Island.md",
+                "file": "Resources/SQL games/SQL Island solution.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/SQL games/SQL Island.md",
+                "file": "Resources/SQL games/SQL Island solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/SQL games/SQL Island.md",
+                "file": "Resources/SQL games/SQL Island solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/SQL games/SQL Island.md"
+                "file": "Resources/SQL games/SQL Island solution.md"
               }
             }
           }
@@ -177,9 +177,9 @@
   "active": "30fe0b28a7863ed6",
   "lastOpenFiles": [
     "Resources/SQL games/SQL murder mystery solution.md",
-    "Resources/SQL games/SQL Island.md",
-    "Resources/SQL games.md",
+    "Resources/SQL games/SQL Island solution.md",
     "Templates/resources.md",
+    "Resources/SQL games.md",
     "Templates/code snippet.md",
     "Templates/article.md",
     "Test.md",
