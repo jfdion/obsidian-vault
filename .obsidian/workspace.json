@@ -25,8 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/SQL games.md",
+                "file": "Snippets/sql 🐷/SQL murder mystery solution.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/SQL games.md",
+                "file": "Snippets/sql 🐷/SQL murder mystery solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/SQL games.md",
+                "file": "Snippets/sql 🐷/SQL murder mystery solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/SQL games.md"
+                "file": "Snippets/sql 🐷/SQL murder mystery solution.md"
               }
             }
           }
@@ -162,8 +163,11 @@
   },
   "active": "a40904a128e446cf",
   "lastOpenFiles": [
+    "![[schema.png]].md",
     "Snippets/sql 🐷/SQL murder mystery solution.md",
+    "schema.png",
     "Resources/SQL games.md",
+    "Articles/article.md",
     "Articles to read.md",
     "Snippets/config/Powershell profile config.md",
     "Snippets/config",
@@ -189,12 +193,10 @@
     "Snippets/js-ts/Gameloop.md",
     "Snippets/go/Makefile.md",
     "Articles/DRY is about Knowledge.md",
-    "From android.md",
     "Snippets/php",
     "Articles",
     "Snippets/sql 🐷",
     "Untitled.canvas",
-    "Software development/OOP/Design patterns/schemas/Strategy pattern UML.md",
     "Software development/OOP/Design patterns/schemas",
     "Excalidraw",
     "Snippets/js-ts",
