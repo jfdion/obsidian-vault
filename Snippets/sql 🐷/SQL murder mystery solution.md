@@ -63,7 +63,7 @@ WHERE person_id = '16371'
    OR person_id = '14887'
 ```
 
-Checkin d'Annabel au gym
+Check-in d'Annabel au gym
 ```SQL
 SELECT * 
 FROM get_fit_now_member gfnm
@@ -72,7 +72,7 @@ INNER JOIN get_fit_now_check_in gfnci
 WHERE person_id = '16371' 
 ```
 ### Suspects
-Abonnés du Gym avec un membership "gold" et s'étant entrainé le 9 janvier 2018
+Abonnés du Gym avec un membership "gold" et s'étant entrainé le 9 janvier 2018 entre 16 h et 17 h
 ```SQL
 SELECT * 
 FROM get_fit_now_member gfnm
@@ -81,7 +81,8 @@ INNER JOIN get_fit_now_check_in gfnci
 WHERE id LIKE '48Z%'
   AND membership_status = "gold"
   AND check_in_date = "20180109"
-  AND (check_in_date > 1600 OR check_out_date < 1700)
+  AND (check_in_time >= 1600 
+       OR check_in_time <= 1700)
 ```
 Propriétaires d'un véhicule ayant "H42W" dans le numéro d'immatriculation
 ```SQL
@@ -90,5 +91,10 @@ FROM drivers_license
 WHERE plate_number 
 LIKE "%H42W%"    
 ```
+
+SELECT * 
+FROM facebook_event_checkin
+WHERE date = "20180115"
+
 ## References
 * https://mystery.knightlab.com/
