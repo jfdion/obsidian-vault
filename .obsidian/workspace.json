@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a51f8f0a42ca1391",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/SQL games.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a40904a128e446cf",
             "type": "leaf",
             "state": {
@@ -58,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,6 +176,10 @@
   },
   "active": "fbf397ef3d64c6ca",
   "lastOpenFiles": [
+    "Resources/SQL games.md",
+    "Resources/resources.md",
+    "Resources/SQL Murder Mystery.md",
+    "Articles/article.md",
     "Articles/DRY is about Knowledge.md",
     "Articles/Mocks Aren't Stubs.md",
     "Articles to read.md",
@@ -215,10 +207,6 @@
     "Software development/OOP/Design patterns/Command.md",
     "Software development/OOP/Design patterns/Design patterns.md",
     "Software development/OOP/Tell don't Ask.md",
-    "Software development/OOP/SOLID principles.md",
-    "Software development/OOP/Law of Demeter.md",
-    "Software development/OOP/Design patterns/Strategy.md",
-    "Software development/OOP/Design patterns/Singleton.md",
     "Snippets/php",
     "Articles",
     "Snippets/sql 🐷",
