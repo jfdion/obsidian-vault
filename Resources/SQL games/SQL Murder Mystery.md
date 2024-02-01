@@ -3,7 +3,7 @@ tags:
   - "#resources"
   - "#solution"
 created: 2024-01-31 Wed
-from: "[[/Resources/SQL games]]"
+from: "[[SQL games]]"
 ---
 # SQL Murder Mystery
 *Can you find out whodunnit?*
