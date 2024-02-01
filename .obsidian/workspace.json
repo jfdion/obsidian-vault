@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/config/Powershell profile config.md",
+                "file": "Resources/Nerd fonts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/config/Powershell profile config.md",
+                "file": "Resources/Nerd fonts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/config/Powershell profile config.md",
+                "file": "Resources/Nerd fonts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/config/Powershell profile config.md"
+                "file": "Resources/Nerd fonts.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "f4c222863bfec28c",
   "lastOpenFiles": [
+    "Snippets/config/Powershell profile config.md",
     "Snippets/json/oh-my-posh-overrides.md",
     "Resources/Nerd fonts.md",
-    "Snippets/config/Powershell profile config.md",
     "Resources/SQL games/SQL Murder Mystery.md",
     "Resources/SQL Murder Mystery Solution.md",
     "Resources/SQL games.md",
