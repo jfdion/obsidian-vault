@@ -4,26 +4,55 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "Programming/go",
-      "tag": "#go-lang",
+      "folder": "Articles",
+      "tag": "#article",
       "pattern": ""
     },
     {
-      "folder": "Programming/js-ts",
+      "folder": "Resources",
+      "tag": "#resources",
+      "pattern": ""
+    },
+    {
+      "folder": "Snippets/go",
+      "tag": "#go-lang #snippet",
+      "pattern": ""
+    },
+    {
+      "folder": "Snippets/js-ts",
       "tag": "#javascript",
       "pattern": ""
     },
     {
-      "folder": "Programming/js-ts",
+      "folder": "Snippets/js-ts",
       "tag": "#typescript",
       "pattern": ""
     },
     {
-      "folder": "Programming/sql 🐷",
+      "folder": "Snippets/sql 🐷",
       "tag": "#sql",
+      "pattern": ""
+    },
+    {
+      "folder": "Snippets/php",
+      "tag": "#php",
+      "pattern": ""
+    },
+    {
+      "folder": "Snippets/json",
+      "tag": "#json",
+      "pattern": ""
+    },
+    {
+      "folder": "Snippets/config",
+      "tag": "#config",
       "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
-  "excluded_folder": []
+  "excluded_folder": [
+    {
+      "folder": "Templates"
+    }
+  ]
 }

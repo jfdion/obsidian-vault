@@ -7,7 +7,7 @@ language: SQL
 created: 2024-01-29 Mon
 last_updated: 2024-01-29 Mon
 ---
-**Description**
+## Description
 Crée une table temporaire pour l'exécution d'une requête
 
 ```SQL

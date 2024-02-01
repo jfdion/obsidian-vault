@@ -7,7 +7,7 @@ language: Makefile
 created: 2024-01-29 Mon
 last_updated: 2024-01-29 Mon
 ---
-**Description**
+## Description
 Make file de base pour compiler et exécuter une application en `Go`
 
 ```makefile

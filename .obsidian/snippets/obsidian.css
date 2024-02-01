@@ -1,0 +1,34 @@
+:root {
+    /* COLORS (T1) */
+    --txt-white: #fff;
+
+    --bg-green: #393;
+
+    --bg-mid-gray: #999;
+
+    /* THEME (T2) */
+    --txt-color-light: var(--txt-white);
+
+    /* USES (T3) */
+    --bg-chip-default: var(--bg-mid-gray);
+    --txt-chip-default: var(--txt-color-light);
+
+    --bg-chip-note: var(--bg-green)
+}
+
+.chip {
+    background-color: var(--bg-mid-gray);
+    border-radius: 6px;
+    color: var(--txt-chip-default);
+    font-size: .7rem;
+    font-weight: 700;
+    padding: .3rem .4rem;
+    position: relative;
+    text-transform: uppercase;
+    user-select: none;
+    white-space: nowrap;
+}
+
+.note {
+    background-color: var(--bg-chip-note);
+}
