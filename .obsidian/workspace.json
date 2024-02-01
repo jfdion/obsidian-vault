@@ -4,50 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "569c222767ffdacb",
+        "id": "80c74306df211480",
         "type": "tabs",
         "children": [
           {
-            "id": "a40904a128e446cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/resources.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "30fe0b28a7863ed6",
+            "id": "f4c222863bfec28c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Articles to read.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "fbf397ef3d64c6ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/SQL Murder Mystery Solution.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#behavioral-pattern",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/SQL Murder Mystery Solution.md",
+                "file": "Articles to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/SQL Murder Mystery Solution.md",
+                "file": "Articles to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/SQL Murder Mystery Solution.md"
+                "file": "Articles to read.md"
               }
             }
           }
@@ -175,43 +147,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fbf397ef3d64c6ca",
+  "active": "f4c222863bfec28c",
   "lastOpenFiles": [
-    "Resources/SQL games.md",
+    "Templates/resources.md",
+    "Templates/article.md",
+    "Snippets/sql 🐷/Temporary table.md",
+    "Snippets/php/Repository as collection.md",
+    "Snippets/json/Windows powershell color theme.md",
+    "Snippets/json/oh-my-posh-overrides.md",
+    "Snippets/js-ts/Gameloop.md",
+    "Snippets/go/Makefile.md",
+    "Snippets/config/Powershell profile config.md",
+    "Snippets/sql 🐷",
+    "Snippets/php",
+    "Snippets/json",
+    "Snippets/js-ts",
+    "Snippets/go",
+    "Snippets/config",
+    "Snippets",
+    "Resources/SQL games/SQL Murder Mystery.md",
+    "Resources/SQL games/SQL games.md",
     "Resources/SQL Murder Mystery Solution.md",
+    "Resources/SQL games.md",
     "Resources/SQL games",
     "Resources/resources.md",
     "Resources/Nerd fonts.md",
+    "Resources",
     "Articles/Mocks Aren't Stubs.md",
     "Articles/DRY is about Knowledge.md",
-    "Articles/article.md",
-    "Articles to read.md",
-    "Templates/article.md",
-    "Test.md",
-    "schema.png",
-    "Templates/code snippet.md",
-    "Templates/resources.md",
-    "SQL murder mystery solution.md",
-    "Resources/SQL games/SQL murder mystery solution.md",
-    "![[schema.png]].md",
-    "Templates/article 1.md",
-    "Resources/SQL games",
-    "Snippets/config/Powershell profile config.md",
-    "Snippets/config",
-    "Snippets/json/Windows powershell color theme.md",
-    "Snippets/json/oh-my-posh-overrides.md",
-    "Snippets/sql 🐷/Temporary table.md",
-    "Snippets/php/Repository as collection.md",
-    "Resources",
-    "Snippets/json",
-    "Software development/OOP/Design patterns/Command.md",
-    "Software development/OOP/Design patterns/Design patterns.md",
-    "Snippets/php",
     "Articles",
-    "Snippets/sql 🐷",
-    "Untitled.canvas",
-    "Software development/OOP/Design patterns/schemas",
-    "Excalidraw",
-    "v4q11k8t.bmp"
+    "Articles to read.md",
+    "Templates/code snippet.md",
+    "Programming/sql 🐷/Temporary table.md",
+    "Programming/js-ts/Gameloop.md",
+    "Programming/go/Makefile.md",
+    "Untitled.md",
+    "_templates/Basic note.md",
+    "Software development/OOP/Tell don't Ask.md",
+    "_templates/Recipe.md",
+    "v4q11k8t.bmp",
+    "Untitled.canvas"
   ]
 }
