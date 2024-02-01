@@ -713,5 +713,8 @@ Set-PSReadLineKeyHandler -Key Ctrl+Shift+t `
 Install Terminal-Icons
 Install-Module -Name Terminal-Icons -Repository PSGallery
 ```
-## References
-{reference}
+
+## Références
+* Voir [[oh-my-posh-overrides]] pour les ajustements visuels. 
+* Voir [[Nerd fonts]] pour les polices de caractères avec les glyphes
+* Voir [[Windows powershell color theme]] pour le thème de couleur

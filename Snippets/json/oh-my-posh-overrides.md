@@ -102,6 +102,3 @@ https://ohmyposh.dev/docs/installation/customize
   "version": 2
 }
 ```
-
-## References
-{reference}
