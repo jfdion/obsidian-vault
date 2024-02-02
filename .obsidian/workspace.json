@@ -1,131 +1,208 @@
 {
-    "main": {
-        "id": "e281756dc25fe72e",
-        "type": "split",
-        "children": [],
-        "direction": "vertical"
-    },
-    "left": {
-        "id": "76c5414fa12fbbfb",
-        "type": "split",
+  "main": {
+    "id": "54749581c8edfe64",
+    "type": "split",
+    "children": [
+      {
+        "id": "636e0e7b7588f1f6",
+        "type": "tabs",
         "children": [
-            {
-                "id": "4e1b1828b667ee93",
-                "type": "tabs",
-                "children": [
-                    {
-                        "id": "25c3dd049cf688dd",
-                        "type": "leaf",
-                        "state": {
-                            "type": "file-explorer",
-                            "state": {
-                                "sortOrder": "alphabetical"
-                            }
-                        }
-                    },
-                    {
-                        "id": "a8b21a67ee7a80ec",
-                        "type": "leaf",
-                        "state": {
-                            "type": "search",
-                            "state": {
-                                "query": "tag:#behavioral-pattern",
-                                "matchingCase": false,
-                                "explainSearch": false,
-                                "collapseAll": false,
-                                "extraContext": false,
-                                "sortOrder": "alphabetical"
-                            }
-                        }
-                    },
-                    {
-                        "id": "4d082e428587b079",
-                        "type": "leaf",
-                        "state": {
-                            "type": "bookmarks",
-                            "state": {}
-                        }
-                    }
-                ]
+          {
+            "id": "b7799f39457ee4cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles to read.md",
+                "mode": "source",
+                "source": false
+              }
             }
-        ],
-        "direction": "horizontal",
-        "width": 300
-    },
-    "right": {
-        "id": "bb738e2bffc7e4ca",
-        "type": "split",
-        "children": [],
-        "direction": "horizontal",
-        "width": 200
-    },
-    "left-ribbon": {
-        "hiddenItems": {
-            "switcher:Open quick switcher": false,
-            "graph:Open graph view": false,
-            "canvas:Create new canvas": false,
-            "daily-notes:Open today's daily note": false,
-            "templates:Insert template": false,
-            "command-palette:Open command palette": false,
-            "templater-obsidian:Templater": false
-        }
-    },
-    "active": "a40904a128e446cf",
-    "lastOpenFiles": [
-        "Articles to read.md",
-        "Templates/resources.md",
-        "Snippets/sql 🐷/Temporary table.md",
-        "Snippets/php/Repository as collection.md",
-        "Snippets/json/Windows powershell color theme.md",
-        "Snippets/json/oh-my-posh-overrides.md",
-        "Snippets/js-ts/Gameloop.md",
-        "Snippets/config/Powershell profile config.md",
-        "Snippets/go/Makefile.md",
-        "Resources/SQL games.md",
-        "Resources/resources.md",
-        "Resources/Nerd fonts.md",
-        "Resources/SQL games/SQL Murder Mystery Solution.md",
-        "Resources/SQL games",
-        "Articles/Mocks Aren't Stubs.md",
-        "Articles/DRY is about Knowledge.md",
-        "Articles/article.md",
-        "Templates/article.md",
-        "Test.md",
-        "schema.png",
-        "Templates/code snippet.md",
-        "SQL murder mystery solution.md",
-        "Resources/SQL games/SQL murder mystery solution.md",
-        "![[schema.png]].md",
-        "Templates/article 1.md",
-        "Resources/SQL games",
-        "Snippets/config",
-        "Resources",
-        "Snippets/json",
-        "Software development/OOP/Design patterns/Command.md",
-        "Software development/OOP/Design patterns/Design patterns.md",
-        "Snippets/php",
-        "Articles",
-        "Snippets/sql 🐷",
-        "Snippets/php",
-        "Snippets/json",
-        "Snippets/js-ts",
-        "Snippets/go",
-        "Snippets/config",
-        "Snippets",
-        "Resources/SQL games",
-        "Resources",
-        "Articles/Mocks Aren't Stubs.md",
-        "Articles/DRY is about Knowledge.md",
-        "Articles",
-        "Templates/code snippet.md",
-        "Programming/sql 🐷/Temporary table.md",
-        "Programming/js-ts/Gameloop.md",
-        "Programming/go/Makefile.md",
-        "Untitled.md",
-        "_templates/Basic note.md",
-        "Software development/OOP/Tell don't Ask.md",
-        "_templates/Recipe.md",
-        "v4q11k8t.bmp",
-        "Untitled.canvas"
-    ]
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76c5414fa12fbbfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e1b1828b667ee93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c3dd049cf688dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8b21a67ee7a80ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#behavioral-pattern",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d082e428587b079",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb738e2bffc7e4ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "a28b2cc65827d331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6e2b5c6d192f634",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Articles to read.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "142d2eb7bdf4db56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Articles to read.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1639df76f8c02ed7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "32d2eb64dd362b9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Articles to read.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b7799f39457ee4cf",
+  "lastOpenFiles": [
+    "Articles to read.md",
+    "Templates/resources.md",
+    "Snippets/sql 🐷/Temporary table.md",
+    "Snippets/php/Repository as collection.md",
+    "Snippets/json/Windows powershell color theme.md",
+    "Snippets/json/oh-my-posh-overrides.md",
+    "Snippets/js-ts/Gameloop.md",
+    "Snippets/config/Powershell profile config.md",
+    "Snippets/go/Makefile.md",
+    "Resources/SQL games.md",
+    "Resources/resources.md",
+    "Resources/Nerd fonts.md",
+    "Resources/SQL games/SQL Murder Mystery Solution.md",
+    "Resources/SQL games",
+    "Articles/Mocks Aren't Stubs.md",
+    "Articles/DRY is about Knowledge.md",
+    "Articles/article.md",
+    "Templates/article.md",
+    "Test.md",
+    "schema.png",
+    "Templates/code snippet.md",
+    "SQL murder mystery solution.md",
+    "Resources/SQL games/SQL murder mystery solution.md",
+    "![[schema.png]].md",
+    "Templates/article 1.md",
+    "Resources/SQL games",
+    "Snippets/config",
+    "Resources",
+    "Snippets/json",
+    "Software development/OOP/Design patterns/Command.md",
+    "Software development/OOP/Design patterns/Design patterns.md",
+    "Snippets/php",
+    "Articles",
+    "Snippets/sql 🐷",
+    "Snippets/php",
+    "Snippets/json",
+    "Snippets/js-ts",
+    "Snippets/go",
+    "Snippets/config",
+    "Snippets",
+    "Resources/SQL games",
+    "Resources",
+    "Articles/Mocks Aren't Stubs.md",
+    "Articles/DRY is about Knowledge.md",
+    "Articles",
+    "Templates/code snippet.md",
+    "Programming/sql 🐷/Temporary table.md",
+    "Programming/js-ts/Gameloop.md",
+    "Programming/go/Makefile.md",
+    "Untitled.md",
+    "_templates/Basic note.md",
+    "Software development/OOP/Tell don't Ask.md",
+    "_templates/Recipe.md",
+    "v4q11k8t.bmp",
+    "Untitled.canvas"
+  ]
 }
