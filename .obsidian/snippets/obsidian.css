@@ -7,14 +7,11 @@
     --bg-amber: rgb(211, 135, 35);
     --bg-mid-gray: #999;
 
-    /* THEME (T2) */
-    --txt-color-light: var(--txt-white);
-
-    /* SEMANTIC USES (T3) */
+    /* SEMANTIC USES (T2) */
     --txt-muted: var(--txt-gray);
 
     --bg-chip-default: var(--bg-mid-gray);
-    --txt-chip-default: var(--txt-color-light);
+    --txt-chip-default: var(--txt-white);
 
     --bg-chip-read: var(--bg-amber);
     --bg-chip-note: var(--bg-green);
