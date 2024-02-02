@@ -4,10 +4,8 @@ tags:
   - "#solution"
 created: 2024-01-31 Wed
 from: "[[SQL games]]"
-<<<<<<<< HEAD:Resources/SQL games/SQL Murder Mystery.md
-========
+
 AutoNoteMover: disable
->>>>>>>> 2f15d76 (Update configs):Resources/SQL games/SQL Murder Mystery Solution.md
 ---
 # SQL Murder Mystery
 *Can you find out whodunnit?*

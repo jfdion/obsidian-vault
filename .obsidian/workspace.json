@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles to read.md",
+                "file": "Resources/SQL games/SQL Murder Mystery Solution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ec9399308e93fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Messenger bag.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles to read.md",
+                "file": "Messenger bag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles to read.md",
+                "file": "Messenger bag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles to read.md"
+                "file": "Messenger bag.md"
               }
             }
           }
@@ -147,8 +160,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7799f39457ee4cf",
+  "active": "2ec9399308e93fd7",
   "lastOpenFiles": [
+    "Resources/SQL games/SQL Murder Mystery Solution.md",
+    "Messenger bag.md",
+    "Resources/SQL games/SQL Murder Mystery.md",
+    "Resources/SQL games.md",
     "Articles to read.md",
     "Templates/resources.md",
     "Snippets/sql 🐷/Temporary table.md",
@@ -158,10 +175,8 @@
     "Snippets/js-ts/Gameloop.md",
     "Snippets/config/Powershell profile config.md",
     "Snippets/go/Makefile.md",
-    "Resources/SQL games.md",
     "Resources/resources.md",
     "Resources/Nerd fonts.md",
-    "Resources/SQL games/SQL Murder Mystery Solution.md",
     "Resources/SQL games",
     "Articles/Mocks Aren't Stubs.md",
     "Articles/DRY is about Knowledge.md",
@@ -179,29 +194,11 @@
     "Resources",
     "Snippets/json",
     "Software development/OOP/Design patterns/Command.md",
-    "Software development/OOP/Design patterns/Design patterns.md",
     "Snippets/php",
     "Articles",
     "Snippets/sql 🐷",
     "Snippets/php",
     "Snippets/json",
-    "Snippets/js-ts",
-    "Snippets/go",
-    "Snippets/config",
-    "Snippets",
-    "Resources/SQL games",
-    "Resources",
-    "Articles/Mocks Aren't Stubs.md",
-    "Articles/DRY is about Knowledge.md",
-    "Articles",
-    "Templates/code snippet.md",
-    "Programming/sql 🐷/Temporary table.md",
-    "Programming/js-ts/Gameloop.md",
-    "Programming/go/Makefile.md",
-    "Untitled.md",
-    "_templates/Basic note.md",
-    "Software development/OOP/Tell don't Ask.md",
-    "_templates/Recipe.md",
     "v4q11k8t.bmp",
     "Untitled.canvas"
   ]
