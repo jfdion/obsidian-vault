@@ -14,7 +14,9 @@ https://lbbjkt.com/the-echelon-m-eclipse
 * H 13", W 19",  D 7"
 * Weight: 2.2lb
 
-+----------------------+----------------------------+
-| Buran III Messenger | # The Echelon M 'Eclipse' |
-+----------------------+----------------------------+
-| https://chromeindustries.com/products/buran-iii-ltd | https://lbbjkt.com/the-echelon-m-eclipse |
++--------------------------+----------------------------+
+| Buran III Messenger        | # The Echelon M 'Eclipse' |
++--------------------------+----------------------------+
+| [Site Web](https://chromeindustries.com/products/buran-iii-ltd)                      | [Site Web](https://lbbjkt.com/the-echelon-m-eclipse)                       |
+| H 12.25", W 21.25", D 7" |  H 13", W 19",  D 7"          |
++--------------------------+----------------------------+
