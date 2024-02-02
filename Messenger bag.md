@@ -1,4 +1,10 @@
-
+---
+tags: 
+- "#comparison"
+created: 2024-02-02 Fri
+last_updated: 2024-02-02 Fri
+---
+# Messenger bag
 |  | Buran III Messenger | The Echelon M 'Eclipse' | Timbuk2 Classic Messenger Bag | Timbuk2 Commute Messenger Bag 2.0 |
 | ---- | ---- | ---- | ---- | ---- |
 | **Site Web** | [Site Web](https://chromeindustries.com/products/buran-iii-ltd) | [Site Web](https://lbbjkt.com/the-echelon-m-eclipse) | [Site Web](https://www.timbuk2.com/collections/all-messenger-bags/products/2023-classic-messenger-bag) | [Site Web](https://www.timbuk2.com/collections/all-messenger-bags/products/3718-commute-messenger-bag-20) |
