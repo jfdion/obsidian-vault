@@ -1,6 +1,7 @@
 :root {
     /* COLORS (T1) */
     --txt-white: #fff;
+    --txt-gray: #777;
 
     --bg-green: #393;
     --bg-amber: rgb(211, 135, 35);
@@ -10,11 +11,17 @@
     --txt-color-light: var(--txt-white);
 
     /* SEMANTIC USES (T3) */
+    --txt-muted: var(--txt-gray);
+
     --bg-chip-default: var(--bg-mid-gray);
     --txt-chip-default: var(--txt-color-light);
 
     --bg-chip-read: var(--bg-amber);
     --bg-chip-note: var(--bg-green);
+}
+
+.muted-text {
+    color: var(--txt-muted);
 }
 
 .chip {
