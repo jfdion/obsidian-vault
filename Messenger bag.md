@@ -1,9 +1,9 @@
 # Buran III Messenger
 https://chromeindustries.com/products/buran-iii-ltd
 
-Volume: 24L  
-Height: 12.25" | Width: 21.25" top - 15" bottom | Depth: 7"  
-Weight: 2.77 lbs (1.26 kg)  
+* Volume: 24L
+* H 12.25", W 21.25", D 7"
+* Weight: 2.77 lbs   
 Materials: 1050D Nylon and 500D TPE Tarp  
 Black XRF: 210d recycled nylon X grid laminated sailcloth with black reflective panels  
 Castlerock Twill: recycled polyester twill
@@ -11,7 +11,10 @@ Castlerock Twill: recycled polyester twill
 # The Echelon M 'Eclipse'
 https://lbbjkt.com/the-echelon-m-eclipse
 
-* Volume: 32
+* Price 139.00 USD + 
+* Volume: 32L
+* H 13", W 19",  D 7"
+* Weight: 2.2lb
 
 - 32 liters capacity
 - Bright yellow liner for improved browsing visibility
