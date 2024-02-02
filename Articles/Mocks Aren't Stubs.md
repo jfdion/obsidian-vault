@@ -8,10 +8,13 @@ created: 2024-01-31 Wed
 https://martinfowler.com/articles/mocksArentStubs.html
 ## Lexique
 
-* ***System Under Test (SUT)**
-	* objet testé
-* **Collaborator**
-	* Objet nécessaire pour le test
+<dl>
+<dt>System Under Test (SUT)</dt>
+<dd>objet testé</dd>
+<dt>Collaborator</dt>
+<dd>Objet nécessaire pour le test</dd>
+</dl>
+
 ## Extraits
 
 ### Classical TDD
