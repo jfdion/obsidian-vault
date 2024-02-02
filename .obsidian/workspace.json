@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Messenger bag.md",
+                "file": "Templates/comparative table.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Messenger bag.md",
+                "file": "Templates/comparative table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Messenger bag.md",
+                "file": "Templates/comparative table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Messenger bag.md"
+                "file": "Templates/comparative table.md"
               }
             }
           }
@@ -162,11 +162,12 @@
   },
   "active": "2ec9399308e93fd7",
   "lastOpenFiles": [
-    "Resources/SQL games/SQL Murder Mystery Solution.md",
     "Messenger bag.md",
+    "Templates/comparative table.md",
+    "Articles to read.md",
+    "Resources/SQL games/SQL Murder Mystery Solution.md",
     "Resources/SQL games/SQL Murder Mystery.md",
     "Resources/SQL games.md",
-    "Articles to read.md",
     "Templates/resources.md",
     "Snippets/sql 🐷/Temporary table.md",
     "Snippets/php/Repository as collection.md",
@@ -193,7 +194,6 @@
     "Snippets/config",
     "Resources",
     "Snippets/json",
-    "Software development/OOP/Design patterns/Command.md",
     "Snippets/php",
     "Articles",
     "Snippets/sql 🐷",
