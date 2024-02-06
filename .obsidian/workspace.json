@@ -11,8 +11,12 @@
             "id": "036de6a3b92810e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Snippets/js-ts/Gameloop.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Snippets/js-ts/Gameloop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Snippets/js-ts/Gameloop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Snippets/js-ts/Gameloop.md"
+              }
             }
           }
         ]
@@ -141,12 +149,16 @@
   },
   "active": "036de6a3b92810e3",
   "lastOpenFiles": [
+    "Snippets/config/Powershell profile config.md",
+    "Software development/OOP/Tell don't Ask.md",
+    "Software development/OOP/SOLID principles.md",
+    "Software development/OOP/Law of Demeter.md",
     "Messenger bag.md",
+    "Articles to read.md",
     "Templates/comparative table.md",
     "Templates/resources.md",
     "Templates/code snippet.md",
     "Templates/article.md",
-    "Articles to read.md",
     "Resources/SQL games/SQL Murder Mystery Solution.md",
     "Resources/SQL games/SQL Murder Mystery.md",
     "Resources/SQL games.md",
@@ -155,7 +167,6 @@
     "Snippets/json/Windows powershell color theme.md",
     "Snippets/json/oh-my-posh-overrides.md",
     "Snippets/js-ts/Gameloop.md",
-    "Snippets/config/Powershell profile config.md",
     "Snippets/go/Makefile.md",
     "Resources/resources.md",
     "Resources/Nerd fonts.md",
@@ -166,9 +177,6 @@
     "Test.md",
     "schema.png",
     "SQL murder mystery solution.md",
-    "Resources/SQL games/SQL murder mystery solution.md",
-    "![[schema.png]].md",
-    "Templates/article 1.md",
     "Resources/SQL games",
     "Snippets/config",
     "Resources",
