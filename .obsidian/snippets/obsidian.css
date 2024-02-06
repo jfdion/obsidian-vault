@@ -3,8 +3,17 @@
     --txt-white: #fff;
     --txt-gray: #777;
 
+
+    --bg-amber: #c82;
+    --bg-blue: #339;
     --bg-green: #393;
-    --bg-amber: rgb(211, 135, 35);
+    --bg-light-green: #8c2;
+    --bg-light-blue: #28c;
+    --bg-pink: #c28;
+    --bg-purple: #82c;
+    --bg-strawberry: #933;
+    --bg-teal: #2c8;
+
     --bg-mid-gray: #999;
 
     /* SEMANTIC USES (T2) */
@@ -34,10 +43,16 @@
     white-space: nowrap;
 }
 
-.note {
+.chip.note,
+.chip.notes {
     background-color: var(--bg-chip-note);
 }
 
-.read {
+.chip.read {
     background-color: var(--bg-chip-read);
+}
+
+.chip.toread,
+.chip.to-read {
+    background-color: var(--bg-light-blue);
 }

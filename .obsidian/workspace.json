@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84caff0dcba5dfaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles/Richardson Maturity Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles to read.md",
+                "file": "Articles/Richardson Maturity Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles to read.md",
+                "file": "Articles/Richardson Maturity Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles to read.md"
+                "file": "Articles/Richardson Maturity Model.md"
               }
             }
           }
@@ -147,15 +160,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "036de6a3b92810e3",
+  "active": "84caff0dcba5dfaf",
   "lastOpenFiles": [
+    "Articles/Mocks Aren't Stubs.md",
+    "Articles/DRY is about Knowledge.md",
+    "Articles/Richardson Maturity Model.md",
+    "Articles to read.md",
     "Messenger bag.md",
     "Snippets/js-ts/Gameloop.md",
     "Snippets/config/Powershell profile config.md",
     "Software development/OOP/Tell don't Ask.md",
     "Software development/OOP/SOLID principles.md",
     "Software development/OOP/Law of Demeter.md",
-    "Articles to read.md",
     "Templates/comparative table.md",
     "Templates/resources.md",
     "Templates/code snippet.md",
@@ -171,12 +187,9 @@
     "Resources/resources.md",
     "Resources/Nerd fonts.md",
     "Resources/SQL games",
-    "Articles/Mocks Aren't Stubs.md",
-    "Articles/DRY is about Knowledge.md",
     "Articles/article.md",
     "Test.md",
     "schema.png",
-    "SQL murder mystery solution.md",
     "Resources/SQL games",
     "Snippets/config",
     "Resources",
