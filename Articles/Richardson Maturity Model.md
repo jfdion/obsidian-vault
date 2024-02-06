@@ -15,4 +15,4 @@ https://martinfowler.com/articles/richardsonMaturityModel.html
 > extrait
 
 ## Référence
-* [REST in Practice]()
+* Livre [REST in Practice](https://www.amazon.ca/REST-Practice-Hypermedia-Systems-Architecture/dp/0596805829/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1707235059&sr=8-1)
