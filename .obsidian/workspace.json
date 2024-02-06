@@ -35,12 +35,8 @@
             "id": "653206ced75fc8b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Rest API Tutorial.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Rest API Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Rest API Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resources/Rest API Tutorial.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -174,8 +166,8 @@
   },
   "active": "653206ced75fc8b7",
   "lastOpenFiles": [
-    "Resources/Nerd fonts.md",
     "Resources/Rest API Tutorial.md",
+    "Resources/Nerd fonts.md",
     "Resources/SQL games.md",
     "Articles to read.md",
     "Articles/Richardson Maturity Model.md",
