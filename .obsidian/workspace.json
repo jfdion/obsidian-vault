@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/js-ts/Gameloop.md",
+                "file": "Messenger bag.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/js-ts/Gameloop.md",
+                "file": "Messenger bag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/js-ts/Gameloop.md",
+                "file": "Messenger bag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/js-ts/Gameloop.md"
+                "file": "Messenger bag.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "036de6a3b92810e3",
   "lastOpenFiles": [
+    "Snippets/js-ts/Gameloop.md",
     "Snippets/config/Powershell profile config.md",
     "Software development/OOP/Tell don't Ask.md",
     "Software development/OOP/SOLID principles.md",
@@ -166,7 +167,6 @@
     "Snippets/php/Repository as collection.md",
     "Snippets/json/Windows powershell color theme.md",
     "Snippets/json/oh-my-posh-overrides.md",
-    "Snippets/js-ts/Gameloop.md",
     "Snippets/go/Makefile.md",
     "Resources/resources.md",
     "Resources/Nerd fonts.md",
