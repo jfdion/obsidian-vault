@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Messenger bag.md",
+                "file": "Articles to read.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Messenger bag.md",
+                "file": "Articles to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Messenger bag.md",
+                "file": "Articles to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Messenger bag.md"
+                "file": "Articles to read.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "036de6a3b92810e3",
   "lastOpenFiles": [
+    "Messenger bag.md",
     "Snippets/js-ts/Gameloop.md",
     "Snippets/config/Powershell profile config.md",
     "Software development/OOP/Tell don't Ask.md",
     "Software development/OOP/SOLID principles.md",
     "Software development/OOP/Law of Demeter.md",
-    "Messenger bag.md",
     "Articles to read.md",
     "Templates/comparative table.md",
     "Templates/resources.md",
