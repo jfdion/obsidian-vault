@@ -83,7 +83,50 @@ Location: slots/1234/appointment
 GET /doctors/mjones/slots?date=20100104&status=open HTTP/1.1
 Host: royalhope.nhs.uk
 
+HTTP/1.1 200 OK
+[various headers]
 
+<openSlotList>
+  <slot id = "1234" doctor = "mjones" start = "1400" end = "1450">
+     <link rel = "/linkrels/slot/book" 
+           uri = "/slots/1234"/>
+  </slot>
+  <slot id = "5678" doctor = "mjones" start = "1600" end = "1650">
+     <link rel = "/linkrels/slot/book" 
+           uri = "/slots/5678"/>
+  </slot>
+</openSlotList>
 ```
+
+```xml
+POST /slots/1234 HTTP/1.1
+[various other headers]
+
+<appointmentRequest>
+  <patient id = "jsmith"/>
+</appointmentRequest>
+
+<appointment>
+  <slot id = "1234" doctor = "mjones" start = "1400" end = "1450"/>
+  <patient id = "jsmith"/>
+  <link rel = "/linkrels/appointment/cancel"
+        uri = "/slots/1234/appointment"/>
+  <link rel = "/linkrels/appointment/addTest"
+        uri = "/slots/1234/appointment/tests"/>
+  <link rel = "self"
+        uri = "/slots/1234/appointment"/>
+  <link rel = "/linkrels/appointment/changeTime"
+        uri = "/doctors/mjones/slots?date=20100104&status=open"/>
+  <link rel = "/linkrels/appointment/updateContactInfo"
+        uri = "/patients/jsmith/contactInfo"/>
+  <link rel = "/linkrels/help"
+        uri = "/help/appointment"/>
+</appointment>
+```
+
+### Meaning
+> - Level 1 tackles the question of handling complexity by using divide and conquer, breaking a large service endpoint down into multiple resources.
+> - Level 2 introduces a standard set of verbs so that we handle similar situations in the same way, removing unnecessary variation.
+> - Level 3 introduces discoverability, providing a way of making a protocol more self-documenting.
 ## Référence
 * Livre [REST in Practice](https://www.amazon.ca/REST-Practice-Hypermedia-Systems-Architecture/dp/0596805829/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1707235059&sr=8-1)

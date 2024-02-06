@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Richardson Maturity Model.md",
-                "mode": "source",
+                "file": "Articles to read.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Richardson Maturity Model.md",
+                "file": "Articles to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/Richardson Maturity Model.md",
+                "file": "Articles to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/Richardson Maturity Model.md"
+                "file": "Articles to read.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "84caff0dcba5dfaf",
   "lastOpenFiles": [
-    "().md",
     "Articles/Richardson Maturity Model.md",
+    "().md",
     "Articles/Mocks Aren't Stubs.md",
     "Articles/DRY is about Knowledge.md",
     "Articles to read.md",
