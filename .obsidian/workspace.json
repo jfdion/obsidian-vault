@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/js-ts/Gameloop.md",
+                "file": "Snippets/sql 🐷/Create table.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/js-ts/Gameloop.md",
+                "file": "Snippets/sql 🐷/Create table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/js-ts/Gameloop.md",
+                "file": "Snippets/sql 🐷/Create table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/js-ts/Gameloop.md"
+                "file": "Snippets/sql 🐷/Create table.md"
               }
             }
           }
@@ -184,11 +184,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25c3dd049cf688dd",
+  "active": "521fa11f06b319ff",
   "lastOpenFiles": [
+    "Snippets/js-ts/Gameloop.md",
     "Snippets/sql 🐷/Create table.md",
     "Snippets/sql 🐷/Temporary table.md",
-    "Snippets/js-ts/Gameloop.md",
     "Resources/Rest API Tutorial.md",
     "Resources/Nerd fonts.md",
     "Resources/SQL games.md",
