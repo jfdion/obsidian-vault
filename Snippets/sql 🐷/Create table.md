@@ -11,7 +11,7 @@ last_updated: 2024-02-08 Thu
 Création d'une table en SQL
 
 ```SQL
-CREATE TABLE table_name (
+CREATE TABLE IF NOT EXISTS table_name (
 	column datatype(length) column_constraint,
 	column2 datatype(length) column_constraint,
 	...
