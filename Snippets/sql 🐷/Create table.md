@@ -20,17 +20,22 @@ CREATE TABLE table_name (
 ```
 
 ## Column constraints
-
-
 * `NOT NULL` valeur non nulle
 * `UNIQUE` valeur unique pour la table
 * `PRIMARY KEY` clé primaire
 * `CHECK` prédicat de validation
-* `FOREIGN KEY` clé
-UNIQUE -- valeur unique pour la table
-PRIMARY KEY -- clé primaire
-CHECK -- prédicat de validation
-FOREIGNT KEY -- clé étrangère
+* `FOREIGN KEY` clé étrangère```
+
+```SQL
+`CREATE TABLE accounts (
+	user_id SERIAL PRIMARY KEY, -- Clé pirmaire
+	username VARCHAR (50) UNIQUE NOT NULL, -- Unique et non null
+	password VARCHAR (50) NOT NULL, -- Non null
+	email VARCHAR (255) UNIQUE NOT NULL, -- Unique et non null   
+	created_at TIMESTAMP NOT NULL, -- Non null
+	last_login TIMESTAMP -- Nullable
+);
 ```
+
 ## References
-{reference}
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-create-table/
