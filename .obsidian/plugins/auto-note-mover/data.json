@@ -4,6 +4,11 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
+      "folder": "Cégep",
+      "tag": "#csfoy",
+      "pattern": ""
+    },
+    {
       "folder": "Articles",
       "tag": "#article",
       "pattern": ""
@@ -11,6 +16,11 @@
     {
       "folder": "Resources",
       "tag": "#resources",
+      "pattern": ""
+    },
+    {
+      "folder": "Cégep/PÉA",
+      "tag": "#PEA",
       "pattern": ""
     },
     {

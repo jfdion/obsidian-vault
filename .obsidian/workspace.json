@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cégep/PÉA/Évaluations.md",
+                "file": "Cégep/PÉA/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cégep/PÉA/Évaluations.md",
+                "file": "Cégep/PÉA/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cégep/PÉA/Évaluations.md",
+                "file": "Cégep/PÉA/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cégep/PÉA/Évaluations.md"
+                "file": "Cégep/PÉA/Untitled.md"
               }
             }
           }
@@ -196,10 +196,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25c3dd049cf688dd",
+  "active": "f788ae4a1a41dda8",
   "lastOpenFiles": [
-    "Snippets/sql 🐷/Create table.md",
     "Cégep/PÉA/Évaluations.md",
+    "Cégep/PÉA/Untitled.md",
+    "Snippets/sql 🐷/Create table.md",
     "Cégep/PÉA",
     "Cégep",
     "Snippets/js-ts/Gameloop.md",
@@ -225,7 +226,6 @@
     "Resources/SQL games/SQL Murder Mystery.md",
     "Snippets/php/Repository as collection.md",
     "Snippets/json/Windows powershell color theme.md",
-    "Snippets/json/oh-my-posh-overrides.md",
     "Resources/SQL games",
     "schema.png",
     "Resources/SQL games",
