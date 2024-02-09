@@ -1,14 +1,12 @@
 ---
 cours: Base de données 1
 session: 2024H
-semaine: "1"
+semaine:  1
 created: 2024-02-09 Fri
 last_updated: 2024-02-09 Fri
 ---
 # Notes
-
-```dataview task from "Tasks of the week" where section = [[#Monday]]```
-
+Semaine 0Cégep/2024H/Base de données 1[object Object]
 # Historique
 ```dataview
 TABLE WITHOUT ID
@@ -19,3 +17,6 @@ WHERE
 	AND file != this.file
 SORT session DESC
 ```
+
+# Feedback
+Retour sur les séances de la semaine

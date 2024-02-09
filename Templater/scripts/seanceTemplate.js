@@ -2,6 +2,10 @@ function semaineFromTitle(tp) {
     return parseInt(tp.file.title.split(" ").slice(-1)[0], 10)
 }
 
+function semaineFromIndex(index) {
+    return `Semaine ${index}`
+}
+
 function semaineCourante(tp) {
     return semaineFromTitle(tp)
 }
@@ -11,7 +15,7 @@ function semainePrecedente(tp) {
 }
 
 function seanceTemplate() {
-    return { semaineCourante, semainePrecedente }
+    return { semaineCourante, semainePrecedente, semaineFromIndex }
 }
 
 module.exports = seanceTemplate

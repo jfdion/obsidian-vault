@@ -10,7 +10,9 @@ last_updated: <% tp.file.last_modified_date("YYYY-MM-DD ddd") %>
 const SECTION_TITLE = "# Feedback"
 
 tR += "Semaine " + tp.user.seanceTemplate().semainePrecedente(tp)
+tR += tp.user.seanceTemplate().
 tR += tp.user.templaterExtender().getCurrentFolder(tp)
+tR += tp.user.templaterExtender().getSiblingFileByName(tp, "semaine 2")
 
 // const file = tp.file.find_tfile("Semaine " + tp.user.seanceTemplate().semainePrecedente(tp))
 // const content = await app.vault.read(file)
