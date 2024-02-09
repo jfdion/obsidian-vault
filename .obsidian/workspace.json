@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cégep/PÉA/Révisions et suggestions.md",
+                "file": "Cégep/PÉA/Plan de cours.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cégep/PÉA/Révisions et suggestions.md",
+                "file": "Cégep/PÉA/Plan de cours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cégep/PÉA/Révisions et suggestions.md",
+                "file": "Cégep/PÉA/Plan de cours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cégep/PÉA/Révisions et suggestions.md"
+                "file": "Cégep/PÉA/Plan de cours.md"
               }
             }
           }
@@ -198,8 +198,10 @@
   },
   "active": "f788ae4a1a41dda8",
   "lastOpenFiles": [
-    "Cégep/PÉA/Évaluations.md",
+    "Cégep/PÉA/Correction.md",
+    "Cégep/PÉA/Plan de cours.md",
     "Cégep/PÉA/Révisions et suggestions.md",
+    "Cégep/PÉA/Évaluations.md",
     "Snippets/sql 🐷/Create table.md",
     "Cégep/PÉA",
     "Cégep",
@@ -224,8 +226,6 @@
     "Templates/article.md",
     "Resources/SQL games/SQL Murder Mystery Solution.md",
     "Resources/SQL games/SQL Murder Mystery.md",
-    "Snippets/php/Repository as collection.md",
-    "Snippets/json/Windows powershell color theme.md",
     "Resources/SQL games",
     "schema.png",
     "Resources/SQL games",
