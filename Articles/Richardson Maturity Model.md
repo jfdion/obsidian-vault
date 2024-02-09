@@ -130,3 +130,4 @@ POST /slots/1234 HTTP/1.1
 > - Level 3 introduces discoverability, providing a way of making a protocol more self-documenting.
 ## Référence
 * Livre [REST in Practice](https://www.amazon.ca/REST-Practice-Hypermedia-Systems-Architecture/dp/0596805829/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1707235059&sr=8-1)
+* https://restfulapi.net/richardson-maturity-model/

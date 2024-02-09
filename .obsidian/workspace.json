@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cégep/PÉA/Correction.md",
+                "file": "Articles/Richardson Maturity Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles to read.md",
+                "file": "Articles/Richardson Maturity Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles to read.md",
+                "file": "Articles/Richardson Maturity Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles to read.md"
+                "file": "Articles/Richardson Maturity Model.md"
               }
             }
           }
@@ -196,8 +196,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25c3dd049cf688dd",
+  "active": "f788ae4a1a41dda8",
   "lastOpenFiles": [
+    "Resources/Rest API Tutorial.md",
+    "Articles/Richardson Maturity Model.md",
+    "Articles to read.md",
     "Cégep/PÉA/Évaluations.md",
     "Cégep/PÉA/Plan de cours.md",
     "Cégep/PÉA/Révisions et suggestions.md",
@@ -207,11 +210,8 @@
     "Cégep",
     "Snippets/js-ts/Gameloop.md",
     "Snippets/sql 🐷/Temporary table.md",
-    "Resources/Rest API Tutorial.md",
     "Resources/Nerd fonts.md",
     "Resources/SQL games.md",
-    "Articles to read.md",
-    "Articles/Richardson Maturity Model.md",
     "().md",
     "Articles/Mocks Aren't Stubs.md",
     "Articles/DRY is about Knowledge.md",
