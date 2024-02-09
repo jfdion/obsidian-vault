@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cégep/H2024/Base de données 1/Untitled.md",
-                "mode": "source",
+                "file": "Cégep/2024H/Base de données 1/Semaine 1.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cégep/H2024/Base de données 1/Untitled.md",
+                "file": "Cégep/2024H/Base de données 1/Semaine 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cégep/H2024/Base de données 1/Untitled.md",
+                "file": "Cégep/2024H/Base de données 1/Semaine 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cégep/H2024/Base de données 1/Untitled.md"
+                "file": "Cégep/2024H/Base de données 1/Semaine 1.md"
               }
             }
           },
@@ -228,8 +228,9 @@
   },
   "active": "a36c29b550c6730e",
   "lastOpenFiles": [
+    "Cégep/2025H/Base de données 1/Semaine 1.md",
     "Templates/Séance de cours.md",
-    "Cégep/H2024/Base de données 1/Untitled.md",
+    "Cégep/2024H/Base de données 1/Semaine 1.md",
     "Cégep/H2024/Base de données 1/Semaine 1.md",
     "Templater",
     "Templater/scripts/templaterExtender.js",
@@ -239,15 +240,15 @@
     "Templates/scripts/templater-extender.js",
     "Templates/scripts/Nouveau Document texte.txt",
     "Cégep/H2025/Base de données 1/Semaine 1.md",
-    "Cégep/H2025/Base de données 1",
-    "Cégep/H2025",
+    "Cégep/2025H/Base de données 1",
+    "Cégep/2025H",
     "Templates/scripts/Untitled.md",
     "Templater/scripts/session.js",
     "Templater/scripts",
     "Templates/resources.md",
-    "Cégep/H2024/Base de données 1",
+    "Cégep/2024H/Base de données 1",
     "Cégep/PÉA/Révisions et suggestions.md",
-    "Cégep/H2024",
+    "Cégep/2024H",
     "Cégep/PÉA/Plan de cours.md",
     "Cégep/PÉA/Évaluations.md",
     "Cégep/PÉA/Correction.md",
