@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Séance de cours.md",
+                "file": "Cégep/2024H/Base de données 1/Semaine 2.md",
                 "mode": "source",
                 "source": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Séance de cours.md",
+                "file": "Cégep/2024H/Base de données 1/Semaine 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Séance de cours.md",
+                "file": "Cégep/2024H/Base de données 1/Semaine 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Séance de cours.md"
+                "file": "Cégep/2024H/Base de données 1/Semaine 2.md"
               }
             }
           },
@@ -216,11 +216,11 @@
   },
   "active": "f788ae4a1a41dda8",
   "lastOpenFiles": [
+    "Templates/Séance de cours.md",
     "Cégep/2024H/Base de données 1/Semaine 2.md",
+    "Cégep/2025H/Base de données 1/Semaine 2.md",
     "Templater/scripts/seanceTemplate.js",
     "Templater/scripts/Nouveau Document texte.txt",
-    "Templates/Séance de cours.md",
-    "Cégep/2025H/Base de données 1/Semaine 2.md",
     "Cégep/2024H/Base de données 1/Semaine 1.md",
     "2024H.md",
     "Articles to read.md",
