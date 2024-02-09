@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cégep/PÉA/Plan de cours.md",
+                "file": "Cégep/PÉA/Correction.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cégep/PÉA/Plan de cours.md",
+                "file": "Articles to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cégep/PÉA/Plan de cours.md",
+                "file": "Articles to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cégep/PÉA/Plan de cours.md"
+                "file": "Articles to read.md"
               }
             }
           }
@@ -196,12 +196,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f788ae4a1a41dda8",
+  "active": "25c3dd049cf688dd",
   "lastOpenFiles": [
-    "Cégep/PÉA/Correction.md",
+    "Cégep/PÉA/Évaluations.md",
     "Cégep/PÉA/Plan de cours.md",
     "Cégep/PÉA/Révisions et suggestions.md",
-    "Cégep/PÉA/Évaluations.md",
+    "Cégep/PÉA/Correction.md",
     "Snippets/sql 🐷/Create table.md",
     "Cégep/PÉA",
     "Cégep",

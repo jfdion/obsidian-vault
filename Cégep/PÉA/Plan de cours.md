@@ -19,8 +19,8 @@ created: 2024-02-09 Fri
 	5. Les** activités d’évaluation sommative** dont on précisera la **nature**, la **date approximative**, la **pondération** et le **contexte de réalisation**;
 4. une section qui présente :
 	1. une médiagraphie, 
-	   *La médiagraphie présente les documents de référence qui  peuvent être utiles à l’étudiant dans la réalisation des différentes activités d’apprentissage et d’évaluation.*
-	2. une référence à la présente politique au sujet de la règle sur l’évaluation du français, la présentation des travaux, la présence aux activités d’évaluation sommative, la remise des travaux, la procédure de révision de notes, le plagiat et la fraude,
-	3. les règles départementales sur l’évaluation des apprentissages, s’il y a lieu,
-	4. le plan de cours peut également présenter une synthèse des activités pédagogiques par le biais d’un calendrier;
+	     *La médiagraphie présente les documents de référence qui  peuvent être utiles à l’étudiant dans la réalisation des différentes activités d’apprentissage et d’évaluation.*
+	1. une **référence à la présente politique** au sujet de la règle sur l’**évaluation du français**, la **présentation des travaux**, la **présence aux activités d’évaluation sommative**, la **remise des travaux**, la **procédure de révision de notes**, le **plagiat et la fraude**,
+	2. les règles départementales sur l’évaluation des apprentissages, s’il y a lieu,
+	3. le plan de cours peut également présenter une synthèse des activités pédagogiques par le biais d’un calendrier;
 5. les dispositions qui s’appliquent à plus d’un cours offert dans un programme ou par un département peuvent faire l’objet d’un document remis à l’étudiant à son arrivée au Cégep.
