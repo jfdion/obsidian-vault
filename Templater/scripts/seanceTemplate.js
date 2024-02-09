@@ -10,8 +10,7 @@ function semainePrecedente(tp) {
     return semaineFromTitle(tp) - 1
 }
 
-
-function semaineFromTitle() {
+function seanceTemplate() {
     return { semaineCourante, semainePrecedente }
 }
 

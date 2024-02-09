@@ -1,11 +1,13 @@
 ---
 cours: <% tp.file.folder() %>
 session: <% tp.user.templaterExtender().getParentFolder(tp) %>
-semaine:  <% tp.user.seanceTemplate().semaineCourante(tp) %>
+semaine:  <% tp.user.templaterExtender().toString(tp.user.seanceTemplate().semaineCourante(tp)) %>
 created: <% tp.file.creation_date("YYYY-MM-DD ddd") %>
 last_updated: <% tp.file.last_modified_date("YYYY-MM-DD ddd") %>
-previous: <% tp.user.seanceTemplate().semainePrecedente(tp) %>
 ---
+# Notes
+
+
 # Historique
 ```dataview
 TABLE WITHOUT ID

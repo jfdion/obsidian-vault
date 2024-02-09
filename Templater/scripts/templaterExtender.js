@@ -8,13 +8,21 @@ function getSiblingByName(tp, name) {
     return tp.file.find_tfile(name)
 }
 
+function toString(v) {
+    return `${v}`
+}
+
+function findFile(tp, title) {
+    return tp.file.find_tfile(title)
+}
+
 async function promptToString(prompt) {
     const result = await prompt
-    return `"${result}"`
+    return toString(result)
 }
 
 function templateExtender() {
-    return { getParentFolder, promptToString, getSiblingByName }
+    return { toString, getParentFolder, promptToString, getSiblingByName }
 }
 
 module.exports = templateExtender
