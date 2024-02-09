@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Évaluations.md",
+                "file": "Cégep/PÉA/Évaluations.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Évaluations.md",
+                "file": "Cégep/PÉA/Évaluations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/Évaluations.md",
+                "file": "Cégep/PÉA/Évaluations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/Évaluations.md"
+                "file": "Cégep/PÉA/Évaluations.md"
               }
             }
           }
@@ -196,10 +196,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f788ae4a1a41dda8",
+  "active": "25c3dd049cf688dd",
   "lastOpenFiles": [
     "Snippets/sql 🐷/Create table.md",
-    "Articles/Évaluations.md",
+    "Cégep/PÉA/Évaluations.md",
     "Cégep/PÉA",
     "Cégep",
     "Snippets/js-ts/Gameloop.md",
