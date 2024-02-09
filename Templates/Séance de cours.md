@@ -8,7 +8,7 @@ last_updated: <% tp.file.last_modified_date("YYYY-MM-DD ddd") %>
 # Historique
 ```dataview
 TABLE WITHOUT ID
-    file.link as Title, semaine as Semaine, session as Session, cours as Cours
+    link(session) as Session, semaine as Semaine, cours as Cours
 WHERE 
 	cours = this.cours
 	AND semaine = this.semaine
