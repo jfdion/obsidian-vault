@@ -15,3 +15,5 @@ WHERE
 	AND file != this.file
 SORT session DESC
 ```
+
+<% tp.frontmatter.semaine %>
