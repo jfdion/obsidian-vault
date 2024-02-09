@@ -4,7 +4,6 @@ tags:
   - "#PÉA"
 created: 2024-02-09 Fri
 ---
-
 # Évaluations
 
 ## Évaluations formatives (4)
@@ -36,3 +35,6 @@ created: 2024-02-09 Fri
 ## Remise de travaux (6.1.11)
 
 >Une journée ouvrable de retard est tolérée entraînant une pénalité de 15 % de la note. Au-delà de ce délai, le travail est refusé et la note « 0 » est attribuée.
+
+# Références
+* https://www.csfoy.ca/fileadmin/documents/notre_cegep/politiques_et_reglements/Politique_evaluation_apprentissages_2023.pdf

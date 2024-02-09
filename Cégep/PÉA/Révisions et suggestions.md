@@ -13,3 +13,6 @@ created: 2024-02-09 Fri
 *reproduire en tout ou en partie le travail d’une autre personne*
 * Travail réalisé dans le même cours, ayant été en échec ou abandonné
 * Travail réalisé dans un autre cours
+
+# Références
+* https://www.csfoy.ca/fileadmin/documents/notre_cegep/politiques_et_reglements/Politique_evaluation_apprentissages_2023.pdf

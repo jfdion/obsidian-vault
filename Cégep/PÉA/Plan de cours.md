@@ -24,3 +24,6 @@ created: 2024-02-09 Fri
 	2. les règles départementales sur l’évaluation des apprentissages, s’il y a lieu,
 	3. le plan de cours peut également présenter une synthèse des activités pédagogiques par le biais d’un calendrier;
 5. les dispositions qui s’appliquent à plus d’un cours offert dans un programme ou par un département peuvent faire l’objet d’un document remis à l’étudiant à son arrivée au Cégep.
+
+# Références
+* https://www.csfoy.ca/fileadmin/documents/notre_cegep/politiques_et_reglements/Politique_evaluation_apprentissages_2023.pdf

@@ -24,3 +24,6 @@ created: 2024-02-09 Fri
 > Direction des études une demande de révision de note à l’aide du formulaire prévu à cet effet.
 
 > Pour être admissible, la demande de l’étudiant doit préciser les activités d’évaluation visées par cette demande, être accompagnée de tous les documents nécessaires (évaluations remises à l’étudiant et autres pièces justificatives)et préciser les raisons pour lesquelles il s’estime lésé.
+
+# Références
+* https://www.csfoy.ca/fileadmin/documents/notre_cegep/politiques_et_reglements/Politique_evaluation_apprentissages_2023.pdf
