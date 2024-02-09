@@ -1,7 +1,7 @@
 ---
 cours: Base de données 1
 session: 2024H
-semaine: 2
+semaine: [object Promise]
 created: 2024-02-09 Fri
 last_updated: 2024-02-09 Fri
 ---

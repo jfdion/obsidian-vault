@@ -4,8 +4,12 @@ function getParentFolder(tp) {
     return folders.splice(-2, 1)
 }
 
+function toString(v) {
+    return `${v}`
+}
+
 function templateExtender() {
-    return { getParentFolder }
+    return { getParentFolder, toString }
 }
 
 module.exports = templateExtender
