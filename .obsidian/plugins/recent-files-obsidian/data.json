@@ -5,12 +5,20 @@
       "path": "Cégep/2024H/Base de données 1/Semaine 2.md"
     },
     {
+      "basename": "Semaine 2",
+      "path": "Cégep/2025H/Base de données 1/Semaine 2.md"
+    },
+    {
       "basename": "Séance de cours",
       "path": "Templates/Séance de cours.md"
     },
     {
       "basename": "Semaine 1",
       "path": "Cégep/2024H/Base de données 1/Semaine 1.md"
+    },
+    {
+      "basename": "Articles to read",
+      "path": "Articles to read.md"
     },
     {
       "basename": "Semaine 1",
@@ -23,10 +31,6 @@
     {
       "basename": "Révisions et suggestions",
       "path": "Cégep/PÉA/Révisions et suggestions.md"
-    },
-    {
-      "basename": "Articles to read",
-      "path": "Articles to read.md"
     },
     {
       "basename": "resources",

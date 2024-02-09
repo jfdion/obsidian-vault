@@ -1,15 +1,15 @@
 function getParentFolder(tp) {
     const folders = tp.file.folder(true).split("/")
-    console.log(folders)
     return folders.splice(-2, 1)
 }
 
-function toString(v) {
-    return `${v}`
+async function promptToString(prompt) {
+    const result = await prompt
+    return `"${result}"`
 }
 
 function templateExtender() {
-    return { getParentFolder, toString }
+    return { getParentFolder, promptToString }
 }
 
 module.exports = templateExtender
