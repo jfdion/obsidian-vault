@@ -1,3 +1,7 @@
+function getCurrentFolder(tp) {
+    console.log(tp.file.folder(true))
+}
+
 function getParentFolder(tp, level = 2) {
     const folders = tp.file.folder(true).split("/")
     return folders.splice(level * -1, 1)
@@ -12,6 +16,10 @@ function toString(v) {
     return `${v}`
 }
 
+async function readFileContent(app) {
+    return
+}
+
 function findFile(tp, title) {
     return tp.file.find_tfile(title)
 }
@@ -22,7 +30,7 @@ async function promptToString(prompt) {
 }
 
 function templateExtender() {
-    return { toString, getParentFolder, promptToString, getSiblingByName }
+    return { toString, getParentFolder, promptToString, getSiblingByName, getCurrentFolder }
 }
 
 module.exports = templateExtender

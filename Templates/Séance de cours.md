@@ -9,12 +9,15 @@ last_updated: <% tp.file.last_modified_date("YYYY-MM-DD ddd") %>
 <%*
 const SECTION_TITLE = "# Feedback"
 
-const file = tp.file.find_tfile("Semaine " + tp.user.seanceTemplate().semainePrecedente(tp))
-const content = await app.vault.read(file)
+tR += "Semaine " + tp.user.seanceTemplate().semainePrecedente(tp)
+tR += tp.user.templaterExtender().getCurrentFolder(tp)
 
-const feedback = content.substring(content.indexOf(SECTION_TITLE) + SECTION_TITLE.length)
+// const file = tp.file.find_tfile("Semaine " + tp.user.seanceTemplate().semainePrecedente(tp))
+// const content = await app.vault.read(file)
 
-tR += feedback.substring(0, Math.min(150, feedback.indexOf('#')))
+// const feedback = content.substring(content.indexOf(SECTION_TITLE) + SECTION_TITLE.length)
+
+// tR += feedback.substring(0, Math.min(150, feedback.indexOf('#')))
 %>
 # Historique
 ```dataview
@@ -28,4 +31,4 @@ SORT session DESC
 ```
 
 # Feedback
-Retour sur la se
+Retour sur les séances de la semaine
