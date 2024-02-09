@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cégep/2024H/Base de données 1/Semaine 1.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -229,8 +229,11 @@
   "active": "a36c29b550c6730e",
   "lastOpenFiles": [
     "Cégep/2025H/Base de données 1/Semaine 1.md",
-    "Templates/Séance de cours.md",
+    "Cégep/2026H/Base de données 1/Semaine 1.md",
     "Cégep/2024H/Base de données 1/Semaine 1.md",
+    "Templates/Séance de cours.md",
+    "Cégep/2026H/Base de données 1",
+    "Cégep/2026H",
     "Cégep/H2024/Base de données 1/Semaine 1.md",
     "Templater",
     "Templater/scripts/templaterExtender.js",
@@ -246,9 +249,7 @@
     "Templater/scripts/session.js",
     "Templater/scripts",
     "Templates/resources.md",
-    "Cégep/2024H/Base de données 1",
     "Cégep/PÉA/Révisions et suggestions.md",
-    "Cégep/2024H",
     "Cégep/PÉA/Plan de cours.md",
     "Cégep/PÉA/Évaluations.md",
     "Cégep/PÉA/Correction.md",
@@ -263,7 +264,6 @@
     "Articles/Mocks Aren't Stubs.md",
     "Articles/DRY is about Knowledge.md",
     "Messenger bag.md",
-    "Snippets/config/Powershell profile config.md",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"

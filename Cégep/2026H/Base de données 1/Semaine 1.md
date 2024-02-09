@@ -1,6 +1,6 @@
 ---
 cours: Base de données 1
-session: 2024H
+session: 2026H
 semaine: "1"
 created: 2024-02-09 Fri
 last_updated: 2024-02-09 Fri
