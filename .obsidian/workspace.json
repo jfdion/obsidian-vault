@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Séance de cours.md",
+                "file": "Cégep/H2024/Base de données 1/Semaine 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Séance de cours.md",
+                "file": "Cégep/H2024/Base de données 1/Semaine 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Séance de cours.md",
+                "file": "Cégep/H2024/Base de données 1/Semaine 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Séance de cours.md"
+                "file": "Cégep/H2024/Base de données 1/Semaine 1.md"
               }
             }
           },
@@ -228,8 +228,11 @@
   },
   "active": "a36c29b550c6730e",
   "lastOpenFiles": [
-    "Templates/resources.md",
     "Templates/Séance de cours.md",
+    "Templates/scripts/Untitled.md",
+    "Templates/scripts/session.js",
+    "Templates/scripts",
+    "Templates/resources.md",
     "Cégep/H2024/Base de données 1/Semaine 2.md",
     "Cégep/H2024/Base de données 1/Semaine 1.md",
     "Cégep/H2024/Base de données 1",
@@ -256,15 +259,11 @@
     "Software development/OOP/Tell don't Ask.md",
     "Software development/OOP/SOLID principles.md",
     "Software development/OOP/Law of Demeter.md",
-    "Templates/comparative table.md",
-    "Templates/code snippet.md",
     "Resources/SQL games",
     "schema.png",
     "Resources/SQL games",
     "Snippets/config",
     "Resources",
-    "Snippets/json",
-    "Snippets/php",
     "v4q11k8t.bmp",
     "Untitled.canvas"
   ]
