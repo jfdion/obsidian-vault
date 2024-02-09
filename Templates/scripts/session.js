@@ -3,4 +3,4 @@ function sessionFromMonth(month) {
     if (month >= 7) { return "Automne" }
 }
 
-module.exports = { sessionFromMonth };
+module.exports = sessionFromMonth;

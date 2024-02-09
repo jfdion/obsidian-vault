@@ -73,9 +73,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cégep/H2024/Base de données 1/Semaine 1.md",
+                "file": "Templates/Séance de cours.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cégep/H2024/Base de données 1/Semaine 1.md",
+                "file": "Templates/Séance de cours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cégep/H2024/Base de données 1/Semaine 1.md",
+                "file": "Templates/Séance de cours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cégep/H2024/Base de données 1/Semaine 1.md"
+                "file": "Templates/Séance de cours.md"
               }
             }
           },
@@ -228,13 +228,16 @@
   },
   "active": "a36c29b550c6730e",
   "lastOpenFiles": [
+    "Cégep/H2025/Base de données 1/Semaine 1.md",
     "Templates/Séance de cours.md",
+    "Cégep/H2024/Base de données 1/Semaine 1.md",
+    "Cégep/H2025/Base de données 1",
+    "Cégep/H2025",
     "Templates/scripts/Untitled.md",
     "Templates/scripts/session.js",
     "Templates/scripts",
     "Templates/resources.md",
     "Cégep/H2024/Base de données 1/Semaine 2.md",
-    "Cégep/H2024/Base de données 1/Semaine 1.md",
     "Cégep/H2024/Base de données 1",
     "Cégep/PÉA/Révisions et suggestions.md",
     "Cégep/H2024",
@@ -262,8 +265,6 @@
     "Resources/SQL games",
     "schema.png",
     "Resources/SQL games",
-    "Snippets/config",
-    "Resources",
     "v4q11k8t.bmp",
     "Untitled.canvas"
   ]
