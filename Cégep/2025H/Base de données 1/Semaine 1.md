@@ -8,10 +8,10 @@ last_updated: 2024-02-09 Fri
 # Historique
 ```dataview
 TABLE WITHOUT ID
-    link(session) as Session, semaine as Semaine, cours as Cours
+    link(file.link, session) as Session, semaine as Semaine, cours as Cours
 WHERE 
 	cours = this.cours
 	AND semaine = this.semaine
 	AND file != this.file
-SORT file.ctime DESC
+SORT session DESC
 ```
