@@ -59,8 +59,12 @@
             "id": "f788ae4a1a41dda8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cégep/PÉA/Révisions et suggestions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -130,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cégep/PÉA/Révisions et suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cégep/PÉA/Révisions et suggestions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cégep/PÉA/Révisions et suggestions.md"
+              }
             }
           }
         ]
@@ -190,9 +198,9 @@
   },
   "active": "f788ae4a1a41dda8",
   "lastOpenFiles": [
-    "Cégep/PÉA/Correction.md",
-    "Cégep/PÉA/Évaluations.md",
     "Cégep/PÉA/Plan de cours.md",
+    "Cégep/PÉA/Évaluations.md",
+    "Cégep/PÉA/Correction.md",
     "Cégep/PÉA/Révisions et suggestions.md",
     "Articles/Richardson Maturity Model.md",
     "Resources/Rest API Tutorial.md",

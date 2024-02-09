@@ -4,7 +4,6 @@ tags:
   - "#PÉA"
 created: 2024-02-09 Fri
 ---
-
 # Correction
 
 > En cours de session, les travaux et les examens sont corrigés et remis aux étudiants dans les trois semaines de leur réception pour l’organisation scolaire régulière

@@ -4,7 +4,6 @@ tags:
   - "#PÉA"
 created: 2024-02-09 Fri
 ---
-
 # Révisions et suggestions
 
 ## 6.1.12 Plagiat et fraude
