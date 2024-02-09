@@ -73,9 +73,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Séance de cours.md",
+                "file": "Cégep/H2024/Base de données 1/Semaine 1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Séance de cours.md",
+                "file": "Cégep/H2024/Base de données 1/Semaine 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Séance de cours.md",
+                "file": "Cégep/H2024/Base de données 1/Semaine 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Séance de cours.md"
+                "file": "Cégep/H2024/Base de données 1/Semaine 1.md"
               }
             }
           },
@@ -228,9 +228,11 @@
   },
   "active": "a36c29b550c6730e",
   "lastOpenFiles": [
-    "Articles to read.md",
-    "Cégep/H2024/Base de données 1/Semaine 1.md",
     "Templates/Séance de cours.md",
+    "Cégep/H2024/Base de données 1/Semaine 1.md",
+    "Cégep/H2024/Base de données 1/Semaine 1.md",
+    "Templates/scripts/templaterExtender.js",
+    "Articles to read.md",
     "Cégep/H2025/Base de données 1/Semaine 2.md",
     "Cégep/H2024/Base de données 1/Semaine 2.md",
     "Templates/scripts/templater-extender.js",
@@ -252,7 +254,6 @@
     "Resources/Rest API Tutorial.md",
     "Snippets/sql 🐷/Create table.md",
     "Cégep/PÉA",
-    "Cégep",
     "Snippets/js-ts/Gameloop.md",
     "Snippets/sql 🐷/Temporary table.md",
     "Resources/Nerd fonts.md",
