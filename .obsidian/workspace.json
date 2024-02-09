@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Séance de cours.md",
-                "mode": "preview",
+                "file": "Cégep/2024H/Base de données 1/Semaine 2.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Séance de cours.md",
+                "file": "Cégep/2024H/Base de données 1/Semaine 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Séance de cours.md",
+                "file": "Cégep/2024H/Base de données 1/Semaine 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Séance de cours.md"
+                "file": "Cégep/2024H/Base de données 1/Semaine 2.md"
               }
             }
           },
@@ -217,12 +217,13 @@
   "active": "f788ae4a1a41dda8",
   "lastOpenFiles": [
     "Cégep/2024H/Base de données 1/Semaine 1.md",
+    "Cégep/2024H/Base de données 1/Semaine 2.md",
+    "Templates/Séance de cours.md",
     "Cégep/2025H/Base de données 1/Semaine 1.md",
     "Cégep/2026H/Base de données 1/Semaine 1.md",
     "Cégep/PÉA/Révisions et suggestions.md",
     "2026H.md",
     "2025H.md",
-    "Templates/Séance de cours.md",
     "Cégep/2026H/Base de données 1",
     "Cégep/2026H",
     "Cégep/H2024/Base de données 1/Semaine 1.md",
@@ -251,7 +252,6 @@
     "Resources/Nerd fonts.md",
     "Resources/SQL games.md",
     "().md",
-    "Articles/Mocks Aren't Stubs.md",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"
