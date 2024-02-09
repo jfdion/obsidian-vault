@@ -1,7 +1,7 @@
 ---
 tags:
-  - "#PEA"
   - "#csfoy"
+  - "#PÉA"
 created: 2024-02-09 Fri
 ---
 
