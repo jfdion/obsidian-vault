@@ -1,6 +1,41 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Cégep/H2024",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "28cad21d-f16e-40ed-a6a1-46d2d968dceb",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "bf024301-5845-41ab-81f9-892adf8aa7c6",
+      "name": "Untitled project"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,
