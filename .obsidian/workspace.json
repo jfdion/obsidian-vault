@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cégep/H2024/Base de données 1/Semaine 2.md",
+                "file": "Cégep/H2025/Base de données 1/Semaine 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cégep/H2024/Base de données 1/Semaine 2.md",
+                "file": "Cégep/H2025/Base de données 1/Semaine 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cégep/H2024/Base de données 1/Semaine 2.md",
+                "file": "Cégep/H2025/Base de données 1/Semaine 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cégep/H2024/Base de données 1/Semaine 2.md"
+                "file": "Cégep/H2025/Base de données 1/Semaine 2.md"
               }
             }
           },
@@ -228,6 +228,8 @@
   },
   "active": "a36c29b550c6730e",
   "lastOpenFiles": [
+    "Cégep/H2024/Base de données 1/Semaine 2.md",
+    "Cégep/H2025/Base de données 1/Semaine 2.md",
     "Cégep/H2024/Base de données 1/Semaine 1.md",
     "Templates/Séance de cours.md",
     "Cégep/H2025/Base de données 1/Semaine 1.md",
@@ -237,7 +239,6 @@
     "Templates/scripts/session.js",
     "Templates/scripts",
     "Templates/resources.md",
-    "Cégep/H2024/Base de données 1/Semaine 2.md",
     "Cégep/H2024/Base de données 1",
     "Cégep/PÉA/Révisions et suggestions.md",
     "Cégep/H2024",
@@ -261,7 +262,6 @@
     "Snippets/config/Powershell profile config.md",
     "Software development/OOP/Tell don't Ask.md",
     "Software development/OOP/SOLID principles.md",
-    "Software development/OOP/Law of Demeter.md",
     "Resources/SQL games",
     "schema.png",
     "Resources/SQL games",
