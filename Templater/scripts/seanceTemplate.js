@@ -6,16 +6,40 @@ function semaineFromIndex(index) {
     return `Semaine ${index}`
 }
 
-function semaineCourante(tp) {
+function titreSemainePrecedente(tp) {
+    return semaineFromIndex(indexSemainePrecedente(tp))
+}
+
+function titreSemaineCourante(tp) {
+    return semaineFromIndex(indexSemaineCourante(tp))
+}
+
+function titreSemaineSuivante(tp) {
+    return semaineFromIndex(indexSemaineSuivante(tp))
+}
+
+function indexSemaineCourante(tp) {
     return semaineFromTitle(tp)
 }
 
-function semainePrecedente(tp) {
+function indexSemainePrecedente(tp) {
     return semaineFromTitle(tp) - 1
 }
 
+function indexSemaineSuivante(tp) {
+    return semaineFromTitle(tp) + 1
+}
+
 function seanceTemplate() {
-    return { semaineCourante, semainePrecedente, semaineFromIndex }
+    return {
+        indexSemaineCourante,
+        indexSemainePrecedente,
+        indexSemaineSuivante,
+        semaineFromIndex,
+        titreSemainePrecedente,
+        titreSemaineCourante,
+        titreSemaineSuivante
+    }
 }
 
 module.exports = seanceTemplate

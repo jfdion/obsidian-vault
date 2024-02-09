@@ -5,14 +5,21 @@ semaine:  <% tp.user.templaterExtender().toString(tp.user.seanceTemplate().semai
 created: <% tp.file.creation_date("YYYY-MM-DD ddd") %>
 last_updated: <% tp.file.last_modified_date("YYYY-MM-DD ddd") %>
 ---
+[[<% tp.user.seanceTemplate().titreSemainePrecedente(tp) %>]] | [[<% tp.user.seanceTemplate().titreSemaineSuivante(tp) %>]]
+
 # Notes
 <%*
 const SECTION_TITLE = "# Feedback"
 
-tR += "Semaine " + tp.user.seanceTemplate().semainePrecedente(tp)
-tR += tp.user.seanceTemplate().
-tR += tp.user.templaterExtender().getCurrentFolder(tp)
-tR += tp.user.templaterExtender().getSiblingFileByName(tp, "semaine 2")
+const stpl = tp.user.seanceTemplate()
+const etpl = tp.user.templaterExtender()
+
+tR += stpl.titreSemainePrecedente(tp)
+tR += etp.getCurrentFolder(tp)
+tR += tp.user.templaterExtender().getSiblingFileByName(
+	tp,
+	tp.user.templaterExtender().semaineFromIndex(tp.)
+)
 
 // const file = tp.file.find_tfile("Semaine " + tp.user.seanceTemplate().semainePrecedente(tp))
 // const content = await app.vault.read(file)
