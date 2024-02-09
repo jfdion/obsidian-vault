@@ -1,6 +1,6 @@
-function getParentFolder(tp) {
+function getParentFolder(tp, level = 2) {
     const folders = tp.file.folder(true).split("/")
-    return folders.splice(-2, 1)
+    return folders.splice(level * -1, 1)
 }
 
 async function promptToString(prompt) {
