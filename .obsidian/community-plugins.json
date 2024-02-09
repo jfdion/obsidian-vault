@@ -4,5 +4,8 @@
   "dataview",
   "quickadd",
   "templater-obsidian",
-  "auto-note-mover"
+  "auto-note-mover",
+  "settings-search",
+  "cmdr",
+  "recent-files-obsidian"
 ]

@@ -113,8 +113,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "f99198045dc60372",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,7 +205,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f788ae4a1a41dda8",
+  "active": "f99198045dc60372",
   "lastOpenFiles": [
     "Cégep/PÉA/Plan de cours.md",
     "Cégep/PÉA/Évaluations.md",
