@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f788ae4a1a41dda8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles/Évaluations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/sql 🐷/Create table.md",
+                "file": "Articles/Évaluations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/sql 🐷/Create table.md",
+                "file": "Articles/Évaluations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/sql 🐷/Create table.md"
+                "file": "Articles/Évaluations.md"
               }
             }
           }
@@ -184,10 +196,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "521fa11f06b319ff",
+  "active": "f788ae4a1a41dda8",
   "lastOpenFiles": [
-    "Snippets/js-ts/Gameloop.md",
     "Snippets/sql 🐷/Create table.md",
+    "Articles/Évaluations.md",
+    "Cégep/PÉA",
+    "Cégep",
+    "Snippets/js-ts/Gameloop.md",
     "Snippets/sql 🐷/Temporary table.md",
     "Resources/Rest API Tutorial.md",
     "Resources/Nerd fonts.md",
@@ -211,7 +226,6 @@
     "Snippets/php/Repository as collection.md",
     "Snippets/json/Windows powershell color theme.md",
     "Snippets/json/oh-my-posh-overrides.md",
-    "Snippets/go/Makefile.md",
     "Resources/SQL games",
     "schema.png",
     "Resources/SQL games",
@@ -221,8 +235,6 @@
     "Snippets/php",
     "Articles",
     "Snippets/sql 🐷",
-    "Snippets/php",
-    "Snippets/json",
     "v4q11k8t.bmp",
     "Untitled.canvas"
   ]
