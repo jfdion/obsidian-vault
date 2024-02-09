@@ -4,6 +4,7 @@ session: 2024H
 semaine: "2"
 created: 2024-02-09 Fri
 last_updated: 2024-02-09 Fri
+previous: [object Object]
 ---
 # Historique
 ```dataview
@@ -15,5 +16,3 @@ WHERE
 	AND file != this.file
 SORT session DESC
 ```
-
-<% tp.frontmatter.semaine %>

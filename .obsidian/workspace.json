@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cégep/2024H/Base de données 1/Semaine 2.md",
+                "file": "Templates/Séance de cours.md",
                 "mode": "source",
                 "source": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cégep/2024H/Base de données 1/Semaine 2.md",
+                "file": "Templates/Séance de cours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cégep/2024H/Base de données 1/Semaine 2.md",
+                "file": "Templates/Séance de cours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cégep/2024H/Base de données 1/Semaine 2.md"
+                "file": "Templates/Séance de cours.md"
               }
             }
           },
@@ -216,10 +216,12 @@
   },
   "active": "f788ae4a1a41dda8",
   "lastOpenFiles": [
-    "Cégep/2025H/Base de données 1/Semaine 2.md",
-    "Templates/Séance de cours.md",
-    "Cégep/2024H/Base de données 1/Semaine 1.md",
     "Cégep/2024H/Base de données 1/Semaine 2.md",
+    "Templater/scripts/seanceTemplate.js",
+    "Templater/scripts/Nouveau Document texte.txt",
+    "Templates/Séance de cours.md",
+    "Cégep/2025H/Base de données 1/Semaine 2.md",
+    "Cégep/2024H/Base de données 1/Semaine 1.md",
     "2024H.md",
     "Articles to read.md",
     "Cégep/2025H/Base de données 1/Semaine 1.md",
@@ -240,8 +242,6 @@
     "Cégep/2025H/Base de données 1",
     "Cégep/2025H",
     "Templates/scripts/Untitled.md",
-    "Templater/scripts/session.js",
-    "Templater/scripts",
     "Templates/resources.md",
     "Cégep/PÉA/Plan de cours.md",
     "Cégep/PÉA/Évaluations.md",
@@ -251,7 +251,6 @@
     "Snippets/sql 🐷/Create table.md",
     "Snippets/js-ts/Gameloop.md",
     "Snippets/sql 🐷/Temporary table.md",
-    "Resources/Nerd fonts.md",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"
