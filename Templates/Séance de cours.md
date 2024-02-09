@@ -1,7 +1,7 @@
 ---
 cours: <% tp.file.folder() %>
 session: <% tp.user.templaterExtender().getParentFolder(tp) %>
-semaine:  <% tp.user.templaterExtender().toString(tp.user.seanceTemplate().semaineCourante(tp)) %>
+semaine:  <% tp.user.templaterExtender().toString(tp.user.seanceTemplate().indexSemaineCourante(tp)) %>
 created: <% tp.file.creation_date("YYYY-MM-DD ddd") %>
 last_updated: <% tp.file.last_modified_date("YYYY-MM-DD ddd") %>
 ---
@@ -13,12 +13,13 @@ const SECTION_TITLE = "# Feedback"
 
 const stpl = tp.user.seanceTemplate()
 const etpl = tp.user.templaterExtender()
+const indexSemaine = stpl.semaineFromTitle(tp)
 
 tR += stpl.titreSemainePrecedente(tp)
-tR += etp.getCurrentFolder(tp)
-tR += tp.user.templaterExtender().getSiblingFileByName(
+tR += etpl.getCurrentFolder(tp)
+tR += etpl.getSiblingFileByName(
 	tp,
-	tp.user.templaterExtender().semaineFromIndex(tp.)
+	stpl.semaineFromIndex(indexSemaine - 1)
 )
 
 // const file = tp.file.find_tfile("Semaine " + tp.user.seanceTemplate().semainePrecedente(tp))

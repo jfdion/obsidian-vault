@@ -8,13 +8,11 @@ function getParentFolder(tp, level = 2) {
 }
 
 function getSiblingFileByName(tp, name) {
-    console.log(`${getCurrentFolder(tp)}/${name}`)
-    console.log(tp.file.find_tfile(`${getCurrentFolder(tp)}/${name}`))
     return tp.file.find_tfile(name)
 }
 
 function toString(v) {
-    return `${v}`
+    return `"${v}"`
 }
 
 async function promptToString(prompt) {

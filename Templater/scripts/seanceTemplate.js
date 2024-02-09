@@ -32,6 +32,7 @@ function indexSemaineSuivante(tp) {
 
 function seanceTemplate() {
     return {
+        semaineFromTitle,
         indexSemaineCourante,
         indexSemainePrecedente,
         indexSemaineSuivante,
