@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cégep/H2024/Base de données 1/Semaine 1.md",
+                "file": "Cégep/H2024/Base de données 1/Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cégep/H2024/Base de données 1/Semaine 1.md",
+                "file": "Cégep/H2024/Base de données 1/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cégep/H2024/Base de données 1/Semaine 1.md",
+                "file": "Cégep/H2024/Base de données 1/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cégep/H2024/Base de données 1/Semaine 1.md"
+                "file": "Cégep/H2024/Base de données 1/Untitled.md"
               }
             }
           },
@@ -229,9 +229,10 @@
   "active": "a36c29b550c6730e",
   "lastOpenFiles": [
     "Templates/Séance de cours.md",
+    "Cégep/H2024/Base de données 1/Untitled.md",
     "Cégep/H2024/Base de données 1/Semaine 1.md",
-    "Cégep/H2024/Base de données 1/Semaine 1.md",
-    "Templates/scripts/templaterExtender.js",
+    "Templater",
+    "Templater/scripts/templaterExtender.js",
     "Articles to read.md",
     "Cégep/H2025/Base de données 1/Semaine 2.md",
     "Cégep/H2024/Base de données 1/Semaine 2.md",
@@ -241,8 +242,8 @@
     "Cégep/H2025/Base de données 1",
     "Cégep/H2025",
     "Templates/scripts/Untitled.md",
-    "Templates/scripts/session.js",
-    "Templates/scripts",
+    "Templater/scripts/session.js",
+    "Templater/scripts",
     "Templates/resources.md",
     "Cégep/H2024/Base de données 1",
     "Cégep/PÉA/Révisions et suggestions.md",
@@ -253,7 +254,6 @@
     "Articles/Richardson Maturity Model.md",
     "Resources/Rest API Tutorial.md",
     "Snippets/sql 🐷/Create table.md",
-    "Cégep/PÉA",
     "Snippets/js-ts/Gameloop.md",
     "Snippets/sql 🐷/Temporary table.md",
     "Resources/Nerd fonts.md",
@@ -263,7 +263,6 @@
     "Articles/DRY is about Knowledge.md",
     "Messenger bag.md",
     "Snippets/config/Powershell profile config.md",
-    "Software development/OOP/Tell don't Ask.md",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"
