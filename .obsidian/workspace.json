@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extensions/plugins/Templater/Scripts.md",
+                "file": "20-29 Références/21 Resources/21.04 SQL games.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20-29 Références/21 Resources/21.04 SQL games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20-29 Références/21 Resources/21.04 SQL games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "20-29 Références/21 Resources/21.04 SQL games.md"
               }
             }
           },
@@ -175,27 +177,32 @@
   },
   "active": "25c3dd049cf688dd",
   "lastOpenFiles": [
-    "Untitled",
-    "extensions/plugins/Templater/Scripts.md",
-    "Untitled.md",
-    "10-19 Travail",
-    "00-09 Configuration",
-    "extensions/plugins",
-    "extensions",
+    "20-29 Références/21 Resources/21.03 Rest API Tutorial.md",
+    "20-29 Références/21 Resources/21.02 Nerd fonts.md",
+    "20-29 Références/20 Articles/20.03 Richardson Maturity Model.md",
+    "20-29 Références/20 Articles/20.02 Mocks Aren't Stubs.md",
+    "20-29 Références/20 Articles/20.01 DRY is about Knowledge.md",
+    "20-29 Références/20 Articles/20.00 Articles to read.md",
     "Home.md",
+    "Untitled.md",
+    "20-29 Références",
+    "90-99 Extensions/plugins/Templater/Scripts.md",
+    "10-19 Travail",
+    "90-99 Extensions",
+    "90-99 Extensions/plugins",
+    "extensions",
     "Cégep/Untitled Kanban.md",
-    "Snippets/sql 🐷/Create table.md",
+    "20-29 Références/22 Snippets/sql 🐷/Create table.md",
     "Préparation de cours.md",
     "Messenger bag.md",
     "Cégep/Session H2024/Calendrier.md",
     "Cégep/Session H2024",
-    "Articles to read.md",
     "Cégep/2025H/Base de données 1/Semaine 1.md",
     "Cégep/2025H/Base de données 1/Semaine 2.md",
     "Cégep/2024H/Base de données 1/Semaine 2.md",
     "Cégep/2024H/Base de données 1/Semaine 1.md",
-    "extensions/Templates/Séance de cours.md",
-    "extensions/plugins/Templater/scripts/seanceTemplate.js",
+    "90-99 Extensions/Templates/Séance de cours.md",
+    "90-99 Extensions/plugins/Templater/scripts/seanceTemplate.js",
     "Templater/scripts/Nouveau Document texte.txt",
     "2024H.md",
     "Cégep/2026H/Base de données 1/Semaine 1.md",
@@ -205,12 +212,7 @@
     "Cégep/2026H/Base de données 1",
     "Cégep/2026H",
     "Cégep/H2024/Base de données 1/Semaine 1.md",
-    "extensions/plugins/Templater",
     "Cégep/H2025/Base de données 1/Semaine 2.md",
-    "Cégep/H2024/Base de données 1/Semaine 2.md",
-    "Cégep/H2025/Base de données 1/Semaine 1.md",
-    "Templates/scripts/Untitled.md",
-    "extensions/Templates/resources.md",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"

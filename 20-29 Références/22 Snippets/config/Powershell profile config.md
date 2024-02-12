@@ -716,5 +716,5 @@ Install-Module -Name Terminal-Icons -Repository PSGallery
 
 ## Références
 * Voir [[oh-my-posh-overrides]] pour les ajustements visuels. 
-* Voir [[Nerd fonts]] pour les polices de caractères avec les glyphes
+* Voir [[21.02 Nerd fonts]] pour les polices de caractères avec les glyphes
 * Voir [[Windows powershell color theme]] pour le thème de couleur

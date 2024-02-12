@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Scripts",
-      "path": "extensions/plugins/Templater/Scripts.md"
+      "basename": "21.04 SQL games",
+      "path": "20-29 Références/21 Resources/21.04 SQL games.md"
+    },
+    {
+      "basename": "21.03 Rest API Tutorial",
+      "path": "20-29 Références/21 Resources/21.03 Rest API Tutorial.md"
+    },
+    {
+      "basename": "21.02 Nerd fonts",
+      "path": "20-29 Références/21 Resources/21.02 Nerd fonts.md"
+    },
+    {
+      "basename": "20.03 Richardson Maturity Model",
+      "path": "20-29 Références/20 Articles/20.03 Richardson Maturity Model.md"
+    },
+    {
+      "basename": "20.02 Mocks Aren't Stubs",
+      "path": "20-29 Références/20 Articles/20.02 Mocks Aren't Stubs.md"
+    },
+    {
+      "basename": "20.01 DRY is about Knowledge",
+      "path": "20-29 Références/20 Articles/20.01 DRY is about Knowledge.md"
+    },
+    {
+      "basename": "20.00 Articles to read",
+      "path": "20-29 Références/20 Articles/20.00 Articles to read.md"
     },
     {
       "basename": "Home",
@@ -10,27 +34,15 @@
     },
     {
       "basename": "Create table",
-      "path": "Snippets/sql 🐷/Create table.md"
+      "path": "20-29 Références/22 Snippets/sql 🐷/Create table.md"
     },
     {
       "basename": "Messenger bag",
       "path": "Messenger bag.md"
     },
     {
-      "basename": "Articles to read",
-      "path": "Articles to read.md"
-    },
-    {
-      "basename": "Séance de cours",
-      "path": "extensions/Templates/Séance de cours.md"
-    },
-    {
       "basename": "Révisions et suggestions",
       "path": "10-19 Travail/Cégep/PÉA/Révisions et suggestions.md"
-    },
-    {
-      "basename": "resources",
-      "path": "extensions/Templates/resources.md"
     }
   ],
   "omittedPaths": [],
