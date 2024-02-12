@@ -10,5 +10,20 @@ Alias:
 Tags:
   - "#meeting"
 ---
-
 # <%* tR += title %>
+## Détails
+Date: <% tp.file.creation_date(tx.constants.DATE_FORMAT) %>
+Heure:
+Lieu:
+
+## Participants
+ * Jean-François Dion <jfdion@csfoy.ca>
+
+## Ordre du jour
+1. <élément>
+
+## Notes
+
+## Points d'actions
+ [ ] xxx
+ 
