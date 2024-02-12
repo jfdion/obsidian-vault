@@ -11,21 +11,23 @@ Tags:
   - "#meeting"
 ---
 # <%* tR += title %>
-## Détails 📆
+## Détails 🏢
 | Clé | Valeur |
 | :--- | :--- |
 | **Date** |  <% tp.file.creation_date(tx.constants.DATE_FORMAT) %> |
-| **Heure** |  <% tp.file.creation_date(tx.constants.HOUR_FORMAT) %> |
-| **Lieu** | |
+| **Heure** |  <% tp.file.creation_date(tx.constants.HOUR_FORMAT) %> <% tp.file.cursor(1) %> |
+| **Lieu** | <% tp.file.cursor(2) %> |
 
-## Participants :family_
+## Participants 🧍
  * Jean-François Dion <jfdion@csfoy.ca>
+ * <% tp.file.cursor(3) %>
 
-## Ordre du jour
-1. <élément>
+## Ordre du jour 📆
+1. <% tp.file.cursor(4) %>
 
-## Notes
+## Notes 🗒
+<% tp.file.cursor(5) %>
 
-## Points d'actions
- [ ] xxx
+## Points d'actions ✅
+ [ ] <% tp.file.cursor(6) %>
  
