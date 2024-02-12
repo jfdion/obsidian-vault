@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extensions/plugins/Templater/Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extensions/plugins/Templater/Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extensions/plugins/Templater/Scripts.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -177,10 +175,14 @@
   },
   "active": "25c3dd049cf688dd",
   "lastOpenFiles": [
+    "Untitled",
+    "extensions/plugins/Templater/Scripts.md",
+    "Untitled.md",
+    "10-19 Travail",
+    "00-09 Configuration",
     "extensions/plugins",
     "extensions",
     "Home.md",
-    "extensions/plugins/Templater/Scripts.md",
     "Cégep/Untitled Kanban.md",
     "Snippets/sql 🐷/Create table.md",
     "Préparation de cours.md",
@@ -197,22 +199,18 @@
     "Templater/scripts/Nouveau Document texte.txt",
     "2024H.md",
     "Cégep/2026H/Base de données 1/Semaine 1.md",
-    "Cégep/PÉA/Révisions et suggestions.md",
+    "10-19 Travail/Cégep/PÉA/Révisions et suggestions.md",
     "2026H.md",
     "2025H.md",
     "Cégep/2026H/Base de données 1",
     "Cégep/2026H",
     "Cégep/H2024/Base de données 1/Semaine 1.md",
     "extensions/plugins/Templater",
-    "extensions/plugins/Templater/scripts/templaterExtender.js",
     "Cégep/H2025/Base de données 1/Semaine 2.md",
     "Cégep/H2024/Base de données 1/Semaine 2.md",
-    "Templates/scripts/templater-extender.js",
-    "Templates/scripts/Nouveau Document texte.txt",
     "Cégep/H2025/Base de données 1/Semaine 1.md",
     "Templates/scripts/Untitled.md",
     "extensions/Templates/resources.md",
-    "Cégep/PÉA/Plan de cours.md",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"
