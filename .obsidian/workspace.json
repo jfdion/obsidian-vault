@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extensions/plugins/Templater/Scripts.md",
+                "file": "Extensions/Templates/L1 Meeting Template.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extensions/plugins/Templater/Scripts.md",
+                "file": "Extensions/Templates/L1 Meeting Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extensions/plugins/Templater/Scripts.md",
+                "file": "Extensions/Templates/L1 Meeting Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extensions/plugins/Templater/Scripts.md"
+                "file": "Extensions/Templates/L1 Meeting Template.md"
               }
             }
           },
@@ -177,6 +177,9 @@
   },
   "active": "bc4fe5547c368a35",
   "lastOpenFiles": [
+    "scripts/templateExtender.js.md",
+    "Extensions/plugins/Templater/Scripts.md",
+    "scripts",
     "Extensions/Templates/L1 Meeting Template.md",
     "Home.md",
     "Extensions/Templates/resources.md",
@@ -192,7 +195,6 @@
     "Cégep/PÉA/Correction.md",
     "Extensions/plugins",
     "Extensions",
-    "Extensions/plugins/Templater/Scripts.md",
     "Cégep/Untitled Kanban.md",
     "Snippets/sql 🐷/Create table.md",
     "Préparation de cours.md",
@@ -208,11 +210,8 @@
     "Templater/scripts/Nouveau Document texte.txt",
     "2024H.md",
     "Cégep/2026H/Base de données 1/Semaine 1.md",
-    "2026H.md",
-    "2025H.md",
     "Cégep/2026H/Base de données 1",
     "Cégep/2026H",
-    "Extensions/plugins/Templater",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"

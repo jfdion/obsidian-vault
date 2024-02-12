@@ -1,3 +1,13 @@
+const DATE_HOUR_FORMAT = "YYYY-MM-DD HH h mm"
+
+async function promptOnFilenameUntitled(tp) {
+    let title = tp.file.title
+    if (title.startsWith("Untitled")) {
+        title = await tp.system.prompt("Title")
+        await tp.file.rename(title)
+    }
+}
+
 function getCurrentFolder(tp) {
     return tp.file.folder(true)
 }
@@ -21,7 +31,17 @@ async function promptToString(prompt) {
 }
 
 function templateExtender() {
-    return { toString, getParentFolder, promptToString, getSiblingFileByName, getCurrentFolder }
+    return {
+        constants: {
+            DATE_HOUR_FORMAT: DATE_HOUR_FORMAT
+        },
+        promptOnFilenameUntitled,
+        toString,
+        getParentFolder,
+        promptToString,
+        getSiblingFileByName,
+        getCurrentFolder
+    }
 }
 
 module.exports = templateExtender

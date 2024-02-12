@@ -1,11 +1,11 @@
 <% 
-let title = tp.file.title
-if (title.startsWith("Untitled")) {
-	title = await tp.system.prompt("Title")
-	await tp.file.rename(title)
-}
+tx = tp.user.templaterExtender()
+tx.promptOnFilenameUntitled(tp)
 
 tR += "---"
 %>
-Created: <% tp.date.nom("YYYY-MM-DD HH h mm") %>
-Modified <% tp.file.last_modified_date("YYYY-MM-DD HH h mm")
+Created: <% tp.date.now(tx.constants.DATE_HOUR_FORMAT) %>
+Modified: <% tp.file.last_modified_date(tx.constants.DATE_HOUR_FORMAT)
+Alias:
+
+#
