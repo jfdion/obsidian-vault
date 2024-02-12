@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Révisions et suggestions",
+      "path": "Cégep/PÉA/Révisions et suggestions.md"
+    },
+    {
+      "basename": "Plan de cours",
+      "path": "Cégep/PÉA/Plan de cours.md"
+    },
+    {
+      "basename": "Évaluations",
+      "path": "Cégep/PÉA/Évaluations.md"
+    },
+    {
+      "basename": "Correction",
+      "path": "Cégep/PÉA/Correction.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
     {
       "basename": "Scripts",
-      "path": "extensions/plugins/Templater/Scripts.md"
+      "path": "Extensions/plugins/Templater/Scripts.md"
     },
     {
       "basename": "Create table",
@@ -22,11 +38,7 @@
     },
     {
       "basename": "Séance de cours",
-      "path": "extensions/Templates/Séance de cours.md"
-    },
-    {
-      "basename": "Révisions et suggestions",
-      "path": "Cégep/PÉA/Révisions et suggestions.md"
+      "path": "Extensions/Templates/Séance de cours.md"
     },
     {
       "basename": "resources",

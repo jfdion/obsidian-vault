@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Cégep/PÉA/Révisions et suggestions.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Cégep/PÉA/Révisions et suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Cégep/PÉA/Révisions et suggestions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Cégep/PÉA/Révisions et suggestions.md"
               }
             }
           },
@@ -175,12 +175,15 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "2f63b6c508d7a5c3",
+  "active": "25c3dd049cf688dd",
   "lastOpenFiles": [
-    "extensions/plugins",
-    "extensions",
+    "Cégep/PÉA/Plan de cours.md",
+    "Cégep/PÉA/Évaluations.md",
+    "Cégep/PÉA/Correction.md",
     "Home.md",
-    "extensions/plugins/Templater/Scripts.md",
+    "Extensions/plugins",
+    "Extensions",
+    "Extensions/plugins/Templater/Scripts.md",
     "Cégep/Untitled Kanban.md",
     "Snippets/sql 🐷/Create table.md",
     "Préparation de cours.md",
@@ -192,8 +195,8 @@
     "Cégep/2025H/Base de données 1/Semaine 2.md",
     "Cégep/2024H/Base de données 1/Semaine 2.md",
     "Cégep/2024H/Base de données 1/Semaine 1.md",
-    "extensions/Templates/Séance de cours.md",
-    "extensions/plugins/Templater/scripts/seanceTemplate.js",
+    "Extensions/Templates/Séance de cours.md",
+    "Extensions/plugins/Templater/scripts/seanceTemplate.js",
     "Templater/scripts/Nouveau Document texte.txt",
     "2024H.md",
     "Cégep/2026H/Base de données 1/Semaine 1.md",
@@ -203,16 +206,13 @@
     "Cégep/2026H/Base de données 1",
     "Cégep/2026H",
     "Cégep/H2024/Base de données 1/Semaine 1.md",
-    "extensions/plugins/Templater",
-    "extensions/plugins/Templater/scripts/templaterExtender.js",
+    "Extensions/plugins/Templater",
+    "Extensions/plugins/Templater/scripts/templaterExtender.js",
     "Cégep/H2025/Base de données 1/Semaine 2.md",
     "Cégep/H2024/Base de données 1/Semaine 2.md",
     "Templates/scripts/templater-extender.js",
-    "Templates/scripts/Nouveau Document texte.txt",
     "Cégep/H2025/Base de données 1/Semaine 1.md",
     "Templates/scripts/Untitled.md",
-    "Resources/resources.md",
-    "Cégep/PÉA/Plan de cours.md",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"
