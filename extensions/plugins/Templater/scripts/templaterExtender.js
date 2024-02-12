@@ -1,4 +1,6 @@
-const DATE_HOUR_FORMAT = `YYYY-MM-DD HH [h] mm`
+const DATE_FORMAT = `YYYY-MM-DD`
+const HOUR_FORMAT = `HH [h] mm`
+const DATE_HOUR_FORMAT = `${DATE_FORMAT} ${HOUR_FORMAT}`
 
 async function promptOnFilenameUntitled(tp) {
     let title = tp.file.title

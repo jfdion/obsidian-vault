@@ -1,38 +1,25 @@
 {
   "main": {
-    "id": "54749581c8edfe64",
+    "id": "e281756dc25fe72e",
     "type": "split",
     "children": [
       {
-        "id": "5d85e184b67fbfa0",
+        "id": "80c74306df211480",
         "type": "tabs",
         "children": [
           {
-            "id": "bc4fe5547c368a35",
+            "id": "f4c222863bfec28c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extensions/Templates/L1 Meeting Template.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c699668136463c71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Nerd fonts.md",
+                "file": "Cool.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,14 +64,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "f99198045dc60372",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ]
       }
@@ -97,16 +76,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a28b2cc65827d331",
+        "id": "80b24794e70ec942",
         "type": "tabs",
         "children": [
           {
-            "id": "b6e2b5c6d192f634",
+            "id": "2acd96348eb5ed4e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extensions/Templates/L1 Meeting Template.md",
+                "file": "Cool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,19 +97,19 @@
             }
           },
           {
-            "id": "142d2eb7bdf4db56",
+            "id": "0fdea8d9fdcdab70",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extensions/Templates/L1 Meeting Template.md",
+                "file": "Cool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1639df76f8c02ed7",
+            "id": "3bfc0805b6345bc7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extensions/Templates/L1 Meeting Template.md"
+                "file": "Cool.md"
               }
             }
           }
@@ -170,6 +149,10 @@
   },
   "active": "f4c222863bfec28c",
   "lastOpenFiles": [
+    "Home.md",
+    "extensions/Templates/L1 Meeting Template.md",
+    "extensions/Templates/Séance de cours.md",
+    "extensions/Templates/resources.md",
     "conflict-files-obsidian-git.md",
     "scripts/templateExtender.js.md",
     "scripts",
@@ -177,9 +160,6 @@
     "extensions/plugins/Templater/scripts/session.js",
     "extensions/plugins/Templater/scripts/seanceTemplate.js",
     "extensions/plugins/Templater/scripts",
-    "extensions/Templates/Séance de cours.md",
-    "Resources/resources.md",
-    "extensions/Templates/L1 Meeting Template.md",
     "extensions/Templates/comparative table.md",
     "extensions/Templates/code snippet.md",
     "extensions/plugins/Templater",
@@ -187,7 +167,6 @@
     "extensions/plugins",
     "extensions",
     "Resources/SQL games/SQL games.md",
-    "Home.md",
     "Cégep/PÉA/Évaluations.md",
     "Cégep/PÉA/Révisions et suggestions.md",
     "Cégep/PÉA/Plan de cours.md",
@@ -202,10 +181,8 @@
     "Snippets/json/oh-my-posh-overrides.md",
     "Resources/SQL Murder Mystery Solution.md",
     "Resources/SQL games.md",
-    "Resources/resources.md",
     "Articles to read.md",
     "Templates/resources.md",
-    "Templates/article.md",
     "v4q11k8t.bmp",
     "Untitled.canvas"
   ]

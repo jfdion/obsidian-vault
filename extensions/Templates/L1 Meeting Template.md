@@ -13,7 +13,7 @@ Tags:
 # <%* tR += title %>
 ## Détails
 Date: <% tp.file.creation_date(tx.constants.DATE_FORMAT) %>
-Heure:
+Heure: <% tp.file.creation_date(tx.constants.HOUR_FORMAT) %>
 Lieu:
 
 ## Participants
