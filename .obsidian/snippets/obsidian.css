@@ -1,19 +1,33 @@
 :root {
     /* COLORS (T1) */
     --txt-white: #fff;
+    --txt-gray: #777;
 
+
+    --bg-amber: #c82;
+    --bg-blue: #339;
     --bg-green: #393;
+    --bg-light-green: #8c2;
+    --bg-light-blue: #28c;
+    --bg-pink: #c28;
+    --bg-purple: #82c;
+    --bg-strawberry: #933;
+    --bg-teal: #2c8;
 
     --bg-mid-gray: #999;
 
-    /* THEME (T2) */
-    --txt-color-light: var(--txt-white);
+    /* SEMANTIC USES (T2) */
+    --txt-muted: var(--txt-gray);
 
-    /* USES (T3) */
     --bg-chip-default: var(--bg-mid-gray);
-    --txt-chip-default: var(--txt-color-light);
+    --txt-chip-default: var(--txt-white);
 
-    --bg-chip-note: var(--bg-green)
+    --bg-chip-read: var(--bg-amber);
+    --bg-chip-note: var(--bg-green);
+}
+
+.muted-text {
+    color: var(--txt-muted);
 }
 
 .chip {
@@ -22,13 +36,23 @@
     color: var(--txt-chip-default);
     font-size: .7rem;
     font-weight: 700;
-    padding: .3rem .4rem;
+    padding: .2rem .3rem;
     position: relative;
     text-transform: uppercase;
     user-select: none;
     white-space: nowrap;
 }
 
-.note {
+.chip.note,
+.chip.notes {
     background-color: var(--bg-chip-note);
+}
+
+.chip.read {
+    background-color: var(--bg-chip-read);
+}
+
+.chip.toread,
+.chip.to-read {
+    background-color: var(--bg-light-blue);
 }

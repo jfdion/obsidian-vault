@@ -4,6 +4,16 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
+      "folder": "Cégep/PÉA",
+      "tag": "#PÉA",
+      "pattern": ""
+    },
+    {
+      "folder": "Cégep",
+      "tag": "#csfoy",
+      "pattern": ""
+    },
+    {
       "folder": "Articles",
       "tag": "#article",
       "pattern": ""

@@ -11,15 +11,20 @@
             "id": "04aaddcb11873098",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/SQL games/SQL Murder Mystery.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e84eabd7eff00dc",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,6 +76,14 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "965076b16edb5a00",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -85,7 +98,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Resources/SQL games/SQL Murder Mystery.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +114,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Resources/SQL games/SQL Murder Mystery.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +124,15 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Resources/SQL games/SQL Murder Mystery.md"
-          }
+          "state": {}
+        }
+      },
+      {
+        "id": "936e4c9117ff3943",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -123,6 +140,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-projects:Open projects": false,
+      "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -132,43 +151,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "04aaddcb11873098",
+  "active": "8e84eabd7eff00dc",
   "lastOpenFiles": [
-    "Resources/SQL games.md",
-    "Resources/SQL Murder Mystery Solution.md",
-    "/Resources/SQL games.md",
-    "/Resources/SQL Murder Mystery Solution.md",
-    "/Articles to read.md",
-    "/Articles/Mocks Aren't Stubs.md",
-    "Snippets/php/Repository as collection.md",
-    "Resources/SQL games/SQL games.md",
-    "Resources/SQL games/SQL Murder Mystery.md",
-    "Articles/Mocks Aren't Stubs.md",
-    "Templates/resources.md",
-    "/Templates/code snippet.md",
-    "Templates/article.md",
-    "Resources/SQL games/SQL Murder Mystery.md",
-    "/Articles/DRY is about Knowledge.md",
-    "Resources/SQL games",
-    "/Resources/SQL games",
-    "Snippets/sql 🐷/Temporary table.md",
-    "Articles to read.md",
-    "Templates/code snippet.md",
-    "Templates/article.md",
-    "Snippets/config/Powershell profile config.md",
+    "Cégep/2025H/Base de données 1/Semaine 1.md",
+    "Templates/comparative table.md",
+    "Templates/Séance de cours.md",
+    "Templater/scripts/templaterExtender.js",
+    "Templater/scripts/session.js",
+    "Templater/scripts/seanceTemplate.js",
+    "Snippets/sql 🐷/Create table.md",
+    "Resources/SQL games/SQL Murder Mystery Solution.md",
+    "Resources/Rest API Tutorial.md",
+    "Messenger bag.md",
+    "Cégep/PÉA/Évaluations.md",
+    "Cégep/PÉA/Révisions et suggestions.md",
+    "Cégep/PÉA/Plan de cours.md",
+    "Cégep/PÉA/Correction.md",
+    "Cégep/2026H/Base de données 1/Semaine 1.md",
+    "Cégep/2025H/Base de données 1/Semaine 2.md",
+    "/Cégep/2025H/Base de données 1/Semaine 1.md",
+    "Cégep/2024H/Base de données 1/Semaine 2.md",
+    "Cégep/2024H/Base de données 1/Semaine 1.md",
+    "Articles/Richardson Maturity Model.md",
+    "/Templates/comparative table.md",
+    "/Templates/Séance de cours.md",
+    "/Templater/scripts/templaterExtender.js",
+    "/Templater/scripts/session.js",
+    "/Templater/scripts/seanceTemplate.js",
+    "/Snippets/sql 🐷/Create table.md",
+    "/Snippets/php/Repository as collection.md",
+    "/Snippets/json/oh-my-posh-overrides.md",
+    "/Snippets/json/Windows powershell color theme.md",
+    "/Snippets/js-ts/Gameloop.md",
+    "/Snippets/go/Makefile.md",
     "/Snippets/config/Powershell profile config.md",
-    "Snippets/config",
-    "/Snippets/config",
-    "From android.md",
-    "Snippets/json/oh-my-posh-overrides.md",
-    "Snippets/json/Windows powershell color theme.md",
-    "Templates/resources.md",
-    "Resources/Nerd fonts.md",
-    "Snippets/sql 🐷",
-    "Snippets/php",
-    "Snippets/json",
-    "Snippets/js-ts",
-    "Snippets/go",
-    "Snippets"
+    "Templater/scripts",
+    "Templater",
+    "Cégep/2026H/Base de données 1",
+    "Cégep/2025H/Base de données 1"
   ]
 }

@@ -4,6 +4,9 @@ tags:
   - "#solution"
 created: 2024-01-31 Wed
 from: "[[SQL games]]"
+
+AutoNoteMover: disable
+
 ---
 # SQL Murder Mystery
 *Can you find out whodunnit?*
