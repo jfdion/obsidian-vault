@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Messenger bag",
+      "path": "Messenger bag.md"
+    },
+    {
       "basename": "L1 Meeting Template",
       "path": "Extensions/Templates/L1 Meeting Template.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "Séance de cours",
+      "path": "Extensions/Templates/Séance de cours.md"
     },
     {
       "basename": "templateExtender.js",
@@ -27,10 +35,6 @@
     {
       "basename": "code snippet",
       "path": "Extensions/Templates/code snippet.md"
-    },
-    {
-      "basename": "Séance de cours",
-      "path": "Extensions/Templates/Séance de cours.md"
     },
     {
       "basename": "comparative table",
@@ -55,10 +59,6 @@
     {
       "basename": "Create table",
       "path": "Snippets/sql 🐷/Create table.md"
-    },
-    {
-      "basename": "Messenger bag",
-      "path": "Messenger bag.md"
     },
     {
       "basename": "Articles to read",

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extensions/Templates/L1 Meeting Template.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extensions/Templates/L1 Meeting Template.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extensions/Templates/L1 Meeting Template.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extensions/Templates/L1 Meeting Template.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -190,15 +190,16 @@
   },
   "active": "c699668136463c71",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Messenger bag.md",
     "Extensions/Templates/L1 Meeting Template.md",
+    "Untitled.md",
+    "Extensions/Templates/Séance de cours.md",
     "scripts/templateExtender.js.md",
     "Extensions/plugins/Templater/Scripts.md",
     "scripts",
     "Home.md",
     "Extensions/Templates/resources.md",
     "Extensions/Templates/code snippet.md",
-    "Extensions/Templates/Séance de cours.md",
     "Extensions/Templates/comparative table.md",
     "Resources/Johnny.Decimal.md",
     "Cégep/PÉA/Révisions et suggestions.md",
@@ -212,7 +213,6 @@
     "Cégep/Untitled Kanban.md",
     "Snippets/sql 🐷/Create table.md",
     "Préparation de cours.md",
-    "Messenger bag.md",
     "Cégep/Session H2024/Calendrier.md",
     "Cégep/Session H2024",
     "Articles to read.md",
