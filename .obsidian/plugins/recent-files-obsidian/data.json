@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
       "basename": "L1 Meeting Template",
       "path": "Extensions/Templates/L1 Meeting Template.md"
     },
@@ -15,6 +11,22 @@
     {
       "basename": "resources",
       "path": "Extensions/Templates/resources.md"
+    },
+    {
+      "basename": "comparative table",
+      "path": "Extensions/Templates/comparative table.md"
+    },
+    {
+      "basename": "code snippet",
+      "path": "Extensions/Templates/code snippet.md"
+    },
+    {
+      "basename": "article",
+      "path": "Articles/article.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
       "basename": "Messenger bag",
@@ -31,14 +43,6 @@
     {
       "basename": "Johnny.Decimal",
       "path": "Resources/Johnny.Decimal.md"
-    },
-    {
-      "basename": "code snippet",
-      "path": "Extensions/Templates/code snippet.md"
-    },
-    {
-      "basename": "comparative table",
-      "path": "Extensions/Templates/comparative table.md"
     },
     {
       "basename": "Révisions et suggestions",

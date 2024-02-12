@@ -1,5 +1,5 @@
 <%
-let tx = tp.user.templaterExtender()
-let title = await tx.promptOnFilenameUntitled(tp)
-
+let title = tp.file.title
 %>
+
+# <% tR += tit
