@@ -1,4 +1,4 @@
-/*function semaineFromTitle(tp) {
+function semaineFromTitle(tp) {
     return parseInt(tp.file.title.split(" ").slice(-1)[0], 10)
 }
 
@@ -29,17 +29,17 @@ function indexSemainePrecedente(tp) {
 function indexSemaineSuivante(tp) {
     return semaineFromTitle(tp) + 1
 }
-*/
+
 function seanceTemplate() {
     return {
-        /*semaineFromTitle,
+        semaineFromTitle,
         indexSemaineCourante,
         indexSemainePrecedente,
         indexSemaineSuivante,
         semaineFromIndex,
         titreSemainePrecedente,
         titreSemaineCourante,
-        titreSemaineSuivante*/
+        titreSemaineSuivante
     }
 }
 

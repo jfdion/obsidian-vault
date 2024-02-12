@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Rencontre.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#behavioral-pattern",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Rencontre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Rencontre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Rencontre.md"
               }
             }
           },
@@ -191,8 +191,8 @@
   "active": "c699668136463c71",
   "lastOpenFiles": [
     "Extensions/Templates/L1 Meeting Template.md",
+    "Rencontre.md",
     "Extensions/Templates/Séance de cours.md",
-    "Untitled.md",
     "Extensions/plugins/Templater/scripts/templaterExtender.js",
     "Extensions/plugins/Templater/scripts/session.js",
     "Extensions/plugins/Templater/scripts/seanceTemplate.js",
