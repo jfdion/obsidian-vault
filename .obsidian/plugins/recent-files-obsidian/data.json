@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Scripts",
-      "path": "extensions/plugins/Templater/Scripts.md"
-    },
-    {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "Scripts",
+      "path": "extensions/plugins/Templater/Scripts.md"
     },
     {
       "basename": "Create table",
@@ -30,7 +30,7 @@
     },
     {
       "basename": "resources",
-      "path": "extensions/Templates/resources.md"
+      "path": "Resources/resources.md"
     }
   ],
   "omittedPaths": [],

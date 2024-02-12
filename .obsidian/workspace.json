@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "014ab15fe7326b0f",
+        "id": "eb1bf0ae45418659",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d586a2e635de14",
+            "id": "2f63b6c508d7a5c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extensions/plugins/Templater/Scripts.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extensions/plugins/Templater/Scripts.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extensions/plugins/Templater/Scripts.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extensions/plugins/Templater/Scripts.md"
+                "file": "Home.md"
               }
             }
           },
@@ -175,7 +175,7 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "25c3dd049cf688dd",
+  "active": "2f63b6c508d7a5c3",
   "lastOpenFiles": [
     "extensions/plugins",
     "extensions",
@@ -211,7 +211,7 @@
     "Templates/scripts/Nouveau Document texte.txt",
     "Cégep/H2025/Base de données 1/Semaine 1.md",
     "Templates/scripts/Untitled.md",
-    "extensions/Templates/resources.md",
+    "Resources/resources.md",
     "Cégep/PÉA/Plan de cours.md",
     "schema.png",
     "v4q11k8t.bmp",
