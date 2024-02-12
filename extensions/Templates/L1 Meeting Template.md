@@ -1,10 +1,5 @@
-<%  
-let title = tp.file.title
-tR += "---" 
-%>
-Alias:
-Tags:
-	- "meeting"
----
+<%
+let tx = tp.user.templaterExtender()
+let title = await tx.promptOnFilenameUntitled(tp)
 
-# <%* tR += title %>
+%>

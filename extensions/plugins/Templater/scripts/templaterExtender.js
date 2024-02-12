@@ -1,12 +1,13 @@
-// const DATE_HOUR_FORMAT = "YYYY-MM-DD HH h mm"
+const DATE_HOUR_FORMAT = "YYYY-MM-DD HH h mm"
 
-/*async function promptOnFilenameUntitled(tp) {
+async function promptOnFilenameUntitled(tp) {
     let title = tp.file.title
     if (title.startsWith("Untitled")) {
         title = await tp.system.prompt("Title")
         await tp.file.rename(title)
     }
-}*/
+    return title
+}
 
 function getCurrentFolder(tp) {
     return tp.file.folder(true)
@@ -32,10 +33,10 @@ async function promptToString(prompt) {
 
 function templateExtender() {
     return {
-        /*constants: {
+        constants: {
             DATE_HOUR_FORMAT: DATE_HOUR_FORMAT
-        },*/
-        // promptOnFilenameUntitled,
+        },
+        promptOnFilenameUntitled,
         toString,
         getParentFolder,
         promptToString,
