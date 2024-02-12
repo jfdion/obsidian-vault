@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Create table",
-      "path": "Snippets/sql 🐷/Create table.md"
+      "basename": "Scripts",
+      "path": "Templater/Scripts.md"
     },
     {
-      "basename": "Untitled Kanban",
-      "path": "Cégep/Untitled Kanban.md"
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Create table",
+      "path": "Snippets/sql 🐷/Create table.md"
     },
     {
       "basename": "Messenger bag",
@@ -17,28 +21,8 @@
       "path": "Articles to read.md"
     },
     {
-      "basename": "Semaine 1",
-      "path": "Cégep/2025H/Base de données 1/Semaine 1.md"
-    },
-    {
-      "basename": "Semaine 2",
-      "path": "Cégep/2025H/Base de données 1/Semaine 2.md"
-    },
-    {
-      "basename": "Semaine 2",
-      "path": "Cégep/2024H/Base de données 1/Semaine 2.md"
-    },
-    {
-      "basename": "Semaine 1",
-      "path": "Cégep/2024H/Base de données 1/Semaine 1.md"
-    },
-    {
       "basename": "Séance de cours",
       "path": "Templates/Séance de cours.md"
-    },
-    {
-      "basename": "Semaine 1",
-      "path": "Cégep/2026H/Base de données 1/Semaine 1.md"
     },
     {
       "basename": "Révisions et suggestions",

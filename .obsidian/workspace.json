@@ -8,73 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "036de6a3b92810e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles to read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84caff0dcba5dfaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Nerd fonts.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "653206ced75fc8b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/sql 🐷/Temporary table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "521fa11f06b319ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/sql 🐷/Create table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f788ae4a1a41dda8",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Cégep/Untitled Kanban.md"
-              }
-            }
-          },
-          {
             "id": "b4d586a2e635de14",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templater/Scripts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cégep/Untitled Kanban.md",
+                "file": "Templater/Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cégep/Untitled Kanban.md",
+                "file": "Templater/Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cégep/Untitled Kanban.md"
+                "file": "Templater/Scripts.md"
               }
             }
           },
@@ -223,16 +168,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
       "dbfolder:Create a new database table": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "janitor:Janitor: scan vault": false
     }
   },
-  "active": "f788ae4a1a41dda8",
+  "active": "b4d586a2e635de14",
   "lastOpenFiles": [
-    "Préparation de cours.md",
+    "Home.md",
+    "Templater/Scripts.md",
     "Cégep/Untitled Kanban.md",
+    "Snippets/sql 🐷/Create table.md",
+    "Préparation de cours.md",
     "Messenger bag.md",
     "Cégep/Session H2024/Calendrier.md",
     "Cégep/Session H2024",
@@ -264,9 +213,6 @@
     "Templates/resources.md",
     "Cégep/PÉA/Plan de cours.md",
     "Cégep/PÉA/Évaluations.md",
-    "Cégep/PÉA/Correction.md",
-    "Articles/Richardson Maturity Model.md",
-    "Resources/Rest API Tutorial.md",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"
