@@ -5,18 +5,5 @@
   "quickadd",
   "templater-obsidian",
   "auto-note-mover",
-  "settings-search",
-  "cmdr",
-  "recent-files-obsidian",
-  "url-into-selection",
-  "calendar",
-  "obsidian-projects",
-  "dbfolder",
-  "obsidian-reading-time",
-  "better-word-count",
-  "obsidian-kanban",
-  "homepage",
-  "emoji-shortcodes",
-  "obsidian-plugin-update-tracker",
-  "janitor"
+  "emoji-shortcodes"
 ]

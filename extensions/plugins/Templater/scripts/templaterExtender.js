@@ -36,6 +36,8 @@ async function promptToString(prompt) {
 function templateExtender() {
     return {
         constants: {
+            DATE_FORMAT: DATE_FORMAT,
+            HOUR_FORMAT: HOUR_FORMAT,
             DATE_HOUR_FORMAT: DATE_HOUR_FORMAT
         },
         promptOnFilenameUntitled,

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cool.md",
+                "file": "extensions/Templates/L1 Meeting Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cool.md",
+                "file": "extensions/Templates/L1 Meeting Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cool.md",
+                "file": "extensions/Templates/L1 Meeting Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cool.md"
+                "file": "extensions/Templates/L1 Meeting Template.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "f4c222863bfec28c",
   "lastOpenFiles": [
-    "Home.md",
+    "Mon meeting.md",
     "extensions/Templates/L1 Meeting Template.md",
+    "Home.md",
     "extensions/Templates/Séance de cours.md",
     "extensions/Templates/resources.md",
     "conflict-files-obsidian-git.md",
@@ -172,7 +173,6 @@
     "Cégep/PÉA/Plan de cours.md",
     "Cégep/PÉA/Correction.md",
     "Cégep/PÉA",
-    "Cool.md",
     "Articles/article.md",
     "Articles/Richardson Maturity Model.md",
     "Resources/SQL games/SQL Murder Mystery.md",
