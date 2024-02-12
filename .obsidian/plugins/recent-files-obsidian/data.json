@@ -2,7 +2,7 @@
   "recentFiles": [
     {
       "basename": "Scripts",
-      "path": "Templater/Scripts.md"
+      "path": "extensions/plugins/Templater/Scripts.md"
     },
     {
       "basename": "Home",
@@ -22,7 +22,7 @@
     },
     {
       "basename": "Séance de cours",
-      "path": "Templates/Séance de cours.md"
+      "path": "extensions/Templates/Séance de cours.md"
     },
     {
       "basename": "Révisions et suggestions",
@@ -30,7 +30,7 @@
     },
     {
       "basename": "resources",
-      "path": "Templates/resources.md"
+      "path": "extensions/Templates/resources.md"
     }
   ],
   "omittedPaths": [],
