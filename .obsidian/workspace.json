@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c699668136463c71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extensions/Templates/L1 Meeting Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,12 +188,13 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "bc4fe5547c368a35",
+  "active": "c699668136463c71",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Extensions/Templates/L1 Meeting Template.md",
     "scripts/templateExtender.js.md",
     "Extensions/plugins/Templater/Scripts.md",
     "scripts",
-    "Extensions/Templates/L1 Meeting Template.md",
     "Home.md",
     "Extensions/Templates/resources.md",
     "Extensions/Templates/code snippet.md",

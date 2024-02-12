@@ -5,6 +5,10 @@
       "path": "Extensions/Templates/L1 Meeting Template.md"
     },
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "templateExtender.js",
       "path": "scripts/templateExtender.js.md"
     },
