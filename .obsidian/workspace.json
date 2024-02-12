@@ -225,13 +225,15 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "f788ae4a1a41dda8",
   "lastOpenFiles": [
-    "Messenger bag.md",
+    "Préparation de cours.md",
     "Cégep/Untitled Kanban.md",
+    "Messenger bag.md",
     "Cégep/Session H2024/Calendrier.md",
     "Cégep/Session H2024",
     "Articles to read.md",
@@ -265,7 +267,6 @@
     "Cégep/PÉA/Correction.md",
     "Articles/Richardson Maturity Model.md",
     "Resources/Rest API Tutorial.md",
-    "Snippets/sql 🐷/Create table.md",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"
