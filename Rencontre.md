@@ -1,6 +1,6 @@
 ---
-Created: 2024-02-12 16 h 37
-Modified: 2024-02-12 16 h 36
+Created: 2024-02-12 16 h 38
+Modified: 2024-02-12 16 h 38
 Alias:
 Tags:
   - "#meeting"
@@ -10,7 +10,7 @@ Tags:
 | Clé | Valeur |
 | :--- | :--- |
 | **Date** |  2024-02-12 |
-| **Heure** |  16 h 12 <% tp.file.cursor(1) %> |
+	| **Heure** |  16 h 12  |
 | **Lieu** | <% tp.file.cursor(2) %> |
 
 ## Participants 🧍
