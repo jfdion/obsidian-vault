@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Scripts",
+      "path": "Extensions/plugins/Templater/Scripts.md"
+    },
+    {
+      "basename": "L1 Meeting Template",
+      "path": "Extensions/Templates/L1 Meeting Template.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Correction",
       "path": "Cégep/PÉA/Correction.md"
-    },
-    {
-      "basename": "Scripts",
-      "path": "Extensions/plugins/Templater/Scripts.md"
     },
     {
       "basename": "Create table",

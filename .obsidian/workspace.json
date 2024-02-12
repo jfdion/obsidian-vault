@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Extensions/plugins/Templater/Scripts.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Extensions/plugins/Templater/Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Extensions/plugins/Templater/Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Extensions/plugins/Templater/Scripts.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "bc4fe5547c368a35",
   "lastOpenFiles": [
+    "Extensions/Templates/L1 Meeting Template.md",
+    "Home.md",
     "Extensions/Templates/resources.md",
     "Extensions/Templates/code snippet.md",
     "Extensions/Templates/Séance de cours.md",
@@ -188,7 +190,6 @@
     "Cégep/PÉA/Plan de cours.md",
     "Cégep/PÉA/Évaluations.md",
     "Cégep/PÉA/Correction.md",
-    "Home.md",
     "Extensions/plugins",
     "Extensions",
     "Extensions/plugins/Templater/Scripts.md",
@@ -211,7 +212,6 @@
     "2025H.md",
     "Cégep/2026H/Base de données 1",
     "Cégep/2026H",
-    "Cégep/H2024/Base de données 1/Semaine 1.md",
     "Extensions/plugins/Templater",
     "schema.png",
     "v4q11k8t.bmp",
