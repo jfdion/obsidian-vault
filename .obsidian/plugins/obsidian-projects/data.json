@@ -34,6 +34,49 @@
       ],
       "id": "bf024301-5845-41ab-81f9-892adf8aa7c6",
       "name": "Untitled project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Cégep/Session H2024",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "name",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4b15da41-9746-4831-aac3-1ed42cf3e414",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "a6c781bc-7d42-4ff0-af51-8880b3f7d5df",
+      "name": "Session H2024"
     }
   ],
   "archives": [],

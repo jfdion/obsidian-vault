@@ -59,12 +59,18 @@
             "id": "f788ae4a1a41dda8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Cégep/2025H/Base de données 1/Semaine 1.md",
-                "mode": "preview",
-                "source": true
+                "file": "Cégep/Untitled Kanban.md"
               }
+            }
+          },
+          {
+            "id": "b4d586a2e635de14",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
             }
           }
         ],
@@ -142,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cégep/2025H/Base de données 1/Semaine 1.md",
+                "file": "Cégep/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cégep/2025H/Base de données 1/Semaine 1.md",
+                "file": "Cégep/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cégep/2025H/Base de données 1/Semaine 1.md"
+                "file": "Cégep/Untitled Kanban.md"
               }
             }
           },
@@ -193,13 +199,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "22cf2f61ac2ebdf1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,15 +230,19 @@
   },
   "active": "f788ae4a1a41dda8",
   "lastOpenFiles": [
-    "Cégep/2025H/Base de données 1/Semaine 2.md",
+    "Messenger bag.md",
+    "Cégep/Untitled Kanban.md",
+    "Cégep/Session H2024/Calendrier.md",
+    "Cégep/Session H2024",
+    "Articles to read.md",
     "Cégep/2025H/Base de données 1/Semaine 1.md",
+    "Cégep/2025H/Base de données 1/Semaine 2.md",
     "Cégep/2024H/Base de données 1/Semaine 2.md",
     "Cégep/2024H/Base de données 1/Semaine 1.md",
     "Templates/Séance de cours.md",
     "Templater/scripts/seanceTemplate.js",
     "Templater/scripts/Nouveau Document texte.txt",
     "2024H.md",
-    "Articles to read.md",
     "Cégep/2026H/Base de données 1/Semaine 1.md",
     "Cégep/PÉA/Révisions et suggestions.md",
     "2026H.md",
@@ -240,7 +258,6 @@
     "Templates/scripts/Nouveau Document texte.txt",
     "Cégep/H2025/Base de données 1/Semaine 1.md",
     "Cégep/2025H/Base de données 1",
-    "Cégep/2025H",
     "Templates/scripts/Untitled.md",
     "Templates/resources.md",
     "Cégep/PÉA/Plan de cours.md",
@@ -249,8 +266,6 @@
     "Articles/Richardson Maturity Model.md",
     "Resources/Rest API Tutorial.md",
     "Snippets/sql 🐷/Create table.md",
-    "Snippets/js-ts/Gameloop.md",
-    "Snippets/sql 🐷/Temporary table.md",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"
