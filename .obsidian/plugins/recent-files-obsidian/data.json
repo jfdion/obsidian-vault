@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Johnny.Decimal",
+      "path": "Resources/Johnny.Decimal.md"
+    },
+    {
+      "basename": "resources",
+      "path": "Extensions/Templates/resources.md"
+    },
+    {
+      "basename": "code snippet",
+      "path": "Extensions/Templates/code snippet.md"
+    },
+    {
+      "basename": "Séance de cours",
+      "path": "Extensions/Templates/Séance de cours.md"
+    },
+    {
+      "basename": "comparative table",
+      "path": "Extensions/Templates/comparative table.md"
+    },
+    {
       "basename": "Révisions et suggestions",
       "path": "Cégep/PÉA/Révisions et suggestions.md"
     },
@@ -17,10 +41,6 @@
       "path": "Cégep/PÉA/Correction.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "Scripts",
       "path": "Extensions/plugins/Templater/Scripts.md"
     },
@@ -35,14 +55,6 @@
     {
       "basename": "Articles to read",
       "path": "Articles to read.md"
-    },
-    {
-      "basename": "Séance de cours",
-      "path": "Extensions/Templates/Séance de cours.md"
-    },
-    {
-      "basename": "resources",
-      "path": "Resources/resources.md"
     }
   ],
   "omittedPaths": [],

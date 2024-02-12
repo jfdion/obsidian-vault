@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb1bf0ae45418659",
+        "id": "5d85e184b67fbfa0",
         "type": "tabs",
         "children": [
           {
-            "id": "2f63b6c508d7a5c3",
+            "id": "bc4fe5547c368a35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cégep/PÉA/Révisions et suggestions.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cégep/PÉA/Révisions et suggestions.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cégep/PÉA/Révisions et suggestions.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cégep/PÉA/Révisions et suggestions.md"
+                "file": "Home.md"
               }
             }
           },
@@ -175,8 +175,16 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "25c3dd049cf688dd",
+  "active": "bc4fe5547c368a35",
   "lastOpenFiles": [
+    "Extensions/Templates/resources.md",
+    "Extensions/Templates/code snippet.md",
+    "Extensions/Templates/Séance de cours.md",
+    "Extensions/Templates/comparative table.md",
+    "Resources/Johnny.Decimal.md",
+    "Cégep/PÉA/Révisions et suggestions.md",
+    "Untitled 1",
+    "Untitled",
     "Cégep/PÉA/Plan de cours.md",
     "Cégep/PÉA/Évaluations.md",
     "Cégep/PÉA/Correction.md",
@@ -195,24 +203,16 @@
     "Cégep/2025H/Base de données 1/Semaine 2.md",
     "Cégep/2024H/Base de données 1/Semaine 2.md",
     "Cégep/2024H/Base de données 1/Semaine 1.md",
-    "Extensions/Templates/Séance de cours.md",
     "Extensions/plugins/Templater/scripts/seanceTemplate.js",
     "Templater/scripts/Nouveau Document texte.txt",
     "2024H.md",
     "Cégep/2026H/Base de données 1/Semaine 1.md",
-    "Cégep/PÉA/Révisions et suggestions.md",
     "2026H.md",
     "2025H.md",
     "Cégep/2026H/Base de données 1",
     "Cégep/2026H",
     "Cégep/H2024/Base de données 1/Semaine 1.md",
     "Extensions/plugins/Templater",
-    "Extensions/plugins/Templater/scripts/templaterExtender.js",
-    "Cégep/H2025/Base de données 1/Semaine 2.md",
-    "Cégep/H2024/Base de données 1/Semaine 2.md",
-    "Templates/scripts/templater-extender.js",
-    "Cégep/H2025/Base de données 1/Semaine 1.md",
-    "Templates/scripts/Untitled.md",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"
