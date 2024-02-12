@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extensions/Templates/L1 Meeting Template.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extensions/Templates/L1 Meeting Template.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extensions/Templates/L1 Meeting Template.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extensions/Templates/L1 Meeting Template.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -190,13 +190,16 @@
   },
   "active": "c699668136463c71",
   "lastOpenFiles": [
-    "Extensions/Templates/Séance de cours.md",
-    "Extensions/Templates/resources.md",
     "Extensions/Templates/L1 Meeting Template.md",
+    "Extensions/Templates/Séance de cours.md",
+    "Untitled.md",
+    "Extensions/plugins/Templater/scripts/templaterExtender.js",
+    "Extensions/plugins/Templater/scripts/session.js",
+    "Extensions/plugins/Templater/scripts/seanceTemplate.js",
+    "Extensions/Templates/resources.md",
     "Extensions/Templates/comparative table.md",
     "Extensions/Templates/code snippet.md",
     "Articles/article.md",
-    "Untitled.md",
     "Messenger bag.md",
     "scripts/templateExtender.js.md",
     "Extensions/plugins/Templater/Scripts.md",
@@ -221,11 +224,7 @@
     "Cégep/2025H/Base de données 1/Semaine 2.md",
     "Cégep/2024H/Base de données 1/Semaine 2.md",
     "Cégep/2024H/Base de données 1/Semaine 1.md",
-    "Extensions/plugins/Templater/scripts/seanceTemplate.js",
     "Templater/scripts/Nouveau Document texte.txt",
-    "2024H.md",
-    "Cégep/2026H/Base de données 1",
-    "Cégep/2026H",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"
