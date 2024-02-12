@@ -3,7 +3,8 @@ tags:
   - "#resources"
   - "#solution"
 created: 2024-01-31 Wed
-from: "[[21.04 SQL games]]"
+from: "[[SQL games]]"
+
 AutoNoteMover: disable
 ---
 # SQL Murder Mystery
