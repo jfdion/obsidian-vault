@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "livePreview": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "readableLineLength": false
 }

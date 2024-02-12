@@ -15,7 +15,7 @@
               "state": {
                 "file": "Home.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
