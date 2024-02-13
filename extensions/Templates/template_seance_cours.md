@@ -12,7 +12,7 @@ tR += tx.buildHierarchicalTag(["cours", cours, "planseance"])
 
 **Cours:** <%* tR += tx.buildHierarchicalTag(["cours", cours]) %>
 
-**MOC:** [[420-W41-SF - Services Web - MOC]]
+**MOC:** 
 
 Session:: <%* tR += session.toUpperCase() %>
 
