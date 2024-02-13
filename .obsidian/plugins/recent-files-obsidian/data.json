@@ -9,10 +9,6 @@
       "path": "Extensions/Templates/L1 Meeting Template.md"
     },
     {
-      "basename": "Cool",
-      "path": "Cool.md"
-    },
-    {
       "basename": "Séance de cours",
       "path": "Extensions/Templates/Séance de cours.md"
     },
@@ -35,10 +31,6 @@
     {
       "basename": "Messenger bag",
       "path": "Messenger bag.md"
-    },
-    {
-      "basename": "templateExtender.js",
-      "path": "scripts/templateExtender.js.md"
     },
     {
       "basename": "Johnny.Decimal",

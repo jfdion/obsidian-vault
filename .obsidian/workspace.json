@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68e61747f491d959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -175,10 +188,14 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "f8ee758ffbe74cd4",
+  "active": "68e61747f491d959",
   "lastOpenFiles": [
-    "Cool.md",
     "Extensions/Templates/L1 Meeting Template.md",
+    "conflict-files-obsidian-git.md",
+    "Extensions/Templates/L3 Meeting Template.md",
+    "Home.md",
+    "Kekw.md",
+    "Cool.md",
     "Extensions/Templates/Séance de cours.md",
     "Extensions/plugins/Templater/scripts/templaterExtender.js",
     "Extensions/plugins/Templater/scripts/session.js",
@@ -191,7 +208,6 @@
     "scripts/templateExtender.js.md",
     "Extensions/plugins/Templater/Scripts.md",
     "scripts",
-    "Home.md",
     "Resources/Johnny.Decimal.md",
     "Cégep/PÉA/Révisions et suggestions.md",
     "Untitled 1",
@@ -209,8 +225,6 @@
     "Articles to read.md",
     "Cégep/2025H/Base de données 1/Semaine 1.md",
     "Cégep/2025H/Base de données 1/Semaine 2.md",
-    "Cégep/2024H/Base de données 1/Semaine 2.md",
-    "Cégep/2024H/Base de données 1/Semaine 1.md",
     "Templater/scripts/Nouveau Document texte.txt",
     "schema.png",
     "v4q11k8t.bmp",

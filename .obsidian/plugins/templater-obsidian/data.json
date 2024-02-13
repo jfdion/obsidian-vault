@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Extensions/Templates",
+  "templates_folder": "extensions/Templates",
   "templates_pairs": [
     [
       "",
@@ -8,10 +8,10 @@
     ]
   ],
   "trigger_on_file_creation": false,
-  "auto_jump_to_cursor": false,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "Extensions/plugins/Templater/scripts",
+  "user_scripts_folder": "extensions/plugins/Templater/scripts",
   "enable_folder_templates": true,
   "folder_templates": [
     {
