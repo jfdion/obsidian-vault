@@ -1,4 +1,4 @@
-**Cours:** #cours/420-W41-SF/ServicesWeb
+**Cours:** 1.01Contenu de cours
 # Meta info
 Session:: H24
 # Références

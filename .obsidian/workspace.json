@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 3 2024-02-07.md",
+                "file": "Extensions/Templates/macro_cours_tag.md",
                 "mode": "source",
                 "source": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 3 2024-02-07.md",
+                "file": "Extensions/Templates/macro_cours_tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 3 2024-02-07.md",
+                "file": "Extensions/Templates/macro_cours_tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 3 2024-02-07.md"
+                "file": "Extensions/Templates/macro_cours_tag.md"
               }
             }
           },
@@ -226,15 +226,16 @@
   },
   "active": "e5f3a086cc047924",
   "lastOpenFiles": [
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/Untitled.md",
-    "Extensions/Templates/template_seance_cours.md",
-    "Extensions/Templates/L1 Meeting Template.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 3 2024-02-07.md",
     "Extensions/Templates/macro_rating.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 1 2024-01-30.md",
+    "Extensions/Templates/macro_cours_tag.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
+    "Extensions/Templates/template_seance_cours.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 3 2024-02-07.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 2 2024-02-05.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 1 2024-01-30.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/Examen Final.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/Untitled.md",
+    "Extensions/Templates/L1 Meeting Template.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
     "1.0 Cours enseignés/1.02 Idées/Examen BD.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 2024-02-19.md",
@@ -261,7 +262,6 @@
     "Kekw.md",
     "conflict-files-obsidian-git.md",
     "Extensions/Templates/L3 Meeting Template.md",
-    "Cool.md",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"
