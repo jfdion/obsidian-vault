@@ -11,10 +11,10 @@ Semaine:: 1
 Heure:: 11:00 à 13:00
 ClasseNum:: 2
 
-Status:: 
+Status::  <span class="chip na">NA</span>
 
 **Thème:**
 
 
 **Remises:**
-Remises:: 
+Remises:: <span class="chip na">NA</span>

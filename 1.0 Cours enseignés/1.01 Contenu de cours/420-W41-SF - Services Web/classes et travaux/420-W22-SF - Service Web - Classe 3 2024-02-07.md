@@ -14,12 +14,12 @@ Semaine:: 2
 Heure:: 16:00 à 18:00  
 ClasseNum:: 3
 
-Status:: <span class="chip read">TODO</span>
+Status:: <span class="chip na">NA</span>
 
 **Thème:**
 
 **Remises:**  
-Remises::
+Remises:: <span class="chip na">NA</span>
 
 # Matériel du cours
 * Présentation (Google Drive)

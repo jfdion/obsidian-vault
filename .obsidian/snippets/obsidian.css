@@ -16,6 +16,7 @@
     --bg-teal: #2c8;
 
     --bg-mid-gray: #999;
+    --bg-dark-gray: #404040;
 
     /* SEMANTIC USES (T2) */
     --txt-muted: var(--txt-gray);
@@ -27,10 +28,12 @@
     --bg-chip-read: var(--bg-amber);
     --bg-chip-note: var(--bg-green);
 
+    /** === Seance cours status === */
     --bg-chip-ready: var(--bg-green);
     --bg-chip-not-ready: var(--bg-strawberry);
     --bg-chip-to-review: var(--bg-amber);
     --bg-chip-done: var(--bg-light-blue);
+    --bg-chip-na: var(--bg-dark-gray);
 }
 
 .muted-text {
@@ -78,5 +81,8 @@
 
 .chip.done {
     background-color: var(--bg-chip-done);
-    color: var(--txt-chip-inverted);
+}
+
+.chip.na {
+    background-color: var(--bg-chip-na);
 }
