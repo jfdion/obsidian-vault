@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "68e61747f491d959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Home.md"
               }
             }
           },
@@ -188,13 +175,13 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "68e61747f491d959",
+  "active": "f8ee758ffbe74cd4",
   "lastOpenFiles": [
-    "Extensions/Templates/L1 Meeting Template.md",
-    "conflict-files-obsidian-git.md",
-    "Extensions/Templates/L3 Meeting Template.md",
-    "Home.md",
     "Kekw.md",
+    "Home.md",
+    "conflict-files-obsidian-git.md",
+    "Extensions/Templates/L1 Meeting Template.md",
+    "Extensions/Templates/L3 Meeting Template.md",
     "Cool.md",
     "Extensions/Templates/Séance de cours.md",
     "Extensions/plugins/Templater/scripts/templaterExtender.js",
