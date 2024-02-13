@@ -18,3 +18,11 @@ Status:: <span class="chip na">NA</span>
 
 **Remises:**
 Remises:: <span class="chip na">NA</span>
+
+# Matériel du cours
+* Présentation (Google Drive)
+* Excercices (Google Drive)
+
+# Notes
+
+# Rétroaction
