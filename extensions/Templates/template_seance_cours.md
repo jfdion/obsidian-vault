@@ -10,7 +10,7 @@ tR += tx.buildHierarchicalTag(["cours", cours, "planseance"])
 %>
 # Meta info
 
-**Cours:** <%* tR += tx.buildHierarchicalTag(["cours", cours]) %> #planseance
+**Cours**:: <%* tR += tx.buildHierarchicalTag(["cours", cours]) %> #planseance
 
 **MOC:** 
 
