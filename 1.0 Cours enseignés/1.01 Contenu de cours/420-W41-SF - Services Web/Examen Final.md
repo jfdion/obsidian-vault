@@ -1,5 +1,5 @@
 # Questions
-
+Pour le cours #cours/420-W41-SF/ServicesWeb
 ## À partir du domaine suivant, créez les URLs permettant de manipuler les ressources
 Ne pas prendre en compte les cas d'erreurs. Toutes les requêtes sont considérées valides.
 
@@ -34,7 +34,7 @@ PUT     /lits/{lit_id} 200 | 204
 DELETE  /lits/{lit_id} 200 | 204
 ```
 #### DOMAINE RICHE
-##### Assigner un patient à un lit
+##### Assigner un patient à un lit (occupe également un lit)
 statut du lit: occupé
 statut du patient: pris en charge
 ```
