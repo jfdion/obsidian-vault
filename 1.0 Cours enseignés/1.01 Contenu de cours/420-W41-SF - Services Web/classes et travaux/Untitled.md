@@ -7,9 +7,9 @@
 
 Session:: H24
 
-Date::  2024-02-07  
-Semaine:: 2 
-Heure:: 16:00 à 18:00  
+Date::  2024-02-13  
+Semaine:: 2
+Heure:: 18:00 à 19:00  
 ClasseNum:: 3
 
 **Thème:**
@@ -25,3 +25,4 @@ Remises::
 
 # Rétroaction
 (alt+e - [[macro_rating]])
+## Détails

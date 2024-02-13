@@ -4,7 +4,7 @@ const seance = tp.user.seanceTemplate()
 const cours = seance.nomCours(tp)
 
 const session = await tx.promptStr(tp, "Session (H|A + YY)")
-const date = await tx.promptStr(tp, "Date", now())
+const date = await tx.promptStr(tp, "Date", tp.date.now())
 
 tR += tx.buildHierarchicalTag(["cours", cours, "planseance"])
 %>
@@ -14,12 +14,12 @@ tR += tx.buildHierarchicalTag(["cours", cours, "planseance"])
 
 **MOC:** [[420-W41-SF - Services Web - MOC]]
 
-Session:: <%* tR += session %>
+Session:: <%* tR += session.toUpperCase() %>
 
-Date::  2024-02-07  
-Semaine:: 2 
-Heure:: 16:00 à 18:00  
-ClasseNum:: 3
+Date::  <%* tR += date %>  
+Semaine:: <% tp.file.cursor(1) %>
+Heure:: <% tp.file.cursor(2) %>:00 à <% tp.file.cursor(3) %>:00  
+ClasseNum:: <% tp.file.cursor(4) %>
 
 **Thème:**
 
@@ -34,3 +34,4 @@ Remises::
 
 # Rétroaction
 (alt+e - [[macro_rating]])
+## Détails

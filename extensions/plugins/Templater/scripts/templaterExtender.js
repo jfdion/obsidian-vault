@@ -9,7 +9,7 @@ async function promptInt(tp, label = "Number") {
 }
 
 async function promptStr(tp, label = "String", placeholder = undefined) {
-    const value = await tp.system.prompt(label)
+    const value = await tp.system.prompt(label, placeholder)
 
     return value
 }
