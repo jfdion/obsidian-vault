@@ -45,7 +45,7 @@ async function promptToString(prompt) {
     return toString(result)
 }
 
-function templateExtender() {
+function templaterExtender() {
     return {
         constants: {
             DATE_FORMAT: DATE_FORMAT,
@@ -63,4 +63,4 @@ function templateExtender() {
     }
 }
 
-module.exports = templateExtender
+module.exports = templaterExtender
