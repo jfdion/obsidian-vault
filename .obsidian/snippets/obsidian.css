@@ -2,6 +2,7 @@
     /* COLORS (T1) */
     --txt-white: #fff;
     --txt-gray: #777;
+    --txt-black: #000;
 
 
     --bg-amber: #c82;
@@ -21,9 +22,15 @@
 
     --bg-chip-default: var(--bg-mid-gray);
     --txt-chip-default: var(--txt-white);
+    --txt-chip-inverted: var(--txt-black);
 
     --bg-chip-read: var(--bg-amber);
     --bg-chip-note: var(--bg-green);
+
+    --bg-chip-ready: var(--bg-green);
+    --bg-chip-not-ready: var(--bg-strawberry);
+    --bg-chip-to-review: var(--bg-amber);
+    --bg-chip-done: var(--bg-light-blue);
 }
 
 .muted-text {
@@ -55,4 +62,21 @@
 .chip.toread,
 .chip.to-read {
     background-color: var(--bg-light-blue);
+}
+
+.chip.ready {
+    background-color: var(--bg-chip-ready);
+}
+
+.chip.not-ready {
+    background-color: var(--bg-chip-not-ready);
+}
+
+.chip.to-review {
+    background-color: var(--bg-chip-to-review);
+}
+
+.chip.done {
+    background-color: var(--bg-chip-done);
+    color: var(--txt-chip-inverted);
 }
