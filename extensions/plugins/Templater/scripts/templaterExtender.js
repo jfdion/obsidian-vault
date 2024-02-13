@@ -3,16 +3,21 @@ const HOUR_FORMAT = `HH [h] mm`
 const DATE_HOUR_FORMAT = `${DATE_FORMAT} ${HOUR_FORMAT}`
 
 async function promptInt(tp, label = "Number") {
-    let value = await tp.system.prompt(label)
+    const value = await tp.system.prompt(label)
 
     return parseInt(value, 10)
 }
 
+async function promptStr(tp, label = "String") {
+    const value = await tp.system.prompt(label)
+
+    return value
+}
 
 async function promptOnFilenameUntitled(tp) {
     let title = tp.file.title
     if (title.startsWith("Untitled")) {
-        title = await tp.system.prompt("Title")
+        title = await promptStr(tp, "title")
         await tp.file.rename(title)
     }
     return title
@@ -47,6 +52,8 @@ function templateExtender() {
             HOUR_FORMAT: HOUR_FORMAT,
             DATE_HOUR_FORMAT: DATE_HOUR_FORMAT
         },
+        promptInt,
+        promptStr,
         promptOnFilenameUntitled,
         toString,
         getParentFolder,

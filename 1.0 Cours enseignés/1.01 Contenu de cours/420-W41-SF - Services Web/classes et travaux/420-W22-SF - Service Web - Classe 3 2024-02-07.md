@@ -24,4 +24,7 @@ Remises::
 # Notes
 
 # Rétroaction
-Rating:: 8/10
+Rating:: 8
+⭐⭐⭐⭐⭐⭐⭐⭐
+
+
