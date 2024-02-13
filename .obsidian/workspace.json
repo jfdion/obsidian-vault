@@ -144,9 +144,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "2dc97615759a71e9",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -160,14 +168,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-projects:Open projects": false,
-      "dbfolder:Create a new database table": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
-      "janitor:Janitor: scan vault": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f8ee758ffbe74cd4",
+  "active": "2dc97615759a71e9",
   "lastOpenFiles": [
     "Software development/OOP/Law of Demeter.md",
     "Articles/Mocks Aren't Stubs.md",
