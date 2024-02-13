@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extensions/Templates/macro_cours_tag.md",
+                "file": "Extensions/Templates/template_moc.md",
                 "mode": "source",
                 "source": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extensions/Templates/macro_cours_tag.md",
+                "file": "Extensions/Templates/template_moc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extensions/Templates/macro_cours_tag.md",
+                "file": "Extensions/Templates/template_moc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extensions/Templates/macro_cours_tag.md"
+                "file": "Extensions/Templates/template_moc.md"
               }
             }
           },
@@ -226,8 +226,10 @@
   },
   "active": "e5f3a086cc047924",
   "lastOpenFiles": [
-    "Extensions/Templates/macro_rating.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
+    "Extensions/Templates/template_moc.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
+    "Extensions/Templates/macro_rating.md",
     "Extensions/Templates/macro_cours_tag.md",
     "Extensions/Templates/template_seance_cours.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 3 2024-02-07.md",
@@ -236,7 +238,6 @@
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/Examen Final.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/Untitled.md",
     "Extensions/Templates/L1 Meeting Template.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
     "1.0 Cours enseignés/1.02 Idées/Examen BD.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 2024-02-19.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 3 2024-02-13.md",
@@ -261,7 +262,6 @@
     "Home.md",
     "Kekw.md",
     "conflict-files-obsidian-git.md",
-    "Extensions/Templates/L3 Meeting Template.md",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"
