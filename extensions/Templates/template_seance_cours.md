@@ -1,10 +1,11 @@
 #cours/420-W41-SF/ServicesWeb/planseance
 # Meta info
 <%*
+const tx = tp.user.templaterExtender()
 const seance = tp.user.seanceTemplate()
-const cours = seance.nomCours()
+const cours = seance.nomCours(tp)
 %>
-**Cours:** #cours/420-W41-SF/ServicesWeb
+**Cours:** <%* tx.buildTag(["cours"])
 
 **MOC:** [[420-W41-SF - Services Web - MOC]]
 

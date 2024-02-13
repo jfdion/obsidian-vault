@@ -5,7 +5,8 @@ const SCRIPT_FOLDER = `${APP_BASE_PATH}/${TEMPLATER_CONFIG.user_scripts_folder}`
 const tx = require(`${SCRIPT_FOLDER}/templaterExtender.js`)()
 
 function nomCours(tp) {
-    console.log(tx.getParentFolder(tp))
+    const folderName = tx.getParentFolder(tp, 2)
+    return folderName[0].split(" - ").join("/").replace(" ", "")
 }
 
 function seanceTemplate() {

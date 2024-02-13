@@ -40,6 +40,10 @@ function toString(v) {
     return `"${v}"`
 }
 
+function buildTag(values) {
+    return `"#${values.join('')}"`
+}
+
 async function promptToString(prompt) {
     const result = await prompt
     return toString(result)
@@ -55,6 +59,7 @@ function templaterExtender() {
         promptInt,
         promptStr,
         promptOnFilenameUntitled,
+        buildTag,
         toString,
         getParentFolder,
         promptToString,
