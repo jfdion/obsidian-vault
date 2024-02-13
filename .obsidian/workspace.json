@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5d85e184b67fbfa0",
+        "id": "bbc26b9576719fb7",
         "type": "tabs",
         "children": [
           {
-            "id": "bc4fe5547c368a35",
+            "id": "f8ee758ffbe74cd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extensions/Templates/L1 Meeting Template.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c699668136463c71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extensions/Templates/L1 Meeting Template.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extensions/Templates/L1 Meeting Template.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extensions/Templates/L1 Meeting Template.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extensions/Templates/L1 Meeting Template.md"
+                "file": "Home.md"
               }
             }
           },
@@ -188,7 +175,7 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "c699668136463c71",
+  "active": "f8ee758ffbe74cd4",
   "lastOpenFiles": [
     "Cool.md",
     "Extensions/Templates/L1 Meeting Template.md",
