@@ -1,15 +1,20 @@
-#cours/420-W41-SF/ServicesWeb/planseance
-# Meta info
 <%*
 const tx = tp.user.templaterExtender()
 const seance = tp.user.seanceTemplate()
 const cours = seance.nomCours(tp)
+
+const session = await tx.promptStr(tp, "Session (H|A + YY)")
+const date = await tx.promptStr(tp, "Date", now())
+
+tR += tx.buildHierarchicalTag(["cours", cours, "planseance"])
 %>
-**Cours:** <%* tx.buildTag(["cours"])
+# Meta info
+
+**Cours:** <%* tR += tx.buildHierarchicalTag(["cours", cours]) %>
 
 **MOC:** [[420-W41-SF - Services Web - MOC]]
 
-Session:: H24
+Session:: <%* tR += session %>
 
 Date::  2024-02-07  
 Semaine:: 2 

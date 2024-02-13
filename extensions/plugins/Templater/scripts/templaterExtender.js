@@ -8,7 +8,7 @@ async function promptInt(tp, label = "Number") {
     return parseInt(value, 10)
 }
 
-async function promptStr(tp, label = "String") {
+async function promptStr(tp, label = "String", placeholder = undefined) {
     const value = await tp.system.prompt(label)
 
     return value
@@ -40,8 +40,8 @@ function toString(v) {
     return `"${v}"`
 }
 
-function buildTag(values) {
-    return `"#${values.join('')}"`
+function buildHierarchicalTag(values) {
+    return `#${values.join('/')}`
 }
 
 async function promptToString(prompt) {
@@ -59,7 +59,7 @@ function templaterExtender() {
         promptInt,
         promptStr,
         promptOnFilenameUntitled,
-        buildTag,
+        buildHierarchicalTag,
         toString,
         getParentFolder,
         promptToString,
