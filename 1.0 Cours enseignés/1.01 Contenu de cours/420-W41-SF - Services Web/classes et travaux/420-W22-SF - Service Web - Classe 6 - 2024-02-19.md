@@ -14,6 +14,7 @@ ClasseNum:: 6
 Status:: <span class="chip not-ready">à faire</span>
 
 **Thème:**
+Premier cours de la prise en charge. Me présenter aux étudiants et faire un survol de la matière vue jusqu'à présent.
 
 **Remises:**  
 Remises:: <span class="chip na">NA</span>
