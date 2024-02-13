@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "420-W22-SF - MOC.md",
+                "file": "420-W22-SF - BD I Classe 5 2024-02-19.md",
                 "mode": "preview",
                 "source": true
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "420-W22-SF - MOC.md",
+                "file": "420-W22-SF - BD I - MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "420-W22-SF - MOC.md",
+                "file": "420-W22-SF - BD I Classe 5 2024-02-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "420-W22-SF - MOC.md",
+                "file": "420-W22-SF - BD I Classe 5 2024-02-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "420-W22-SF - MOC.md"
+                "file": "420-W22-SF - BD I Classe 5 2024-02-19.md"
               }
             }
           },
@@ -206,10 +206,10 @@
   },
   "active": "9da39f3276ae5e9e",
   "lastOpenFiles": [
+    "420-W22-SF - BD I - Exercice 0.md",
+    "420-W22-SF - BD I - MOC.md",
     "420-W22-SF - BD I Classe 5 2024-02-19.md",
-    "420-W22-SF - MOC.md",
-    "420-W22-SF-Exercice 0.md",
-    "420-W22-SF-Exercice 1.md",
+    "420-W22-SF - BD I - Exercice 1.md",
     "Extensions/Templates/article.md",
     "Software development/OOP/Law of Demeter.md",
     "Articles/Mocks Aren't Stubs.md",
