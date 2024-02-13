@@ -14,7 +14,7 @@ Session:: <%* tR += session.toUpperCase() %>
 * Matériel de cours (Google Drive)
 # Classes et travaux
 ```dataview
-TABLE Semaine + "-" + ClasseNum as Séance, Date, Heure, Remises, Rating
+TABLE Semaine + "-" + ClasseNum as Séance, Status, Date, Heure, Remises, Rating
 FROM <%* tR += tx.buildHierarchicalTag(["cours", cours, "planseance"]) %>
 SORT ClasseNum asc
 WHERE Session AND Session = "<%* tR += session.toUpperCase() %>"

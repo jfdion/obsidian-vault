@@ -21,6 +21,8 @@ Semaine:: <% tp.file.cursor(1) %>
 Heure:: <% tp.file.cursor(2) %>:00 à <% tp.file.cursor(3) %>:00  
 ClasseNum:: <% tp.file.cursor(4) %>
 
+Status:: <span class="chip not-ready">Not ready</span>
+
 **Thème:**
 
 **Remises:**  

@@ -14,6 +14,8 @@ Semaine:: 2
 Heure:: 16:00 à 18:00  
 ClasseNum:: 3
 
+Status:: <span class="chip read">TODO</span>
+
 **Thème:**
 
 **Remises:**  
