@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe8f0d641b661e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "extensions/Templates/L3 Meeting Template.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d40d60296c4cd467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kekw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extensions/Templates/L1 Meeting Template.md",
+                "file": "Kekw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extensions/Templates/L1 Meeting Template.md",
+                "file": "Kekw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extensions/Templates/L1 Meeting Template.md"
+                "file": "Kekw.md"
               }
             }
           },
@@ -155,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,13 +192,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65a7e1fef923c011",
+  "active": "d40d60296c4cd467",
   "lastOpenFiles": [
+    "extensions/Templates/L3 Meeting Template.md",
+    "Kekw.md",
     "Meeting.md",
+    "extensions/Templates/L1 Meeting Template.md",
     "Articles to read.md",
     "Untitled",
     "Rencontre.md",
-    "extensions/Templates/L1 Meeting Template.md",
     "Home.md",
     "extensions/Templates/Séance de cours.md",
     "extensions/Templates/resources.md",
@@ -204,7 +230,6 @@
     "Snippets/json/oh-my-posh-overrides.md",
     "Resources/SQL Murder Mystery Solution.md",
     "Resources/SQL games.md",
-    "Templates/resources.md",
     "v4q11k8t.bmp",
     "Untitled.canvas"
   ]
