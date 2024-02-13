@@ -16,3 +16,12 @@ ClasseNum:: 3
 
 **Remises:**  
 Remises::
+
+# Matériel du cours
+* Présentation (Google Drive)
+* Excercices (Google Drive)
+
+# Notes
+
+# Rétroaction
+Rating:: 8/10
