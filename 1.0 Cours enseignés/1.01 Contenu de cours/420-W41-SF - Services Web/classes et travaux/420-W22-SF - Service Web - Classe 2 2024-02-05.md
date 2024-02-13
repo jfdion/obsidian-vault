@@ -1,6 +1,6 @@
 #cours/420-W41-SF/ServicesWeb/planseance #planseance
 # Meta info
-**Cours:** #cours/420-W41-SF/ServicesWeb
+**Cours**::  #cours/420-W41-SF/ServicesWeb
 
 **MOC:** [[420-W41-SF - Services Web - MOC]]
 
