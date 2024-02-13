@@ -1,8 +1,10 @@
 **Cours:** #cours/420-W41-SF/ServicesWeb
-# Références externes
+# Meta info
+Session:: H24
+# Références
 * Plan de cours (LÉA)
+* Devis du cours (Google Drive)
 * Matériel de cours (Google Drive)
-
 # Classes et travaux
 ```dataview
 TABLE Semaine + "-" + ClasseNum as Séance, Date, Heure, Remises
