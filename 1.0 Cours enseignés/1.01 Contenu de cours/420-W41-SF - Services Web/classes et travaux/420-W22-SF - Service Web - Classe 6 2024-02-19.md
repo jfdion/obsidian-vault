@@ -25,7 +25,6 @@ Remises:: <span class="chip na">NA</span>
 # Notes
 
 # Rétroaction
-Rating:: [[^Rétroaction](12 / 10)
-⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+(alt+e - [[macro_rating]])
 
 
