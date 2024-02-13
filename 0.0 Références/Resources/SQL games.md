@@ -6,7 +6,7 @@ created: 2024-01-31 Wed
 ---
 # SQL games
 
-* ### SQL Game #1: SQL Murder Mystery ⭐⭐⭐⭐⭐ ([[SQL murder mystery solution]])
+* ### SQL Game #1: SQL Murder Mystery ⭐⭐⭐⭐⭐ ([[SQL Murder Mystery Solution]])
 	* https://mystery.knightlab.com/
 * ### SQL Game #2: SQL Island ⭐⭐⭐⭐
 	* http://wwwlgis.informatik.uni-kl.de/extra/game/?lang=en
