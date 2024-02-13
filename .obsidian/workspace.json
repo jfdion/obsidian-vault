@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extensions/Templates/template_moc.md",
-                "mode": "source",
+                "file": "1.0 Cours enseignés/1.02 Idées/Examen BD.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cours/420-W41-SF/ServicesWeb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extensions/Templates/template_moc.md",
+                "file": "1.0 Cours enseignés/1.02 Idées/Examen BD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extensions/Templates/template_moc.md",
+                "file": "1.0 Cours enseignés/1.02 Idées/Examen BD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extensions/Templates/template_moc.md"
+                "file": "1.0 Cours enseignés/1.02 Idées/Examen BD.md"
               }
             }
           },
@@ -226,10 +226,10 @@
   },
   "active": "e5f3a086cc047924",
   "lastOpenFiles": [
-    "Extensions/Templates/template_seance_cours.md",
-    "Extensions/Templates/template_moc.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
+    "Extensions/Templates/template_moc.md",
+    "Extensions/Templates/template_seance_cours.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 1 2024-01-30.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 2 2024-02-06.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 3 2024-02-13.md",
