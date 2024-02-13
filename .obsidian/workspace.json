@@ -11,11 +11,28 @@
             "id": "f8ee758ffbe74cd4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Extensions/Templates/article.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9da39f3276ae5e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -171,8 +192,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2dc97615759a71e9",
+  "active": "25c3dd049cf688dd",
   "lastOpenFiles": [
+    "Extensions/Templates/article.md",
+    "Untitled.md",
     "Software development/OOP/Law of Demeter.md",
     "Articles/Mocks Aren't Stubs.md",
     "Home.md",
@@ -188,7 +211,6 @@
     "Extensions/Templates/resources.md",
     "Extensions/Templates/comparative table.md",
     "Extensions/Templates/code snippet.md",
-    "Articles/article.md",
     "Messenger bag.md",
     "scripts/templateExtender.js.md",
     "Extensions/plugins/Templater/Scripts.md",
@@ -207,7 +229,6 @@
     "Préparation de cours.md",
     "Cégep/Session H2024/Calendrier.md",
     "Cégep/Session H2024",
-    "Articles to read.md",
     "Templater/scripts/Nouveau Document texte.txt",
     "schema.png",
     "v4q11k8t.bmp",
