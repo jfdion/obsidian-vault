@@ -1,3 +1,8 @@
+
+# Références externes
+* Plan de cours (LÉA)
+* Matériel de cours (Google Drive)
+
 # Classes et travaux
 ```dataview
 TABLE Semaine + "-" + ClasseNum as Séance, Date, Heure, Remises
