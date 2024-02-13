@@ -12,7 +12,7 @@ Tags:
 ---
 # <%* tR += title %>
 ## Détails 🏢
-| Clé | Valeur |
+|  |  |
 | :--- | :--- |
 | **Date** |  <% tp.file.creation_date(tx.constants.DATE_FORMAT) %> |
 | **Heure** |  <% tp.file.creation_date(tx.constants.HOUR_FORMAT) %> <% tp.file.cursor(1) %> |

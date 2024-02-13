@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rencontre.md",
+                "file": "Articles to read.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65a7e1fef923c011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "extensions/Templates/L1 Meeting Template.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rencontre.md",
+                "file": "extensions/Templates/L1 Meeting Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rencontre.md",
+                "file": "extensions/Templates/L1 Meeting Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +138,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rencontre.md"
+                "file": "extensions/Templates/L1 Meeting Template.md"
               }
+            }
+          },
+          {
+            "id": "a55799be2358231c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -147,9 +168,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4c222863bfec28c",
+  "active": "65a7e1fef923c011",
   "lastOpenFiles": [
+    "Meeting.md",
     "Articles to read.md",
+    "Untitled",
     "Rencontre.md",
     "extensions/Templates/L1 Meeting Template.md",
     "Home.md",
@@ -173,7 +196,6 @@
     "Cégep/PÉA/Révisions et suggestions.md",
     "Cégep/PÉA/Plan de cours.md",
     "Cégep/PÉA/Correction.md",
-    "Cégep/PÉA",
     "Articles/article.md",
     "Articles/Richardson Maturity Model.md",
     "Resources/SQL games/SQL Murder Mystery.md",
