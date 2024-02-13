@@ -11,7 +11,7 @@ Semaine:: 1
 Heure:: 11:00 à 13:00
 ClasseNum:: 2
 
-Status::  <span class="chip na">NA</span>
+Status:: <span class="chip na">NA</span>
 
 **Thème:**
 
@@ -25,3 +25,4 @@ Remises:: <span class="chip na">NA</span>
 # Notes
 
 # Rétroaction
+(alt+e - [[macro_rating]])

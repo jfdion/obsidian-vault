@@ -25,3 +25,4 @@ Remises:: <span class="chip na">NA</span>
 # Notes
 
 # Rétroaction
+(alt+e - [[macro_rating]])
