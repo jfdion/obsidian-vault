@@ -1,6 +1,8 @@
 #cours/420-W41-SF/ServicesWeb/planseance
-
 # Meta info
+
+^3d099a
+
 **Cours:** #cours/420-W41-SF/ServicesWeb
 
 **MOC:** [[420-W41-SF - Services Web - MOC]]
@@ -24,7 +26,4 @@ Remises::
 # Notes
 
 # Rétroaction
-Rating:: 8
-⭐⭐⭐⭐⭐⭐⭐⭐
-
-
+(alt+e - [[macro_rating]])

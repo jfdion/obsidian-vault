@@ -1,44 +1,32 @@
 ---
-cours: <% tp.file.folder() %>
-session: <% tp.user.templaterExtender().getParentFolder(tp) %>
-semaine:  <% tp.user.templaterExtender().toString(tp.user.seanceTemplate().indexSemaineCourante(tp)) %>
-created: <% tp.file.creation_date("YYYY-MM-DD ddd") %>
 last_updated: <% tp.file.last_modified_date("YYYY-MM-DD ddd") %>
 ---
-[[<% tp.user.seanceTemplate().titreSemainePrecedente(tp) %>]] | [[<% tp.user.seanceTemplate().titreSemaineSuivante(tp) %>]]
+#cours/420-W41-SF/ServicesWeb/planseance
+# Meta info
+
+^3d099a
+
+**Cours:** #cours/420-W41-SF/ServicesWeb
+
+**MOC:** [[420-W41-SF - Services Web - MOC]]
+
+Session:: H24
+
+Date::  2024-02-07  
+Semaine:: 2 
+Heure:: 16:00 à 18:00  
+ClasseNum:: 3
+
+**Thème:**
+
+**Remises:**  
+Remises::
+
+# Matériel du cours
+* Présentation (Google Drive)
+* Excercices (Google Drive)
 
 # Notes
-<%*
-const SECTION_TITLE = "# Feedback"
 
-const stpl = tp.user.seanceTemplate()
-const etpl = tp.user.templaterExtender()
-const indexSemaine = stpl.semaineFromTitle(tp)
-
-tR += stpl.titreSemainePrecedente(tp)
-tR += etpl.getCurrentFolder(tp)
-tR += etpl.getSiblingFileByName(
-	tp,
-	stpl.semaineFromIndex(indexSemaine - 1)
-)
-
-// const file = tp.file.find_tfile("Semaine " + tp.user.seanceTemplate().semainePrecedente(tp))
-// const content = await app.vault.read(file)
-
-// const feedback = content.substring(content.indexOf(SECTION_TITLE) + SECTION_TITLE.length)
-
-// tR += feedback.substring(0, Math.min(150, feedback.indexOf('#')))
-%>
-# Historique
-```dataview
-TABLE WITHOUT ID
-    link(file.link, session) as Session, semaine as Semaine, cours as Cours
-WHERE 
-	cours = this.cours
-	AND semaine = this.semaine
-	AND file != this.file
-SORT session DESC
-```
-
-# Feedback
-Retour sur les séances de la semaine
+# Rétroaction
+(alt+e - [[macro_rating]])

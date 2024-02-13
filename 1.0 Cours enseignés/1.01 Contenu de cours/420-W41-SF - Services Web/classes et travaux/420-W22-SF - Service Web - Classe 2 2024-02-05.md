@@ -1,5 +1,4 @@
 #cours/420-W41-SF/ServicesWeb/planseance
-
 # Meta info
 **Cours:** #cours/420-W41-SF/ServicesWeb
 
