@@ -11,7 +11,7 @@ Semaine:: 3
 Heure:: 11:00 à 13:00  
 ClasseNum:: 6
 
-Status:: <span class="chip a-faire">À faire</span>
+Status:: <span class="chip not-ready">à faire</span>
 
 **Thème:**
 
