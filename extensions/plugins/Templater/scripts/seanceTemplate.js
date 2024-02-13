@@ -1,45 +1,17 @@
-function semaineFromTitle(tp) {
-    return parseInt(tp.file.title.split(" ").slice(-1)[0], 10)
-}
+const APP_BASE_PATH = app.vault.adapter.basePath
+const TEMPLATER_CONFIG = app.plugins.plugins['templater-obsidian'].settings
+const SCRIPT_FOLDER = `${APP_BASE_PATH}/${TEMPLATER_CONFIG.user_scripts_folder}`
 
-function semaineFromIndex(index) {
-    return `Semaine ${index}`
-}
+const tx = require(`${SCRIPT_FOLDER}/templaterExtender.js`)()
 
-function titreSemainePrecedente(tp) {
-    return semaineFromIndex(indexSemainePrecedente(tp))
-}
-
-function titreSemaineCourante(tp) {
-    return semaineFromIndex(indexSemaineCourante(tp))
-}
-
-function titreSemaineSuivante(tp) {
-    return semaineFromIndex(indexSemaineSuivante(tp))
-}
-
-function indexSemaineCourante(tp) {
-    return semaineFromTitle(tp)
-}
-
-function indexSemainePrecedente(tp) {
-    return semaineFromTitle(tp) - 1
-}
-
-function indexSemaineSuivante(tp) {
-    return semaineFromTitle(tp) + 1
+function nomCours(tp, depth = 2) {
+    const folderName = tx.getParentFolder(tp, depth)
+    return folderName[0].split(" - ").join("/").replace(" ", "")
 }
 
 function seanceTemplate() {
     return {
-        semaineFromTitle,
-        indexSemaineCourante,
-        indexSemainePrecedente,
-        indexSemaineSuivante,
-        semaineFromIndex,
-        titreSemainePrecedente,
-        titreSemaineCourante,
-        titreSemaineSuivante
+        nomCours
     }
 }
 

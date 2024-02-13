@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4c222863bfec28c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles to read.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "65a7e1fef923c011",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "extensions/Templates/L1 Meeting Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3aa2bb996a96ddf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extensions/Templates/L1 Meeting Template.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,14 +127,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extensions/Templates/L1 Meeting Template.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3bfc0805b6345bc7",
+            "id": "1639df76f8c02ed7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extensions/Templates/L1 Meeting Template.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -180,44 +180,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65a7e1fef923c011",
+  "active": "25c3dd049cf688dd",
   "lastOpenFiles": [
-    "Kekw.md",
-    "extensions/Templates/L3 Meeting Template.md",
-    "Meeting.md",
-    "extensions/Templates/L1 Meeting Template.md",
-    "Articles to read.md",
-    "Untitled",
-    "Rencontre.md",
-    "Home.md",
-    "extensions/Templates/Séance de cours.md",
-    "extensions/Templates/resources.md",
-    "conflict-files-obsidian-git.md",
-    "scripts/templateExtender.js.md",
-    "scripts",
-    "extensions/plugins/Templater/scripts/templaterExtender.js",
-    "extensions/plugins/Templater/scripts/session.js",
-    "extensions/plugins/Templater/scripts/seanceTemplate.js",
-    "extensions/plugins/Templater/scripts",
-    "extensions/Templates/comparative table.md",
-    "extensions/Templates/code snippet.md",
-    "extensions/plugins/Templater",
-    "extensions/Templates",
-    "extensions/plugins",
-    "extensions",
-    "Resources/SQL games/SQL games.md",
-    "Cégep/PÉA/Évaluations.md",
-    "Cégep/PÉA/Révisions et suggestions.md",
-    "Cégep/PÉA/Plan de cours.md",
-    "Cégep/PÉA/Correction.md",
-    "Articles/article.md",
-    "Articles/Richardson Maturity Model.md",
-    "Resources/SQL games/SQL Murder Mystery.md",
-    "Resources/Nerd fonts.md",
-    "Snippets/config/Powershell profile config.md",
-    "Snippets/json/oh-my-posh-overrides.md",
-    "Resources/SQL Murder Mystery Solution.md",
-    "Resources/SQL games.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 4 - 2024-02-12.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 5 - 2024-02-14.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 3 - 2024-02-07.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 2 - 2024-02-05.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 1 - 2024-01-30.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 5 - 2024-02-27.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 3 - 2024-02-13.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 2 - 2024-02-06.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 1 - 2024-01-30.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/Examen Final.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
+    "1.0 Cours enseignés/1.02 Idées/Examen BD I - SQL.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I",
+    "1.0 Cours enseignés/1.02 Idées",
+    "1.0 Cours enseignés/1.01 Contenu de cours",
+    "1.0 Cours enseignés",
+    "extensions/Templates/template_seance_cours.md",
+    "0.0 Références/Snippets/sql 🐷/Temporary table.md",
+    "0.0 Références/Snippets/sql 🐷/Create table.md",
+    "0.0 Références/Snippets/php/Repository as collection.md",
+    "0.0 Références/Snippets/js-ts/Gameloop.md",
+    "0.0 Références/Snippets/json/Windows powershell color theme.md",
+    "0.0 Références/Snippets/json/oh-my-posh-overrides.md",
+    "0.0 Références/Snippets/go/Makefile.md",
+    "0.0 Références/Snippets/config/Powershell profile config.md",
+    "0.0 Références/Resources/SQL games/SQL Murder Mystery.md",
+    "0.0 Références/Resources/SQL games/SQL Murder Mystery Solution.md",
+    "0.0 Références/Snippets/sql 🐷",
+    "0.0 Références/Snippets/php",
+    "0.0 Références/Snippets/js-ts",
     "v4q11k8t.bmp",
     "Untitled.canvas"
   ]

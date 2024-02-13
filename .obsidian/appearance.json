@@ -1,10 +1,12 @@
 {
   "accentColor": "#5c82f5",
   "theme": "obsidian",
-  "cssTheme": "Minimal",
+  "cssTheme": "Cybertron Shifted",
   "textFontFamily": "",
   "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
   "enabledCssSnippets": [
     "obsidian"
-  ]
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 16
 }

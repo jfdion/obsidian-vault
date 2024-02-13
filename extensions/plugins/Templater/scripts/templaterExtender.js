@@ -2,10 +2,30 @@ const DATE_FORMAT = `YYYY-MM-DD`
 const HOUR_FORMAT = `HH [h] mm`
 const DATE_HOUR_FORMAT = `${DATE_FORMAT} ${HOUR_FORMAT}`
 
+async function promptInt(tp, label = "Number", placeholder = undefined) {
+    if (placeholder !== undefined) {
+        placeholder = toString(placeholder)
+    }
+
+    const value = await tp.system.prompt(label, placeholder, true)
+
+    return parseInt(value, 10)
+}
+
+async function promptStr(tp, label = "String", placeholder = undefined) {
+    if (placeholder !== undefined) {
+        placeholder = toString(placeholder)
+    }
+
+    const value = await tp.system.prompt(label, placeholder, true)
+
+    return value
+}
+
 async function promptOnFilenameUntitled(tp) {
     let title = tp.file.title
     if (title.startsWith("Untitled")) {
-        title = await tp.system.prompt("Title")
+        title = await promptStr(tp, "title")
         await tp.file.rename(title)
     }
     return title
@@ -28,19 +48,26 @@ function toString(v) {
     return `"${v}"`
 }
 
+function buildHierarchicalTag(values) {
+    return `#${values.join('/')}`
+}
+
 async function promptToString(prompt) {
     const result = await prompt
     return toString(result)
 }
 
-function templateExtender() {
+function templaterExtender() {
     return {
         constants: {
             DATE_FORMAT: DATE_FORMAT,
             HOUR_FORMAT: HOUR_FORMAT,
             DATE_HOUR_FORMAT: DATE_HOUR_FORMAT
         },
+        promptInt,
+        promptStr,
         promptOnFilenameUntitled,
+        buildHierarchicalTag,
         toString,
         getParentFolder,
         promptToString,
@@ -49,4 +76,4 @@ function templateExtender() {
     }
 }
 
-module.exports = templateExtender
+module.exports = templaterExtender

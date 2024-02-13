@@ -11,6 +11,7 @@ Tags:
   - "#meeting"
 ---
 # <%* tR += title %>
+
 ## Détails 🏢
 |  |  |
 | :--- | :--- |
@@ -30,4 +31,5 @@ Tags:
 
 ## Points d'actions ✅
  - [ ] <% tp.file.cursor(6) %>
+
  
