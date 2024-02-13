@@ -6,12 +6,12 @@
 
 Session:: H24
 
-Date::  2024-02-07  
-Semaine:: 2 
-Heure:: 16:00 à 18:00  
-ClasseNum:: 3
+Date::  2024-02-19
+Semaine:: 3 
+Heure:: 11:00 à 13:00  
+ClasseNum:: 6
 
-Status:: <span class="chip na">NA</span>
+Status:: <span class="chip a-faire">À faire</span>
 
 **Thème:**
 

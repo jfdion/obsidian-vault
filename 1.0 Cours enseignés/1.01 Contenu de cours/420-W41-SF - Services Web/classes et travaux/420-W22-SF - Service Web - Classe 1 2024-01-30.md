@@ -15,7 +15,6 @@ Status:: <span class="chip na">NA</span>
 
 **Thème:**
 
-
 **Remises:**
 Remises:: <span class="chip na">NA</span>
 
