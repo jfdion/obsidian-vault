@@ -29,5 +29,5 @@ Tags:
 <% tp.file.cursor(5) %>
 
 ## Points d'actions ✅
- [ ] <% tp.file.cursor(6) %>
+ - [ ] <% tp.file.cursor(6) %>
  

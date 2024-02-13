@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "fe8f0d641b661e01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "extensions/Templates/L3 Meeting Template.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "d40d60296c4cd467",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kekw.md",
+                "file": "extensions/Templates/L1 Meeting Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kekw.md",
+                "file": "extensions/Templates/L1 Meeting Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kekw.md",
+                "file": "extensions/Templates/L1 Meeting Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kekw.md"
+                "file": "extensions/Templates/L1 Meeting Template.md"
               }
             }
           },
@@ -192,10 +180,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d40d60296c4cd467",
+  "active": "65a7e1fef923c011",
   "lastOpenFiles": [
-    "extensions/Templates/L3 Meeting Template.md",
     "Kekw.md",
+    "extensions/Templates/L3 Meeting Template.md",
     "Meeting.md",
     "extensions/Templates/L1 Meeting Template.md",
     "Articles to read.md",
