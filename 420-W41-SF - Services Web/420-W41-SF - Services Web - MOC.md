@@ -1,7 +1,7 @@
 # Classes et travaux
 ```dataview
-TABLE Semaine, ClasseNum, Date, Heure, Remises
-FROM #cours/420-W22-SF/BD-I/planseance
+TABLE ClasseNum, Date, Heure, Remises
+FROM #cours/420-W41-SF/ServicesWeb/planseance
 SORT ClasseNum asc
 WHERE Session AND Session = "H24"
 ```
