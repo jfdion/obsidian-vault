@@ -1,5 +1,6 @@
 **Cours:** #cours/420-W41-SF/ServicesWeb
 # Meta info
+Type:: MOC
 Session:: H24
 # Références
 * Plan de cours (LÉA)
