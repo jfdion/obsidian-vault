@@ -138,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 369
   },
   "right": {
     "id": "bb738e2bffc7e4ca",
@@ -224,14 +224,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5f3a086cc047924",
+  "active": "25c3dd049cf688dd",
   "lastOpenFiles": [
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
+    "Extensions/Templates/template_seance_cours.md",
     "Extensions/Templates/template_moc.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/Untitled.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
     "Extensions/Templates/macro_rating.md",
     "Extensions/Templates/macro_cours_tag.md",
-    "Extensions/Templates/template_seance_cours.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 3 2024-02-07.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 2 2024-02-05.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 1 2024-01-30.md",
@@ -261,7 +262,6 @@
     "0.0 Références/Articles/Mocks Aren't Stubs.md",
     "Home.md",
     "Kekw.md",
-    "conflict-files-obsidian-git.md",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"

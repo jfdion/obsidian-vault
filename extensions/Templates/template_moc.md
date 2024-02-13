@@ -1,4 +1,11 @@
-**Cours:** <%* tR += tagCours %>
+<%*
+const tx = tp.user.templaterExtender()
+const seance = tp.user.seanceTemplate()
+const cours = seance.nomCours(tp, 1)
+
+const session = await tx.promptStr(tp, "Session (H|A + YY)")
+%>
+**Cours:** <%* tR += tx.buildHierarchicalTag(["cours", cours]) %>
 # Meta info
 Session:: <%* tR += session.toUpperCase() %>
 # Références
@@ -8,7 +15,7 @@ Session:: <%* tR += session.toUpperCase() %>
 # Classes et travaux
 ```dataview
 TABLE Semaine + "-" + ClasseNum as Séance, Date, Heure, Remises, Rating
-FROM <%planseance
+FROM <%* tR += tx.buildHierarchicalTag(["cours", cours, "planseance"]) %>
 SORT ClasseNum asc
 WHERE Session AND Session = "<%* tR += session.toUpperCase() %>"
 ```
