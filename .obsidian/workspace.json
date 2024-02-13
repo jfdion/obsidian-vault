@@ -11,12 +11,8 @@
             "id": "f8ee758ffbe74cd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,8 +169,10 @@
   },
   "active": "f8ee758ffbe74cd4",
   "lastOpenFiles": [
-    "Kekw.md",
+    "Software development/OOP/Law of Demeter.md",
+    "Articles/Mocks Aren't Stubs.md",
     "Home.md",
+    "Kekw.md",
     "conflict-files-obsidian-git.md",
     "Extensions/Templates/L1 Meeting Template.md",
     "Extensions/Templates/L3 Meeting Template.md",
@@ -210,8 +204,6 @@
     "Cégep/Session H2024/Calendrier.md",
     "Cégep/Session H2024",
     "Articles to read.md",
-    "Cégep/2025H/Base de données 1/Semaine 1.md",
-    "Cégep/2025H/Base de données 1/Semaine 2.md",
     "Templater/scripts/Nouveau Document texte.txt",
     "schema.png",
     "v4q11k8t.bmp",
