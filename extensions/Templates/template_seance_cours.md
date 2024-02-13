@@ -1,11 +1,9 @@
----
-last_updated: <% tp.file.last_modified_date("YYYY-MM-DD ddd") %>
----
 #cours/420-W41-SF/ServicesWeb/planseance
 # Meta info
-
-^3d099a
-
+<%*
+const seance = tp.user.seanceTemplate()
+const cours = seance.nomCours()
+%>
 **Cours:** #cours/420-W41-SF/ServicesWeb
 
 **MOC:** [[420-W41-SF - Services Web - MOC]]
