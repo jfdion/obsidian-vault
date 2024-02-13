@@ -2,6 +2,13 @@ const DATE_FORMAT = `YYYY-MM-DD`
 const HOUR_FORMAT = `HH [h] mm`
 const DATE_HOUR_FORMAT = `${DATE_FORMAT} ${HOUR_FORMAT}`
 
+async function promptInt(tp, label = "Number") {
+    let value = await tp.system.prompt(label)
+
+    return parseInt(value, 10)
+}
+
+
 async function promptOnFilenameUntitled(tp) {
     let title = tp.file.title
     if (title.startsWith("Untitled")) {
