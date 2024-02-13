@@ -1,7 +1,9 @@
-const tx = require("./templaterExtender")
+// const tx = require("./templaterExtender.js")
 
 function nomCours(tp) {
-    console.log(tx.getParentFolder(tp))
+    console.log(app.plugins.plugins['templater-obsidian'])
+    console.log(app.vault.adapter.basePath)
+    // console.log(tx.getParentFolder(tp))
 }
 
 function seanceTemplate() {
