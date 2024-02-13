@@ -1,8 +1,9 @@
 <%*
-const seance = tp.user.seanceTemplate()
 const tx = tp.user.templaterExtender()
-const depth = await tx.promptInt(tp, "Nombre de dossiers à remonter")
+const depth = await tx.promptInt(tp, "Nombre de dossiers à remonter", 2)
+
+const seance = tp.user.seanceTemplate()
 const cours = seance.nomCours(tp, depth)
 
-tR += cours
+tR += tx.buildHierarchicalTag(["cours", cours])
 %>

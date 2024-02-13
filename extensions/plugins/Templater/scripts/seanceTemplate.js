@@ -4,8 +4,8 @@ const SCRIPT_FOLDER = `${APP_BASE_PATH}/${TEMPLATER_CONFIG.user_scripts_folder}`
 
 const tx = require(`${SCRIPT_FOLDER}/templaterExtender.js`)()
 
-function nomCours(tp) {
-    const folderName = tx.getParentFolder(tp, 2)
+function nomCours(tp, depth = 2) {
+    const folderName = tx.getParentFolder(tp, depth)
     return folderName[0].split(" - ").join("/").replace(" ", "")
 }
 

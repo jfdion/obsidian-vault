@@ -2,14 +2,14 @@ const DATE_FORMAT = `YYYY-MM-DD`
 const HOUR_FORMAT = `HH [h] mm`
 const DATE_HOUR_FORMAT = `${DATE_FORMAT} ${HOUR_FORMAT}`
 
-async function promptInt(tp, label = "Number") {
-    const value = await tp.system.prompt(label)
+async function promptInt(tp, label = "Number", placeholder = undefined) {
+    const value = await tp.system.prompt(label, toString(placeholder), true)
 
     return parseInt(value, 10)
 }
 
 async function promptStr(tp, label = "String", placeholder = undefined) {
-    const value = await tp.system.prompt(label, placeholder)
+    const value = await tp.system.prompt(label, placeholder, true)
 
     return value
 }
