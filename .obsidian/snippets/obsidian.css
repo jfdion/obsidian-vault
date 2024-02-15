@@ -1,4 +1,4 @@
-:root {
+body {
     /* HEADING SIZES */
     --h1-size: 1.42em;
     --h2-size: 1.33em;
@@ -7,8 +7,11 @@
     --h5-size: 1.12em;
     --h6-size: 1.12em;
 
+    /* FONTS */
+    --font-text-theme: Georgia, serif;
+
     /* NAV BAR */
-    --nav-item-size: 1.25em;
+    --nav-item-size: 0.9em;
 
     /* TABS */
     --tab-stacked-font-size: 24px;
