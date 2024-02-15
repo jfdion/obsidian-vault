@@ -18,69 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9da39f3276ae5e9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Messenger bag.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dba2b339f111a487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GPO - Windows start menu ads.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "242251cf66046351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cf6a2532f1e2a8c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/Examen Final.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc75c02c3ad6d3bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPO - Windows start menu ads.md",
+                "file": "Extensions/Templates/article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPO - Windows start menu ads.md",
+                "file": "Extensions/Templates/article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPO - Windows start menu ads.md"
+                "file": "Extensions/Templates/article.md"
               }
             }
           },
@@ -224,10 +163,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dba2b339f111a487",
+  "active": "f8ee758ffbe74cd4",
   "lastOpenFiles": [
+    "0.0 Références/Snippets/GPO - Windows start menu ads.md",
     "Messenger bag.md",
-    "GPO - Windows start menu ads.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/Examen Final.md",
