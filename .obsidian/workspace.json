@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/Examen Final.md",
                 "mode": "preview",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md"
               }
             }
           },
@@ -212,11 +212,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf6a2532f1e2a8c1",
+  "active": "9da39f3276ae5e9e",
   "lastOpenFiles": [
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/Examen Final.md",
+    "1.0 Cours enseignés/1.02 Idées/Examen BD I - SQL.md",
+    "Home.md",
     "Messenger bag.md",
     "conflict-files-obsidian-git.md",
-    "Home.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 3 - 2024-02-13.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 5 - 2024-02-27.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
@@ -233,12 +236,9 @@
     "Extensions/Templates/template_seance_cours.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
     "Extensions/Templates/template_moc.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
     "Extensions/Templates/macro_rating.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/Examen Final.md",
     "^Rétroaction.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/Untitled.md",
-    "1.0 Cours enseignés/1.02 Idées/Examen BD I - SQL.md",
     "Cégep/PÉA/Correction.md",
     "1.0 Cours enseignés/1.02 Idées",
     "0.0 Références",
