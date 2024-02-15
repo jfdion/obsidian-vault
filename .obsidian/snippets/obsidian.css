@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
 body {
     /* HEADING SIZES */
     --h1-size: 1.42em;
@@ -9,14 +11,14 @@ body {
 
     /* FONTS */
     --font-interface-override: "Source Code Pro", serif;
-    --font-text-override: "Source Sans Pro", sans-serif;
+    --font-text-override: "Source Sans 3", sans-serif;
 
     /* NAV BAR */
-    --nav-item-size: 0.9em;
+    --nav-item-size: 1.0em;
 
     /* TABS */
-    --tab-stacked-font-size: 24px;
-    --tab-stacked-font-weight: bold;
+    --tab-stacked-font-size: 1.1em;
+    --tab-stacked-font-weight: 450;
     --tab-stacked-text-transform: rotate(180deg);
     --tab-stacked-text-align: right;
 
