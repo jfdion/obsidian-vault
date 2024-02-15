@@ -5,8 +5,8 @@
   "textFontFamily": "",
   "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
   "enabledCssSnippets": [
-    "obsidian",
-    "extended-color-schemes"
+    "extended-color-schemes",
+    "obsidian"
   ],
   "baseFontSizeAction": true,
   "baseFontSize": 16,
