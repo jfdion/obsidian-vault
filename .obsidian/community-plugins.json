@@ -7,5 +7,13 @@
   "emoji-shortcodes",
   "obsidian-tasks-plugin",
   "obsidian-checklist-plugin",
-  "multi-column-markdown"
+  "multi-column-markdown",
+  "better-word-count",
+  "calendar",
+  "highlightr-plugin",
+  "janitor",
+  "media-extended",
+  "nldates-obsidian",
+  "obsidian-plugin-update-tracker",
+  "obsidian-reading-time"
 ]

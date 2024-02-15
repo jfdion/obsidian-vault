@@ -144,6 +144,14 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "4f5183813ca65249",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -163,7 +171,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8ee758ffbe74cd4",
+  "active": "25c3dd049cf688dd",
   "lastOpenFiles": [
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 2 - 2024-02-05.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 1 - 2024-01-30.md",
