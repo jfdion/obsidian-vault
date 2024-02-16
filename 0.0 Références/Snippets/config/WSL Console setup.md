@@ -20,5 +20,12 @@ Activation pour l'invite de commande par défaut
 ```bash
 chsh -s $(which zsh)
 ```
+
+## Install FZF
+```bash
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+~/.fzf/install
+fzf --version
+```
 ## References
 * Voir [[Nerd fonts]] pour les polices de caractères avec les glyphes
