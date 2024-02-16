@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.0 Références/Resources/Nerd fonts.md",
+                "file": "0.0 Références/Snippets/config/WSL Console setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chezmoi.md",
+                "file": "0.0 Références/Snippets/config/WSL Console setup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chezmoi.md",
+                "file": "0.0 Références/Snippets/config/WSL Console setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chezmoi.md",
+                "file": "0.0 Références/Snippets/config/WSL Console setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chezmoi.md"
+                "file": "0.0 Références/Snippets/config/WSL Console setup.md"
               }
             }
           },
@@ -185,11 +184,11 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "823657c597ff50e0",
+  "active": "b0b471d0446e99a7",
   "lastOpenFiles": [
-    "Chezmoi.md",
-    "0.0 Références/Resources/Nerd fonts.md",
     "0.0 Références/Snippets/config/Powershell profile config.md",
+    "0.0 Références/Snippets/config/WSL Console setup.md",
+    "0.0 Références/Resources/Nerd fonts.md",
     "0.0 Références/Snippets/json/Windows powershell color theme.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 3 - 2024-02-13.md",
