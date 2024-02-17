@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.0 Références/Resources/WSL-CMD/WSL Console setup.md",
+                "file": "0.0 Références/Resources/GPO - Windows start menu ads.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0 Références/Resources/WSL-CMD/WSL Console setup.md",
+                "file": "0.0 Références/Resources/GPO - Windows start menu ads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0 Références/Resources/WSL-CMD/WSL Console setup.md",
+                "file": "0.0 Références/Resources/GPO - Windows start menu ads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0 Références/Resources/WSL-CMD/WSL Console setup.md"
+                "file": "0.0 Références/Resources/GPO - Windows start menu ads.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "65a7e1fef923c011",
   "lastOpenFiles": [
-    "0.0 Références/Resources/WSL-CMD/Powershell profile config.md",
     "0.0 Références/Resources/WSL-CMD/WSL Console setup.md",
+    "0.0 Références/Resources/WSL-CMD/Powershell profile config.md",
     "0.0 Références/Resources/WSL-CMD",
     "0.0 Références/Resources/WSL-CMD/1Password + WSL.md",
     "Home.md",

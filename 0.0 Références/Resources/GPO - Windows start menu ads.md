@@ -25,9 +25,9 @@ Menu démarrer
 Aller à `Computer configuration > Administrative templates > Windows Components > Cloud Content`
 
 ## Étape 3
-Double click Turn off Microsoft consumer experiences
+Double click `Turn off cloud optimized content` + `Turn off Microsoft consumer experience`.
 
-Et activer la policy
+Et activer les policies
 ## Étape 4
 
 Redémarrer l'ordinateur
