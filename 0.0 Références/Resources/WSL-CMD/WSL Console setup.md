@@ -3,6 +3,7 @@ tags:
   - "#code"
   - "#snippet"
   - "#bash"
+  - "#powershell"
 language: bash
 created: 2024-02-15 Thu
 last_updated: 2024-02-15 Thu
@@ -14,6 +15,10 @@ Installation + checkout des `dotfiles`. S'installe dans le dossier `/bin` relati
 sh -c "$(curl -fsLS get.chezmoi.io)" -- init --apply git@github.com:jfdion/dotfiles.git
 ```
 https://www.chezmoi.io/install/#one-line-binary-install
+## Installer ZSH
+```bash
+sudo apt-get install zsh
+```
 ## Activer ZSH
 Activation pour l'invite de commande par défaut
 ```bash
@@ -23,6 +28,10 @@ chsh -s $(which zsh)
 ```bash
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ~/.fzf/install
+```
+
+Redémarrer la console 
+```bash
 fzf --version
 ```
 ## References

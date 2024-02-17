@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.0 Références/Resources/1Password + WSL.md",
+                "file": "0.0 Références/Resources/WSL-CMD/WSL Console setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wsl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0 Références/Resources/1Password + WSL.md",
+                "file": "0.0 Références/Resources/WSL-CMD/WSL Console setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0 Références/Resources/1Password + WSL.md",
+                "file": "0.0 Références/Resources/WSL-CMD/WSL Console setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0 Références/Resources/1Password + WSL.md"
+                "file": "0.0 Références/Resources/WSL-CMD/WSL Console setup.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "65a7e1fef923c011",
   "lastOpenFiles": [
-    "0.0 Références/Snippets/config/WSL Console setup.md",
-    "0.0 Références/Resources/1Password + WSL.md",
+    "0.0 Références/Resources/WSL-CMD/Powershell profile config.md",
+    "0.0 Références/Resources/WSL-CMD/WSL Console setup.md",
+    "0.0 Références/Resources/WSL-CMD",
+    "0.0 Références/Resources/WSL-CMD/1Password + WSL.md",
     "Home.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
     "2024-02-15.md",
@@ -178,9 +180,8 @@
     "0.0 Références/Snippets/sql 🐷/Temporary table.md",
     "0.0 Références/Snippets/sql 🐷/Create table.md",
     "0.0 Références/Resources/Nerd fonts.md",
-    "0.0 Références/Snippets/json/Windows powershell color theme.md",
-    "0.0 Références/Snippets/config/Powershell profile config.md",
-    "0.0 Références/Snippets/json/oh-my-posh-overrides.md",
+    "0.0 Références/Resources/WSL-CMD/Windows powershell color theme.md",
+    "0.0 Références/Resources/WSL-CMD/oh-my-posh-overrides.md",
     "Messenger bag.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
@@ -194,7 +195,6 @@
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 3 - 2024-02-13.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 2 - 2024-02-06.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 1 - 2024-01-30.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web",
@@ -204,7 +204,6 @@
     "1.0 Cours enseignés",
     "0.0 Références/Snippets/sql 🐷",
     "0.0 Références/Snippets/php",
-    "0.0 Références/Snippets/js-ts",
     "v4q11k8t.bmp",
     "Untitled.canvas"
   ]
