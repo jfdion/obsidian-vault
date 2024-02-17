@@ -14,13 +14,11 @@ Installation + checkout des `dotfiles`. S'installe dans le dossier `/bin` relati
 sh -c "$(curl -fsLS get.chezmoi.io)" -- init --apply git@github.com:jfdion/dotfiles.git
 ```
 https://www.chezmoi.io/install/#one-line-binary-install
-
 ## Activer ZSH
 Activation pour l'invite de commande par défaut
 ```bash
 chsh -s $(which zsh)
 ```
-
 ## Install FZF
 ```bash
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
