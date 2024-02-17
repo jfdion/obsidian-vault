@@ -1,7 +1,6 @@
 ---
 tags:
-  - "#code"
-  - "#snippet"
+  - "#resource"
   - "#sysadmin"
 language: GPO
 created: 2024-02-15 Thu
