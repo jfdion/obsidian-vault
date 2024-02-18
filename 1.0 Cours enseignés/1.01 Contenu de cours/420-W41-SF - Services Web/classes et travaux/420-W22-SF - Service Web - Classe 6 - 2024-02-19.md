@@ -20,7 +20,8 @@ Premier cours de la prise en charge. Me présenter aux étudiants et faire un su
 Remises:: <span class="chip na">NA</span>
 
 # Matériel du cours
-* Présentation (Google Drive)
+* [Questionnaire « qui êtes vous » (Sharepoint)](https://forms.office.com/Pages/DesignPageV2.aspx?prevorigin=shell&origin=NeoPortalPage&subpage=design&id=alNVMAoTL0mKYjkb23nJ6TsN1icS-f1KpXdHdqRxfGlUMFA3QjZTT0dXVjZHUkdaMUFUQllHR0VYRC4u)
+	* lien court https://forms.office.com/r/Ese1HymQVX
 * Excercices (Google Drive)
 
 # Notes
