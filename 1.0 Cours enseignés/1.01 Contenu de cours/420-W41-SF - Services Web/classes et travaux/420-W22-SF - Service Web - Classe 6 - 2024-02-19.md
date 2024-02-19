@@ -16,6 +16,12 @@ Status:: <span class="chip not-ready">à faire</span>
 **Thème:**
 Premier cours de la prise en charge. Me présenter aux étudiants et faire un survol de la matière vue jusqu'à présent.
 
+* Présentation
+* Gitlab - M'ajouter comme contributeur du GROUPE
+* Présentation des tests bout-en-bouts
+* Démo de codage
+* Temps libre TP1
+
 **Remises:**  
 Remises:: <span class="chip na">NA</span>
 
