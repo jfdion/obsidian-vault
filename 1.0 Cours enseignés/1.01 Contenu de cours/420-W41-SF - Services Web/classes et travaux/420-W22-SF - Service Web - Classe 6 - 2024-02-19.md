@@ -11,7 +11,7 @@ Semaine:: 3
 Heure:: 11:00 à 13:00  
 ClasseNum:: 6
 
-Status:: <span class="chip not-ready">à faire</span>
+Status:: <span class="chip done">done</span>
 
 **Thème:**
 Premier cours de la prise en charge. Me présenter aux étudiants et faire un survol de la matière vue jusqu'à présent.
@@ -32,6 +32,8 @@ Remises:: <span class="chip na">NA</span>
 
 # Notes
 * Retour sur la démo des tests E2E - Le Get `/books/id`
+* Faire un rappel pour le compte GitLab `jf_dion`
+* Faire le tour du TP1 au prochain cours
 # Rétroaction
 ⭐⭐⭐⭐⭐⭐Rating:: 6 / 10
 * Manque les feuilles de présence
