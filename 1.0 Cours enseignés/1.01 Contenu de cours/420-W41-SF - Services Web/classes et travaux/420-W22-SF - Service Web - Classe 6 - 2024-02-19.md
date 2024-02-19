@@ -31,8 +31,9 @@ Remises:: <span class="chip na">NA</span>
 * Excercices (Google Drive)
 
 # Notes
-
+* Retour sur la démo des tests E2E - Le Get `/books/id`
 # Rétroaction
-(alt+e - [[macro_rating]])
-
+⭐⭐⭐⭐⭐⭐Rating:: 6 / 10
+* Manque les feuilles de présence
+* Aisance à développer
 
