@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.0 Références/Resources/SQL games/SQL Murder Mystery Solution.md",
+                "file": "1.0 Cours enseignés/1.02 Idées/Projet BD I - Création et gestion d'une guilde.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0 Références/Resources/SQL games/SQL Murder Mystery Solution.md",
+                "file": "1.0 Cours enseignés/1.02 Idées/Projet BD I - Création et gestion d'une guilde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0 Références/Resources/SQL games/SQL Murder Mystery Solution.md",
+                "file": "1.0 Cours enseignés/1.02 Idées/Projet BD I - Création et gestion d'une guilde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0 Références/Resources/SQL games/SQL Murder Mystery Solution.md"
+                "file": "1.0 Cours enseignés/1.02 Idées/Projet BD I - Création et gestion d'une guilde.md"
               }
             }
           },
@@ -174,33 +174,33 @@
   },
   "active": "823657c597ff50e0",
   "lastOpenFiles": [
+    "1.0 Cours enseignés/1.02 Idées/Examen BD I - SQL.md",
+    "1.0 Cours enseignés/1.02 Idées/Projet BD I - Création et gestion d'une guilde.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 3 - 2024-02-07.md",
+    "0.0 Références/Articles to read.md",
+    "0.0 Références/0.2 Resources/Johnny.Decimal.md",
+    "0.0 Références/0.2 Resources/SQL games/SQL Murder Mystery Solution.md",
     "0.0 Références/Resources/SQL games.md",
-    "0.0 Références/Resources/SQL games/SQL Murder Mystery Solution.md",
     "0.0 Références/Resources/SQL games/SQL Murder Mystery.md",
-    "0.0 Références/Resources/Rest API Tutorial.md",
+    "0.0 Références/0.2 Resources/Rest API Tutorial.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
     "Home.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md",
-    "0.0 Références/Resources/WSL-CMD/oh-my-posh-overrides.md",
-    "0.0 Références/Resources/WSL-CMD/Powershell profile config.md",
+    "0.0 Références/0.2 Resources/WSL-CMD/oh-my-posh-overrides.md",
+    "0.0 Références/0.2 Resources/WSL-CMD/Powershell profile config.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
     "0.0 Références/Snippets/config/WSL Console setup.md",
-    "0.0 Références/Resources/WSL-CMD/WSL Console setup.md",
-    "0.0 Références/Resources/WSL-CMD/Windows powershell color theme.md",
-    "0.0 Références/Resources/WSL-CMD/1Password + WSL.md",
-    "0.0 Références/Resources/WSL-CMD",
-    "0.0 Références/Resources/GPO - Windows start menu ads.md",
+    "0.0 Références/0.2 Resources/WSL-CMD/WSL Console setup.md",
+    "0.0 Références/0.2 Resources/WSL-CMD/Windows powershell color theme.md",
+    "0.0 Références/0.2 Resources/WSL-CMD/1Password + WSL.md",
+    "0.0 Références/0.2 Resources/WSL-CMD",
+    "0.0 Références/0.2 Resources/GPO - Windows start menu ads.md",
     "0.0 Références/Snippets/config/Powershell profile config.md",
-    "0.0 Références/Resources/Nerd fonts.md",
+    "0.0 Références/0.2 Resources/Nerd fonts.md",
     "0.0 Références/Snippets/json/Windows powershell color theme.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 3 - 2024-02-13.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 2 - 2024-02-06.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 1 - 2024-01-30.md",
-    "2024-02-15.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 1 - 2024-01-30.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 2 - 2024-02-05.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 5 - 2024-02-14.md",
     "1.0 Cours enseignés/1.02 Idées",
     "0.0 Références",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/archives",
