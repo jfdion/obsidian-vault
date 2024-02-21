@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
+                "file": "0.0 Références/Resources/SQL games/SQL Murder Mystery Solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
+                "file": "0.0 Références/Resources/SQL games/SQL Murder Mystery Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
+                "file": "0.0 Références/Resources/SQL games/SQL Murder Mystery Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md"
+                "file": "0.0 Références/Resources/SQL games/SQL Murder Mystery Solution.md"
               }
             }
           },
@@ -174,6 +174,11 @@
   },
   "active": "823657c597ff50e0",
   "lastOpenFiles": [
+    "0.0 Références/Resources/SQL games.md",
+    "0.0 Références/Resources/SQL games/SQL Murder Mystery Solution.md",
+    "0.0 Références/Resources/SQL games/SQL Murder Mystery.md",
+    "0.0 Références/Resources/Rest API Tutorial.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
     "Home.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md",
@@ -189,7 +194,6 @@
     "0.0 Références/Snippets/config/Powershell profile config.md",
     "0.0 Références/Resources/Nerd fonts.md",
     "0.0 Références/Snippets/json/Windows powershell color theme.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 3 - 2024-02-13.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 2 - 2024-02-06.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 1 - 2024-01-30.md",
@@ -197,10 +201,6 @@
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 1 - 2024-01-30.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 2 - 2024-02-05.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 5 - 2024-02-14.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 5 - 2024-02-27.md",
-    "Extensions/Templates/article.md",
-    "0.0 Références/Snippets/GPO - Windows start menu ads.md",
-    "Messenger bag.md",
     "1.0 Cours enseignés/1.02 Idées",
     "0.0 Références",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/archives",

@@ -25,7 +25,7 @@ SELECT sql
   FROM sqlite_master
  where name = 'crime_scene_report' -- changer le nom de la table pour celle dont vous voulez récupréer le schéma
 ```
-### Rapport de scène de crime
+### Rapport du crime
 Récupérer la liste des crimes correspondants à  des meurtres à SQL City
 ```SQL
 SELECT * 
