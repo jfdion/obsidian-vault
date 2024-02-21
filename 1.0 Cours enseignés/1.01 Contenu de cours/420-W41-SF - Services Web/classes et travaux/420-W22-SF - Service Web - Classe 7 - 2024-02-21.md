@@ -14,9 +14,9 @@ ClasseNum:: 7
 
 Status:: <span class="chip ready">prêt</span> 
 
-**Thème:**
-Travail sur le TP1
-* Retour sur l
+**Thème**:: Travail sur le TP1
+* Retour sur le test E2E d'obtention d'une ressource
+* Présentation en profondeur du TP 1
 
 **Remises:**  
 Remises:: <span class="chip na">na</span>
@@ -34,10 +34,9 @@ Remises:: <span class="chip na">na</span>
 | Accueil et prise des présences | 5 m |
 | Retour sur le test d'obtention du dernier cours | 15 m |
 | Présentation de l'énnoncé du TP 1 et survol du code | 30 m |
-|  * Rappel sur le compte GitLab (réutiliser la présentation) | Pendant la pause |
+|  **Rappel sur le compte GitLab (réutiliser la présentation)** | Pendant la pause |
 | Travail libre sur le TP 1<br><br> | 50 m |
 # Notes
 
 # Rétroaction
 (alt+e - [[macro_rating]])
-## Détails
