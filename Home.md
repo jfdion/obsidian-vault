@@ -8,6 +8,6 @@ WHERE Session AND Session = "H24" AND Type AND Type = "MOC"
 ```dataview
 TABLE Cours, Date as "Date  ↑", Status, Semaine, ClasseNum as "Séance"
 FROM #planseance
-WHERE date AND date >= date(today) AND date < date(today) + dur(10 days)
+WHERE session = "H24"
 SORT Date asc
 ```
