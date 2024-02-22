@@ -37,7 +37,8 @@ Remises:: <span class="chip na">na</span>
 |  **Rappel sur le compte GitLab (réutiliser la présentation)** | Pendant la pause |
 | Travail libre sur le TP 1<br><br> | 50 m |
 # Notes
-* Bug actor create - mapping null
+* ✅ Bug actor create - mapping null
+	* Fausse alerte, mapping `@RequestBody` manquant
 * Extension pour la réalisation du TP?
 * Démo pour le test sans comparer le DTO
 	* 1 objet
