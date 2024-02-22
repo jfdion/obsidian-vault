@@ -20,3 +20,5 @@ FROM <%* tR += tx.buildHierarchicalTag(["cours", cours, "planseance"]) %>
 SORT ClasseNum asc
 WHERE Session AND Session = "<%* tR += session.toUpperCase() %>"
 ```
+
+Template:: [[template_moc]]
