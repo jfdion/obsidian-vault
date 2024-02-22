@@ -36,3 +36,5 @@ Remises::
 
 # Rétroaction
 (alt+e - [[macro_rating]])
+
+Template:: [[template_seance_cours]]

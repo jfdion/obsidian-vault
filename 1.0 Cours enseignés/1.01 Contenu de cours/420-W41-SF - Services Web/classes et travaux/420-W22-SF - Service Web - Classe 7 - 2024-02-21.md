@@ -1,13 +1,13 @@
-#cours/420-W41-SF/ServicesWeb/planseance
+#cours/420-W41-SF/ServicesWeb/planseance #planseance
 # Meta info
 
-**Cours**:: #cours/420-W41-SF/ServicesWeb #planseance
+**Cours**:: #cours/420-W41-SF/ServicesWeb 
 
 **MOC:** 
 
 Session:: H24
 
-Date::  "2024-02-21"  
+Date::  2024-02-21
 Semaine:: 4
 Heure:: 16:00 à 18:00  
 ClasseNum:: 7
