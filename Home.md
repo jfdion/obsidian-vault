@@ -4,9 +4,9 @@ TABLE Session
 FROM #cours 
 WHERE Session AND Session = "H24" AND Type AND Type = "MOC"
 ```
-# Séances à venir (10 jours)
+# Séances de la session
 ```dataview
-TABLE Cours, Date as "Date  ↑", Status, Semaine, ClasseNum as "Séance"
+TABLE Cours, Date as "Date  ↑", Status, Semaine, ClasseNum as "Séance", Rating
 FROM #planseance
 WHERE session = "H24"
 SORT Date asc
