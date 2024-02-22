@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extensions/Templates/template_moc.md",
-                "mode": "preview",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extensions/Templates/template_moc.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extensions/Templates/template_moc.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extensions/Templates/template_moc.md"
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md"
               }
             }
           },
@@ -192,9 +192,11 @@
   },
   "active": "b0f65fc7a56add1e",
   "lastOpenFiles": [
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md",
+    "extensions/Templates/template_moc.md",
     "extensions/Templates/template_seance_cours.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 5 - 2024-02-27.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 5 - 2024-02-14.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
@@ -224,8 +226,6 @@
     "0.0 Références/0.2 Resources/GPO - Windows start menu ads.md",
     "0.0 Références/0.2 Resources",
     "0.0 Références/0.1 Articles/Richardson Maturity Model.md",
-    "0.0 Références/0.1 Articles/Mocks Aren't Stubs.md",
-    "0.0 Références/0.1 Articles/DRY is about Knowledge.md",
     "0.0 Références/0.1 Articles",
     "0.0 Références/Resources/Windows",
     "v4q11k8t.bmp",
