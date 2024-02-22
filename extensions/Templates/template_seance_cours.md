@@ -36,4 +36,3 @@ Remises::
 
 # Rétroaction
 (alt+e - [[macro_rating]])
-## Détails

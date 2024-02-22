@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ccc3cb723c0d7793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d40d60296c4cd467",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -176,44 +189,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65a7e1fef923c011",
+  "active": "ccc3cb723c0d7793",
   "lastOpenFiles": [
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 5 - 2024-02-27.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
+    "conflict-files-obsidian-git.md",
+    "0.0 Références/0.3 Snippets/sql 🐷/Temporary table.md",
+    "0.0 Références/0.3 Snippets/sql 🐷/Create table.md",
+    "0.0 Références/0.3 Snippets/php/Repository as collection.md",
+    "0.0 Références/0.3 Snippets/js-ts/Gameloop.md",
+    "0.0 Références/0.3 Snippets/go/Makefile.md",
+    "0.0 Références/0.3 Snippets/sql 🐷",
+    "0.0 Références/0.3 Snippets/php",
+    "0.0 Références/0.3 Snippets/js-ts",
+    "0.0 Références/0.3 Snippets/go",
+    "0.0 Références/0.3 Snippets",
+    "0.0 Références/0.2 Resources/WSL-CMD/WSL Console setup.md",
+    "0.0 Références/0.2 Resources/WSL-CMD/Windows powershell color theme.md",
+    "0.0 Références/0.2 Resources/WSL-CMD/Powershell profile config.md",
+    "0.0 Références/0.2 Resources/WSL-CMD/oh-my-posh-overrides.md",
+    "0.0 Références/0.2 Resources/WSL-CMD/1Password + WSL.md",
+    "0.0 Références/0.2 Resources/SQL games/SQL Murder Mystery Solution.md",
+    "0.0 Références/0.2 Resources/WSL-CMD",
+    "0.0 Références/0.2 Resources/SQL games",
+    "0.0 Références/0.2 Resources/Rest API Tutorial.md",
+    "0.0 Références/0.2 Resources/Nerd fonts.md",
+    "0.0 Références/0.2 Resources/Johnny.Decimal.md",
+    "0.0 Références/0.2 Resources/GPO - Windows start menu ads.md",
+    "0.0 Références/0.2 Resources",
+    "0.0 Références/0.1 Articles/Richardson Maturity Model.md",
+    "0.0 Références/0.1 Articles/Mocks Aren't Stubs.md",
+    "0.0 Références/0.1 Articles/DRY is about Knowledge.md",
+    "0.0 Références/0.1 Articles",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 5 - 2024-02-27.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 2 - 2024-02-06.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 1 - 2024-01-30.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
     "0.0 Références/Resources/Nerd fonts.md",
     "0.0 Références/Resources/Johnny.Decimal.md",
-    "0.0 Références/Resources/Windows/Windows désactiver Bing menu recherche.md",
-    "0.0 Références/Resources/Windows/GPO - Windows start menu ads.md",
     "0.0 Références/Resources/Windows",
-    "0.0 Références/Resources/WSL-CMD/WSL Console setup.md",
-    "0.0 Références/Resources/WSL-CMD/Powershell profile config.md",
-    "0.0 Références/Resources/WSL-CMD",
-    "0.0 Références/Resources/WSL-CMD/1Password + WSL.md",
-    "Home.md",
-    "2024-02-15.md",
-    "0.0 Références/Snippets/sql 🐷/Temporary table.md",
-    "0.0 Références/Snippets/sql 🐷/Create table.md",
-    "0.0 Références/Resources/WSL-CMD/Windows powershell color theme.md",
-    "0.0 Références/Resources/WSL-CMD/oh-my-posh-overrides.md",
-    "Messenger bag.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
-    "conflict-files-obsidian-git.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 4 - 2024-02-12.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 5 - 2024-02-14.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 3 - 2024-02-07.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 2 - 2024-02-05.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I",
-    "1.0 Cours enseignés/1.02 Idées",
-    "1.0 Cours enseignés/1.01 Contenu de cours",
-    "1.0 Cours enseignés",
-    "0.0 Références/Snippets/sql 🐷",
     "v4q11k8t.bmp",
     "Untitled.canvas"
   ]

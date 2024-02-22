@@ -4,11 +4,10 @@ tags:
   - "#solution"
 created: 2024-01-31 Wed
 from: "[[SQL games]]"
-
-AutoNoteMover: disable
 ---
 # SQL Murder Mystery
 *Can you find out whodunnit?*
+https://mystery.knightlab.com/
 ## Partie 1
 ### Tables
 Permet de récupérer les tables du schéma
@@ -25,7 +24,7 @@ SELECT sql
   FROM sqlite_master
  where name = 'crime_scene_report' -- changer le nom de la table pour celle dont vous voulez récupréer le schéma
 ```
-### Rapport de scène de crime
+### Rapport du crime
 Récupérer la liste des crimes correspondants à  des meurtres à SQL City
 ```SQL
 SELECT * 
