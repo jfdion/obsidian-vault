@@ -37,6 +37,13 @@ Remises:: <span class="chip na">na</span>
 |  **Rappel sur le compte GitLab (réutiliser la présentation)** | Pendant la pause |
 | Travail libre sur le TP 1<br><br> | 50 m |
 # Notes
+* Bug actor create - mapping null
+* Extension pour la réalisation du TP?
+* Démo pour le test sans comparer le DTO
+	* 1 objet
+	* 1 liste d'objets
 
 # Rétroaction
-(alt+e - [[macro_rating]])
+⭐⭐⭐⭐⭐⭐⭐⭐Rating:: 8 / 10
+
+Travailler le TP avant l'atelier pour avoir le résultat final
