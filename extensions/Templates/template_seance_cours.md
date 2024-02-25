@@ -29,12 +29,12 @@ Status:: <span class="chip not-ready">à faire</span> | <span class="chip ready"
 Remises::
 
 # Matériel du cours
-* Notes de cours (Google Drive)
-* Excercices (Google Drive)
+* Notes de cours (Léa)
+* Énnoncés (Léa)
 # Contenu
 | Quoi | Durée |
 | ---- | ---- |
-| Activité | Durée en minutes |
+| Accueil et prise des présences | 5 m |
 | ... | ... |
 
 

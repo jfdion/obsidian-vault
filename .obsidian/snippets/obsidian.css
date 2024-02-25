@@ -98,7 +98,8 @@ body {
     background-color: var(--bg-chip-not-ready);
 }
 
-.chip.to-review {
+.chip.to-review,
+.chip.review {
     background-color: var(--bg-chip-to-review);
 }
 

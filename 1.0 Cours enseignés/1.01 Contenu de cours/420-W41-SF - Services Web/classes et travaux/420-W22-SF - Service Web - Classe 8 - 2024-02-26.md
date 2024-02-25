@@ -12,24 +12,23 @@ Semaine::
 Heure::11:00 à 13:00  
 ClasseNum:: 8
 
-Status:: <span class="chip not-ready">à faire</span> 
+Status:: <span class="chip ready">Ready</span> 
 
-**Thème:**
+**Thème:** Gestion des erreurs
 
 **Remises:**  
 Remises:: TP1 - Reporté
 
 # Matériel du cours
-* Notes de cours (Léa)
+* Notes de cours - Gestion des erreurs (Léa)
 * Énoncé du TP2 - US1
 # Contenu
-|Quoi|Durée|
-|---|---|
-|Accueil et prise des présences|5 m|
-|Retour sur le test d'obtention du dernier cours|15 m|
-|Présentation de l'énnoncé du TP 1 et survol du code|30 m|
-|**Rappel sur le compte GitLab (réutiliser la présentation)**|Pendant la pause|
-|Travail libre sur le TP 1|50 m|
+| Quoi | Durée |
+| ---- | ---- |
+| Accueil et prise des présences | 5 m |
+| Présentation de l'énnoncé du TP1 - US2 | 15 m |
+| Présentation de la théorie sur la gestion des erreurs | 30 m |
+| Travail libre sur le TP 1 | 50 m |
 # Notes
 
 # Rétroaction
