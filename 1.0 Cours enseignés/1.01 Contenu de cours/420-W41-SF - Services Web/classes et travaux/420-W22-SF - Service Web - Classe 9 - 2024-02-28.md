@@ -27,7 +27,7 @@ Remises::
 | ---- | ---- |
 | Accueil et prise des présences | 5 m |
 | Démo Exercice 4.1 | 45 m |
-| Démo Exercice 4.2 - option pour continuer l | 50 m |
+| Démo Exercice 4.2 - option pour continuer à la prochaine séance | 50 m |
 # Notes
 
 # Rétroaction
