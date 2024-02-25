@@ -17,10 +17,10 @@ Status:: <span class="chip not-ready">à faire</span>
 **Thème:**
 
 **Remises:**  
-Remises::
+Remises:: TP1 - Reporté
 
 # Matériel du cours
-* Présentation (Google Drive)
+* Notes de cours (Léa)
 * Excercices (Google Drive)
 
 # Notes
