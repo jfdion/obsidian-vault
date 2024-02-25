@@ -29,8 +29,14 @@ Status:: <span class="chip not-ready">à faire</span> | <span class="chip ready"
 Remises::
 
 # Matériel du cours
-* Présentation (Google Drive)
+* Notes de cours (Google Drive)
 * Excercices (Google Drive)
+# Contenu
+| Quoi | Durée |
+| ---- | ---- |
+| Activité | Durée en minutes |
+| ... | ... |
+
 
 # Notes
 
