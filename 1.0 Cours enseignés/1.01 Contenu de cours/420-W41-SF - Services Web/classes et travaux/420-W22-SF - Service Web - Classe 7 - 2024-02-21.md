@@ -40,11 +40,11 @@ Remises:: <span class="chip na">na</span>
 * ✅ Bug actor create - mapping null
 	* Fausse alerte, mapping `@RequestBody` manquant
 * Extension pour la réalisation du TP?
-* Démo pour le test sans comparer le DTO
+* ✅ Démo pour le test sans comparer le DTO
 	* 1 objet
 	* 1 liste d'objets
 
 # Rétroaction
 ⭐⭐⭐⭐⭐⭐⭐⭐Rating:: 8 / 10
 
-Travailler le TP avant l'atelier pour avoir le résultat final
+Travailler le TP avant l'atelier pour avoir le résultat final aiderait pour aider les étudiants
