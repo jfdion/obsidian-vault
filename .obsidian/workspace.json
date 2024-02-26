@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "378dee1f3200fa7a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -173,7 +184,7 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "823657c597ff50e0",
+  "active": "378dee1f3200fa7a",
   "lastOpenFiles": [
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 7 - 2024-02-21.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 8 - 2024-02-26.md",
