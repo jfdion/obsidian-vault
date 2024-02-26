@@ -1,26 +1,62 @@
 {
   "main": {
-    "id": "54749581c8edfe64",
+    "id": "e281756dc25fe72e",
     "type": "split",
     "children": [
       {
-        "id": "4125338cac67655f",
+        "id": "80c74306df211480",
         "type": "tabs",
         "children": [
           {
-            "id": "823657c597ff50e0",
+            "id": "65a7e1fef923c011",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 9 - 2024-02-28.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d40d60296c4cd467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "extensions/Templates/L1 Meeting Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0f65fc7a56add1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 7 - 2024-02-21.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9532e73c4535bdeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.0 Références/0.2 Resources/WSL-CMD/oh-my-posh-overrides.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cours/420-W41-SF/ServicesWeb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,36 +101,28 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "f99198045dc60372",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 423
+    "width": 300
   },
   "right": {
     "id": "bb738e2bffc7e4ca",
     "type": "split",
     "children": [
       {
-        "id": "a28b2cc65827d331",
+        "id": "80b24794e70ec942",
         "type": "tabs",
         "children": [
           {
-            "id": "b6e2b5c6d192f634",
+            "id": "2acd96348eb5ed4e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 9 - 2024-02-28.md",
+                "file": "0.0 Références/0.2 Resources/WSL-CMD/oh-my-posh-overrides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,40 +134,40 @@
             }
           },
           {
-            "id": "142d2eb7bdf4db56",
+            "id": "0fdea8d9fdcdab70",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 9 - 2024-02-28.md",
+                "file": "0.0 Références/0.2 Resources/WSL-CMD/oh-my-posh-overrides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1639df76f8c02ed7",
+            "id": "3bfc0805b6345bc7",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "32d2eb64dd362b9c",
+            "id": "2d12221c7932d577",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 9 - 2024-02-28.md"
+                "file": "0.0 Références/0.2 Resources/WSL-CMD/oh-my-posh-overrides.md"
               }
             }
           },
           {
-            "id": "2dc97615759a71e9",
+            "id": "a55799be2358231c",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -147,22 +175,23 @@
             }
           },
           {
-            "id": "4f5183813ca65249",
+            "id": "0a94411ec2e1de6a",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "media-extended:Open media": false,
+      "janitor:Janitor: scan vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,48 +199,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "janitor:Janitor: scan vault": false
+      "media-extended:Open media": false
     }
   },
-  "active": "823657c597ff50e0",
+  "active": "9532e73c4535bdeb",
   "lastOpenFiles": [
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 7 - 2024-02-21.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 8 - 2024-02-26.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
+    "0.0 Références/0.2 Resources/WSL-CMD/Powershell profile config.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 9 - 2024-02-28.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 8 - 2024-02-26.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 7 - 2024-02-21.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 5 - 2024-02-14.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 4 - 2024-02-12.md",
     "extensions/Templates/template_seance_cours.md",
     "Home.md",
-    "0.0 Références/Resources/Windows/Windows désactiver Bing menu recherche.md",
-    "0.0 Références/Resources/Windows/GPO - Windows start menu ads.md",
-    "0.0 Références/Resources/Windows",
-    "0.0 Références/Resources",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md",
-    "extensions/Templates/template_moc.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 5 - 2024-02-27.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 5 - 2024-02-14.md",
-    "1.0 Cours enseignés/1.02 Idées/Examen BD I - SQL.md",
-    "1.0 Cours enseignés/1.02 Idées/Projet d'enseignement BD I.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 3 - 2024-02-07.md",
-    "0.0 Références/Articles to read.md",
-    "0.0 Références/0.2 Resources/Johnny.Decimal.md",
-    "0.0 Références/0.2 Resources/SQL games/SQL Murder Mystery Solution.md",
-    "0.0 Références/Resources/SQL games.md",
-    "0.0 Références/Resources/SQL games/SQL Murder Mystery.md",
-    "0.0 Références/0.2 Resources/Rest API Tutorial.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 7 - 2024-02-19.md",
+    "extensions/Templates/template_moc.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 3 - 2024-02-13.md",
+    "conflict-files-obsidian-git.md",
+    "0.0 Références/0.3 Snippets/sql 🐷/Temporary table.md",
+    "0.0 Références/0.3 Snippets/sql 🐷/Create table.md",
+    "0.0 Références/0.3 Snippets/php/Repository as collection.md",
+    "0.0 Références/0.3 Snippets/js-ts/Gameloop.md",
+    "0.0 Références/0.3 Snippets/go/Makefile.md",
+    "0.0 Références/0.3 Snippets/sql 🐷",
+    "0.0 Références/0.3 Snippets/php",
+    "0.0 Références/0.3 Snippets/js-ts",
+    "0.0 Références/0.3 Snippets/go",
+    "0.0 Références/0.3 Snippets",
+    "0.0 Références/0.2 Resources/WSL-CMD/WSL Console setup.md",
+    "0.0 Références/0.2 Resources/WSL-CMD/Windows powershell color theme.md",
     "0.0 Références/0.2 Resources/WSL-CMD/oh-my-posh-overrides.md",
-    "0.0 Références/0.2 Resources/WSL-CMD/Powershell profile config.md",
-    "0.0 Références/Snippets/config/WSL Console setup.md",
+    "0.0 Références/0.2 Resources/WSL-CMD/1Password + WSL.md",
+    "0.0 Références/0.2 Resources/SQL games/SQL Murder Mystery Solution.md",
     "0.0 Références/0.2 Resources/WSL-CMD",
-    "1.0 Cours enseignés/1.02 Idées",
-    "0.0 Références",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/archives",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/archives",
-    "1.0 Cours enseignés/1.01 Contenu de cours",
-    "1.0 Cours enseignés",
-    "420-W41-SF - Services Web/Untitled",
-    "schema.png",
+    "0.0 Références/0.2 Resources/SQL games",
+    "0.0 Références/0.2 Resources",
+    "0.0 Références/0.1 Articles",
+    "0.0 Références/Resources/Windows",
     "v4q11k8t.bmp",
     "Untitled.canvas"
   ]

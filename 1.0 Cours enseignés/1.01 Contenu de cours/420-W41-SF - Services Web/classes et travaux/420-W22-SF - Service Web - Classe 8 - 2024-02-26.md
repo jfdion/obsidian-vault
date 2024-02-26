@@ -3,21 +3,21 @@
 
 **Cours**:: #cours/420-W41-SF/ServicesWeb #planseance
 
-**MOC:** 
+**MOC:**  [[420-W41-SF - Services Web - MOC]]
 
 Session:: H24
 
 Date::  2024-02-26  
-Semaine:: 
+Semaine:: 4
 Heure::11:00 à 13:00  
 ClasseNum:: 8
 
-Status:: <span class="chip ready">Ready</span> 
+Status:: <span class="chip ready">Prêt</span> 
 
-**Thème:** Gestion des erreurs
+**Thème**:: Gestion des erreurs
 
 **Remises:**  
-Remises:: TP1 - Reporté
+Remises:: TP1 - US1 @ 23h59
 
 # Matériel du cours
 * Notes de cours - Gestion des erreurs (Léa)
