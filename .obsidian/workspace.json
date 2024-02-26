@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.0 Références/0.2 Resources/WSL-CMD/oh-my-posh-overrides.md",
+                "file": "0.0 Références/0.2 Resources/Rest API Tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0 Références/0.2 Resources/WSL-CMD/oh-my-posh-overrides.md",
+                "file": "0.0 Références/0.2 Resources/Rest API Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0 Références/0.2 Resources/WSL-CMD/oh-my-posh-overrides.md",
+                "file": "0.0 Références/0.2 Resources/Rest API Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0 Références/0.2 Resources/WSL-CMD/oh-my-posh-overrides.md"
+                "file": "0.0 Références/0.2 Resources/Rest API Tutorial.md"
               }
             }
           },
@@ -204,8 +204,18 @@
   },
   "active": "9532e73c4535bdeb",
   "lastOpenFiles": [
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
+    "0.0 Références/Articles to read.md",
+    "0.0 Références/0.2 Resources/GPO - Windows start menu ads.md",
+    "0.0 Références/0.2 Resources/Windows désactiver Bing menu recherche.md",
+    "0.0 Références/Resources/Windows/GPO - Windows start menu ads.md",
+    "0.0 Références/0.2 Resources/Rest API Tutorial.md",
+    "0.0 Références/0.2 Resources/Nerd fonts.md",
+    "0.0 Références/0.2 Resources/Johnny.Decimal.md",
     "0.0 Références/0.2 Resources/WSL-CMD/Powershell profile config.md",
+    "0.0 Références/0.2 Resources/WSL-CMD/Windows powershell color theme.md",
+    "0.0 Références/0.2 Resources/WSL-CMD/WSL Console setup.md",
+    "0.0 Références/0.2 Resources/WSL-CMD/oh-my-posh-overrides.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 9 - 2024-02-28.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 8 - 2024-02-26.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 7 - 2024-02-21.md",
@@ -220,21 +230,11 @@
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 3 - 2024-02-13.md",
     "conflict-files-obsidian-git.md",
-    "0.0 Références/0.3 Snippets/sql 🐷/Temporary table.md",
-    "0.0 Références/0.3 Snippets/sql 🐷/Create table.md",
-    "0.0 Références/0.3 Snippets/php/Repository as collection.md",
-    "0.0 Références/0.3 Snippets/js-ts/Gameloop.md",
-    "0.0 Références/0.3 Snippets/go/Makefile.md",
     "0.0 Références/0.3 Snippets/sql 🐷",
     "0.0 Références/0.3 Snippets/php",
     "0.0 Références/0.3 Snippets/js-ts",
     "0.0 Références/0.3 Snippets/go",
     "0.0 Références/0.3 Snippets",
-    "0.0 Références/0.2 Resources/WSL-CMD/WSL Console setup.md",
-    "0.0 Références/0.2 Resources/WSL-CMD/Windows powershell color theme.md",
-    "0.0 Références/0.2 Resources/WSL-CMD/oh-my-posh-overrides.md",
-    "0.0 Références/0.2 Resources/WSL-CMD/1Password + WSL.md",
-    "0.0 Références/0.2 Resources/SQL games/SQL Murder Mystery Solution.md",
     "0.0 Références/0.2 Resources/WSL-CMD",
     "0.0 Références/0.2 Resources/SQL games",
     "0.0 Références/0.2 Resources",
