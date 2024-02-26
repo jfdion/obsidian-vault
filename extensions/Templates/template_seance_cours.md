@@ -23,7 +23,7 @@ ClasseNum:: <% tp.file.cursor(4) %>
 
 Status:: <span class="chip not-ready">à faire</span> | <span class="chip ready">prêt</span> | <span class="chip to-review">à réviser</span> | <span class="chip done">fait</span> | <span class="chip na">NA</span>
 
-**Thème:**
+**Thème**::
 
 **Remises:**  
 Remises::

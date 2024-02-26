@@ -11,7 +11,7 @@ Semaine:: 3
 Heure:: 11:00 à 13:00  
 ClasseNum:: 6
 
-Status:: <span class="chip done">done</span>
+Status:: <span class="chip done">fait</span>
 
 **Thème:**
 Premier cours de la prise en charge. Me présenter aux étudiants et faire un survol de la matière vue jusqu'à présent.

@@ -3,18 +3,18 @@
 
 **Cours**:: #cours/420-W41-SF/ServicesWeb #planseance
 
-**MOC:** 
+**MOC:** [[420-W41-SF - Services Web - MOC]]
 
 Session:: H24
 
 Date::  2024-02-28  
-Semaine:: 
+Semaine:: 5
 Heure:: 16:00 à 18:00  
 ClasseNum:: 9
 
 Status:: <span class="chip to-review">À réviser</span> 
 
-**Thème:** Gestion des erreurs (partie 2)
+**Thème**:: Gestion des erreurs (partie 2 - pratique)
 
 **Remises:**  
 Remises::

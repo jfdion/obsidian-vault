@@ -5,7 +5,6 @@ tags:
   - "#rest"
 created: 2024-02-06 Tue
 ---
-
 # Rest API Tutorial
 https://restfulapi.net/
 
