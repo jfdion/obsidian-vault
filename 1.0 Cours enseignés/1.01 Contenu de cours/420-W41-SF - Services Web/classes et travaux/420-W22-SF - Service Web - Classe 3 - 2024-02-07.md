@@ -15,8 +15,7 @@ Status:: <span class="chip na">NA</span>
 
 **Thème:**
 
-**Remises:**  
-Remises:: <span class="chip na">NA</span>
+**Remises**:: <span class="chip na">na</span>
 
 # Matériel du cours
 * Présentation (Google Drive)

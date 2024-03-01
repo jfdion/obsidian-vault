@@ -16,8 +16,8 @@ Status:: <span class="chip done">Fait</span>
 
 **Thème**:: Gestion des erreurs
 
-**Remises:**  
-Remises:: TP1 - US1 @ 23h59
+**Remises**:: TP1 - US1 @ 23h59
+
 
 # Matériel du cours
 * Notes de cours - Gestion des erreurs (Léa)

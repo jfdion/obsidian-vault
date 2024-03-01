@@ -1,24 +1,15 @@
-<%*
-const tx = tp.user.templaterExtender()
-const seance = tp.user.seanceTemplate()
-const cours = seance.nomCours(tp)
-
-const session = await tx.promptStr(tp, "Session (H|A + YY)")
-const date = await tx.promptStr(tp, "Date", tp.date.now())
-
-tR += tx.buildHierarchicalTag(["cours", cours, "planseance"])
-%>
+#cours//planseance
 #planseance
 # Meta info
 
-**Cours**:: <%* tR += tx.buildHierarchicalTag(["cours", cours]) %> 
+**Cours**:: #cours/ 
 
 **MOC:** 
 
-Session:: <%* tR += session.toUpperCase() %>
+Session:: H24
 
-Date::  <%* tR += date %>  
-Semaine:: <% tp.file.cursor(1) %>
+Date::  2024-03-06  
+Semaine:: 
 Heure:: <% tp.file.cursor(2) %>:00 à <% tp.file.cursor(3) %>:00  
 ClasseNum:: <% tp.file.cursor(4) %>
 
