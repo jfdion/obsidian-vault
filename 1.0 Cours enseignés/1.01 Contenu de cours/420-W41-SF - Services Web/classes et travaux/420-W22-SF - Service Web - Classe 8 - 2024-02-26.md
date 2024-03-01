@@ -12,7 +12,7 @@ Semaine:: 4
 Heure::11:00 à 13:00  
 ClasseNum:: 8
 
-Status:: <span class="chip ready">Prêt</span> 
+Status:: <span class="chip done">Fait</span> 
 
 **Thème**:: Gestion des erreurs
 

@@ -12,7 +12,7 @@ Semaine:: 5
 Heure:: 16:00 à 18:00  
 ClasseNum:: 9
 
-Status:: <span class="chip to-review">À réviser</span> 
+Status:: <span class="chip done">Fait</span> 
 
 **Thème**:: Gestion des erreurs (partie 2 - pratique)
 

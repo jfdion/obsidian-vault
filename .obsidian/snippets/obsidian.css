@@ -36,6 +36,7 @@ body {
     --bg-pink: #c28;
     --bg-purple: #82c;
     --bg-strawberry: #933;
+    --bg-cherry: #511;
     --bg-teal: #2c8;
 
     --bg-mid-gray: #999;
@@ -54,6 +55,7 @@ body {
     /** === Seance cours status === */
     --bg-chip-ready: var(--bg-green);
     --bg-chip-not-ready: var(--bg-strawberry);
+    --bg-chip-canceled: var(--bg-cherry);
     --bg-chip-to-review: var(--bg-amber);
     --bg-chip-done: var(--bg-light-blue);
     --bg-chip-na: var(--bg-dark-gray);
@@ -96,6 +98,11 @@ body {
 
 .chip.not-ready {
     background-color: var(--bg-chip-not-ready);
+}
+
+.chip.canceled {
+    background-color: var(--bg-chip-canceled);
+    text-decoration: line-through;
 }
 
 .chip.to-review,

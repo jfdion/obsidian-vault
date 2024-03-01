@@ -12,24 +12,25 @@ Semaine:: 5
 Heure:: 11:00 à 13:00  
 ClasseNum:: 10
 
-Status:: <span class="chip not-ready">à faire</span> | <span class="chip ready">prêt</span> | <span class="chip to-review">à réviser</span> | <span class="chip done">fait</span> | <span class="chip na">NA</span>
+Status::  <span class="chip to-review">à réviser</span> 
 
-**Thème**::
+**Thème**:: Test avec Mockito
 
 **Remises:**  
-Remises::
+Remises:: Exercice 4.1
+Remises:: Exercice 4.2
 
 # Matériel du cours
 * Notes de cours (Léa)
-* Énnoncés (Léa)
+* Énoncés (Léa)
 # Contenu
 | Quoi                                                                    | Durée |
 | ----------------------------------------------------------------------- | ----- |
 | Accueil et prise des présences                                          | 5 m   |
 | Retour sur les exceptions avec la cause                                 | 5 m   |
 | Retour sur l'énoncé du TP - 80 % du TP peut être complété immédiatement | 10 m  |
-| Contenu théor                                                           |       |
-
+| Contenu théorique pour Mockito                                          | 20 m  |
+| Démo Test Mockito - Exercice 5.1                                        | 1 h   |
 
 # Notes
 
