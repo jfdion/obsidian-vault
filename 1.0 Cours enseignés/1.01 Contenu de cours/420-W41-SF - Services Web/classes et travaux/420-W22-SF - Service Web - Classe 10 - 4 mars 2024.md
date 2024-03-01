@@ -30,6 +30,7 @@ Remises:: Exercice 4.2
 | Retour sur les exceptions avec la cause + Logger format                 | 5 m - 10 m |
 | Retour sur l'énoncé du TP - 80 % du TP peut être complété immédiatement | 10 m       |
 | Contenu théorique pour Mockito                                          | 20 m       |
+| PAUSE                                                                   |            |
 | Démo Test Mockito - Exercice 5.1                                        | 1 h        |
 
 # Notes
