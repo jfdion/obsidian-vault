@@ -34,6 +34,8 @@ Remises::
 	* Mon code n'avais pas les même noms que celui des étudiants
 
 # Rétroaction
-(alt+e - [[macro_rating]])
+⭐⭐⭐⭐⭐⭐⭐⭐Rating:: 8 / 10
+
+Bonne préparation. Le seul petit problème a été les exception avec la cause qui ne sortait pas comme résultat attendu dans la console
 
 Template:: [[template_seance_cours]]
