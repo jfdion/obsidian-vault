@@ -7,6 +7,11 @@ const session = await tx.promptStr(tp, "Session (H|A + YY)")
 const date = await tx.promptStr(tp, "Date", tp.date.now())
 
 tR += tx.buildHierarchicalTag(["cours", cours, "planseance"]) + " " + "#planseance"
+
+/** TODOS
+ * Déterminer la date à partir du nom du fichier (dernier segment)
+ * Ajouter un prompt pour les heures et la semaine
+*/
 %>
 # Meta info
 
@@ -31,10 +36,11 @@ Status:: <span class="chip not-ready">à faire</span> | <span class="chip ready"
 * Notes de cours (Léa)
 * Énnoncés (Léa)
 # Contenu
-| Quoi | Durée |
-| ---- | ---- |
-| Accueil et prise des présences | 5 m |
-| ... | ... |
+| Quoi                           | Durée |
+| ------------------------------ | ----- |
+| Accueil et prise des présences | 5 m   |
+| **PAUSE**                      | ...   |
+| ...                            | ...   |
 # Notes
 À compléter
 

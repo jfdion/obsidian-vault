@@ -19,9 +19,10 @@ Status::  <span class="chip ready">Prêt</span>
 **Remises**::  Exercice 4.1, Exercice 4.2
 
 # Matériel du cours
-* Notes de cours (Léa)
-* Énoncés (Léa)
+* [Notes de cours (Léa)](https://csfoy-lea.omnivox.ca/cvir/ddlp/VisualiseDocument.aspx?C=SFO&E=P&L=FRA&Ref=20240301145336&SID=52f4d918-1075-4a18-a00e-7b6a2557c903&Info=N1JNcHBsdExvN3FNeDZ1bWIzNjZNU1FmakpHcGoxNTFzU09lMDVzeXBjUDEwNE5CZGRDSENITmVmTndCbzBBTm80NndPbWNCL0tjdytOSE45QTgvRDlvMUJVejE3b1BIT3k4MkUzemh6TTljdXVOTmR2aEtvS3EzWWNqZGYybDlGbzNsK3pVNDhucitaTE9KU0JSbHBRPT0_&IDDocCoursDocument=fd3f9129-f845-4769-ad29-b36e698bc853)
+* [Exercice 5.1 (Léa)](https://csfoy-lea.omnivox.ca/cvir/rtrv/ReadDocumentTravail.aspx/Exercice_5.1_-_Tests_avec_Mockito.pdf?idtravail=4552a2c0-491a-4b97-8328-195787465ab7&iddocumenttravail=72dbc09c-7d09-48af-9da0-03980861cc61&C=SFO&E=P&L=FRA&Ref=20240301145518&SID=52f4d918-1075-4a18-a00e-7b6a2557c903&Info=dElTVTVlejVod3BwZUtKSXk2NEk3d0lRaUZJcEpFZnhCd29qU2t1S2llQ08vRjliY1FZQXdZREZaSktPeC93YWYxVUVMM2hsWXA0c2lrUmpyQW8vQnR0RnRGNDc1c0dQSG16OGpxNmRDdU9xVmdQbnJaYURrOEtCM0ZwdExzb0NjeVloN1YzNkFETHJHTUplVjB4dFZnPT0_)
 # Contenu
+
 | Quoi                                                                    | Durée      |
 | ----------------------------------------------------------------------- | ---------- |
 | Accueil et prise des présences                                          | 5 m        |
