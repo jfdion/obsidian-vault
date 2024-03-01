@@ -1,7 +1,7 @@
-#cours/420-W41-SF/ServicesWeb/planseance
+#cours/420-W41-SF/ServicesWeb/planseance #planseance
 # Meta info
 
-**Cours**:: #cours/420-W41-SF/ServicesWeb #planseance
+**Cours**:: #cours/420-W41-SF/ServicesWeb 
 
 **MOC:** 
 
@@ -12,13 +12,11 @@ Semaine:: 5
 Heure:: 11:00 à 13:00  
 ClasseNum:: 10
 
-Status::  <span class="chip to-review">à réviser</span> 
+Status::  <span class="chip ready">Prêt</span> 
 
 **Thème**:: Test avec Mockito
 
-**Remises:**  
-Remises:: Exercice 4.1
-Remises:: Exercice 4.2
+**Remises**::  Exercice 4.1, Exercice 4.2
 
 # Matériel du cours
 * Notes de cours (Léa)

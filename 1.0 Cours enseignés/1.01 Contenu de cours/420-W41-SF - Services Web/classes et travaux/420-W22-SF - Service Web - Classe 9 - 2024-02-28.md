@@ -1,7 +1,7 @@
-#cours/420-W41-SF/ServicesWeb/planseance
+#cours/420-W41-SF/ServicesWeb/planseance #planseance
 # Meta info
 
-**Cours**:: #cours/420-W41-SF/ServicesWeb #planseance
+**Cours**:: #cours/420-W41-SF/ServicesWeb 
 
 **MOC:** [[420-W41-SF - Services Web - MOC]]
 
@@ -16,8 +16,7 @@ Status:: <span class="chip done">Fait</span>
 
 **Thème**:: Gestion des erreurs (partie 2 - pratique)
 
-**Remises:**  
-Remises::
+**Remises**:: <span class="chip na">na</span>
 
 # Matériel du cours
 * Excercice 4.1 (Léa)
