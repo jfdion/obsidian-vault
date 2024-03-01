@@ -37,4 +37,6 @@ Status:: <span class="chip done">Fait</span>
 
 Bonne préparation. Le seul petit problème a été les exception avec la cause qui ne sortait pas comme résultat attendu dans la console
 
+> Les exceptions étaient correctes, la `stacktrace` commençait au début de la ligne précédente
+
 Template:: [[template_seance_cours]]

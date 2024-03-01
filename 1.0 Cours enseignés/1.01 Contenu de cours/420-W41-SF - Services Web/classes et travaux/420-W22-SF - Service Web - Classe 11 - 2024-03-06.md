@@ -1,32 +1,32 @@
-#cours//planseance
-#planseance
+#cours/420-W41-SF/ServicesWeb/planseance #planseance
 # Meta info
 
-**Cours**:: #cours/ 
+**Cours**:: #cours/420-W41-SF/ServicesWeb 
 
 **MOC:** 
 
 Session:: H24
 
 Date::  2024-03-06  
-Semaine:: 
-Heure:: <% tp.file.cursor(2) %>:00 à <% tp.file.cursor(3) %>:00  
-ClasseNum:: <% tp.file.cursor(4) %>
+Semaine:: 6
+Heure::16:00 à 18:00  
+ClasseNum:: 11
 
-Status:: <span class="chip not-ready">à faire</span> | <span class="chip ready">prêt</span> | <span class="chip to-review">à réviser</span> | <span class="chip done">fait</span> | <span class="chip na">NA</span>
+Status::  <span class="chip ready">prêt</span> 
 
-**Thème**::
+**Thème**:: Travail sur le TP1-US2
 
 **Remises**:: <span class="chip na">na</span>
 
 # Matériel du cours
-* Notes de cours (Léa)
-* Énnoncés (Léa)
 # Contenu
-| Quoi | Durée |
-| ---- | ---- |
-| Accueil et prise des présences | 5 m |
-| ... | ... |
+
+| Quoi                                          | Durée    |
+| --------------------------------------------- | -------- |
+| Accueil et prise des présences                | 5 m      |
+| Retour sur les tests avec Mockito             | 5 m      |
+| Questions / réponses générales sur le TP1-US2 | 10 m     |
+| Travail libre sur le TP1-US2                  | 1 h 30 m |
 # Notes
 À compléter
 

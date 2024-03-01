@@ -6,9 +6,8 @@ const cours = seance.nomCours(tp)
 const session = await tx.promptStr(tp, "Session (H|A + YY)")
 const date = await tx.promptStr(tp, "Date", tp.date.now())
 
-tR += tx.buildHierarchicalTag(["cours", cours, "planseance"])
+tR += tx.buildHierarchicalTag(["cours", cours, "planseance"]) + " " + "#planseance"
 %>
-#planseance
 # Meta info
 
 **Cours**:: <%* tR += tx.buildHierarchicalTag(["cours", cours]) %> 
