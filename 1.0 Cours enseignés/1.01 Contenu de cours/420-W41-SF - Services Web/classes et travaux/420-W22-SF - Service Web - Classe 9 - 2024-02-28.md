@@ -29,6 +29,9 @@ Remises::
 | Démo Exercice 4.1 | 45 m |
 | Démo Exercice 4.2 - option pour continuer à la prochaine séance | 50 m |
 # Notes
+* Juste assez de contenu pour compléter la séance en entier
+* Lorsque du code est fourni, s'assurer que les noms de packages sont compatibles
+	* Mon code n'avais pas les même noms que celui des étudiants
 
 # Rétroaction
 (alt+e - [[macro_rating]])
