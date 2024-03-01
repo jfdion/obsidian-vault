@@ -24,13 +24,13 @@ Remises:: Exercice 4.2
 * Notes de cours (Léa)
 * Énoncés (Léa)
 # Contenu
-| Quoi                                                                    | Durée |
-| ----------------------------------------------------------------------- | ----- |
-| Accueil et prise des présences                                          | 5 m   |
-| Retour sur les exceptions avec la cause                                 | 5 m   |
-| Retour sur l'énoncé du TP - 80 % du TP peut être complété immédiatement | 10 m  |
-| Contenu théorique pour Mockito                                          | 20 m  |
-| Démo Test Mockito - Exercice 5.1                                        | 1 h   |
+| Quoi                                                                    | Durée      |
+| ----------------------------------------------------------------------- | ---------- |
+| Accueil et prise des présences                                          | 5 m        |
+| Retour sur les exceptions avec la cause + Logger format                 | 5 m - 10 m |
+| Retour sur l'énoncé du TP - 80 % du TP peut être complété immédiatement | 10 m       |
+| Contenu théorique pour Mockito                                          | 20 m       |
+| Démo Test Mockito - Exercice 5.1                                        | 1 h        |
 
 # Notes
 
