@@ -30,8 +30,9 @@ Remises:: TP1 - US1 @ 23h59
 | Présentation de la théorie sur la gestion des erreurs | 30 m |
 | Travail libre sur le TP 1 | 50 m |
 # Notes
-
+* Mauvais minutage, tout a été fait en 20 minutes
+* Labo EZ
 # Rétroaction
-(alt+e - [[macro_rating]])
+⭐⭐⭐⭐⭐⭐⭐⭐Rating:: 8 / 10
 
 Template:: [[template_seance_cours]]
