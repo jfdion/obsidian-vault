@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4125338cac67655f",
+        "id": "2616518a0f5503f0",
         "type": "tabs",
         "children": [
           {
-            "id": "823657c597ff50e0",
+            "id": "6c25d31a25b30723",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 7  - 2024-03-12.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cours/420-W22-SF/BDI/planseance",
+                "query": "tag:#cours/420-W22-SF/BD-I",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,17 +65,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "f99198045dc60372",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 7  - 2024-03-12.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 7  - 2024-03-12.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 7  - 2024-03-12.md"
+                "file": "Home.md"
               }
             }
           },
@@ -175,11 +166,17 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "a8b21a67ee7a80ec",
+  "active": "6c25d31a25b30723",
   "lastOpenFiles": [
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 6 - 2024-03-05.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 7  - 2024-03-12.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 8 - 2024-03-19.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 6 - 2024-03-05.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 7  - 2024-03-12.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 5 - 2024-02-27.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 4 - 2024-02-20.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 3 - 2024-02-13.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 2 - 2024-02-06.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 1 - 2024-01-30.md",
     "Untitled 1.md",
     "Untitled.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 10 - 2024-03-04.md",
@@ -190,11 +187,6 @@
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 8 - 2024-02-26.md",
     "Home.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 5 - 2024-02-27.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 1 - 2024-01-30.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 2 - 2024-02-06.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 3 - 2024-02-13.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 1 - 2024-01-30.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 2 - 2024-02-05.md",
@@ -202,7 +194,6 @@
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 4 - 2024-02-12.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 5 - 2024-02-14.md",
     "conflict-files-obsidian-git.md",
-    "0.0 Références/0.2 Resources/Windows désactiver Bing menu recherche.md",
     "0.0 Références/Resources/Windows",
     "0.0 Références/Resources",
     "0.0 Références/0.2 Resources/WSL-CMD",
