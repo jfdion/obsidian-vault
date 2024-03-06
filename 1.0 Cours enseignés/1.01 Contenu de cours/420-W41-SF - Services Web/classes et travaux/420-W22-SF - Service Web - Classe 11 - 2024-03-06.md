@@ -25,6 +25,7 @@ Status::  <span class="chip ready">prêt</span>
 | --------------------------------------------- | -------- |
 | Accueil et prise des présences                | 5 m      |
 | Retour sur les tests avec Mockito             | 5 m      |
+| Présentation des attentes pour GIT            | 5 m      |
 | Questions / réponses générales sur le TP1-US2 | 10 m     |
 | Travail libre sur le TP1-US2                  | 1 h 30 m |
 # Notes
