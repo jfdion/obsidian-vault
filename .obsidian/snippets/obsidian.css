@@ -32,12 +32,14 @@ body {
     --bg-blue: #339;
     --bg-green: #393;
     --bg-light-green: #8c2;
-    --bg-light-blue: #28c;
-    --bg-pink: #c28;
-    --bg-purple: #82c;
+    --bg-light-blue: #09f;
+    --bg-pink: #f09;;
+    --bg-purple: #90f;;
     --bg-strawberry: #933;
     --bg-cherry: #511;
     --bg-teal: #2c8;
+    --bg-orange:#f90;
+    --bg-electric:#9f0;
 
     --bg-mid-gray: #999;
     --bg-dark-gray: #404040;
@@ -54,10 +56,10 @@ body {
 
     /** === Chip identification cours === */
     --bg-chip-cours-1: var(--bg-blue);
-    --bg-chip-cours-2: var();
-    --bg-chip-cours-3: var();
-    --bg-chip-cours-4: var();
-    --bg-chip-cours-5: var();
+    --bg-chip-cours-2: var(--bg-green);
+    --bg-chip-cours-3: var(--bg-strawberry);
+    --bg-chip-cours-4: var(--bg-orange);
+    --bg-chip-cours-5: var(--bg-pink);
 
     /** === Seance cours status === */
     --bg-chip-ready: var(--bg-green);
@@ -123,4 +125,24 @@ body {
 
 .chip.na {
     background-color: var(--bg-chip-na);
+}
+
+.chip.cours-1{
+    background-color: var(--bg-chip-cours-1);
+}
+
+.chip.cours-2{
+    background-color: var(--bg-chip-cours-2);
+}
+
+.chip.cours-3{
+    background-color: var(--bg-chip-cours-3);
+}
+
+.chip.cours-4{
+    background-color: var(--bg-chip-cours-4);
+}
+
+.chip.cours-5{
+    background-color: var(--bg-chip-cours-5);
 }
