@@ -1,6 +1,7 @@
 **Cours:** #cours/420-W41-SF/ServicesWeb
 # Meta info
 Type:: MOC
+Chip::  <span class="chip cours-2">SW</span>
 Session:: H24
 # Références
 * Plan de cours (LÉA)

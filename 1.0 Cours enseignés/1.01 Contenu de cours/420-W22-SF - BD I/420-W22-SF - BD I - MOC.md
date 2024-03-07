@@ -1,6 +1,7 @@
 **Cours:** #cours/420-W22-SF/BD-I 
 # Meta info
 Type:: MOC
+Chip::  <span class="chip cours-1">BD</span>
 Session:: H24
 # Références
 * Plan de cours (LÉA)

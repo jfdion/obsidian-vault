@@ -8,6 +8,7 @@ const session = await tx.promptStr(tp, "Session (H|A + YY)")
 **Cours:** <%* tR += tx.buildHierarchicalTag(["cours", cours]) %>
 # Meta info
 Type:: MOC
+Chip:: <span class="chip cours-1">C1</span> |  <span class="chip cours-2">C2</span> |  <span class="chip cours-3">C3</span> |  <span class="chip cours-4">C4</span> |  <span class="chip cours-5">C5</span>
 Session:: <%* tR += session.toUpperCase() %>
 # Références
 * Plan de cours (LÉA)

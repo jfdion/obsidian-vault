@@ -2,6 +2,7 @@
 **Cours:** #cours/420-W70-SF420-W71-SF/Stages
 # Meta info
 Type:: MOC
+Chip:: <span class="chip cours-3">ST</span>
 Session:: H24
 # Références
 * Plan de cours (LÉA)
