@@ -12,7 +12,7 @@ Semaine:: 6
 Heure::16:00 à 18:00  
 ClasseNum:: 11
 
-Status::  <span class="chip ready">prêt</span> 
+Status::  <span class="chip done">Fait</span> 
 
 **Thème**:: Travail sur le TP1-US2
 

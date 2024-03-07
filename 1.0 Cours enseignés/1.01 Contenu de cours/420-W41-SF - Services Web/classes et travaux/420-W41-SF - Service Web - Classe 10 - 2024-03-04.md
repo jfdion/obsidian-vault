@@ -12,7 +12,7 @@ Semaine:: 5
 Heure:: 11:00 à 13:00  
 ClasseNum:: 10
 
-Status::  <span class="chip ready">Prêt</span> 
+Status::  <span class="chip done">Fait</span> 
 
 **Thème**:: Test avec Mockito
 

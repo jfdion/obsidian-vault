@@ -30,9 +30,12 @@ Status:: <span class="chip done">Fait</span>
 | Présentation de la théorie sur la gestion des erreurs | 30 m |
 | Travail libre sur le TP 1 | 50 m |
 # Notes
-* Mauvais minutage, tout a été fait en 20 minutes
-* Labo EZ
+
 # Rétroaction
 ⭐⭐⭐⭐⭐⭐⭐⭐Rating:: 8 / 10
+
+ Mauvais minutage, tout a été fait en 20 minutes
+
+Labo TP1-US1 a bien été
 
 Template:: [[template_seance_cours]]
