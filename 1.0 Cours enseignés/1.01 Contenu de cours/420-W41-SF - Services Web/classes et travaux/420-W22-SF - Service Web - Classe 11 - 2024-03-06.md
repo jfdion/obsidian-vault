@@ -32,6 +32,8 @@ Status::  <span class="chip ready">prêt</span>
 À compléter
 
 # Rétroaction
-(alt+e - [[macro_rating]])
+⭐⭐⭐⭐⭐⭐⭐⭐Rating:: 8 / 10
+
+
 
 Template:: [[template_seance_cours]]
