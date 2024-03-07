@@ -52,6 +52,13 @@ body {
     --bg-chip-read: var(--bg-amber);
     --bg-chip-note: var(--bg-green);
 
+    /** === Chip identification cours === */
+    --bg-chip-cours-1: var(--bg-blue);
+    --bg-chip-cours-2: var();
+    --bg-chip-cours-3: var();
+    --bg-chip-cours-4: var();
+    --bg-chip-cours-5: var();
+
     /** === Seance cours status === */
     --bg-chip-ready: var(--bg-green);
     --bg-chip-not-ready: var(--bg-strawberry);

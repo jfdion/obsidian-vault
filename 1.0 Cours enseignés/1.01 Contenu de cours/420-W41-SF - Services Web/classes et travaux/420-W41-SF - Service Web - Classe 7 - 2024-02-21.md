@@ -5,7 +5,7 @@
 
 **MOC:** [[420-W41-SF - Services Web - MOC]]
 
-Icon:: 🕸
+Icon:: <span class="chip cours-2">W41</span>
 Session:: H24
 
 Date::  2024-02-21
