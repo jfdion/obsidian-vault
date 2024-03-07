@@ -1,7 +1,7 @@
-#cours/420-W70-SF420-W71-SF/Stages/planseance #planseance
+#cours/420-W70-W71-SF/Stages/planseance #planseance
 # Meta info
 
-**Cours**:: #cours/420-W70-SF420-W71-SF/Stages
+**Cours**:: #cours/420-W70-W71-SF/Stages
 
 **MOC:** 
 

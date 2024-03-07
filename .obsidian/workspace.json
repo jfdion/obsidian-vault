@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extensions/Templates/template_moc.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cours/420-W70-SF",
+                "query": "tag:#cours/420-W70-SF420-W71-SF/Stages/planseance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extensions/Templates/template_moc.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extensions/Templates/template_moc.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extensions/Templates/template_moc.md"
+                "file": "Home.md"
               }
             }
           },
@@ -168,17 +168,18 @@
   },
   "active": "6c25d31a25b30723",
   "lastOpenFiles": [
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 1 - 2024-03-11.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages/420-W70-W71-SF - Stages - Moc.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 0 - 2024-03-04.md",
+    "Home.md",
+    "extensions/Templates/template_moc.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 14 - 2024-03-18.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 13 - 2024-03-13.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 12 - 2024-03-11.md",
-    "Home.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages/classes et travaux/420-W70-SF & 420-W71-SF - Stages - Semaine 0 - 2024-03-04.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages/420-W70-SF & 420-W71-SF - Stages - Moc.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 5 - 2024-02-27.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 6 - 2024-03-05.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 4 - 2024-02-20.md",
-    "extensions/Templates/template_moc.md",
     "extensions/Templates/template_seance_cours.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 8 - 2024-03-19.md",
@@ -193,7 +194,6 @@
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 9 - 2024-02-28.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 8 - 2024-02-26.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 7 - 2024-02-21.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 6 - 2024-02-19.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement/Suivi",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages/classes et travaux",
