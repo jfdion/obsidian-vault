@@ -38,8 +38,12 @@ body {
     --bg-strawberry: #933;
     --bg-cherry: #511;
     --bg-teal: #2c8;
-    --bg-orange:#f90;
-    --bg-electric:#9f0;
+
+    --bg-walnut:#544B3D;
+    --bg-dark-cyan: #048a81;
+    --bg-vermillon: #dd403a;
+    --bg-mindaro: #D5e68D;
+    --bg-glaucous:#657ed4;
 
     --bg-mid-gray: #999;
     --bg-dark-gray: #404040;
@@ -55,11 +59,11 @@ body {
     --bg-chip-note: var(--bg-green);
 
     /** === Chip identification cours === */
-    --bg-chip-cours-1: var(--bg-blue);
-    --bg-chip-cours-2: var(--bg-green);
-    --bg-chip-cours-3: var(--bg-strawberry);
-    --bg-chip-cours-4: var(--bg-orange);
-    --bg-chip-cours-5: var(--bg-pink);
+    --bg-chip-cours-1: var(--bg-mindaro);
+    --bg-chip-cours-2: var(--bg-dark-cyan);
+    --bg-chip-cours-3: var(--bg-vermillon);
+    --bg-chip-cours-4: var(--bg-glaucous);
+    --bg-chip-cours-5: var(--bg-walnut);
 
     /** === Seance cours status === */
     --bg-chip-ready: var(--bg-green);
