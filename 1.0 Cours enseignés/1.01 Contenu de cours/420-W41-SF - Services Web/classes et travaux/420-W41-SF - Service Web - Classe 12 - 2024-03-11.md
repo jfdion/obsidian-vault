@@ -23,15 +23,15 @@ Status:: <span class="chip not-ready">à faire</span>
 * Énnoncés (Léa)
 # Contenu
 
-| Quoi                                           | Durée    |
-| ---------------------------------------------- | -------- |
-| Accueil et prise des présences                 | 5 m      |
-| Questions TP1-US2                              | 5 m - 10 |
-| Théorie sur la validation                      | 20 m     |
-| Démo validations                               | 30 m     |
-| **PAUSE**                                      | ...      |
-| Démo gestion des erreurs liées aux validations | 30 m     |
-| Temps de travail TP1-US2                       | Le reste |
+| Quoi                                           | Durée      |
+| ---------------------------------------------- | ---------- |
+| Accueil et prise des présences                 | 5 m        |
+| Questions TP1-US2                              | 5 m - 10 m |
+| Théorie sur la validation                      | 20 m       |
+| Démo validations                               | 30 m       |
+| **PAUSE**                                      | ...        |
+| Démo gestion des erreurs liées aux validations | 30 m       |
+| Temps de travail TP1-US2                       | Le reste   |
 # Notes
 À compléter
 

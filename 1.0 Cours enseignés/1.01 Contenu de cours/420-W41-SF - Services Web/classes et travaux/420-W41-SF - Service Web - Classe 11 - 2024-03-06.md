@@ -29,7 +29,6 @@ Status::  <span class="chip done">Fait</span>
 | Questions / réponses générales sur le TP1-US2 | 10 m     |
 | Travail libre sur le TP1-US2                  | 1 h 30 m |
 # Notes
-À compléter
 
 # Rétroaction
 ⭐⭐⭐⭐⭐⭐⭐⭐Rating:: 8 / 10
