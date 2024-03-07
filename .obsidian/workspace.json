@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement - MOC.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/🐷 420-W22-SF - BD I - Classe 7  - 2024-03-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cours/420-W70-SF420-W71-SF/Stages",
+                "query": "tag:#cours/420-W70-SF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement - MOC.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/🐷 420-W22-SF - BD I - Classe 7  - 2024-03-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement - MOC.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/🐷 420-W22-SF - BD I - Classe 7  - 2024-03-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement - MOC.md"
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/🐷 420-W22-SF - BD I - Classe 7  - 2024-03-12.md"
               }
             }
           },
@@ -167,44 +166,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a8b21a67ee7a80ec",
+  "active": "6c25d31a25b30723",
   "lastOpenFiles": [
-    "1.0 Cours enseignés/1.02 Idées/Projet d'enseignement BD I.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/🐷 420-W22-SF - BD I - Classe 8 - 2024-03-19.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/🕸 420-W41-SF - Service Web - Classe 6 - 2024-02-19.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/🕸 420-W41-SF - Service Web - Classe 5 - 2024-02-14.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/🕸 420-W41-SF - Service Web - Classe 7 - 2024-02-21.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/🕸 420-W41-SF - Service Web - Classe 3 - 2024-02-07.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/🕸 420-W41-SF - Service Web - Classe 2 - 2024-02-05.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/🕸 420-W41-SF - Service Web - Classe 4 - 2024-02-12.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement - MOC.md",
-    "1.0 Cours enseignés/1.02 Idées/Examen Final.md",
-    "1.0 Cours enseignés/1.02 Idées/Examen BD I - SQL.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 5 - 2024-02-14.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 6 - 2024-02-19.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 7 - 2024-02-21.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 8 - 2024-02-26.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 9 - 2024-02-28.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 10 - 2024-03-04.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 11 - 2024-03-06.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 12 - 2024-03-11.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 7  - 2024-03-12.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 4 - 2024-02-20.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 3 - 2024-02-13.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 6 - 2024-03-05.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 8 - 2024-03-19.md",
-    "Home.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 1 - 2024-01-30.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 2 - 2024-02-05.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 3 - 2024-02-07.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 6 - 2024-02-19.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 5 - 2024-02-14.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 4 - 2024-02-12.md",
-    "0.0 Références/0.2 Resources/SQL games/SQL Murder Mystery Solution.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 5 - 2024-02-27.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 3 - 2024-02-07.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 2 - 2024-02-05.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 1 - 2024-01-30.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 8 - 2024-02-26.md",
+    "Home.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/🕸 420-W41-SF - Service Web - Classe 1 - 2024-01-30.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/🐷 420-W22-SF - BD I - Classe 7  - 2024-03-12.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/🐷 420-W22-SF - BD I - Classe 6 - 2024-03-05.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/🐷 420-W22-SF - BD I - Classe 5 - 2024-02-27.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/🐷 420-W22-SF - BD I - Classe 4 - 2024-02-20.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/🐷 420-W22-SF - BD I - Classe 3 - 2024-02-13.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/🐷 420-W22-SF - BD I - Classe 2 - 2024-02-06.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/🐷 420-W22-SF - BD I - Classe 1 - 2024-01-30.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages/classes et travaux/420-W70-SF & 420-W71-SF - Stages.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement/Suivi",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages/classes et travaux",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages",
     "0.0 Références/Resources/Windows",
     "0.0 Références/Resources",
     "0.0 Références/0.2 Resources/WSL-CMD",
     "1.0 Cours enseignés/1.02 Idées",
     "0.0 Références",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/archives",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/archives",
-    "1.0 Cours enseignés/1.01 Contenu de cours",
-    "1.0 Cours enseignés",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"
