@@ -34,6 +34,5 @@ Status::  <span class="chip ready">prêt</span>
 # Rétroaction
 ⭐⭐⭐⭐⭐⭐⭐⭐Rating:: 8 / 10
 
-
-
+Le travail sur le TP1-US1 a bien été.
 Template:: [[template_seance_cours]]

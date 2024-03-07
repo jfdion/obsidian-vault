@@ -34,6 +34,10 @@ Status::  <span class="chip ready">Prêt</span>
 # Notes
 
 # Rétroaction
-(alt+e - [[macro_rating]])
+⭐⭐⭐⭐⭐⭐⭐⭐Rating:: 8 / 10
+
+Les étudiants ont bien vu l'avantage d'utiliser Mockito et semblent avoir compris comment l'utiliser.
+
+La démo a été un peu plus rapide et les étudiants ont eu 20 minutes pour travailler sur leur projets
 
 Template:: [[template_seance_cours]]
