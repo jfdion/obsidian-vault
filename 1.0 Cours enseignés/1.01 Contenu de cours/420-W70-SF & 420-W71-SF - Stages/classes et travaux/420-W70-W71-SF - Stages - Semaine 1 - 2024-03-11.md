@@ -49,7 +49,10 @@ Status:: <span class="chip not-ready">à faire</span>
 
 Bonjour {{nom complet superviseur}},
 
-Je vous é
+Je vous écris, car vous accueillez actuellement {{nom de l'étudiant}} qui effectue son stage de fin d'étude du programme d'informatique du Cégep de Sainte-Foy dans votre organisation.
+
+En tant que superviseur de stage, vous serez la personne responsable de faire l'appréciation du travail de l'étu
+
 
 
 # Rétroaction
