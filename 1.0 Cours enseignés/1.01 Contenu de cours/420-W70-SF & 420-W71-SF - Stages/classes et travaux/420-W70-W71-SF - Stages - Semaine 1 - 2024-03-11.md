@@ -22,6 +22,7 @@ Status:: <span class="chip not-ready">à faire</span>
 # Matériel du cours
 ## Milieu de stage
 * Remettre le [guide de l’entreprise à l’entreprise](https://drive.google.com/file/d/1SGoHrH68y-kXyUKfrAzXjQEQ9RcwR_Cn/view?usp=drive_link).
+* Liste des [ententes de stages](https://drive.google.com/drive/folders/1RpFv63Ol_N9AV1hBkldaHUyRsKW8IQ6R?usp=drive_link) (avec informations de contact)
 ## Étudiant
 * Remettre le [formulaire de SST](https://drive.google.com/file/d/1Y5cYgm2QC9otpzKGHBC8Cd65IO5fA8Zk/view?usp=drive_link) à l’étudiant.
 # Contenu
@@ -51,11 +52,13 @@ Bonjour {{nom complet superviseur}},
 
 Je vous écris, car vous accueillez actuellement {{nom de l'étudiant}} qui effectue son stage de fin d'étude du programme Techniques de l'informatique du Cégep de Sainte-Foy dans votre organisation.
 
-En tant que personne supervisant le stage de stage, vous serez la personne responsable de faire l'appréciation du travail de l'étudiant. Cette appréciation touche autant le savoir faire que le savoir être de l'étudiant.
+En tant que personne responsable de la supervision du stage, vous aurez à faire l'appréciation du travail de la personne étudiante. Cette appréciation touche autant son savoir faire que son savoir être.
 
-Vous serez appelé a faire 2 évaluations de l'étudiant, une à la moitié du stage et une autre à la fin du stage. Ces évaluations sont importantes pour nous, car elles nous permettent de valider les compétences de l'étudiant et nous servent à améliorer le programme de Techniques de l'informatique du Cégep.
+Vous serez appelé a faire 2 évaluations de votre stagiaire, une à la moitié du stage et une autre à la fin du stage. Ces évaluations sont importantes pour nous, car elles nous permettent de valider les compétences de la personne étudiante et nous servent à améliorer le programme de Techniques de l'informatique du Cégep.
 
+Vous trouverez en pièce jointe le guide de l'entreprise. Ce document détaille les éléments important concernant le stage
 
+Cordialement, 
 
 # Rétroaction
 (alt+e - [[macro_rating]])
