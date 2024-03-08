@@ -28,7 +28,24 @@ Status:: <span class="chip not-ready">à faire</span>
 ## Milieu de stage
 * Établir un contact avec le ou la superviseure en entreprise.
 ## Étudiant
-• Rencontre hebdomadaire p
+• Rencontre hebdomadaire par teams
+### Plan de la rencontre
+1. Comment a été le début du stage
+2. Entreprise
+	* Organisation
+	* Équipe
+		* Les gens
+		* Les rôles / division des tâches
+	* Mode de travail 
+		* À distance hybride, importance de la routine
+	* Mode de fonctionnement
+		* Agile, cascade, etc.
+	* Mandat du stage
+  3. Enjeux et préoccupations?
+  4. Sujet de la semaine prochaine
+	  1. 
+
+
 
 # Notes
 À compléter
