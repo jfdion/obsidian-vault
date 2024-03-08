@@ -20,9 +20,15 @@ Status:: <span class="chip not-ready">à faire</span>
 **Remises**:: <span class="chip na">na</span>
 
 # Matériel du cours
-* Notes de cours (Léa)
-* Énnoncés (Léa)
+## Milieu de stage
+* Remettre le [guide de l’entreprise à l’entreprise](https://drive.google.com/file/d/1SGoHrH68y-kXyUKfrAzXjQEQ9RcwR_Cn/view?usp=drive_link).
+## Étudiant
+* Remettre le [formulaire de SST](https://drive.google.com/file/d/1Y5cYgm2QC9otpzKGHBC8Cd65IO5fA8Zk/view?usp=drive_link) à l’étudiant.
 # Contenu
+## Milieu de stage
+* Établir un contact avec le ou la superviseure en entreprise.
+## Étudiant
+• Rencontre hebdomadaire p
 
 # Notes
 À compléter
