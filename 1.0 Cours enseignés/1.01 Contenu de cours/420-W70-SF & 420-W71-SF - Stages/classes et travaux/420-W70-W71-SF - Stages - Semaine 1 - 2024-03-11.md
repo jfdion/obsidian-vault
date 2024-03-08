@@ -43,12 +43,14 @@ Status:: <span class="chip not-ready">à faire</span>
 	* Mandat du stage
   3. Enjeux et préoccupations?
   4. Sujet de la semaine prochaine
-	  1. 
-
-
-
+	  1. Outils, stack technologique, la place des tests, etc.
 # Notes
-À compléter
+## Courriel pour le ou la superviseure en entreprise
+
+Bonjour {{nom complet superviseur}},
+
+Je vous é
+
 
 # Rétroaction
 (alt+e - [[macro_rating]])
