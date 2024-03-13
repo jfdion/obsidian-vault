@@ -50,15 +50,15 @@ Status:: <span class="chip not-ready">à faire</span>
 
 Bonjour {{nom complet superviseur}},
 
-Je vous écris, car vous accueillez actuellement {{nom de l'étudiant}} qui effectue son stage de fin d'étude du programme Techniques de l'informatique du Cégep de Sainte-Foy dans votre organisation.
+Je vous écris, car vous accueillez actuellement {{nom de l'étudiant}} qui effectue son stage de fin d'études du programme Techniques de l'informatique du Cégep de Sainte-Foy dans votre organisation.
 
-En tant que personne responsable de la supervision du stage, vous aurez à faire l'appréciation du travail de la personne étudiante. Cette appréciation touche autant son savoir faire que son savoir être.
+En tant que personne responsable de la supervision du stage, vous aurez à faire l'appréciation du travail de la personne étudiante. Cette appréciation touche autant son savoir-faire que son savoir-être.
 
 Vous serez appelé a faire 2 évaluations de votre stagiaire, une à la moitié du stage et une autre à la fin du stage. Ces évaluations sont importantes pour nous, car elles nous permettent de valider les compétences de la personne étudiante et nous servent à améliorer le programme de Techniques de l'informatique du Cégep.
 
-Vous trouverez en pièce jointe le guide de l'entreprise. Ce document détaille les éléments important concernant le stage
+Vous trouverez en pièce jointe le guide de l'entreprise. Ce document détaille les éléments importants concernant le stage 
 
-Cordialement, 
+Cordialement,
 
 # Rétroaction
 (alt+e - [[macro_rating]])
