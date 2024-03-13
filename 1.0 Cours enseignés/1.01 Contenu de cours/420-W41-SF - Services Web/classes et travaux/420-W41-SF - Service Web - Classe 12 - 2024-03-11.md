@@ -39,6 +39,8 @@ Status:: <span class="chip done">Fait</span>
 # Rétroaction
 ⭐⭐⭐⭐⭐⭐⭐Rating:: 7 / 10
 
+Versions plus simple de la démo réalisée, Pascal avait fait un super énoncé pour les exercices 7.1 - 7.2
 
+Un peu plus de 50 % des étudiants étaient présents
 
 Template:: [[template_seance_cours]]

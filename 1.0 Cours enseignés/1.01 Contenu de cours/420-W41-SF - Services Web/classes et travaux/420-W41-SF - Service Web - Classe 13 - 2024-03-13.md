@@ -29,6 +29,6 @@ Status:: <span class="chip na">na</span>
 
 
 # Rétroaction
-(alt+e - [[macro_rating]])
+Rating:: <span class="chip na">na</span> 
 
 Template:: [[template_seance_cours]]
