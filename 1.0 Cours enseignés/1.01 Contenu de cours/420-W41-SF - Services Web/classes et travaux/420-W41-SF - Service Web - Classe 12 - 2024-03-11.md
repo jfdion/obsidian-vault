@@ -13,7 +13,7 @@ Semaine:: 6
 Heure:: 11:00 à 13:00  
 ClasseNum:: 12
 
-Status:: <span class="chip not-ready">à faire</span>
+Status:: <span class="chip done">Fait</span>
 
 **Thème**:: Validations simples
 
@@ -37,6 +37,8 @@ Status:: <span class="chip not-ready">à faire</span>
 À compléter
 
 # Rétroaction
-(alt+e - [[macro_rating]])
+⭐⭐⭐⭐⭐⭐⭐Rating:: 7 / 10
+
+
 
 Template:: [[template_seance_cours]]
