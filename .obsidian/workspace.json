@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 2 - 2024-03-18.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/420-W70-W71-SF - Stages - Moc.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cours/420-W70-71-SF/Stages/planseance",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 588
+    "width": 200
   },
   "right": {
     "id": "bb738e2bffc7e4ca",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 2 - 2024-03-18.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/420-W70-W71-SF - Stages - Moc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 2 - 2024-03-18.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/420-W70-W71-SF - Stages - Moc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 2 - 2024-03-18.md"
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/420-W70-W71-SF - Stages - Moc.md"
               }
             }
           },
@@ -152,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,9 +168,9 @@
   },
   "active": "6c25d31a25b30723",
   "lastOpenFiles": [
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 2 - 2024-03-18.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 1 - 2024-03-11.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 0 - 2024-03-04.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 2 - 2024-03-18.md",
     "0.0 Références/0.2 Resources/Rest API Tutorial.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 13 - 2024-03-13.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 14 - 2024-03-18.md",

@@ -13,9 +13,9 @@ Semaine:: 1
 Heure:: <span class="chip na">na</span>
 ClasseNum:: 1
 
-Status:: <span class="chip ready">Prêt</span> 
+Status:: <span class="chip done">Fait</span> 
 
-**Thème**::
+**Thème**:: Début du stage
 
 **Remises**:: <span class="chip na">na</span>
 

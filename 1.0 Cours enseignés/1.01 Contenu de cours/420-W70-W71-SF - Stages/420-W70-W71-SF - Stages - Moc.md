@@ -11,7 +11,7 @@ Session:: H24
 # Classes et travaux
 ```dataview
 TABLE Semaine + "-" + ClasseNum as "Séance ↑", Thème, Status, Date, Heure, Remises, Rating
-FROM #cours/420-W70-SF420-W71-SF/Stages/planseance
+FROM #cours/420-W70-W71-SF/Stages/planseance
 SORT ClasseNum asc
 WHERE Session AND Session = "H24"
 ```

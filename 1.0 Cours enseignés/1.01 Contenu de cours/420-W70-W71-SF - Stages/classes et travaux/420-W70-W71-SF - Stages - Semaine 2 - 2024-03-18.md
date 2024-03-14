@@ -1,7 +1,7 @@
-#cours/420-W70-71-SF/Stages/planseance #planseance
+#cours/420-W70-W71-SF/Stages/planseance #planseance
 # Meta info
 
-**Cours**:: #cours/420-W70-71-SF/Stages 
+**Cours**:: #cours/420-W70-W71-SF/Stages 
 
 **MOC:** 
 
@@ -9,25 +9,31 @@ Chip:: <span class="chip cours-1">C1</span> |  <span class="chip cours-2">C2</sp
 Session:: H24
 
 Date::  2024-03-18  
-Semaine:: 
-Heure:: <% tp.file.cursor(2) %>:00 à <% tp.file.cursor(3) %>:00  
-ClasseNum:: <% tp.file.cursor(4) %>
+Semaine:: 2
+Heure:: <span class="chip na">na</span>
+ClasseNum:: 2
 
-Status:: <span class="chip not-ready">à faire</span> | <span class="chip ready">prêt</span> | <span class="chip to-review">à réviser</span> | <span class="chip done">fait</span> | <span class="chip na">NA</span>
+Status:: <span class="chip ready">prêt</span>
 
-**Thème**::
+**Thème**:: Environnement technologique
 
 **Remises**:: <span class="chip na">na</span>
 
 # Matériel du cours
-* Notes de cours (Léa)
-* Énnoncés (Léa)
+<span class="chip na">na</span>
 # Contenu
-| Quoi                           | Durée |
-| ------------------------------ | ----- |
-| Accueil et prise des présences | 5 m   |
-| **PAUSE**                      | ...   |
-| ...                            | ...   |
+## Étudiant
+• Rencontre hebdomadaire par teams
+### Plan de la rencontre
+1. Comment la semaine s'est passée
+2. Sujet de la semaine
+	1. Outils
+	2. Stack technologique
+	3. La place des tests dans le développement
+3. Enjeux et préoccupations?
+4. Sujet de la semaine prochaine
+    1. Peux-tu me trouver une difficulté / embuche que tu vis à date?
+    2. Identifie un succès / une fierté de votre semaine
 # Notes
 À compléter
 
