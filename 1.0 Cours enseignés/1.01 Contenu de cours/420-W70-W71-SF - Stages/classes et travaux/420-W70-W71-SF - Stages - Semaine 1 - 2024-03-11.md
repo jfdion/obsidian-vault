@@ -54,7 +54,7 @@ Je vous écris, car vous accueillez actuellement {{nom de l'étudiant}} qui effe
 
 En tant que personne responsable de la supervision du stage, vous aurez à faire l'appréciation du travail de la personne étudiante. Cette appréciation touche autant son savoir-faire que son savoir-être.
 
-Vous serez appelé a faire 2 évaluations de votre stagiaire, une à la moitié du stage et une autre à la fin du stage. Ces évaluations sont importantes pour nous, car elles nous permettent de valider les compétences de la personne étudiante et nous servent à améliorer le programme de Techniques de l'informatique du Cégep.
+Vous serez appelé à faire 2 évaluations de votre stagiaire, une à la moitié du stage et une autre à la fin du stage. Ces évaluations sont importantes pour nous, car elles nous permettent de valider les compétences de la personne étudiante et nous servent à améliorer le programme de techniques de l'informatique du Cégep.
 
 Vous trouverez en pièce jointe le guide de l'entreprise. Ce document détaille les éléments importants concernant le stage.
 

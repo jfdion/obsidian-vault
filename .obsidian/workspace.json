@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 1 - 2024-03-11.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 2 - 2024-03-18.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rest api",
+                "query": "tag:#cours/420-W70-71-SF/Stages/planseance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,11 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 247
+    "width": 588
   },
   "right": {
     "id": "bb738e2bffc7e4ca",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 1 - 2024-03-11.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 2 - 2024-03-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 1 - 2024-03-11.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 2 - 2024-03-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 1 - 2024-03-11.md"
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 2 - 2024-03-18.md"
               }
             }
           },
@@ -168,6 +169,9 @@
   },
   "active": "6c25d31a25b30723",
   "lastOpenFiles": [
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 1 - 2024-03-11.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 0 - 2024-03-04.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 2 - 2024-03-18.md",
     "0.0 Références/0.2 Resources/Rest API Tutorial.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 13 - 2024-03-13.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 14 - 2024-03-18.md",
@@ -177,11 +181,9 @@
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 7  - 2024-03-12.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 8 - 2024-03-19.md",
     "Home.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 1 - 2024-03-11.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/420-W22-SF - BD I - MOC.md",
     "().md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 0 - 2024-03-04.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages/420-W70-W71-SF - Stages - Moc.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/420-W70-W71-SF - Stages - Moc.md",
     "extensions/Templates/template_moc.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 5 - 2024-02-27.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 6 - 2024-03-05.md",
@@ -193,11 +195,10 @@
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 2 - 2024-02-06.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 3 - 2024-02-13.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 10 - 2024-03-04.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 9 - 2024-02-28.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement/Suivi",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages/classes et travaux",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages",
     "0.0 Références/Resources/Windows",
     "0.0 Références/Resources",
     "0.0 Références/0.2 Resources/WSL-CMD",
