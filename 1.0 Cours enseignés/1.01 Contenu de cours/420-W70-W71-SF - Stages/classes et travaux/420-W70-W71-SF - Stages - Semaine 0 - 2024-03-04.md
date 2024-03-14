@@ -13,7 +13,7 @@ Semaine:: 0
 Heure:: <span class="chip na">na</span>
 ClasseNum:: 0
 
-Status:: <span class="chip not-ready">à faire</span> 
+Status:: <span class="chip done">Fait</span> 
 
 **Thème**:: Prise de contact avec les étudiants
 
