@@ -44,7 +44,13 @@ Status:: <span class="chip done">Fait</span>
 	* Mandat du stage
   3. Enjeux et préoccupations?
   4. Sujet de la semaine prochaine
-	  1. Outils, stack technologique, la place des tests, etc.
+    * Outils
+        * Framework
+        * IDE
+        * Controle de sources
+    * stack technologique
+    * la place des tests
+    * etc.
 # Notes
 ## Courriel pour le ou la superviseure en entreprise
 

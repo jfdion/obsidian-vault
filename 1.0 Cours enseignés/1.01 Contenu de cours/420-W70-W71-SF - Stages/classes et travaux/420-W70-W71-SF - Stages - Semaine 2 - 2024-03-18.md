@@ -27,11 +27,15 @@ Status:: <span class="chip ready">prêt</span>
 ### Plan de la rencontre
 1. Comment la semaine s'est passée
 2. Sujet de la semaine
-	1. Outils
-	2. Stack technologique
-	3. La place des tests dans le développement
-3. Enjeux et préoccupations?
-4. Sujet de la semaine prochaine
+	* Outils
+		* Framework
+		* IDE
+		* Controle de sources
+	* Stack technologique
+	* la place des tests
+	* etc.
+1. Enjeux et préoccupations?
+2. Sujet de la semaine prochaine
     1. Peux-tu me trouver une difficulté / embuche que tu vis à date?
     2. Identifie un succès / une fierté de votre semaine
 # Notes
