@@ -5,7 +5,7 @@
 
 **MOC:** 
 
-Chip:: <span class="chip cours-1">C1</span> |  <span class="chip cours-2">C2</span> |  <span class="chip cours-3">C3</span> |  <span class="chip cours-4">C4</span> |  <span class="chip cours-5">C5</span>
+Chip:: <span class="chip cours-3">ST</span>
 Session:: H24
 
 Date::  2024-03-18  

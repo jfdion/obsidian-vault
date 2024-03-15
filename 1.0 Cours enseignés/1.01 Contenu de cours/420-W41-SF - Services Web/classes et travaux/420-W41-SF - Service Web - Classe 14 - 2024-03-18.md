@@ -13,22 +13,23 @@ Semaine:: 7
 Heure:: 11:00 à 13:00  
 ClasseNum:: 14
 
-Status:: <span class="chip not-ready">à faire</span>
+Status:: <span class="chip ready">Prêt</span>
 
 **Thème**:: Validations complexes et annotations personnalisées
 
-**Remises**:: <span class="chip na">na</span>
+**Remises**:: Exercice 7.1, Exercice 7.2
 
 # Matériel du cours
 * Notes de cours (Léa)
 * Énnoncés (Léa)
 # Contenu
 
-| Quoi      | Durée |
-| --------- | ----- |
-| ...       | ...   |
-| **PAUSE** | ...   |
-| ...       | ...   |
+| Quoi                                              | Durée |
+| ------------------------------------------------- | ----- |
+| Exercice 7.3 - validations complexes + démo       | 50m   |
+| **PAUSE**                                         | ...   |
+| Présentation TP2-US3                              | 20 m  |
+| Temps de travail / envoi des exercices précédents | 30 m  |
 # Notes
 À compléter
 
