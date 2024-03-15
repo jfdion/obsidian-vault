@@ -67,6 +67,8 @@ Vous trouverez en pièce jointe le guide de l'entreprise. Ce document détaille 
 Cordialement,
 
 # Rétroaction
-(alt+e - [[macro_rating]])
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Rating:: 10 / 10
+
+Excellentes rencontres avec des stagiaires motivés qui semblent bien s'intégrer à leur milieu
 
 Template:: [[template_seance_cours]]
