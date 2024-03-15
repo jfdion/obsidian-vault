@@ -5,7 +5,7 @@
 
 **MOC:** 
 
-Chip:: <span class="chip cours-1">C1</span> |  <span class="chip cours-2">C2</span> |  <span class="chip cours-3">C3</span> |  <span class="chip cours-4">C4</span> |  <span class="chip cours-5">C5</span>
+Chip::  <span class="chip cours-2">SW</span>
 Session:: H24
 
 Date::  2024-04-10  
@@ -13,7 +13,7 @@ Semaine:: 11
 Heure:: 16:00 à 18:00  
 ClasseNum:: 20
 
-Status:: <span class="chip not-ready">à faire</span> | <span class="chip ready">prêt</span> | <span class="chip to-review">à réviser</span> | <span class="chip done">fait</span> | <span class="chip na">NA</span>
+Status:: <span class="chip not-ready">à faire</span> 
 
 **Thème**:: **Évaluation enseignement**
 
