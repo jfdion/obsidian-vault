@@ -15,7 +15,7 @@ ClasseNum:: 14
 
 Status:: <span class="chip ready">Prêt</span>
 
-**Thème**:: Validations complexes et annotations personnalisées
+**Thème**:: Retour sur les exercices 7.1 et 7.2
 
 **Remises**:: Exercice 7.1, Exercice 7.2
 
