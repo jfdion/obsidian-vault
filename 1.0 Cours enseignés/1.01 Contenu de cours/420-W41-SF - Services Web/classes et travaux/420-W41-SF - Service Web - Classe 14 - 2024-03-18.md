@@ -24,12 +24,13 @@ Status:: <span class="chip ready">Prêt</span>
 * Énnoncés (Léa)
 # Contenu
 
-| Quoi                                              | Durée |
-| ------------------------------------------------- | ----- |
-| Exercice 7.3 - validations complexes + démo       | 50m   |
-| **PAUSE**                                         | ...   |
-| Présentation TP2-US3                              | 20 m  |
-| Temps de travail / envoi des exercices précédents | 30 m  |
+| Quoi                                            | Durée |
+| ----------------------------------------------- | ----- |
+| Retour sur l'exercice 7.1 et 7.2                | 30 m  |
+| Rappel travaux formatifs + temps pour l'envoyer | 10 m  |
+| **PAUSE**                                       | ...   |
+| Présentation TP2-US3                            | 20 m  |
+| Temps de travail                                | 30 m  |
 # Notes
 À compléter
 
