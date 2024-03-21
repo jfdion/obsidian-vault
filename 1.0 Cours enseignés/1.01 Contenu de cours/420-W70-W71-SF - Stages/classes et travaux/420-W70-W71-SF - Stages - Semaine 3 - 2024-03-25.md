@@ -5,13 +5,13 @@
 
 **MOC:** 
 
-Chip::   <span class="chip cours-3">C3</span> 
+Chip::  <span class="chip cours-3">ST</span> 
 Session:: H24
 
 Date::  2024-03-25  
-Semaine:: 
-Heure:: <% tp.file.cursor(2) %>:00 à <% tp.file.cursor(3) %>:00  
-ClasseNum:: <% tp.file.cursor(4) %>
+Semaine:: 3
+Heure:: <span class="chip na">NA</span>
+ClasseNum:: 3
 
 Status:: <span class="chip not-ready">à faire</span> | <span class="chip ready">prêt</span> | <span class="chip to-review">à réviser</span> | <span class="chip done">fait</span> | <span class="chip na">NA</span>
 
@@ -23,13 +23,25 @@ Status:: <span class="chip not-ready">à faire</span> | <span class="chip ready"
 * Notes de cours (Léa)
 * Énnoncés (Léa)
 # Contenu
-| Quoi                           | Durée |
-| ------------------------------ | ----- |
-| Accueil et prise des présences | 5 m   |
-| **PAUSE**                      | ...   |
-| ...                            | ...   |
+## Étudiant
+• Rencontre hebdomadaire par teams
+### Plan de la rencontre
+1. Comment la semaine s'est passée
+2. Sujet de la semaine
+	1. Peux-tu me trouver une difficulté / embuche que tu vis à date?
+    2. Identifie un succès / une fierté de votre semaine
+1. Enjeux et préoccupations?
+2. Sujet de la semaine prochaine
+	1. Est-ce que la première paie a été effectuée? (pour les stages rémunérés)
+	2. Identifie une chose que tu as apprise cette semaine
+	3. Qu'as-tu apporté à l'entreprise cette semaine?
+	    
 # Notes
-À compléter
+## Courriel pour le superviseur de stage pour une rencontre (en personne ou par Teams)
+
+Bonjour {Nom complet superviseur de Stage},
+
+Vous accueillez des puis un peu plus de deux semaine {Nom complet étudiant} à titre de stagiaire en informatique. En tant que 
 
 # Rétroaction
 (alt+e - [[macro_rating]])
