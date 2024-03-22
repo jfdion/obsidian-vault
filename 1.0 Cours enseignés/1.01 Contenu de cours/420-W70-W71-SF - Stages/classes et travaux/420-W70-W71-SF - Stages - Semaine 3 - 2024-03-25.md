@@ -41,7 +41,7 @@ Status:: <span class="chip not-ready">à faire</span> | <span class="chip ready"
 
 Bonjour {Nom complet superviseur de Stage},
 
-Vous accueillez des puis un peu plus de deux semaine {Nom complet étudiant} à titre de stagiaire en informatique. En tant qu'enseignant superviseur de stage, il est de ma responsabilité de m'assurer que le stage des étudiants se déroule pour le mieux.
+Vous accueillez des puis un peu plus de deux semaines {Nom complet étudiant} à titre de stagiaire en informatique. En tant qu'enseignant superviseur de stage, il est de ma responsabilité de m'assurer que le stage des étudiants se déroule pour le mieux.
 
 C'est dans cette optique que j'aimerais organiser une visite dans le milieu de stage afin de vous rencontrez pour discuter de comment se déroule le stage jusqu'à présent. La formule de la rencontre serait une courte rencontre avec vous et votre stagiaire, environ 10-15 minutes, puis je poursuivrais seul avec le stagiaire.
 
@@ -50,8 +50,8 @@ Dans le cas où une visite en personne n'est pas possible ou n'est pas pertinent
 Mes périodes de disponibilités sont les suivantes:
 
 Mardi 26 mars: 12 h à 14 h 30
-Mercredi 26 mars: 9 h à 14 h
-Jeudi 27 mars: 13 h à 16 h (ajouter 9 h à 11 h pour Estefania Mantilla Quevedo, Mathean Michel et Samuel Potvin)
+Mercredi 27 mars: 9 h à 14 h
+Jeudi 28 mars: 13 h à 16 h (ajouter 9 h à 11 h pour Estefania Mantilla Quevedo, Mathean Michel et Samuel Potvin)
 
 Mercredi 3 avril: 9 h à 14 h
 Jeudi 4 avril: 13 h à 16 h (ajouter 9 h à 11 h pour Estefania Mantilla Quevedo, Mathean Michel et Samuel Potvin)
