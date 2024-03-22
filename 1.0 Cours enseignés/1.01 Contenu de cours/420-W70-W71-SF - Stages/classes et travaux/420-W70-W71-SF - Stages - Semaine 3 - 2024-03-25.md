@@ -49,10 +49,12 @@ Dans le cas où une visite en personne n'est pas possible ou n'est pas pertinent
 
 Mes périodes de disponibilités sont les suivantes:
 
-Mardi 26 mars : 12 h à 14 h 30
+Mardi 26 mars: 12 h à 14 h 30
 Mercredi 26 mars: 9 h à 14 h
 Jeudi 27 mars: 13 h à 16 h (ajouter 9 h à 11 h pour Estefania Mantilla Quevedo, Mathean Michel et Samuel Potvin)
-Vendredi 28 mars : 13 h à 16h (ajouter 8 h à 10 h pour Samuel Desbiens et Gabriel Rousseau)
+
+Mercredi 3 avril: 9 h à 14 h
+Jeudi 4 avril: 13 h à 16 h (ajouter 9 h à 11 h pour Estefania Mantilla Quevedo, Mathean Michel et Samuel Potvin)
 
 Cordialement,
 # Rétroaction
