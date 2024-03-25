@@ -34,6 +34,6 @@ Status:: <span class="chip done">fait</span>
 # Rétroaction
 ⭐⭐⭐⭐⭐⭐⭐⭐Rating:: 8 / 10
 
-Bon
+Bonne planification de temps, bonne démo
 
 Template:: [[template_seance_cours]]
