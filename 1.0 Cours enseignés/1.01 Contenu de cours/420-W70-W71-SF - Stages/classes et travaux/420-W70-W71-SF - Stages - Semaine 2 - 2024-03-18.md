@@ -42,6 +42,8 @@ Status:: <span class="chip ready">prêt</span>
 À compléter
 
 # Rétroaction
-(alt+e - [[macro_rating]])
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Rating:: 10 / 10
+
+Les stages sont biens partis. Il manque la rencontre avec 
 
 Template:: [[template_seance_cours]]

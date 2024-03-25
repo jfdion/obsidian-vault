@@ -12,8 +12,7 @@ Date::  2024-03-25
 Semaine:: 3
 Heure:: <span class="chip na">NA</span>
 ClasseNum:: 3
-
-Status:: <span class="chip not-ready">à faire</span> | <span class="chip ready">prêt</span> | <span class="chip to-review">à réviser</span> | <span class="chip done">fait</span> | <span class="chip na">NA</span>
+Status:: <span class="chip ready">prêt</span>
 
 **Thème**::
 
@@ -24,17 +23,20 @@ Status:: <span class="chip not-ready">à faire</span> | <span class="chip ready"
 * Énnoncés (Léa)
 # Contenu
 ## Étudiant
-• Rencontre hebdomadaire par teams
+• Rencontre hebdomadaire par teams ou en personne
 ### Plan de la rencontre
-1. Comment la semaine s'est passée
-2. Sujet de la semaine
-	1. Peux-tu me trouver une difficulté / embuche que tu vis à date?
-    2. Identifie un succès / une fierté de votre semaine
-1. Enjeux et préoccupations?
-2. Sujet de la semaine prochaine
-	1. Est-ce que la première paie a été effectuée? (pour les stages rémunérés)
-	2. Identifie une chose que tu as apprise cette semaine
-	3. Qu'as-tu apporté à l'entreprise cette semaine?
+1. Rencontre avec le superviseur de stage
+	1. Comment se déroule le stage jusqu'à présent
+	2. Préparer l'évaluation de mi-stage
+2. Rencontre avec l'étudiant
+	1. Sujet de la semaine
+		1. Peux-tu me trouver une difficulté / embuche que tu vis à date?
+	    2. Identifie un succès / une fierté de votre semaine
+	2. Enjeux et préoccupations?
+	3. Sujet de la semaine prochaine
+		1. Est-ce que la première paie a été effectuée? (pour les stages rémunérés)
+		2. Identifie une chose que tu as apprise cette semaine
+		3. Qu'as-tu apporté à l'entreprise cette semaine?
 	    
 # Notes
 ## Courriel pour le superviseur de stage pour une rencontre (en personne ou par Teams)
