@@ -13,7 +13,7 @@ Semaine:: 7
 Heure:: 11:00 à 13:00  
 ClasseNum:: 14
 
-Status:: <span class="chip ready">Prêt</span>
+Status:: <span class="chip done">Fait</span>
 
 **Thème**:: Retour sur les exercices 7.1 et 7.2
 
@@ -35,6 +35,8 @@ Status:: <span class="chip ready">Prêt</span>
 À compléter
 
 # Rétroaction
-(alt+e - [[macro_rating]])
+⭐⭐⭐⭐⭐⭐⭐Rating:: 7 / 10
+
+Temps pour le retour beaucoup plus cours qu'anticipé
 
 Template:: [[template_seance_cours]]
