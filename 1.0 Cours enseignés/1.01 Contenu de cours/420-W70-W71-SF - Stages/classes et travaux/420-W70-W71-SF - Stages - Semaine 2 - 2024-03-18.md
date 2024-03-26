@@ -13,7 +13,7 @@ Semaine:: 2
 Heure:: <span class="chip na">na</span>
 ClasseNum:: 2
 
-Status:: <span class="chip ready">prêt</span>
+Status:: <span class="chip done">fait</span>
 
 **Thème**:: Environnement technologique
 
@@ -44,6 +44,6 @@ Status:: <span class="chip ready">prêt</span>
 # Rétroaction
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Rating:: 10 / 10
 
-Les stages sont biens partis. Il manque la rencontre avec 
+Les stages sont biens partis. Il manque la rencontre avec un étudiant qui n'était pas disponible la semaine dernière pour la rencontre.
 
 Template:: [[template_seance_cours]]

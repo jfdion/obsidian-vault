@@ -15,7 +15,7 @@ ClasseNum:: 17
 
 Status:: <span class="chip to-review">à réviser</span>
 
-**Thème**:: Sécurité WEb
+**Thème**:: Sécurité Web
 
 **Remises**:: <span class="chip na">na</span>
 
