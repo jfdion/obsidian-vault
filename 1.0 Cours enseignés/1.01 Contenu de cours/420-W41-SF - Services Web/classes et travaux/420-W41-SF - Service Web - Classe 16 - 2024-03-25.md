@@ -13,7 +13,7 @@ Semaine:: 7
 Heure:: 11:00 à 13:00  
 ClasseNum:: 16
 
-Status:: <span class="chip ready">prêt</span> 
+Status:: <span class="chip done">fait</span> 
 
 **Thème**:: Labo TP2-US1
 
@@ -32,6 +32,8 @@ Status:: <span class="chip ready">prêt</span>
 À compléter
 
 # Rétroaction
-(alt+e - [[macro_rating]])
+⭐⭐⭐⭐⭐⭐⭐⭐Rating:: 8 / 10
+
+L'énoncé du TP pourrait être clarifié pour les attentes
 
 Template:: [[template_seance_cours]]

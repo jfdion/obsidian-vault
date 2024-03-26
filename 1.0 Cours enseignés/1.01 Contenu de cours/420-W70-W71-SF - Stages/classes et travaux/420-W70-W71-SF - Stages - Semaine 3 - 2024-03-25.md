@@ -27,7 +27,10 @@ Status:: <span class="chip ready">prêt</span>
 ### Plan de la rencontre
 1. Rencontre avec le superviseur de stage
 	1. Comment se déroule le stage jusqu'à présent
-	2. Préparer l'évaluation de mi-stage
+	2. Historique avec les stagiaires
+		1. Première année ou plusieurs
+		2. Raisons pour l'accueil de stagiaires
+	3. Préparer l'évaluation de mi-stage
 2. Rencontre avec l'étudiant
 	1. Sujet de la semaine
 		1. Peux-tu me trouver une difficulté / embuche que tu vis à date?
