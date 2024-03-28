@@ -5,17 +5,17 @@
 
 **MOC:** 
 
-Chip:: <span class="chip cours-1">C1</span> |  <span class="chip cours-2">C2</span> |  <span class="chip cours-3">C3</span> |  <span class="chip cours-4">C4</span> |  <span class="chip cours-5">C5</span>
+Chip::  <span class="chip cours-3">ST</span> 
 Session:: H24
 
 Date::  2024-04-01  
-Semaine:: 
-Heure:: <% tp.file.cursor(2) %>:00 à <% tp.file.cursor(3) %>:00  
-ClasseNum:: <% tp.file.cursor(4) %>
+Semaine:: 4
+Heure:: <span class="chip na">NA</span>
+ClasseNum:: 4
 
-Status:: <span class="chip not-ready">à faire</span> | <span class="chip ready">prêt</span> | <span class="chip to-review">à réviser</span> | <span class="chip done">fait</span> | <span class="chip na">NA</span>
+Status:: <span class="chip ready">prêt</span> 
 
-**Thème**::
+**Thème**:: Apprentissage / Apport à l'entreprise
 
 **Remises**:: <span class="chip na">na</span>
 
@@ -23,11 +23,19 @@ Status:: <span class="chip not-ready">à faire</span> | <span class="chip ready"
 * Notes de cours (Léa)
 * Énnoncés (Léa)
 # Contenu
-| Quoi                           | Durée |
-| ------------------------------ | ----- |
-| Accueil et prise des présences | 5 m   |
-| **PAUSE**                      | ...   |
-| ...                            | ...   |
+## Étudiant
+• Rencontre hebdomadaire par teams ou en personne
+### Plan de la rencontre
+1. Sujet de la semaine
+	1. Est-ce que la première paie a été effectuée? (pour les stages rémunérés)
+	2. Identifie une chose que tu as apprise cette semaine
+	3. Qu'as-tu apporté à l'entreprise cette semaine?
+2. Rappel Formulaire SST
+3. Enjeux et préoccupations?
+4. Sujet de la semaine prochaine
+	1. Est-ce que la première paie a été effectuée? (pour les stages rémunérés)
+	2. Identifie une chose que tu as apprise cette semaine
+	3. Qu'as-tu apporté à l'entreprise cette semaine?
 # Notes
 À compléter
 

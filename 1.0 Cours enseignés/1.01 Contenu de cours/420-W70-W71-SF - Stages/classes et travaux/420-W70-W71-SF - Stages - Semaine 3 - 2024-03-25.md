@@ -14,7 +14,7 @@ Heure:: <span class="chip na">NA</span>
 ClasseNum:: 3
 Status:: <span class="chip ready">prêt</span>
 
-**Thème**::
+**Thème**:: Difficulté / Fierté
 
 **Remises**:: <span class="chip na">na</span>
 
