@@ -1,10 +1,11 @@
-#cours/420-W41-SF/ServicesWeb/planseance
+#cours/420-W41-SF/ServicesWeb/planseance #planseance
 # Meta info
 
-**Cours**:: #cours/420-W41-SF/ServicesWeb #planseance
+**Cours**:: #cours/420-W41-SF/ServicesWeb 
 
 **MOC:**  [[420-W41-SF - Services Web - MOC]]
 
+Chip:: <span class="chip cours-2">SW</span>
 Session:: H24
 
 Date::  2024-02-26  
@@ -12,12 +13,12 @@ Semaine:: 4
 Heure::11:00 à 13:00  
 ClasseNum:: 8
 
-Status:: <span class="chip ready">Prêt</span> 
+Status:: <span class="chip done">Fait</span> 
 
 **Thème**:: Gestion des erreurs
 
-**Remises:**  
-Remises:: TP1 - US1 @ 23h59
+**Remises**:: TP1 - US1 @ 23h59
+
 
 # Matériel du cours
 * Notes de cours - Gestion des erreurs (Léa)
@@ -32,6 +33,10 @@ Remises:: TP1 - US1 @ 23h59
 # Notes
 
 # Rétroaction
-(alt+e - [[macro_rating]])
+⭐⭐⭐⭐⭐⭐⭐⭐Rating:: 8 / 10
+
+ Mauvais minutage, tout a été fait en 20 minutes
+
+Labo TP1-US1 a bien été
 
 Template:: [[template_seance_cours]]

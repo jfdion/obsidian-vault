@@ -26,17 +26,25 @@ body {
     --txt-white: #fff;
     --txt-gray: #777;
     --txt-black: #000;
+    --txt-dark-gray: #333;
 
 
     --bg-amber: #c82;
     --bg-blue: #339;
     --bg-green: #393;
     --bg-light-green: #8c2;
-    --bg-light-blue: #28c;
-    --bg-pink: #c28;
-    --bg-purple: #82c;
+    --bg-light-blue: #09f;
+    --bg-pink: #f09;;
+    --bg-purple: #90f;;
     --bg-strawberry: #933;
+    --bg-cherry: #511;
     --bg-teal: #2c8;
+
+    --bg-walnut:#544B3D;
+    --bg-dark-cyan: #048a81;
+    --bg-vermillon: #dd403a;
+    --bg-mindaro: #D5e68D;
+    --bg-glaucous:#657ed4;
 
     --bg-mid-gray: #999;
     --bg-dark-gray: #404040;
@@ -51,9 +59,23 @@ body {
     --bg-chip-read: var(--bg-amber);
     --bg-chip-note: var(--bg-green);
 
+    /** === Chip identification cours === */
+    --bg-chip-cours-1: var(--bg-mindaro);
+    --bg-chip-cours-2: var(--bg-dark-cyan);
+    --bg-chip-cours-3: var(--bg-vermillon);
+    --bg-chip-cours-4: var(--bg-glaucous);
+    --bg-chip-cours-5: var(--bg-walnut);
+
+    --txt-chip-cours-1: var(--txt-dark-gray);
+    --txt-chip-cours-2: var(--txt-white);
+    --txt-chip-cours-3: var(--txt-dark-gray);
+    --txt-chip-cours-4: var(--txt-dark-gray);
+    --txt-chip-cours-5: var(--txt-white);
+
     /** === Seance cours status === */
     --bg-chip-ready: var(--bg-green);
     --bg-chip-not-ready: var(--bg-strawberry);
+    --bg-chip-canceled: var(--bg-cherry);
     --bg-chip-to-review: var(--bg-amber);
     --bg-chip-done: var(--bg-light-blue);
     --bg-chip-na: var(--bg-dark-gray);
@@ -98,6 +120,11 @@ body {
     background-color: var(--bg-chip-not-ready);
 }
 
+.chip.canceled {
+    background-color: var(--bg-chip-canceled);
+    text-decoration: line-through;
+}
+
 .chip.to-review,
 .chip.review {
     background-color: var(--bg-chip-to-review);
@@ -109,4 +136,29 @@ body {
 
 .chip.na {
     background-color: var(--bg-chip-na);
+}
+
+.chip.cours-1{
+    color: var(--txt-chip-cours-1);
+    background-color: var(--bg-chip-cours-1);
+}
+
+.chip.cours-2{
+    color: var(--txt-chip-cours-2);
+    background-color: var(--bg-chip-cours-2);
+}
+
+.chip.cours-3{
+    color: var(--txt-chip-cours-3);
+    background-color: var(--bg-chip-cours-3);
+}
+
+.chip.cours-4{
+    color: var(--txt-chip-cours-4);
+    background-color: var(--bg-chip-cours-4);
+}
+
+.chip.cours-5{
+    color: var(--txt-chip-cours-5);
+    background-color: var(--bg-chip-cours-5);
 }

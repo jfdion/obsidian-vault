@@ -2,21 +2,21 @@
 # Meta info
 **Cours**:: #cours/420-W41-SF/ServicesWeb
 
-**MOC:** [[420-W41-SF - Services Web - MOC]]
+**MOC:** [[420-W41-SF - Services Web - MOC]]
 
+Chip::  <span class="chip cours-2">SW</span>
 Session:: H24
 
-Date::  2024-02-12  
-Semaine:: 2 
-Heure:: 11:00 à 13:00  
-ClasseNum:: 4
+Date::  2024-01-31
+Semaine:: 1
+Heure:: 16:00 à 18:00
+ClasseNum:: 1
 
 Status:: <span class="chip na">NA</span>
 
 **Thème:**
 
-**Remises:**  
-Remises:: <span class="chip na">NA</span>
+**Remises**:: <span class="chip na">na</span>
 
 # Matériel du cours
 * Présentation (Google Drive)
@@ -26,4 +26,3 @@ Remises:: <span class="chip na">NA</span>
 
 # Rétroaction
 (alt+e - [[macro_rating]])
-

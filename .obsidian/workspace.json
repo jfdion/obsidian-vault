@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65a7e1fef923c011",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d40d60296c4cd467",
             "type": "leaf",
             "state": {
@@ -27,18 +15,6 @@
               "state": {
                 "file": "extensions/Templates/L1 Meeting Template.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0f65fc7a56add1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 7 - 2024-02-21.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -64,9 +40,21 @@
                 "currentVersion": "1.5.8"
               }
             }
+          },
+          {
+            "id": "7a28dfb3039938f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0 Références/0.3 Snippets/go/Makefile.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0 Références/0.3 Snippets/go/Makefile.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0 Références/0.3 Snippets/go/Makefile.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -212,34 +200,36 @@
       "media-extended:Open media": false
     }
   },
-  "active": "a4aec2bec5aec847",
+  "active": "7a28dfb3039938f3",
   "lastOpenFiles": [
-    "0.0 Références/0.2 Resources/Rest API Tutorial.md",
-    "0.0 Références/Articles to read.md",
-    "0.0 Références/0.2 Resources/GPO - Windows start menu ads.md",
-    "0.0 Références/0.2 Resources/Windows désactiver Bing menu recherche.md",
-    "0.0 Références/Resources/Windows/GPO - Windows start menu ads.md",
-    "0.0 Références/0.2 Resources/Nerd fonts.md",
-    "0.0 Références/0.2 Resources/Johnny.Decimal.md",
-    "0.0 Références/0.2 Resources/WSL-CMD/Powershell profile config.md",
-    "0.0 Références/0.2 Resources/WSL-CMD/Windows powershell color theme.md",
-    "0.0 Références/0.2 Resources/WSL-CMD/WSL Console setup.md",
-    "0.0 Références/0.2 Resources/WSL-CMD/oh-my-posh-overrides.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/420-W41-SF - Services Web - MOC.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 9 - 2024-02-28.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 8 - 2024-02-26.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 7 - 2024-02-21.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 6 - 2024-02-19.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 5 - 2024-02-14.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 4 - 2024-02-12.md",
-    "extensions/Templates/template_seance_cours.md",
-    "Home.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 5 - 2024-02-27.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W22-SF - Service Web - Classe 7 - 2024-02-19.md",
-    "extensions/Templates/template_moc.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 4 - 2024-02-20.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I Classe 3 - 2024-02-13.md",
     "conflict-files-obsidian-git.md",
+    "1.0 Cours enseignés/1.02 Idées/Service Web.md",
+    "1.0 Cours enseignés/1.02 Idées/Examen Final.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 4 - 2024-04-01.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 3 - 2024-03-25.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 2 - 2024-03-18.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 1 - 2024-03-11.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 0 - 2024-03-04.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/420-W70-W71-SF - Stages - Moc.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 9 - 2024-02-28.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 8 - 2024-02-26.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 7 - 2024-02-21.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 6 - 2024-02-19.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 5 - 2024-02-14.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 4 - 2024-02-12.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 3 - 2024-02-07.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 15 - 2024-03-20.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 14 - 2024-03-18.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 13 - 2024-03-13.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 12 - 2024-03-11.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 11 - 2024-03-06.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 10 - 2024-03-04.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 1 - 2024-01-30.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 9 - 2024-03-26.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 8 - 2024-03-19.md",
+    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 7  - 2024-03-12.md",
     "0.0 Références/0.3 Snippets/sql 🐷",
     "0.0 Références/0.3 Snippets/php",
     "0.0 Références/0.3 Snippets/js-ts",
@@ -248,8 +238,6 @@
     "0.0 Références/0.2 Resources/WSL-CMD",
     "0.0 Références/0.2 Resources/SQL games",
     "0.0 Références/0.2 Resources",
-    "0.0 Références/0.1 Articles",
-    "0.0 Références/Resources/Windows",
     "v4q11k8t.bmp",
     "Untitled.canvas"
   ]

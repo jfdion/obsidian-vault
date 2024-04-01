@@ -4,6 +4,7 @@
 
 **MOC:** [[420-W41-SF - Services Web - MOC]]
 
+Chip:: <span class="chip cours-2">SW</span>
 Session:: H24
 
 Date::  2024-02-19
@@ -21,8 +22,7 @@ Premier cours de la prise en charge. Me présenter aux étudiants et faire un su
 * Présentation des tests bout-en-bouts
 * Démo de codage
 
-**Remises:**  
-Remises:: <span class="chip na">NA</span>
+**Remises**:: <span class="chip na">na</span>
 
 # Matériel du cours
 * [Questionnaire « qui êtes vous » (Sharepoint)](https://forms.office.com/Pages/DesignPageV2.aspx?prevorigin=shell&origin=NeoPortalPage&subpage=design&id=alNVMAoTL0mKYjkb23nJ6TsN1icS-f1KpXdHdqRxfGlUMFA3QjZTT0dXVjZHUkdaMUFUQllHR0VYRC4u)

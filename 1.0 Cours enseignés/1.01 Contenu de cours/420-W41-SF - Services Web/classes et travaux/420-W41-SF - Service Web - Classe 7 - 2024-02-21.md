@@ -5,6 +5,7 @@
 
 **MOC:** [[420-W41-SF - Services Web - MOC]]
 
+Chip:: <span class="chip cours-2">SW</span>
 Session:: H24
 
 Date::  2024-02-21
@@ -18,8 +19,7 @@ Status:: <span class="chip done">Fait</span>
 * Retour sur le test E2E d'obtention d'une ressource
 * Présentation en profondeur du TP 1
 
-**Remises:**  
-Remises:: 
+**Remises**:: <span class="chip na">na</span>
 
 # Matériel du cours
 * [Énnoncé de l'excercice 3.2](https://csfoy-lea.omnivox.ca/cvir/rtrv/ReadDocumentTravail.aspx/Exercice_3.2_-_Tests_Bout-En-Bout.pdf?idtravail=3e57cc4e-157b-4845-9338-f819f0c4cbb4&iddocumenttravail=190ff94d-b4e6-404f-9c45-a90510ebd784&C=SFO&E=P&L=FRA&Ref=20240221120627&SID=44626be4-7e75-418f-8537-dd1c3c5500de&Info=YWV1bGpkRUJkZi8veWRMWEJFbmk1WGRaZWxoS0Mwem1tdXErN1lVclZvQUNkZ3h6YldGREZWTXFudkQ4aVhHQnBUVHcyZkhUbDlTdzlIRStSanc4SGhCSmlXcjlmWXJQNlh1Y1JjTlhiVENlZHYwcS80M3RQbCtJb3RPcGUvdUJrUUJSendDK2p6U0U5d01FbC90WlNRPT0_) (Léa)
