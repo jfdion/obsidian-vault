@@ -33,9 +33,8 @@ Status:: <span class="chip ready">prêt</span>
 2. Rappel Formulaire SST
 3. Enjeux et préoccupations?
 4. Sujet de la semaine prochaine
-	1. Est-ce que la première paie a été effectuée? (pour les stages rémunérés)
-	2. Identifie une chose que tu as apprise cette semaine
-	3. Qu'as-tu apporté à l'entreprise cette semaine?
+	1. Il y a-t-il une chose que tu changerais / améliorerais dans l'entreprise? (technique ou autre)
+	2. Identifie une chose que tu as changée pour t'améliorer
 # Notes
 À compléter
 

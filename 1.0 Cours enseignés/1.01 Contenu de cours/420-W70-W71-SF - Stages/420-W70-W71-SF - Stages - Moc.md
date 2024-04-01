@@ -7,7 +7,7 @@ Session:: H24
 # Références
 * Plan de cours (LÉA)
 * Devis du cours (Google Drive)
-* Matériel de cours (Google Drive)
+* [Matériel de cours (Google Drive)](https://drive.google.com/drive/u/0/folders/1RzUFR-HF8xHm1Jh5520GrMvhpe19uAs1)
 # Classes et travaux
 ```dataview
 TABLE Semaine + "-" + ClasseNum as "Séance ↑", Thème, Status, Date, Heure, Remises, Rating
