@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4aec2bec5aec847",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -202,7 +212,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "9532e73c4535bdeb",
+  "active": "a4aec2bec5aec847",
   "lastOpenFiles": [
     "0.0 Références/0.2 Resources/Rest API Tutorial.md",
     "0.0 Références/Articles to read.md",
