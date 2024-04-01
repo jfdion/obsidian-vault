@@ -13,7 +13,7 @@ Semaine:: 8
 Heure:: 16:00 à 18:00  
 ClasseNum:: 17
 
-Status:: <span class="chip to-review">à réviser</span>
+Status:: <span class="chip canc">Annulé</span>
 
 **Thème**:: Sécurité Web
 
