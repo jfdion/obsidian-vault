@@ -32,10 +32,15 @@ Status:: <span class="chip to-review">à réviser</span>
 | **PAUSE**                              | ...   |
 | Introduction à la sécurité Web - suite | 5 m   |
 | Authentifcation de base                | 15 m  |
-| Démo authentification de base          | 20 m  |
+| Démo authentification de base          | 30 m  |
 
 # Notes
 Rendre les documents disponibles
+
+## Retour sur le TP1-US2
+* Open API
+	* Documentation des codes d'erreurs possibles sur les routes des resources
+
 
 # Rétroaction
 (alt+e - [[macro_rating]])
