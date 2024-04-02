@@ -9,9 +9,9 @@ Chip::  <span class="chip cours-2">SW</span>
 Session:: H24
 
 Date::  2024-03-27  
-Semaine:: 8
-Heure:: 16:00 à 18:00  
-ClasseNum:: 17
+Semaine:: 9
+Heure:: 11:00 à 13:00  
+ClasseNum:: 18
 
 Status:: <span class="chip to-review">à réviser</span>
 
@@ -34,7 +34,7 @@ Status:: <span class="chip to-review">à réviser</span>
 | Démo authentification de base  | 20 m  |
 
 # Notes
-À compléter
+Rendre les documents disponibles
 
 # Rétroaction
 (alt+e - [[macro_rating]])

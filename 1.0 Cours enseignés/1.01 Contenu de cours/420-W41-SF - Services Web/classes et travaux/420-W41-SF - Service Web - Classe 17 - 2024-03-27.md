@@ -13,9 +13,9 @@ Semaine:: 8
 Heure:: 16:00 à 18:00  
 ClasseNum:: 17
 
-Status:: <span class="chip canc">Annulé</span>
+Status:: <span class="chip canceled">Annulé</span>
 
-**Thème**:: Sécurité Web
+**Thème**:: ANNULÉ - Sécurité Web
 
 **Remises**:: <span class="chip na">na</span>
 
@@ -33,7 +33,7 @@ Status:: <span class="chip canc">Annulé</span>
 | Démo authentification de base  | 20 m  |
 | Temps TP2-US4                  | 10 m  |
 # Notes
-À compléter
+Grève étudiante pour la rémunération des stages
 
 # Rétroaction
 (alt+e - [[macro_rating]])
