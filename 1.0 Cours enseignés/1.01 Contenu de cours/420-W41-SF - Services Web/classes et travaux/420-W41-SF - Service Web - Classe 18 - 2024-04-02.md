@@ -30,9 +30,9 @@ Status:: <span class="chip ready">Prêt</span>
 | Quiz amorce sécurité Web               | 20 m  |
 | Introduction à la sécurité Web         | 15 m  |
 | **PAUSE**                              | ...   |
-| Introduction à la sécurité Web - suite | 5 m   |
-| Authentifcation de base                | 15 m  |
-| Démo authentification de base          | 30 m  |
+| Authentifcation                        | 15 m  |
+| Authentification de base (avec Spring) | 15 m  |
+| Démo authentification de base          | 20 m  |
 
 # Notes
 Rendre les documents disponibles
