@@ -8,12 +8,12 @@
 Chip::  <span class="chip cours-2">SW</span>
 Session:: H24
 
-Date::  2024-03-27  
+Date::  2024-04-02
 Semaine:: 9
 Heure:: 11:00 à 13:00  
 ClasseNum:: 18
 
-Status:: <span class="chip to-review">à réviser</span>
+Status:: <span class="chip ready">Prêt</span>
 
 **Thème**:: Sécurité Web
 
@@ -36,7 +36,6 @@ Status:: <span class="chip to-review">à réviser</span>
 
 # Notes
 Rendre les documents disponibles
-
 ## Retour sur le TP1-US2
 * Open API
 	* Documentation des codes d'erreurs possibles sur les routes des ressources
@@ -45,7 +44,6 @@ Rendre les documents disponibles
 	* Valeur
 * Tests d'API
 	* Tests manquants pour les cas d'erreur
-
 
 # Rétroaction
 (alt+e - [[macro_rating]])

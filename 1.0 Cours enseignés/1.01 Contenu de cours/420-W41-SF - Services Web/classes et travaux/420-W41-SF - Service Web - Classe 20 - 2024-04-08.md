@@ -8,14 +8,14 @@
 Chip::  <span class="chip cours-2">SW</span>
 Session:: H24
 
-Date::  2024-04-10  
-Semaine:: 11
-Heure:: 16:00 à 18:00  
+Date::  2024-04-08
+Semaine:: 10
+Heure:: 11:00 à 13:00  
 ClasseNum:: 20
 
 Status:: <span class="chip not-ready">à faire</span> 
 
-**Thème**:: **Évaluation enseignement**
+**Thème**:: Autorisations
 
 **Remises**:: <span class="chip na">na</span>
 
@@ -26,9 +26,8 @@ Status:: <span class="chip not-ready">à faire</span>
 | Quoi                           | Durée |
 | ------------------------------ | ----- |
 | Accueil et prise des présences | 5 m   |
-| Évaluation de l'enseignement   | 30 m  |
 | **PAUSE**                      | ...   |
-| ...                            | ...   |
+|                                |       |
 # Notes
 À compléter
 

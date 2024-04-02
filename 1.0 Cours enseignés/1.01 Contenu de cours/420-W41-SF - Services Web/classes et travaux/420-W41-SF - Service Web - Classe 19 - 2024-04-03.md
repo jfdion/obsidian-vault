@@ -23,16 +23,16 @@ Status:: <span class="chip to-review">à réviser</span>
 * Notes de cours (Léa)
 * Énnoncés (Léa)
 # Contenu
-| Quoi                                   | Durée |
-| -------------------------------------- | ----- |
-| Accueil et prise des présences         | 5 m   |
-| Encoding vs hashing vs en              | 15 m  |
-| Quiz amorce sécurité Web               | 20 m  |
-| Introduction à la sécurité Web         | 15 m  |
-| **PAUSE**                              | ...   |
-| Introduction à la sécurité Web - suite | 5 m   |
-| Authentifcation de base                | 15 m  |
-| Démo authentification de base          | 30 m  |
+| Quoi                                                  | Durée |
+| ----------------------------------------------------- | ----- |
+| Accueil et prise des présences                        | 5 m   |
+| Encoding vs hashing vs encrypting                     | 15 m  |
+| Authentification JWT                                  | 20 m  |
+| Présentation TP2-US4                                  | 10 m  |
+| **PAUSE**                                             | ...   |
+| Présentation TP2-US4 - suite                          | 10 m  |
+| Exercice 9.1 - Compréhension de la chaine de sécurité | 20 m  |
+| Temps travail libre                                   | 20 m  |
 
 # Notes
 Rendre les documents disponibles
