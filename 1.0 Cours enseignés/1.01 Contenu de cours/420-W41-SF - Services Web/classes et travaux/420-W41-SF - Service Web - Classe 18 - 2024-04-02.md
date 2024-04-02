@@ -46,6 +46,8 @@ Rendre les documents disponibles
 	* Tests manquants pour les cas d'erreur
 
 # Rétroaction
-(alt+e - [[macro_rating]])
+⭐⭐⭐⭐⭐⭐⭐Rating:: 7 / 10
+
+Quand même bien été même si la matière n'est pas 
 
 Template:: [[template_seance_cours]]
