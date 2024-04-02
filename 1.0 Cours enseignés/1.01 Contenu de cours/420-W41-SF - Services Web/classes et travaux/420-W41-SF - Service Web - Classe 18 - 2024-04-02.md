@@ -23,15 +23,16 @@ Status:: <span class="chip to-review">à réviser</span>
 * Notes de cours (Léa)
 * Énnoncés (Léa)
 # Contenu
-| Quoi                           | Durée |
-| ------------------------------ | ----- |
-| Accueil et prise des présences | 5 m   |
-| Présentation du TP2-US4        | 15 m  |
-| Quiz amorce sécurité Web       | 30 m  |
-| **PAUSE**                      | ...   |
-| Introduction à la sécurité Web | 20 m  |
-| Authentifcation de base        | 20 m  |
-| Démo authentification de base  | 20 m  |
+| Quoi                                   | Durée |
+| -------------------------------------- | ----- |
+| Accueil et prise des présences         | 5 m   |
+| Retour TP2-US3                         | 15 m  |
+| Quiz amorce sécurité Web               | 20 m  |
+| Introduction à la sécurité Web         | 15 m  |
+| **PAUSE**                              | ...   |
+| Introduction à la sécurité Web - suite | 5 m   |
+| Authentifcation de base                | 15 m  |
+| Démo authentification de base          | 20 m  |
 
 # Notes
 Rendre les documents disponibles
