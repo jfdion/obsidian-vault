@@ -8,10 +8,10 @@
 Chip::  <span class="chip cours-2">SW</span>
 Session:: H24
 
-Date::  2024-03-27  
+Date::  2024-04-03
 Semaine:: 9
-Heure:: 11:00 à 13:00  
-ClasseNum:: 18
+Heure:: 16:00 à 18:00  
+ClasseNum:: 19
 
 Status:: <span class="chip to-review">à réviser</span>
 
@@ -26,7 +26,7 @@ Status:: <span class="chip to-review">à réviser</span>
 | Quoi                                   | Durée |
 | -------------------------------------- | ----- |
 | Accueil et prise des présences         | 5 m   |
-| Retour TP2-US3                         | 15 m  |
+| Encoding vs hashing vs en              | 15 m  |
 | Quiz amorce sécurité Web               | 20 m  |
 | Introduction à la sécurité Web         | 15 m  |
 | **PAUSE**                              | ...   |
