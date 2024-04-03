@@ -13,7 +13,7 @@ Semaine:: 9
 Heure:: 11:00 à 13:00  
 ClasseNum:: 18
 
-Status:: <span class="chip ready">Prêt</span>
+Status:: <span class="chip done">Fait</span>
 
 **Thème**:: Sécurité Web
 
@@ -48,6 +48,10 @@ Rendre les documents disponibles
 # Rétroaction
 ⭐⭐⭐⭐⭐⭐⭐Rating:: 7 / 10
 
-Quand même bien été même si la matière n'est pas 
+Quand même bien été même si la matière n'est pas tant dans mes cordes.
+
+Quiz d'amorce à bien fonctionné. 
+
+Le débit du contenu a été un peu rapide, j'ai terminé avec 20 minutes d'avance
 
 Template:: [[template_seance_cours]]

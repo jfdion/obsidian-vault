@@ -15,7 +15,7 @@ ClasseNum:: 19
 
 Status:: <span class="chip to-review">à réviser</span>
 
-**Thème**:: Sécurité Web
+**Thème**:: Sécurité Web - jeton et autorisation
 
 **Remises**:: <span class="chip na">na</span>
 
