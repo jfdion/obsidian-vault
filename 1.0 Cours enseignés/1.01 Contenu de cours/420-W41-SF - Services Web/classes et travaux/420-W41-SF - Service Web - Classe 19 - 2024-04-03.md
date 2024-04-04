@@ -42,6 +42,6 @@ Rendre les documents disponibles
 
 Présentation de la théorie s'est fait très rapidement.
 
-Le rallye dans le code était une activité intéressante qui a forcée 
+Le rallye dans le code était une activité intéressante qui a forcé les étudiants à creuser dans le code.
 
 Template:: [[template_seance_cours]]

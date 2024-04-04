@@ -9,6 +9,7 @@ const date = await tx.promptStr(tp, "Date", tp.date.now())
 tR += tx.buildHierarchicalTag(["cours", cours, "planseance"]) + " " + "#planseance"
 
 /** TODOS
+ * Déterminer le nom du fichier à partir du dossier parent
  * Déterminer la date à partir du nom du fichier (dernier segment)
  * Ajouter un prompt pour les heures et la semaine
 */
