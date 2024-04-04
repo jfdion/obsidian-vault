@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extensions/Templates/template_seance_cours.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 4 - 2024-04-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,12 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 324
+    "width": 626
   },
   "right": {
     "id": "bb738e2bffc7e4ca",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extensions/Templates/template_seance_cours.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 4 - 2024-04-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extensions/Templates/template_seance_cours.md",
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 4 - 2024-04-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extensions/Templates/template_seance_cours.md"
+                "file": "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 4 - 2024-04-01.md"
               }
             }
           },
@@ -169,6 +168,7 @@
   },
   "active": "51941da60b0c95e4",
   "lastOpenFiles": [
+    "extensions/Templates/template_seance_cours.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 21 - 2024-04-10 1.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 5 - 2024-04-08.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/420-W70-W71-SF - Stages - Moc.md",
@@ -194,7 +194,6 @@
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 15 - 2024-03-20.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 14 - 2024-03-18.md",
     "1.0 Cours enseignés/1.02 Idées/Service Web.md",
-    "1.0 Cours enseignés/1.02 Idées/Examen Final.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement/Suivi",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux",
