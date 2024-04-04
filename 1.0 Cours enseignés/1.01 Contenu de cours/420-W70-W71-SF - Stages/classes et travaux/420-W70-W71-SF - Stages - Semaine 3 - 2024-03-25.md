@@ -12,6 +12,7 @@ Date::  2024-03-25
 Semaine:: 3
 Heure:: <span class="chip na">NA</span>
 ClasseNum:: 3
+
 Status:: <span class="chip ready">prêt</span>
 
 **Thème**:: Difficulté / Fierté
