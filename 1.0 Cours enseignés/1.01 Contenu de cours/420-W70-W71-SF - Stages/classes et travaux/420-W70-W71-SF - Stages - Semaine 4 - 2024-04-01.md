@@ -26,7 +26,8 @@ Status:: <span class="chip ready">prêt</span>
 ## Étudiant
 • Rencontre hebdomadaire par teams ou en personne
 ### Plan de la rencontre
-1. Sujet de la semaine
+1. Comment la semaine s'est passée
+2. Sujet de la semaine
 	1. Est-ce que la première paie a été effectuée? (pour les stages rémunérés)
 	2. Identifie une chose que tu as apprise cette semaine
 	3. Qu'as-tu apporté à l'entreprise cette semaine?
