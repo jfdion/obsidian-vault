@@ -13,7 +13,7 @@ Semaine:: 9
 Heure:: 16:00 à 18:00  
 ClasseNum:: 19
 
-Status:: <span class="chip to-review">à réviser</span>
+Status:: <span class="chip done">Fait</span>
 
 **Thème**:: Sécurité Web - jeton et autorisation
 
@@ -37,17 +37,11 @@ Status:: <span class="chip to-review">à réviser</span>
 # Notes
 Rendre les documents disponibles
 
-## Retour sur le TP1-US2
-* Open API
-	* Documentation des codes d'erreurs possibles sur les routes des ressources
-* Comparaison d'objets
-	* Id
-	* Valeur
-* Tests d'API
-	* Tests manquants pour les cas d'erreur
-
-
 # Rétroaction
-(alt+e - [[macro_rating]])
+⭐⭐⭐⭐⭐⭐⭐Rating:: 7 / 10
+
+Présentation de la théorie s'est fait très rapidement.
+
+Le rallye dans le code était une activité intéressante qui a forcée 
 
 Template:: [[template_seance_cours]]

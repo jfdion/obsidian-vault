@@ -13,7 +13,7 @@ Semaine:: 5
 Heure:: <span class="chip na">NA</span>
 ClasseNum:: 5
 
-Status::  <span class="chip ready">prêt</span>
+Status:: <span class="chip ready">prêt</span>
 
 **Thème**:: Imposteur
 

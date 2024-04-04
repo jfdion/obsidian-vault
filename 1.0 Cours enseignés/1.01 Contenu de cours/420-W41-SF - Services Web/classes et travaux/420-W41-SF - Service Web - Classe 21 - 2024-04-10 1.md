@@ -13,11 +13,11 @@ Semaine:: 10
 Heure:: 16:00 à 18:00  
 ClasseNum:: 21
 
-Status:: <span class="chip not-ready">à faire</span> 
+Status:: <span class="chip ready">Prêt</span> 
 
 **Thème**:: **Évaluation enseignement**
 
-**Remises**:: <span class="chip na">na</span>
+**Remises**:: Excercice 9.1
 
 # Matériel du cours
 * Notes de cours (Léa)

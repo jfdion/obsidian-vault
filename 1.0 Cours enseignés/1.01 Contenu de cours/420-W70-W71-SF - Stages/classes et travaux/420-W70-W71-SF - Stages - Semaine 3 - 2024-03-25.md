@@ -13,7 +13,7 @@ Semaine:: 3
 Heure:: <span class="chip na">NA</span>
 ClasseNum:: 3
 
-Status:: <span class="chip ready">prêt</span>
+Status:: <span class="chip done">Fait</span>
 
 **Thème**:: Difficulté / Fierté
 

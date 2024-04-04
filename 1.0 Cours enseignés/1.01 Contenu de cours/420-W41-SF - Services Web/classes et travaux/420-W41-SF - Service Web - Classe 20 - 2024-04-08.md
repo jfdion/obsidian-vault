@@ -13,9 +13,9 @@ Semaine:: 10
 Heure:: 11:00 à 13:00  
 ClasseNum:: 20
 
-Status:: <span class="chip not-ready">à faire</span> 
+Status:: <span class="chip na">na</span>
 
-**Thème**:: Autorisations
+**Thème**:: Journée d'encadrement périscolaire
 
 **Remises**:: <span class="chip na">na</span>
 
@@ -23,11 +23,8 @@ Status:: <span class="chip not-ready">à faire</span>
 * Notes de cours (Léa)
 * Énnoncés (Léa)
 # Contenu
-| Quoi                           | Durée |
-| ------------------------------ | ----- |
-| Accueil et prise des présences | 5 m   |
-| **PAUSE**                      | ...   |
-|                                |       |
+
+Journée d'encadrement périscolaire
 # Notes
 À compléter
 
