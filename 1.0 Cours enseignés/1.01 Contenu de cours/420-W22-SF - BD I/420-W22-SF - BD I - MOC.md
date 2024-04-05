@@ -14,12 +14,3 @@ FROM #cours/420-W22-SF/BD-I/planseance
 SORT ClasseNum asc
 WHERE Session AND Session = "H24"
 ```
-
-
-```dataviewjs 
-
-dv.pages("#cours/420-W22-SF/BD-I/planseance").forEach(i => {
-	dv.el("h1", i.file.name)
-	dv.el("div","![[" + i.file.link.path + "]]", { cls: "dataview dataview-margin-bottom"})
-	})
-```

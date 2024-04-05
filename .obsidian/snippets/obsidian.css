@@ -49,7 +49,8 @@ body {
     --bg-mid-gray: #999;
     --bg-dark-gray: #404040;
 
-    --dataview-margin-bottom-m: 1rem;
+    /* SPACING */
+    --dataview-margin-bottom-m: 3rem;
 
     /* SEMANTIC USES (T2) */
     --txt-muted: var(--txt-gray);
