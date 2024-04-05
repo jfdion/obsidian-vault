@@ -49,6 +49,8 @@ body {
     --bg-mid-gray: #999;
     --bg-dark-gray: #404040;
 
+    --dataview-margin-bottom-m: 1rem;
+
     /* SEMANTIC USES (T2) */
     --txt-muted: var(--txt-gray);
 
@@ -161,4 +163,8 @@ body {
 .chip.cours-5{
     color: var(--txt-chip-cours-5);
     background-color: var(--bg-chip-cours-5);
+}
+
+.dataview.dataview-margin-bottom {
+    margin-bottom:var(--dataview-margin-bottom-m);
 }

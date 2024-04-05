@@ -18,5 +18,8 @@ WHERE Session AND Session = "H24"
 
 ```dataviewjs 
 
-dv.pages("").where(k => k.project == "exampleProject").forEach(i => {dv.el("p","![[" + i.file.link.path + "]]")})
+dv.pages("#cours/420-W22-SF/BD-I/planseance").forEach(i => {
+	dv.el("h1", i.file.name)
+	dv.el("div","![[" + i.file.link.path + "]]", { cls: "dataview dataview-margin-bottom"})
+	})
 ```
