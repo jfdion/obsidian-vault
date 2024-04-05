@@ -14,3 +14,7 @@ FROM #cours/420-W22-SF/BD-I/planseance
 SORT ClasseNum asc
 WHERE Session AND Session = "H24"
 ```
+
+```query
+embed or search #cours/420-W22-SF/BD-I/planseance 
+```
