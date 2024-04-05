@@ -15,6 +15,8 @@ SORT ClasseNum asc
 WHERE Session AND Session = "H24"
 ```
 
-```query
-embed or search #cours/420-W22-SF/BD-I/planseance 
+
+```dataviewjs 
+
+dv.pages("").where(k => k.project == "exampleProject").forEach(i => {dv.el("p","![[" + i.file.link.path + "]]")})
 ```
