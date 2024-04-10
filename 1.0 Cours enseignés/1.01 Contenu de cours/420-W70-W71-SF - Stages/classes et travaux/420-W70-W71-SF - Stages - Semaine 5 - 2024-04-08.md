@@ -55,7 +55,15 @@ Cordialement,
 ### Évaluation de mi-stage (formatif)
 Bonjour,
 
-Nous arrivons au milieu de votre stage. C'est également le 
+Nous arrivons au milieu de votre stage. C'est le moment de réaliser l'évaluation formative de mi-stage.
+
+Vous trouverez en pièce jointe le formulaire à remplir pour le 24 avril 2024.
+
+Si vous avez des questions nous pourrons en parler lors de notre rencontre hebdomadaire.
+
+Bonne journée
+
+Jean-François
 # Rétroaction
 (alt+e - [[macro_rating]])
 
