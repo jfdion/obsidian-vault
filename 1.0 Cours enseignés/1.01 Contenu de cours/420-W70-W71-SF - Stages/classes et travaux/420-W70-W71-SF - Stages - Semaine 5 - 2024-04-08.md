@@ -38,9 +38,13 @@ Status:: <span class="chip ready">prêt</span>
 ### Évaluation de mi-stage
 Bonjour {Nom complet superviseur de Stage},
 
-Je communique avec vous car, nous arrivons au milieu du stage de {Nom complet étudiant}.  Lors de mon premier courriel je vous avait mentionné qu'une première évaluation formative de votre stagiaire serait à compléter
+Je communique avec vous car, nous arrivons au milieu du stage de {Nom complet étudiant}.  Il s'agit du moment de la première évaluation de votre stagiaire dans son milieu de stage.
+
+Cette évaluation est formative et sera utilisée afin de fournir de la rétroaction à la personne étudiant, ainsi qu'a lui permettre de s'améliorer d'ici la fin du stage.
 
 Vous trouverez en pièce jointe le formulaire d'évaluation des réalisations en entreprise. Ce document détaille les éléments d'évaluation de la personne étudiante. Si possible le compléter et me le retourner au plus tard le 24 avril 2024.
+
+Merci
 
 Cordialement,
 # Rétroaction
