@@ -49,6 +49,13 @@ Vous trouverez en pièce jointe le formulaire d'évaluation des réalisations en
 Merci
 
 Cordialement,
+
+## Courriel pour les étudiants (batch) pour l'évaluation de mi-stage
+
+### Évaluation de mi-stage (formatif)
+Bonjour,
+
+Nous arrivons au milieu de votre stage. C'est également le 
 # Rétroaction
 (alt+e - [[macro_rating]])
 
