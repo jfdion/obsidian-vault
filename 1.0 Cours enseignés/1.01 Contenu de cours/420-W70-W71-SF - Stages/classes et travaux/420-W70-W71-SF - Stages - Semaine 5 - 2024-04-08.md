@@ -33,12 +33,16 @@ Status:: <span class="chip ready">prêt</span>
 4. Sujet de la semaine prochaine
 	1. Comment va le sentiment de l'imposteur?
 # Notes
+## Rappel pour le formuaire SST - 20 avril 2024
+* Estefania
+* Gabriel
+* Sébastien
 ## Courriel pour le superviseur de stage évaluation de mi-stage
 
 ### Évaluation de mi-stage
 Bonjour {Nom complet superviseur de Stage},
 
-Je communique avec vous car, nous arrivons au milieu du stage de {Nom complet étudiant}.  Il s'agit du moment de la première évaluation de votre stagiaire dans son milieu de stage.
+Je communique avec vous, car nous sommes au milieu du stage de {Nom complet étudiant}.  Il s'agit du moment de la première évaluation de votre stagiaire dans son milieu de stage.
 
 Vous trouverez en pièce jointe le formulaire d'évaluation des réalisations en entreprise. Ce document détaille les éléments d'évaluation de la personne étudiante. Si possible le compléter et me le retourner au plus tard le 24 avril 2024.
 
