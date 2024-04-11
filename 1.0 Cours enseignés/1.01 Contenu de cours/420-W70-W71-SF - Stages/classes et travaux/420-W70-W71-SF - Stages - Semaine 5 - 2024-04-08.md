@@ -26,12 +26,14 @@ Status:: <span class="chip ready">prêt</span>
 ## Étudiant
 • Rencontre hebdomadaire par teams ou en personne
 ### Plan de la rencontre
-1. Sujet de la semaine
-	1. Il y a-t-il une chose que tu changerais / améliorerais dans l'entreprise? (technique ou autre)
-	2. Identifie une chose que tu as changée pour t'améliorer
-3. Enjeux et préoccupations?
-4. Sujet de la semaine prochaine
-	1. Comment va le sentiment de l'imposteur?
+1. Comment la semaine s'est passée
+2. Évaluation formative de mi-stage
+3. Sujet de la semaine
+    1. Il y a-t-il une chose que tu changerais / améliorerais dans l'entreprise? (technique ou autre)
+    2. Identifie une chose que tu as changée pour t'améliorer
+4. Enjeux et préoccupations?
+5. Sujet de la semaine prochaine
+    1. Comment va le sentiment de l'imposteur?
 # Notes
 ## Rappel pour le formuaire SST - 20 avril 2024
 * Estefania
