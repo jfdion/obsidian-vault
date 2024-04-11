@@ -13,7 +13,7 @@ Semaine:: 4
 Heure:: <span class="chip na">NA</span>
 ClasseNum:: 4
 
-Status:: <span class="chip ready">prêt</span> 
+Status:: <span class="chip done">done</span> 
 
 **Thème**:: Apprentissage / Apport à l'entreprise
 

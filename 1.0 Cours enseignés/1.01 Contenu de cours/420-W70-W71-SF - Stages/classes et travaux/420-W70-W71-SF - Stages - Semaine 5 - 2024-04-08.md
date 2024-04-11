@@ -36,8 +36,8 @@ Status:: <span class="chip ready">prêt</span>
     1. Comment va le sentiment de l'imposteur?
 # Notes
 ## Rappel pour le formuaire SST - 20 avril 2024
-* Estefania
-* Gabriel
+* ~~Estefania~~
+* ~~Gabriel~~
 * Sébastien
 ## Courriel pour le superviseur de stage évaluation de mi-stage
 

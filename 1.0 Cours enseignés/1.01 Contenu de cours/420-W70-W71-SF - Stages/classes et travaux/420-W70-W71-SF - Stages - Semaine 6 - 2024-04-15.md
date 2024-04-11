@@ -15,7 +15,7 @@ ClasseNum:: 6
 
 Status:: <span class="chip ready">prêt</span> 
 
-**Thème**:: Manquements dans la formation
+**Thème**:: Cégep vs Stage
 
 **Remises**:: <span class="chip na">na</span>
 
@@ -28,17 +28,15 @@ Status:: <span class="chip ready">prêt</span>
 ### Plan de la rencontre
 1. Comment la semaine s'est passée
 2. Évaluation finale -  Rétrospective écrite
-	1. Remise le 30 mai 2024
-3. Sujet de la semaine
+	1. Documents sur Léa dans le cours W71 - Développement
+	2. Remise le 30 mai 2024
+4. Sujet de la semaine
     1. Comment va le sentiment de l'imposteur?
-    1. 
 5. Enjeux et préoccupations?
 6. Sujet de la semaine prochaine
-    1. Qu'est-ce qui est mieux dans ton stage que dans ta formation au cégep
+    1. Qu'est-ce qui est mieux dans ton stage que dans ta formation au cégep?
     2. Qu'est-ce qui était mieux au cégep de que dans ton stage?
 # Notes
-# Notes
-À compléter
 
 # Rétroaction
 (alt+e - [[macro_rating]])

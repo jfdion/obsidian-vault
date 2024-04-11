@@ -13,9 +13,9 @@ Semaine:: 10
 Heure:: 16:00 à 18:00  
 ClasseNum:: 21
 
-Status:: <span class="chip ready">Prêt</span> 
+Status:: <span class="chip done">Fait</span> 
 
-**Thème**:: **Évaluation enseignement**
+**Thème**:: **Évaluation enseignement**, Travail TP2-US4
 
 **Remises**:: Excercice 9.1
 
@@ -26,9 +26,9 @@ Status:: <span class="chip ready">Prêt</span>
 | Quoi                           | Durée |
 | ------------------------------ | ----- |
 | Accueil et prise des présences | 5 m   |
-| Évaluation de l'enseignement   | 30 m  |
+| Évaluation de l'enseignement   | 20 m  |
 | **PAUSE**                      | ...   |
-| Temps travail TP2-US4          | 50 m  |
+| Temps travail TP2-US4          | 80 m  |
 # Notes
 À compléter
 
