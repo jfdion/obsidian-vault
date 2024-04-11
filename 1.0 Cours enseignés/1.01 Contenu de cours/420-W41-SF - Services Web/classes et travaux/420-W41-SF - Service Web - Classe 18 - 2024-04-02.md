@@ -9,7 +9,7 @@ Chip::  <span class="chip cours-2">SW</span>
 Session:: H24
 
 Date::  2024-04-02
-Semaine:: 8
+Semaine:: 9
 Heure:: 11:00 à 13:00  
 ClasseNum:: 18
 

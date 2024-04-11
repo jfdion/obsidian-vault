@@ -15,9 +15,9 @@ ClasseNum:: 22
 
 Status:: <span class="chip to-review">à réviser</span>
 
-**Thème**::
+**Thème**:: Autorisation (Role + Permissions)
 
-**Remises**:: <span class="chip na">na</span>
+**Remises**:: TP2-US4
 
 # Matériel du cours
 * Notes de cours (Léa)
@@ -26,8 +26,9 @@ Status:: <span class="chip to-review">à réviser</span>
 | Quoi                           | Durée |
 | ------------------------------ | ----- |
 | Accueil et prise des présences | 5 m   |
+|                                |       |
 | **PAUSE**                      | ...   |
-| ...                            | ...   |
+| Temps de travail TP2-US4       | 50 m  |
 # Notes
 À compléter
 
