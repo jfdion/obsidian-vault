@@ -3,7 +3,7 @@
 
 **Cours**:: #cours/420-W41-SF/ServicesWeb 
 
-**MOC:** 
+**MOC:** [[420-W41-SF - Services Web - MOC]]
 
 Chip::  <span class="chip cours-2">SW</span>
 Session:: H24

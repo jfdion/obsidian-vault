@@ -3,13 +3,13 @@
 
 **Cours**:: #cours/420-W41-SF/ServicesWeb 
 
-**MOC:** 
+**MOC:** [[420-W41-SF - Services Web - MOC]]
 
 Chip::  <span class="chip cours-2">SW</span> 
 Session:: H24
 
 Date::  2024-03-25  
-Semaine:: 7
+Semaine:: 8
 Heure:: 11:00 à 13:00  
 ClasseNum:: 16
 
