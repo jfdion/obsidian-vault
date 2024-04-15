@@ -23,12 +23,13 @@ Status:: <span class="chip to-review">à réviser</span>
 * Notes de cours (Léa)
 * Énnoncés (Léa)
 # Contenu
-| Quoi                           | Durée |
-| ------------------------------ | ----- |
-| Accueil et prise des présences | 5 m   |
-|                                |       |
-| **PAUSE**                      | ...   |
-| Temps de travail TP2-US4       | 50 m  |
+| Quoi                                                                       | Durée |
+| -------------------------------------------------------------------------- | ----- |
+| Accueil et prise des présences                                             | 5 m   |
+| Présentation de la théorie sur les autorisation + autorisation granulaires | 15 m  |
+| Présentation de la DÉMO pour ajouter les rôles                             | 20 m  |
+| **PAUSE**                                                                  | ...   |
+| Temps de travail TP2-US4                                                   | 50 m  |
 # Notes
 À compléter
 
