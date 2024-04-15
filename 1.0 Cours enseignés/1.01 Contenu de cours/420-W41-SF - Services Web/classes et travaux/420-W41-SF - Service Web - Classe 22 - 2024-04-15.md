@@ -13,7 +13,7 @@ Semaine:: 10
 Heure:: 11:00 à 13:00  
 ClasseNum:: 22
 
-Status:: <span class="chip to-review">à réviser</span>
+Status:: <span class="chip done">Fait</span>
 
 **Thème**:: Autorisation (Role + Permissions)
 
