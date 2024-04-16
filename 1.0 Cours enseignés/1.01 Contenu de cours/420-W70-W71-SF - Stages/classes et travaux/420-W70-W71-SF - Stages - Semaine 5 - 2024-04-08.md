@@ -13,7 +13,7 @@ Semaine:: 5
 Heure:: <span class="chip na">NA</span>
 ClasseNum:: 5
 
-Status:: <span class="chip ready">prêt</span>
+Status:: <span class="chip done">done</span>
 
 **Thème**:: Imposteur
 
@@ -38,7 +38,7 @@ Status:: <span class="chip ready">prêt</span>
 ## Rappel pour le formuaire SST - 20 avril 2024
 * ~~Estefania~~
 * ~~Gabriel~~
-* Sébastien
+* ~~Sébastien~~
 ## Courriel pour le superviseur de stage évaluation de mi-stage
 
 ### Évaluation de mi-stage de votre stagiaire
