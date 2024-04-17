@@ -13,7 +13,7 @@ Semaine:: 11
 Heure:: 16:00 à 18:00  
 ClasseNum:: 23
 
-Status:: <span class="chip to-review">À réviser</span>
+Status:: <span class="chip pret">Prêt</span>
 
 **Thème**:: ORM + TP3
 
