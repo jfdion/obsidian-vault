@@ -8,14 +8,14 @@
 Chip::  <span class="chip cours-2">SW</span> 
 Session:: H24
 
-Date::  2024-04-17
-Semaine:: 11
+Date::  2024-04-24
+Semaine:: 12
 Heure:: 16:00 à 18:00  
-ClasseNum:: 23
+ClasseNum:: 24
 
 Status:: <span class="chip done">Fait</span>
 
-**Thème**:: ORM + TP3
+**Thème**::  TP3
 
 **Remises**:: <span class="chip na">NA</span>
 
@@ -23,13 +23,12 @@ Status:: <span class="chip done">Fait</span>
 * Notes de cours (Léa)
 * Énnoncés (Léa)
 # Contenu
-| Quoi                           | Durée |
-| ------------------------------ | ----- |
-| Accueil et prise des présences | 5 m   |
-| Théorie sur l'ORM              | 45 m  |
-| **PAUSE**                      | ...   |
-| Présentation du TP 3           | 30 m  |
-| Appropriation du TP 3          | 20 m  |
+| Quoi                                 | Durée |
+| ------------------------------------ | ----- |
+| Accueil et prise des présences       | 5 m   |
+| Retour sur les tests de repository s |       |
+| Temps de travail sur le TP3          | 100 m |
+
 # Notes
 À compléter
 
