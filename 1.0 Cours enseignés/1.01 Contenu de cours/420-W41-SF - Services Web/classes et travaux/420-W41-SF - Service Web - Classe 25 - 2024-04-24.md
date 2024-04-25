@@ -23,11 +23,11 @@ Status:: <span class="chip done">Fait</span>
 * Notes de cours (Léa)
 * Énnoncés (Léa)
 # Contenu
-| Quoi                                 | Durée |
-| ------------------------------------ | ----- |
-| Accueil et prise des présences       | 5 m   |
-| Retour sur les tests de repository s |       |
-| Temps de travail sur le TP3          | 100 m |
+| Quoi                                                              | Durée |
+| ----------------------------------------------------------------- | ----- |
+| Accueil et prise des présences                                    | 5 m   |
+| Retour sur les tests de repository suite à l'intégration de l'ORM | 15 m  |
+| Temps de travail sur le TP3                                       | 80 m  |
 
 # Notes
 À compléter
