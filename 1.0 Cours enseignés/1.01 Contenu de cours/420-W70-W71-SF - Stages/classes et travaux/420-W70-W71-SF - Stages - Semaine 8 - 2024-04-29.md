@@ -8,14 +8,14 @@
 Chip::  <span class="chip cours-3">ST</span>
 Session:: H24
 
-Date::  2024-04-15  
-Semaine:: 6
+Date::  2024-04-29  
+Semaine:: 8
 Heure:: : <span class="chip na">NA</span>
-ClasseNum:: 6
+ClasseNum:: 8
 
-Status:: <span class="chip done">Fait</span> 
+Status:: <span class="chip ready">prêt</span> 
 
-**Thème**:: Cégep vs Stage
+**Thème**:: Routine vs Changement
 
 **Remises**:: <span class="chip na">na</span>
 
@@ -28,15 +28,14 @@ Status:: <span class="chip done">Fait</span>
 ### Plan de la rencontre
 1. Comment la semaine s'est passée
 	1. Résumé de la semaine
-2. Évaluation finale -  Rétrospective écrite
-	1. Documents sur Léa dans le cours W71 - Développement
-	2. Remise le 30 mai 2024
 3. Sujet de la semaine
-    1. Comment va le sentiment de l'imposteur?
+	1. Qu'est-ce qui est mieux dans ton stage que dans ta formation au cégep?
+	2. Qu'est-ce qui était mieux au cégep de que dans ton stage?
 4. Enjeux et préoccupations?
 5. Sujet de la semaine prochaine
-    1. Qu'est-ce qui est mieux dans ton stage que dans ta formation au cégep?
-    2. Qu'est-ce qui était mieux au cégep de que dans ton stage?
+	1. Routinier ou aventurier ? 
+		1. Veux-tu changer régulièrement de projet ou préfères-tu maintenir un projet sur le long terme ?
+    
 # Notes
 
 # Rétroaction

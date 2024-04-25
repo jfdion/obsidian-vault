@@ -15,9 +15,9 @@ ClasseNum:: 7
 
 Status:: <span class="chip ready">prêt</span> 
 
-**Thème**:: Routine vs Changement
+**Thème**:: Retour sur l'évaluation de mi-stage
 
-**Remises**:: <span class="chip na">na</span>
+**Remises**:: Évaluation formative de mi-stage
 
 # Matériel du cours
 * Notes de cours (Léa)
@@ -29,12 +29,11 @@ Status:: <span class="chip ready">prêt</span>
 1. Comment la semaine s'est passée
 	1. Résumé de la semaine
 3. Sujet de la semaine
-	1. Qu'est-ce qui est mieux dans ton stage que dans ta formation au cégep?
-	2. Qu'est-ce qui était mieux au cégep de que dans ton stage?
+	1. Retour sur le résumé de l'évaluation formative mi-stage
 4. Enjeux et préoccupations?
 5. Sujet de la semaine prochaine
-	1. Routinier ou aventurier ? 
-		1. Veux-tu changer régulièrement de projet ou préfères-tu maintenir un projet sur le long terme ?
+	1. Qu'est-ce qui est mieux dans ton stage que dans ta formation au cégep?
+	2. Qu'est-ce qui était mieux au cégep de que dans ton stage?
     
 # Notes
 
