@@ -15,7 +15,7 @@ ClasseNum:: 9
 
 Status:: <span class="chip ready">prêt</span> 
 
-**Thème**:: Changement dans le programme
+**Thème**:: changer régulièrement de projet ou long terme
 
 **Remises**:: <span class="chip na">na</span>
 
@@ -28,15 +28,11 @@ Status:: <span class="chip ready">prêt</span>
 ### Plan de la rencontre
 1. Comment la semaine s'est passée
 	1. Résumé de la semaine
-2. Présentation de l'exposé oral
-	1. Documents sur Léa
-	2. Fonctionnement avec les différentes locaux
-3. Sujet de la semaine
-	1. Qu'est-ce qui est mieux dans ton stage que dans ta formation au cégep?
-	2. Qu'est-ce qui était mieux au cégep de que dans ton stage?
-4. Enjeux et préoccupations?
-5. Sujet de la semaine prochaine
+2. Sujet de la semaine
 	1. Si tu pouvais revenir en arrière, qu'est-ce que tu changerais dans le DEC en informatique du Cégep?
+3. Enjeux et préoccupations?
+4. Sujet de la semaine prochaine
+	1. Veux-tu changer régulièrement de projet ou préfères-tu maintenir un projet sur le long terme ?
     
 # Notes
 
