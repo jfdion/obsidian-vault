@@ -8,16 +8,16 @@
 Chip::  <span class="chip cours-3">ST</span>
 Session:: H24
 
-Date::  2024-04-22  
-Semaine:: 7
+Date::  2024-05-06 
+Semaine:: 9
 Heure:: : <span class="chip na">NA</span>
-ClasseNum:: 7
+ClasseNum:: 9
 
-Status:: <span class="chip done">fait</span> 
+Status:: <span class="chip ready">prêt</span> 
 
-**Thème**:: Retour sur l'évaluation de mi-stage
+**Thème**:: Changement dans le programme
 
-**Remises**:: Évaluation formative de mi-stage
+**Remises**:: <span class="chip na">na</span>
 
 # Matériel du cours
 * Notes de cours (Léa)
@@ -28,12 +28,15 @@ Status:: <span class="chip done">fait</span>
 ### Plan de la rencontre
 1. Comment la semaine s'est passée
 	1. Résumé de la semaine
+2. Présentation de l'exposé oral
+	1. Documents sur Léa
+	2. Fonctionnement avec les différentes locaux
 3. Sujet de la semaine
-	1. Retour sur le résumé de l'évaluation formative mi-stage
-4. Enjeux et préoccupations?
-5. Sujet de la semaine prochaine
 	1. Qu'est-ce qui est mieux dans ton stage que dans ta formation au cégep?
 	2. Qu'est-ce qui était mieux au cégep de que dans ton stage?
+4. Enjeux et préoccupations?
+5. Sujet de la semaine prochaine
+	1. Si tu pouvais revenir en arrière, qu'est-ce que tu changerais dans le DEC en informatique du Cégep?
     
 # Notes
 
