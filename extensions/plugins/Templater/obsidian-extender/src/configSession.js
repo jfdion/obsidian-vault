@@ -1,4 +1,4 @@
-const PO2 = {short: "PO2", number: "420-W30-SF", long: "Programmation orientée objet II"}
+/*const PO2 = {short: "PO2", number: "420-W30-SF", long: "Programmation orientée objet II"}
 const CS = {short: "CS", number: "420-W53-SF", long: "Cybersécurité"}
 const IT = {short: "IT", number: "420-W54-SF", long: "Innovation et veille technologique"}
 const BD1 = {short: "BD1", number: "420-W22-SF", long: "Bases de données I"}
@@ -33,4 +33,4 @@ function session(Session) {
     }
 }
 
-module.exports = session
+module.exports = session*/

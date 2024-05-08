@@ -1,12 +1,8 @@
-const path = require('path')
-const { defineConfig } = require('vite')
+import { defineConfig } from 'vite'
+import { resolve } from 'path'
 
-module.exports = defineConfig({
-  build: {
-    lib: {
-      entry: path.resolve(__dirname, 'lib/main.js'),
-      name: 'ObsidianExtender',
-      fileName: (format) => `ObsidianExtender.${format}.js`
-    }
-  }
-});
+// https://vitejs.dev/config/
+export default defineConfig({
+  build: { lib: { entry: resolve(__dirname, 'src/main.ts'), formats: ['es'] } },
+  resolve: { alias: { src: resolve('src/') } },
+})

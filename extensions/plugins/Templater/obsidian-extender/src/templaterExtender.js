@@ -1,4 +1,4 @@
-const DATE_FORMAT = `YYYY-MM-DD`
+/*const DATE_FORMAT = `YYYY-MM-DD`
 const HOUR_FORMAT = `HH [h] mm`
 const DATE_HOUR_FORMAT = `${DATE_FORMAT} ${HOUR_FORMAT}`
 
@@ -76,4 +76,4 @@ function templaterExtender() {
     }
 }
 
-module.exports = templaterExtender
+module.exports = templaterExtender*/

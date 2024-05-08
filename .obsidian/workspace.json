@@ -11,14 +11,11 @@
             "id": "51941da60b0c95e4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "extensions/plugins/Templater/test/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "extensions/plugins/Templater/test/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "extensions/plugins/Templater/test/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.canvas"
+                "file": "extensions/plugins/Templater/test/Untitled.md"
               }
             }
           },
@@ -171,18 +168,20 @@
   },
   "active": "51941da60b0c95e4",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "extensions/plugins/Templater/test/Untitled.md",
+    "extensions/plugins/Templater/test",
+    "Untitled 1.canvas",
+    "extensions/plugins/Templater/obsidian-extender/vite.config.js.timestamp-1715178143299-2b70a650eb12e.mjs",
+    "extensions/plugins/Templater/obsidian-extender/dist/obsidian-extender.js",
+    "extensions/plugins/Templater/obsidian-extender/dist",
+    "extensions/plugins/Templater/obsidian-extender/vite.config.js.timestamp-1715178036525-580921d82ca2e.mjs",
+    "extensions/plugins/Templater/obsidian-extender/vite.config.js.timestamp-1715177965963-4adf34bf81419.mjs",
     "extensions/plugins/Templater/obsidian-extender/vite.config.js.timestamp-1715177927102-e3c7c4303fdb.mjs",
     "extensions/plugins/Templater/obsidian-extender/vite.config.js.timestamp-1715177883720-ce2b0e357890d.mjs",
     "extensions/plugins/Templater/obsidian-extender/vite.config.js",
     "extensions/plugins/Templater/obsidian-extender/vite-config.js",
-    "extensions/plugins/Templater/obsidian-extender/src/main.ts",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/undici-types/websocket.d.ts",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/undici-types/webidl.d.ts",
     "extensions/plugins/Templater/obsidian-extender/node_modules/undici-types/README.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/undici-types/readable.d.ts",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/undici-types/proxy-agent.d.ts",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/undici-types/pool-stats.d.ts",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/undici-types/pool.d.ts",
     "extensions/plugins/Templater/obsidian-extender/node_modules/@types/node/README.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/yocto-queue/readme.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/strip-final-newline/readme.md",
@@ -207,11 +206,8 @@
     "extensions/plugins/Templater/obsidian-extender/node_modules/acorn/CHANGELOG.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/acorn/README.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/why-is-node-running/README.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/@sinclair/typebox/readme.md",
     "extensions/plugins/Templater/obsidian-extender/src/typescript.svg",
     "extensions/plugins/Templater/obsidian-extender/public/vite.svg",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
     "schema.png",
     "v4q11k8t.bmp"
   ]

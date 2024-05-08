@@ -13,7 +13,7 @@ function sessionFromMonth(month: number): string {
 }
 
 
-function session(): SessionConfig {
+function sessionExtender(): SessionConfig {
     return {
         constants: {
             AUTOMNE,
@@ -23,4 +23,4 @@ function session(): SessionConfig {
     }
 }
 
-export default session;
+export default sessionExtender;
