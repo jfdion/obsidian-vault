@@ -1,12 +1,19 @@
-import { defineConfig } from 'vite'
-import { resolve } from 'path'
+import { defineConfig } from "vite"
+import { resolve } from "path"
 
-// https://vitejs.dev/config/
 export default defineConfig({
-  build: {
-    lib: {
-      entry: resolve(__dirname, 'src/main.ts'),
-      name: "obsidianExtender"
-    }
-  }
+    build: {
+        watch: {
+            exclude: "node_modules/**",
+            include: "src/**"
+        },
+        lib: {
+            entry: resolve(__dirname, 'src/main.ts'),
+            name: "obExt",
+            fileName: 'ob-ext'
+        },
+        rollupOptions: {
+
+        }
+    },
 })

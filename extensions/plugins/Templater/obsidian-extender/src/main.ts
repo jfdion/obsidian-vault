@@ -1,11 +1,7 @@
-import sessionExtender from "./session";
-import configSession from "./configSession";
-import templaterExtender from "./templaterExtender";
-import seanceTemplate from "./seanceTemplate";
+import { helloWorld } from "./first-dep";
+import { adiosWorld } from "./second-dep";
 
-exports.module={ 
-    sessionExtender,
-    configSession,
-    templaterExtender,
-    seanceTemplate
-};
+module.exports = {
+    worldExt: helloWorld,
+    goodbyeExt: adiosWorld
+}
