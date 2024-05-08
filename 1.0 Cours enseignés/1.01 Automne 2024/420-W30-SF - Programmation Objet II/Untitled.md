@@ -2,16 +2,12 @@
 
 Hiver 
 
-<span class="chip cours-1">PO2</span> 
+<span class="chip cours-0">NA</span> 
 
 
 
 Hiver 
 
-<span class="chip cours-3">IT</span> 
+<span class="chip cours-0">NA</span> 
 
 
-
-Hiver 
-
-<span class="chip cours-2">CS</span> 

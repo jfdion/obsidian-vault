@@ -10,23 +10,28 @@ const HIVER: SessionConfig = { long: HIVER_NAME, short: "H" }
 function newSession(name: string, year: number): Session {
     const config = name === AUTOMNE_NAME ? AUTOMNE : HIVER
 
-    if (name === AUTOMNE_NAME) {
-        return {
-            ...AUTOMNE,
-            code: `${AUTOMNE.short}${year}`,
-            year
-        }
+    return {
+        ...config,
+        code: `${config.short}${year}`,
+        year
     }
 }
 
 function fromMonth(month: number, year: number): Session {
-    return month <= 6 ? HIVER : AUTOMNE
+    return month <= 6 ? newSession(HIVER_NAME, year) : newSession(AUTOMNE_NAME, year)
 }
 
-function fromNow(): Session
+function fromNow(): Session {
+    const now = new Date()
+    return fromMonth(
+        now.getMonth(),
+        Number(now.getFullYear().toString().substring(2))
+    )
+}
 
 const session = {
-    fromMonth
+    fromMonth,
+    fromNow
 }
 
 export default session

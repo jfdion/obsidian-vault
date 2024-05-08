@@ -13,10 +13,6 @@ async function promptInt(tp, label = "Number", placeholder = undefined) {
 }
 
 async function promptStr(tp, label = "String", placeholder = undefined) {
-    if (placeholder !== undefined) {
-        placeholder = toString(placeholder)
-    }
-
     const value = await tp.system.prompt(label, placeholder, true)
 
     return value
