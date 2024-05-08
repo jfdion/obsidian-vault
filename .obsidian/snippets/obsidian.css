@@ -41,11 +41,11 @@ body {
     --bg-teal: #2c8;
 
     --bg-green-hi-vis: lime;
-    --bg-green-hi-vis-dark: green;
+    --bg-green-hi-vis-dark: #9acd32;
     --bg-yellow-hi-vis: yellow;
     --bg-yellow-hi-vis-dark: gold;
     --bg-orange-hi-vis: OrangeRed;
-    --bg-orange-hi-vis-dark: orange;
+    --bg-orange-hi-vis-dark: darkOrange;
     --bg-blue-hi-vis: SkyBlue;
     --bg-blue-hi-vis-dark: cyan;
 
@@ -192,7 +192,7 @@ body {
     color: var(--txt-black);
     display: inline-block;
     font-weight: 700;
-    font-size: .8rem;
+    font-size: 1rem;
     padding: 0.1rem 0.5rem;
     text-transform: capitalize;
     background: repeating-linear-gradient(
