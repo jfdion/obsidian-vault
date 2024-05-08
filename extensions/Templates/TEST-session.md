@@ -1,6 +1,6 @@
 <%*
-const ext = tp.user.obext.sessionExtender
-const session = ext.sessionFromMonth(3)
+const ext = tp.user.obext.firstdep
+const session = ext.helloWorld()
 %>
 
 <%* tR += session %> 

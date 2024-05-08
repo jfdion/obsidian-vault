@@ -13,7 +13,14 @@ export default defineConfig({
             fileName: 'ob-ext'
         },
         rollupOptions: {
-
+            output: [
+                {
+                    dir: 'dist',
+                    format: 'es',
+                    preserveModules: true,
+                    entryFileNames: '[name].js'
+                }
+            ]
         }
     },
 })
