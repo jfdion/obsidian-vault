@@ -16,8 +16,7 @@ export default defineConfig({
             output: [
                 {
                     dir: 'dist',
-                    format: 'es',
-                    preserveModules: true,
+                    format: 'commonjs',
                     entryFileNames: 'obExt.js'
                 }
             ]

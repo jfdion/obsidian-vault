@@ -1,4 +1,9 @@
-import { helloWorld } from "./firstdep";
-import { adiosWorld } from "./seconddep";
+import * as FirstDep from "./firstdep"
+import * as SecondDep from "./seconddep"
 
-module.exports = () => ({ helloWorld, adiosWorld })
+console.log("IN")
+
+module.exports = () => ({
+    FirstDep,
+    SecondDep
+})
