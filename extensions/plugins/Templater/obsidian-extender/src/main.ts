@@ -1,9 +1,9 @@
-import * as FirstDep from "./firstdep"
-import * as SecondDep from "./seconddep"
+import { helloWorld } from "./firstdep"
+import { adiosWorld } from "./seconddep"
 
 console.log("IN")
 
 module.exports = () => ({
-    FirstDep,
-    SecondDep
+    helloWorld,
+    adiosWorld
 })
