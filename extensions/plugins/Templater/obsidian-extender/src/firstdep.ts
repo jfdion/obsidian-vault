@@ -2,4 +2,6 @@ function helloWorld() {
     console.log("Hello world")
 }
 
-exports = { helloWorld }
+export const firstdep = {
+    helloWorld
+}

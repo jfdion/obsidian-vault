@@ -1,4 +1,4 @@
-const helloWorld = require("firstdep.ts")
-const adiosWorld = require("seconddep.ts")
+import { helloWorld } from "./firstdep";
+import { adiosWorld } from "./seconddep";
 
-export = () => ({ helloWorld, adiosWorld })
+module.exports = () => ({ helloWorld, adiosWorld })
