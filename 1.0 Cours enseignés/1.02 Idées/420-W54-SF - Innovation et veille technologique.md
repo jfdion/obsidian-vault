@@ -58,3 +58,31 @@ Peux-tu me donner 3 projet d'autoformation pour le point 2?
 
 En travaillant sur ces projets d'autoformation, vous aurez l'occasion de développer vos compétences en conception de cours et de matériel pédagogique tout en créant des ressources utiles pour les apprenants en informatique.
 ```
+
+### Prompt 3
+```
+Peux-tu me donner 3 projets d'autoformation sur le point 6. Plus spécifiquement les tests unitaires avec et sans mocks en python
+```
+
+### Reponse 3
+```
+Absolument ! Voici trois projets d'autoformation pour améliorer vos compétences en tests unitaires avec et sans mocks en Python :
+
+1. **Développement d'une application Python avec des tests unitaires :**
+    
+    - Créez une petite application Python, comme un gestionnaire de tâches ou un convertisseur d'unités, en utilisant un framework tel que Flask ou Django.
+    - Écrivez des tests unitaires pour chaque fonction ou méthode de votre application afin de vous assurer qu'elle fonctionne comme prévu. Utilisez le module `unittest` intégré à Python ou un framework externe comme `pytest`.
+    - Pratiquez l'écriture de différents types de tests unitaires, tels que les tests de cas limite, les tests de valeurs limites et les tests de comportement.
+2. **Implémentation de tests unitaires avec mocks :**
+    
+    - Choisissez une partie de votre application qui dépend de services externes ou de bibliothèques tierces, comme l'envoi de courriels ou l'accès à une base de données.
+    - Utilisez des mocks pour simuler le comportement de ces dépendances externes dans vos tests unitaires. Vous pouvez utiliser la bibliothèque `unittest.mock` de Python ou des bibliothèques tierces comme `pytest-mock`.
+    - Écrivez des tests qui vérifient le comportement de votre application dans différentes situations, en simulant des réponses réussies et des échecs des dépendances externes.
+3. **Intégration des tests unitaires dans un pipeline CI/CD :**
+    
+    - Mettez en place un pipeline d'intégration continue (CI) et de déploiement continu (CD) pour votre application Python en utilisant des outils comme GitLab CI/CD, Travis CI ou GitHub Actions.
+    - Configurez votre pipeline pour exécuter automatiquement vos tests unitaires à chaque nouvelle version du code source.
+    - Assurez-vous que votre pipeline signale les échecs de tests de manière claire et précise, et qu'il bloque le déploiement en production en cas d'échec des tests.
+
+En travaillant sur ces projets, vous développerez vos compétences en écriture de tests unitaires en Python, y compris l'utilisation de mocks pour isoler les dépendances externes. Vous serez mieux équipé pour garantir la qualité et la fiabilité de vos applications Python à mesure qu'elles évoluent.
+```
