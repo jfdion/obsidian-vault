@@ -1,7 +1,7 @@
 <%*
 const tx = tp.user.templaterExtender()
+cosnt cs = tp.user.configSession("A24")
 
-const cours = await tx.promptStr(tp, "Numéro cours")
 const label = await tx.promptStr(tp, "Nom cours")
 %>
 <span class="chip cours-<%* tR += cours %>  "><%* tR += label %>  </span>

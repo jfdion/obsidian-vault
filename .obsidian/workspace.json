@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Automne 2024/0.01 Légende.md",
+                "file": "extensions/Templates/Chip - cours.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Automne 2024/0.01 Légende.md",
+                "file": "extensions/Templates/Chip - cours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Automne 2024/0.01 Légende.md",
+                "file": "extensions/Templates/Chip - cours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Automne 2024/0.01 Légende.md"
+                "file": "extensions/Templates/Chip - cours.md"
               }
             }
           },
@@ -166,13 +166,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25c3dd049cf688dd",
+  "active": "51941da60b0c95e4",
   "lastOpenFiles": [
+    "1.0 Cours enseignés/1.01 Automne 2024/0.01 Légende.md",
     "extensions/plugins/Templater/scripts/configSession.js",
     "extensions/Templates/Chip - cours.md",
     "extensions/Templates/macro_cours_tag.md",
     "extensions/Templates/macro_rating.md",
-    "1.0 Cours enseignés/1.01 Automne 2024/0.01 Légende.md",
     "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
     "0.0 Références/Obsidian custom styles.md",
     "1.0 Cours enseignés/1.01 Automne 2024/420-W54-SF - Innovation et veille technologique",
@@ -203,7 +203,6 @@
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement/Suivi",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"
