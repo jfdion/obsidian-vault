@@ -3,9 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "files":["dist"],
-  "main":"./dist/ObsidianExtender.umd.js",
-  "module":"./dist/ObsidianExtender.es.js",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/ObsidianExtender.umd.js",
+  "module": "./dist/ObsidianExtender.es.js",
   "exports": {
     ".": {
       "import": "./dist/ObsidianExtender.es.js",
@@ -14,11 +16,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "yarn run build:tplExt && yarn run build:sessionExt && yarn run build:seanceExt && yarn run build:configSession",
-    "build:tplExt": "LIB_NAME=tplExt vite build",
-    "build:sessionExt": "LIB_NAME=sessionExt vite build",
-    "build:seanceExt": "LIB_NAME=seanceExt vite build",
-    "build:configSession": "LIB_NAME=configSession vite build",
+    "build": "tsc && vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
@@ -27,6 +25,7 @@
   },
   "dependencies": {
     "@types/node": "^20.12.11",
+    "glob": "^10.3.12",
     "vitest": "^1.6.0"
   }
 }
