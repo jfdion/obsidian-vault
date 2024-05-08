@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
+                "file": "extensions/Templates/TEST-session.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
+                "file": "extensions/Templates/TEST-session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
+                "file": "extensions/Templates/TEST-session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md"
+                "file": "extensions/Templates/TEST-session.md"
               }
             }
           },
@@ -168,10 +168,10 @@
   },
   "active": "51941da60b0c95e4",
   "lastOpenFiles": [
+    "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
     "extensions/plugins/Templater/obsidian-extender/src/configSession.ts",
     "extensions/plugins/Templater/obsidian-extender/src/html.ts",
     "extensions/Templates/TEST-session.md",
-    "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
     "extensions/plugins/Templater/obsidian-extender/dist/obExt.js",
     "extensions/plugins/Templater/obsidian-extender/src/session.ts",
     "Home.md",
@@ -182,7 +182,6 @@
     "extensions/plugins/Templater/obsidian-extender/dist/seconddep.js",
     "extensions/plugins/Templater/obsidian-extender/dist/firstdep.js",
     "extensions/plugins/Templater/obsidian-extender/src/seconddep.ts",
-    "extensions/plugins/Templater/obsidian-extender/dist/second-dep.js",
     "extensions/plugins/Templater/obsidian-extender/node_modules/yocto-queue/readme.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/why-is-node-running/README.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/which/README.md",

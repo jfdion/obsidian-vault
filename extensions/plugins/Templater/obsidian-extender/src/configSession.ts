@@ -2,6 +2,7 @@ import html from "./html"
 
 export type Cours = { short: string, number: string, long: string }
 
+const NullCourse: Cours = { short: "NA", number: "NA", long: "NA" }
 const PO2: Cours = { short: "PO2", number: "420-W30-SF", long: "Programmation orientée objet II" }
 const CS: Cours = { short: "CS", number: "420-W53-SF", long: "Cybersécurité" }
 const IT: Cours = { short: "IT", number: "420-W54-SF", long: "Innovation et veille technologique" }
@@ -25,25 +26,35 @@ function sortCourse(a: Cours, b: Cours) {
     return 0
 }
 
-function courseToChip(cours: Cours) {
-    return html.chip(`cours-${index}`, cours.short);
+
+function courseToChip(session: string): (cours: string) => string {
+    return (cours: string): string => {
+        const index = courseIndex(session)(cours)
+        const course = findCourse(session)(cours)
+        return html.chip(`cours-${index}`, course.short)
+    }
 }
 
-function courseIndex(session: string): (cours: Cours) => number {
-    return (cours: Cours): number => {
-        return semester[session].findIndex(c => c.long === cours.long
-            || cours.short === cours.short
-            || cours.number === cours.number
+function courseIndex(session: string): (cours: string) => number {
+    return (cours: string): number => {
+        return semester[session].findIndex(c => c.long === cours
+            || c.short === cours
+            || c.number === cours
         )
     }
-
 }
 
+function findCourse(session: string): (cours: string) => Cours {
+    return (cours: string): Cours => {
+        return semester[session].find(c => c.long === cours
+            || c.short === cours
+            || c.number === cours
+        ) || NullCourse
+    }
+}
 
 const configSession = {
-    (session: string) => {
-    return
-}
+    courseToChip
 }
 
 export default configSession
