@@ -56,24 +56,11 @@ async function promptToString(prompt) {
     const result = await prompt
     return toString(result)
 }
-
+*/
 function templaterExtender() {
     return {
-        constants: {
-            DATE_FORMAT: DATE_FORMAT,
-            HOUR_FORMAT: HOUR_FORMAT,
-            DATE_HOUR_FORMAT: DATE_HOUR_FORMAT
-        },
-        promptInt,
-        promptStr,
-        promptOnFilenameUntitled,
-        buildHierarchicalTag,
-        toString,
-        getParentFolder,
-        promptToString,
-        getSiblingFileByName,
-        getCurrentFolder
+        
     }
 }
 
-module.exports = templaterExtender*/
+export default templaterExtender

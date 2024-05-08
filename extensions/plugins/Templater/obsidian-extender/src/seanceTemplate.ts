@@ -7,12 +7,12 @@ const tx = require(`${SCRIPT_FOLDER}/templaterExtender.js`)()
 function nomCours(tp, depth = 2) {
     const folderName = tx.getParentFolder(tp, depth)
     return folderName[0].split(" - ").join("/").replace(" ", "")
-}
+}*/
 
 function seanceTemplate() {
     return {
-        nomCours
+        
     }
 }
 
-module.exports = seanceTemplate*/
+export default seanceTemplate

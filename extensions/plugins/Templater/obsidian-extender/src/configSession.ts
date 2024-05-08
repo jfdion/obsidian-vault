@@ -21,16 +21,11 @@ function coursesConstants () {
         }
     }, {})
 }
-
-function session(Session) {
+*/
+function session() {
     return {
-        constant: {
-            PO2,
-            CS,
-            IT
-        },
-        indexFromCourse
+        
     }
 }
 
-module.exports = session*/
+export default session
