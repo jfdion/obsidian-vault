@@ -36,7 +36,7 @@ Status:: <span class="chip ready">prêt</span>
     
 # Notes
 
-<span class="highlight">Courriels envoyés pour les stagiaires chez RevolvAir</span>
+<span class="highlight green">Courriels envoyés pour les stagiaires chez RevolvAir</span>
 
 ## Courriel pour le superviseur de stage évaluation terminale du stage
 

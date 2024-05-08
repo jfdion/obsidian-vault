@@ -40,6 +40,11 @@ body {
     --bg-cherry: #511;
     --bg-teal: #2c8;
 
+    --bg-green-hi-vis: lime;
+    --bg-yellow-hi-vis: yellow;
+    --bg-orange-hi-vis: orange;
+    --bg-blue-hi-vis: lightBlue;
+
     --bg-walnut:#544B3D;
     --bg-dark-cyan: #048a81;
     --bg-vermillon: #dd403a;
@@ -82,6 +87,13 @@ body {
     --bg-chip-to-review: var(--bg-amber);
     --bg-chip-done: var(--bg-light-blue);
     --bg-chip-na: var(--bg-dark-gray);
+
+    /** === Highlights === */
+    --bg-highlight-default: var(--bg-yellow-hi-vis);
+    --bg-highlight-yellow: var(--bg-yellow-hi-vis);
+    --bg-highlight-green: var(--bg-green-hi-vis);
+    --bg-highlight-orange: var(--bg-orange-hi-vis);
+    --bg-highlight-blue: var(--bg-blue-hi-vis);
 }
 
 .muted-text {
@@ -161,10 +173,35 @@ body {
     background-color: var(--bg-chip-cours-4);
 }
 
-.chip.cours-5{
+.chip.cours-5 {
     color: var(--txt-chip-cours-5);
     background-color: var(--bg-chip-cours-5);
 }
+
+.highlight {
+    display: inline-block;
+    background-color: var(--bg-highlight-default);
+    color: var(--txt-black);
+    padding: 0.1rem 0.5rem;
+    font-weight: bold;
+}
+
+.highlight.yellow {
+    background-color: var(--bg-highlight-yellow);
+}
+
+.highlight.green {
+    background-color: var(--bg-highlight-green);
+}
+
+.highlight.orange {
+    background-color: var(--bg-highlight-orange);
+}
+
+.highlight.blue {
+    background-color: var(--bg-highlight-blue);
+}
+
 
 .dataview.dataview-margin-bottom {
     margin-bottom:var(--dataview-margin-bottom-m);
