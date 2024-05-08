@@ -1,4 +1,4 @@
-import { helloWorld } from "./firstdep";
-import { adiosWorld } from "./seconddep";
+const helloWorld = require("firstdep.ts")
+const adiosWorld = require("seconddep.ts")
 
-export = { helloWorld, adiosWorld }
+export = () => ({ helloWorld, adiosWorld })
