@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extensions/Templates/TEST-session.md",
+                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extensions/Templates/TEST-session.md",
+                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extensions/Templates/TEST-session.md",
+                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extensions/Templates/TEST-session.md"
+                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md"
               }
             }
           },
@@ -168,19 +168,19 @@
   },
   "active": "51941da60b0c95e4",
   "lastOpenFiles": [
-    "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
     "extensions/Templates/TEST-session.md",
+    "extensions/plugins/Templater/obsidian-extender/vite.config.js.timestamp-1715184159956-1435af9ec172.mjs",
     "extensions/plugins/Templater/obsidian-extender/dist/obext.umd.cjs",
     "extensions/plugins/Templater/obsidian-extender/dist/obext.js",
+    "extensions/plugins/Templater/obsidian-extender/dist",
+    "extensions/plugins/Templater/obsidian-extender/vite.config.js.timestamp-1715184051046-4ab7d939a1c39.mjs",
+    "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
     "extensions/plugins/Templater/obsidian-extender/vite.config.js.timestamp-1715183702136-ff32c8c5eeddf.mjs",
     "extensions/plugins/Templater/obsidian-extender/node_modules/typescript/lib/lib.scripthost.d.ts",
     "extensions/plugins/Templater/obsidian-extender/node_modules/typescript/lib/lib.d.ts",
     "extensions/plugins/Templater/obsidian-extender/vite.config.js.timestamp-1715183614855-2f1bee1ebb8b3.mjs",
     "Untitled.md",
     "extensions/plugins/Templater/obsidian-extender/dist/main.cjs",
-    "extensions/plugins/Templater/obsidian-extender/dist/main.mjs",
-    "extensions/plugins/Templater/obsidian-extender/dist",
-    "extensions/plugins/Templater/obsidian-extender/vite.config.js.timestamp-1715183402601-e3fc9821bf4a5.mjs",
     "extensions/plugins/Templater/obsidian-extender/node_modules/@pkgjs/parseargs/README.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/@pkgjs/parseargs/CHANGELOG.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/@isaacs/cliui/node_modules/strip-ansi/readme.md",
@@ -203,7 +203,6 @@
     "extensions/plugins/Templater/obsidian-extender/node_modules/path-scurry/README.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/path-scurry/LICENSE.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/minipass/README.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/minimatch/README.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "extensions/plugins/Templater/obsidian-extender/dist/vite.svg",

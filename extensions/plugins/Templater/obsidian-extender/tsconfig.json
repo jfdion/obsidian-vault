@@ -4,7 +4,7 @@
     "useDefineForClassFields": true,
     "module": "CommonJS",
     // "lib": ["ES2020", "DOM", "DOM.Iterable"],
-    "skipLibCheck": true,
+    //"skipLibCheck": true,
 
     /* Bundler mode */
     "moduleResolution": "Node",
@@ -19,5 +19,8 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"]
+  "include": ["src"],
+  "exclude": [
+    "dist", "node_modules"
+  ]
 }
