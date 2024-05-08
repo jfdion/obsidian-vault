@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extensions/Templates/macro_cours_tag.md",
+                "file": "1.0 Cours enseignés/1.01 Automne 2024/0.01 Légende.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extensions/Templates/macro_cours_tag.md",
+                "file": "1.0 Cours enseignés/1.01 Automne 2024/0.01 Légende.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extensions/Templates/macro_cours_tag.md",
+                "file": "1.0 Cours enseignés/1.01 Automne 2024/0.01 Légende.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extensions/Templates/macro_cours_tag.md"
+                "file": "1.0 Cours enseignés/1.01 Automne 2024/0.01 Légende.md"
               }
             }
           },
@@ -168,42 +168,42 @@
   },
   "active": "51941da60b0c95e4",
   "lastOpenFiles": [
-    "extensions/Templates/L1 Meeting Template.md",
+    "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
+    "1.0 Cours enseignés/1.01 Automne 2024/0.01 Légende.md",
+    "0.0 Références/Obsidian custom styles.md",
+    "1.0 Cours enseignés/1.01 Automne 2024/420-W54-SF - Innovation et veille technologique",
+    "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II",
+    "1.0 Cours enseignés/1.01 Automne 2024/420-W53-SF - Cybersécurité",
+    "1.0 Cours enseignés/1.01 Automne 2024",
+    "1.0 Cours enseignés/1.10 Archives/H24",
     "extensions/Templates/macro_cours_tag.md",
+    "1.0 Cours enseignés/1.10 Archives",
+    "extensions/Templates/L1 Meeting Template.md",
     "extensions/Templates/macro_rating.md",
     "extensions/Templates/template_seance_cours.md",
     "extensions/Templates/code snippet.md",
     "extensions/Templates/Chip - cours.md",
     "extensions/Templates/template_moc.md",
     "extensions/Templates/article.md",
-    "0.0 Références/Obsidian custom styles.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 9 - 2024-05-06.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 5 - 2024-04-08.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 4 - 2024-04-01.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 9 - 2024-05-06.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 5 - 2024-04-08.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 4 - 2024-04-01.md",
     "1.0 Cours enseignés/1.02 Idées/420-W54-SF - Innovation et veille technologique.md",
     "1.0 Cours enseignés/1.02 Idées/420-W53-SF - Cybersécurité.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 12 - 2024-04-23.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 8 - 2024-04-29.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 7 - 2024-04-22.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 25 - 2024-04-24.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 24 - 2024-04-22.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 23 - 2024-04-17.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 22 - 2024-04-15.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 12 - 2024-04-23.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 8 - 2024-04-29.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 7 - 2024-04-22.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 25 - 2024-04-24.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 24 - 2024-04-22.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 23 - 2024-04-17.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 22 - 2024-04-15.md",
     "Home.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 6 - 2024-04-15.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 11 - 2024-04-16.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 2 - 2024-03-18.md",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 3 - 2024-03-25.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 6 - 2024-04-15.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 11 - 2024-04-16.md",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement",
     "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-SF & 420-W71-SF - Stages interaction en milieu de travail et développement/Suivi",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W70-W71-SF - Stages",
-    "0.0 Références/Resources/Windows",
-    "0.0 Références/Resources",
-    "0.0 Références/0.2 Resources/WSL-CMD",
-    "1.0 Cours enseignés/1.02 Idées",
-    "0.0 Références",
-    "1.0 Cours enseignés/1.01 Contenu de cours/420-W41-SF - Services Web/archives",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages",
     "schema.png",
     "v4q11k8t.bmp",
     "Untitled.canvas"
