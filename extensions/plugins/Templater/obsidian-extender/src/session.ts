@@ -1,11 +1,24 @@
-function sessionFromMonth(month) {
-    if (month <= 6) { return "Hiver" }
-    if (month >= 7) { return "Automne" }
+const AUTOMNE= {long: "Automne", short: "A", pattern: (year: number | string) => `A${year}`};
+const HIVER = {long: "Hiver", short: "H", pattern: (year: number | string) => `H${year}`};
+
+type fnSessionFromMonth = (month: number) => string;
+
+type SessionConfig = {
+    constants: Record<string, any>,
+    sessionFromMonth: fnSessionFromMonth
+}
+
+function sessionFromMonth(month: number): string {
+    return (month <= 6) ? HIVER.long: AUTOMNE.long;
 }
 
 
-function session() {
+function session(): SessionConfig {
     return {
+        constants: {
+            AUTOMNE,
+            HIVER
+        },
         sessionFromMonth
     }
 }
