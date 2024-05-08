@@ -40,10 +40,10 @@ body {
     --bg-cherry: #511;
     --bg-teal: #2c8;
 
-    --bg-green-hi-vis: lime;
+    --bg-green-hi-vis: LawnGreen;
     --bg-yellow-hi-vis: yellow;
-    --bg-orange-hi-vis: orange;
-    --bg-blue-hi-vis: lightBlue;
+    --bg-orange-hi-vis: #ffbb00;
+    --bg-blue-hi-vis: SkyBlue;
 
     --bg-walnut:#544B3D;
     --bg-dark-cyan: #048a81;
@@ -186,19 +186,19 @@ body {
     font-weight: bold;
 }
 
-.highlight.yellow {
+.highlight.warning {
     background-color: var(--bg-highlight-yellow);
 }
 
-.highlight.green {
+.highlight.success {
     background-color: var(--bg-highlight-green);
 }
 
-.highlight.orange {
+.highlight.danger {
     background-color: var(--bg-highlight-orange);
 }
 
-.highlight.blue {
+.highlight.info {
     background-color: var(--bg-highlight-blue);
 }
 
