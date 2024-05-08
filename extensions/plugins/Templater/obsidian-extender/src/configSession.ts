@@ -2,6 +2,12 @@ import html from "./html"
 
 export type Cours = { short: string, number: string, long: string }
 
+export enum Style {
+    LONG = 'long',
+    SHORT = 'short',
+    NUMBER = 'number'
+}
+
 const NULL_COURSE: Cours = { short: "NA", number: "NA", long: "NA" }
 const PO2: Cours = { short: "PO2", number: "420-W30-SF", long: "Programmation orientée objet II" }
 const CS: Cours = { short: "CS", number: "420-W53-SF", long: "Cybersécurité" }
@@ -28,10 +34,10 @@ function sortCourse(a: Cours, b: Cours) {
 
 
 function courseToChip(session: string): (cours: string) => string {
-    return (cours: string): string => {
+    return (cours: string, style: Style = Style.LONG): string => {
         const index = courseIndex(session)(cours)
         const course = findCourse(session)(cours)
-        return html.chip(`cours-${index + 1}`, course.short)
+        return html.chip(`cours-${index + 1}`, course[style])
     }
 }
 
