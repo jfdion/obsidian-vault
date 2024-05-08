@@ -168,10 +168,10 @@
   },
   "active": "51941da60b0c95e4",
   "lastOpenFiles": [
+    "extensions/plugins/Templater/obsidian-extender/dist/seconddep.js",
+    "extensions/plugins/Templater/obsidian-extender/dist/firstdep.js",
     "extensions/plugins/Templater/obsidian-extender/dist/main.js",
     "extensions/Templates/TEST-session.md",
-    "extensions/plugins/Templater/obsidian-extender/dist/firstdep.js",
-    "extensions/plugins/Templater/obsidian-extender/dist/seconddep.js",
     "extensions/plugins/Templater/obsidian-extender/src/seconddep.ts",
     "extensions/plugins/Templater/obsidian-extender/dist/second-dep.js",
     "extensions/plugins/Templater/obsidian-extender/src/firstdep.ts",
