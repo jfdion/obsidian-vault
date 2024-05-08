@@ -6,14 +6,6 @@
   "files": [
     "dist"
   ],
-  "main": "./dist/ObsidianExtender.umd.js",
-  "module": "./dist/ObsidianExtender.es.js",
-  "exports": {
-    ".": {
-      "import": "./dist/ObsidianExtender.es.js",
-      "require": "./dist/ObsidianExtender.umd.js"
-    }
-  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

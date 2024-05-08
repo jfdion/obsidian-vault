@@ -168,6 +168,8 @@
   },
   "active": "51941da60b0c95e4",
   "lastOpenFiles": [
+    "extensions/plugins/Templater/obsidian-extender/vite.config.js.timestamp-1715179830500-246f6e4b0efd4.mjs",
+    "extensions/plugins/Templater/obsidian-extender/vite.config.js.timestamp-1715179808574-c2f6a9b4cd6ac.mjs",
     "extensions/plugins/Templater/obsidian-extender/vite.config.js.timestamp-1715179784775-bfe023b4d88db.mjs",
     "extensions/plugins/Templater/obsidian-extender/node_modules/@pkgjs/parseargs/internal/validators.js",
     "extensions/plugins/Templater/obsidian-extender/node_modules/@pkgjs/parseargs/internal/util.js",
@@ -177,8 +179,6 @@
     "extensions/plugins/Templater/obsidian-extender/node_modules/@pkgjs/parseargs/examples/ordered-options.mjs",
     "extensions/plugins/Templater/obsidian-extender/node_modules/@pkgjs/parseargs/examples/no-repeated-options.js",
     "extensions/plugins/Templater/obsidian-extender/node_modules/@pkgjs/parseargs/examples/negate.js",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/@pkgjs/parseargs/examples/limit-long-syntax.js",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/@pkgjs/parseargs/examples/is-default-value.js",
     "extensions/plugins/Templater/obsidian-extender/node_modules/@pkgjs/parseargs/README.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/@pkgjs/parseargs/CHANGELOG.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/@isaacs/cliui/node_modules/strip-ansi/readme.md",

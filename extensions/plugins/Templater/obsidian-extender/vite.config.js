@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite'
 import { resolve } from 'path'
+import { glob } from 'glob'
 
 // https://vitejs.dev/config/
 export default defineConfig({
