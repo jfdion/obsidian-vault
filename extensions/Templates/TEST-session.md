@@ -1,8 +1,8 @@
 <%*
 const ext = tp.user.obExt()
-ext.session.helloWorld()
+const session = ext.session.fromMonth(3)
 ext.adiosWorld()
 
 %>
 
-<%* tR += session %> 
+<%* tR += session.long %> 
