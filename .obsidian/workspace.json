@@ -162,8 +162,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "janitor:Janitor: scan vault": false,
-      "templater-obsidian:Templater": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "51941da60b0c95e4",
