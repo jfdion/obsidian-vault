@@ -23,4 +23,4 @@ function session(): SessionConfig {
     }
 }
 
-module.exports = session;
+export default session;
