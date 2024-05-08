@@ -4,7 +4,7 @@
 	* Prompts pour les projets 
 	* Développement de 2 suggestions en 3 variantes
 		* Suggestion 1: demande simple de 3 projets d'autoformation
-		* Suggestion 2: demande complexe visant un élément spécifique
+		* Suggestion 2: demande complexe visant un élément spécifique avec lequel l'étudiant est familier
 			* Devrait mener à un discussion avec ChatGPT sur la pertinence de ses réponses
 	* Choix d'une variante par suggestion et élaboration sur le thème
 * Remise
@@ -95,4 +95,90 @@ En travaillant sur ces projets, vous développerez vos compétences en écriture
 Les projets sont un peu trop simples, je maitrise déjà les tests automatisés, j'aimerais pouvoir développer mes compétences en suivant les apprches du TDD de Londres de de Chicago
 ```
 
-### R
+### Réponse 4
+```
+Je comprends ! Si vous cherchez à développer vos compétences en tests unitaires en suivant les approches du TDD (Test-Driven Development) de Londres et de Chicago, voici trois projets d'autoformation plus avancés pour vous aider à atteindre cet objectif :
+
+1. **Implémentation d'une fonctionnalité à l'aide du TDD :**
+    
+    - Choisissez une fonctionnalité spécifique à implémenter dans votre application Python en utilisant le TDD.
+    - Commencez par écrire un test unitaire qui spécifie le comportement attendu de la fonctionnalité. Le test devrait échouer initialement car la fonctionnalité n'a pas encore été implémentée.
+    - Implémentez ensuite la fonctionnalité de manière minimale pour que le test réussisse. Ne vous souciez pas de l'efficacité ou de l'optimisation pour le moment.
+    - Refactorez votre code pour le rendre propre et maintenable, tout en vous assurant que tous les tests passent toujours.
+2. **Refactoring d'un code existant avec TDD :**
+    
+    - Prenez un morceau de code existant dans votre application Python qui n'a pas été développé avec TDD et qui pourrait bénéficier d'un refactoring.
+    - Écrivez d'abord des tests unitaires pour cette partie du code, en vous assurant de couvrir tous les cas de bord possibles.
+    - Ensuite, commencez à refactoriser le code pour le rendre plus propre, plus lisible et plus maintenable, tout en vous assurant que les tests continuent de passer à chaque étape du processus de refactoring.
+    - Comparez la qualité du code avant et après le refactoring, en mettant en évidence les améliorations apportées grâce à l'approche TDD.
+3. **Développement d'une nouvelle fonctionnalité avec pair programming :**
+    
+    - Pratiquez le TDD en binôme en utilisant l'approche du pair programming, où un développeur écrit les tests tandis que l'autre développeur implémente le code.
+    - Choisissez une nouvelle fonctionnalité à développer dans votre application Python et divisez le travail en tâches distinctes.
+    - Alternez les rôles de "driver" (celui qui écrit le code) et de "navigator" (celui qui guide et réfléchit à haute voix sur la conception et les tests) à intervalles réguliers.
+    - Utilisez le feedback immédiat de votre partenaire pour améliorer votre approche du TDD et votre collaboration en général.
+
+En vous concentrant sur ces projets plus avancés, vous pourrez approfondir votre compréhension et votre maîtrise des approches du TDD de Londres et de Chicago, ainsi que de l'art de l'écriture de tests unitaires efficaces en général.
+```
+
+### Prompt 5
+```
+Ces projets ne couvrent ni l'approche de Londres, ni l'approche de Chicago pour les tests unitaires
+```
+
+### Réponse 5
+```
+Vous avez raison, permettez-moi de vous proposer des projets plus spécifiquement axés sur les approches du TDD de Londres et de Chicago pour les tests unitaires en Python :
+
+1. **Projet de refactorisation guidée par les tests (TDD de Londres) :**
+    
+    - Choisissez un composant de votre application Python existante qui pourrait bénéficier d'une refactorisation.
+    - Utilisez le TDD de Londres pour guider la refactorisation de ce composant. Commencez par écrire un test unitaire qui capture le comportement actuel du composant.
+    - Ensuite, modifiez le code de manière incrémentale tout en vous assurant que les tests passent à chaque étape. L'objectif est d'améliorer la lisibilité, la maintenabilité ou les performances du code sans changer son comportement externe.
+    - Comparez le code avant et après la refactorisation pour évaluer l'impact de cette approche sur la qualité du code.
+2. **Développement piloté par les comportements (TDD de Chicago) :**
+    
+    - Identifiez une nouvelle fonctionnalité à ajouter à votre application Python, en vous concentrant sur le comportement externe souhaité plutôt que sur l'implémentation interne.
+    - Utilisez le TDD de Chicago pour écrire d'abord un test qui spécifie le comportement attendu de la nouvelle fonctionnalité, sans vous soucier de l'implémentation sous-jacente.
+    - Implémentez ensuite le code minimal nécessaire pour que le test passe. N'hésitez pas à utiliser des mocks pour simuler le comportement des dépendances externes si nécessaire.
+    - Une fois que le test passe, refactorez votre code pour le rendre plus propre et plus modulaire tout en vous assurant que tous les tests continuent de passer.
+3. **Migration d'une application vers un style de test axé sur le comportement (TDD de Chicago) :**
+    
+    - Choisissez une application Python existante qui utilise actuellement des tests axés sur l'implémentation et non sur le comportement.
+    - Identifiez un module ou une fonctionnalité de cette application que vous souhaitez migrer vers un style de test axé sur le comportement.
+    - Utilisez le TDD de Chicago pour écrire de nouveaux tests qui spécifient le comportement externe de ce module ou de cette fonctionnalité.
+    - Progressivement, remplacez les anciens tests axés sur l'implémentation par les nouveaux tests axés sur le comportement, en vous assurant que le comportement global de l'application reste cohérent.
+
+En suivant ces projets, vous pourrez explorer et pratiquer les approches spécifiques du TDD de Londres et de Chicago pour les tests unitaires en Python, ce qui vous aidera à approfondir votre compréhension et votre maîtrise de ces méthodologies.
+```
+
+### Prompt 6
+```
+Le TDD de Londres est l'aproche Outside-in avec les mocks et l'approche de Chicago est l'approche Inside-out sans mocks
+```
+
+### Réponse 6
+```
+Je vois, merci de clarifier cela. Voici trois projets qui correspondent mieux à ces approches spécifiques du TDD en Python :
+
+1. **Développement d'une fonctionnalité avec l'approche Outside-In (TDD de Londres) :**
+    
+    - Choisissez une nouvelle fonctionnalité à ajouter à votre application Python.
+    - Utilisez l'approche Outside-In pour commencer par écrire un test qui spécifie le comportement attendu de l'interface utilisateur ou de l'API externe de la fonctionnalité. Ce test sera votre test d'intégration le plus externe.
+    - Écrivez ensuite des tests unitaires pour les composants internes de la fonctionnalité, en utilisant des mocks pour simuler le comportement des dépendances externes.
+    - Implémentez progressivement le code de la fonctionnalité, en vous concentrant sur le fait de faire passer les tests à chaque étape du processus.
+2. **Migration d'une application vers l'approche Inside-Out (TDD de Chicago) :**
+    
+    - Identifiez une partie de votre application Python existante qui n'a pas été développée avec TDD et qui pourrait bénéficier d'une refonte.
+    - Utilisez l'approche Inside-Out pour écrire d'abord des tests unitaires pour les composants internes de cette partie de l'application, sans vous soucier des interactions externes.
+    - Implémentez ensuite le code minimal nécessaire pour faire passer ces tests. Ne vous souciez pas encore des intégrations externes ou de la manière dont ces composants seront utilisés par d'autres parties de l'application.
+    - Une fois que les composants internes fonctionnent correctement, écrivez des tests d'intégration externes pour vérifier le comportement de l'ensemble de la partie de l'application.
+3. **Refactorisation guidée par les tests avec TDD de Londres :**
+    
+    - Choisissez une partie de votre application Python qui pourrait bénéficier d'une refactorisation.
+    - Utilisez l'approche Outside-In du TDD de Londres pour commencer par écrire un test d'intégration externe qui spécifie le comportement attendu de cette partie de l'application.
+    - Ensuite, écrivez des tests unitaires pour les composants internes de cette partie de l'application, en utilisant des mocks pour simuler le comportement des dépendances externes.
+    - Refactorisez ensuite le code de manière progressive pour améliorer sa structure et sa maintenabilité, en vous assurant que tous les tests continuent de passer à chaque étape.
+
+Ces projets devraient mieux correspondre aux approches spécifiques du TDD de Londres (Outside-In avec mocks) et de Chicago (Inside-Out sans mocks) pour les tests unitaires en Python. En les réalisant, vous pourrez approfondir votre compréhension et votre maîtrise de ces méthodologies de développement.
+```

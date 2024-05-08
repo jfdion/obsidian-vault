@@ -36,6 +36,34 @@ Status:: <span class="chip ready">prêt</span>
     
 # Notes
 
+## Courriel pour le superviseur de stage évaluation terminale du stage
+
+### Évaluation de fin du stage de votre stagiaire
+Bonjour {Nom complet superviseur de Stage},
+
+Je communique avec vous, car nous sommes à la fin du stage de {Nom complet étudiant}.  Il s'agit du moment de la dernière évaluation de votre stagiaire dans son milieu de stage.
+
+Vous trouverez en pièce jointe le formulaire d'évaluation des réalisations en entreprise. Ce document détaille les éléments d'évaluation de la personne étudiante. Ce serait apprécié si l'évaluation était complétée au plus tard le 23 mai 2024.
+
+Merci
+
+Cordialement,
+
+## Courriel pour les étudiants (batch) pour l'évaluation de mi-stage
+
+### Évaluation de finale du stage (sommatif)
+Bonjour,
+
+Nous arrivons à la fin de votre stage. C'est le moment de réaliser l'évaluation formative de  fin de stage.
+
+Vous trouverez en pièce jointe le formulaire à remplir pour le 23 mai 2024.
+
+Si vous avez des questions n'hésitez pas à m'écrire par Mio ou par Teams.
+
+Bonne journée
+
+Jean-François
+
 # Rétroaction
 (alt+e - [[macro_rating]])
 
