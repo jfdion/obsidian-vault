@@ -5,7 +5,7 @@ import { resolve } from 'path'
 export default defineConfig({
   build: {
     lib: {
-      entry: resolve(__dirname, 'src/*.ts'),
+      entry: resolve(__dirname, 'src/main.ts'),
       name: "obsidianExtender",
       fileName: (format, name) => `${name}.${format === 'es' ? 'mjs' : 'cjs'}`,
     }

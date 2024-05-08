@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
+                "file": "extensions/Templates/TEST-session.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
+                "file": "extensions/Templates/TEST-session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
+                "file": "extensions/Templates/TEST-session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md"
+                "file": "extensions/Templates/TEST-session.md"
               }
             }
           },
@@ -166,19 +166,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "51941da60b0c95e4",
+  "active": "25c3dd049cf688dd",
   "lastOpenFiles": [
+    "extensions/plugins/Templater/obsidian-extender/vite.config.js.timestamp-1715183614855-2f1bee1ebb8b3.mjs",
+    "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
+    "Untitled.md",
+    "extensions/plugins/Templater/obsidian-extender/dist/main.cjs",
+    "extensions/plugins/Templater/obsidian-extender/dist/main.mjs",
+    "extensions/plugins/Templater/obsidian-extender/dist",
+    "extensions/plugins/Templater/obsidian-extender/vite.config.js.timestamp-1715183402601-e3fc9821bf4a5.mjs",
     "extensions/plugins/Templater/obsidian-extender/node_modules/vite/dist/node/runtime.js",
     "extensions/plugins/Templater/obsidian-extender/node_modules/vite/dist/node/index.js",
     "extensions/plugins/Templater/obsidian-extender/vite.config.js.timestamp-1715183192906-8f00888cf0fdf.mjs",
     "extensions/plugins/Templater/obsidian-extender/node_modules/vite/dist/node/chunks/dep-cNe07EU9.js",
     "extensions/plugins/Templater/obsidian-extender/node_modules/rollup/dist/native.js",
     "extensions/plugins/Templater/obsidian-extender/node_modules/vite/dist/node/constants.js",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/esbuild/lib/main.js",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/rollup/package.json",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/esbuild/package.json",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/vite/dist/node/cli.js",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/vite/bin/vite.js",
     "extensions/plugins/Templater/obsidian-extender/node_modules/@pkgjs/parseargs/README.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/@pkgjs/parseargs/CHANGELOG.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/@isaacs/cliui/node_modules/strip-ansi/readme.md",
@@ -202,8 +204,6 @@
     "extensions/plugins/Templater/obsidian-extender/node_modules/path-scurry/LICENSE.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/minipass/README.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/minimatch/README.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/lru-cache/README.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/jackspeak/README.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "extensions/plugins/Templater/obsidian-extender/dist/vite.svg",

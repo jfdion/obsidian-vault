@@ -1,5 +1,5 @@
 <%*
-const ext = tp.user.obext()
+const ext = tp.user.
 const session = ext.sessionExtender.sessionFromMonth(3)
 %>
 
