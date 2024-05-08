@@ -1,3 +1,5 @@
-export function helloWorld() {
+function helloWorld() {
     console.log("Hello world")
 }
+
+export = { helloWorld }
