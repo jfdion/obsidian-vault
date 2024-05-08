@@ -1,8 +1,9 @@
-const PO2 = "PO2"
-const CS = "CS"
-const IT = "IT"
-const BD1 = "BD1"
-const SW = "SW"
+const PO2 = {short: "PO2", number: "420-W30-SF", long: "Programmation orientée objet II"}
+const CS = {short: "CS", number: "420-W53-SF", long: "Cybersécurité"}
+const IT = {short: "IT", number: "420-W54-SF", long: "Innovation et veille technologique"}
+const BD1 = {short: "BD1", number: "420-W22-SF", long: "Bases de données I"}
+const SW = {short: "SW", number: "420-W41-SF", long: "Services Web"}
+
 
 const courses = {
     "A24": [PO2, CS, IT],
