@@ -40,9 +40,9 @@ body {
     --bg-cherry: #511;
     --bg-teal: #2c8;
 
-    --bg-green-hi-vis: LawnGreen;
+    --bg-green-hi-vis: lime;
     --bg-yellow-hi-vis: yellow;
-    --bg-orange-hi-vis: #ffbb00;
+    --bg-orange-hi-vis: OrangeRed;
     --bg-blue-hi-vis: SkyBlue;
 
     --bg-walnut:#544B3D;
@@ -102,7 +102,7 @@ body {
 
 .chip {
     background-color: var(--bg-mid-gray);
-    border-radius: 6px;
+    border-radius: .3rem;
     color: var(--txt-chip-default);
     font-size: .7rem;
     font-weight: 700;
@@ -179,11 +179,15 @@ body {
 }
 
 .highlight {
-    display: inline-block;
+    
     background-color: var(--bg-highlight-default);
     color: var(--txt-black);
+    display: inline-block;
+    font-weight: 600;
+    font-size: 0,95rem;
     padding: 0.1rem 0.5rem;
-    font-weight: bold;
+    text-transform: capitalize;
+  
 }
 
 .highlight.warning {
