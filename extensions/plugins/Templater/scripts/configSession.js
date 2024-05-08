@@ -14,6 +14,14 @@ function indexFromCourse(courseName) {
     return courses.indexOf(courseName) + 1
 }
 
+function coursesConstants () {
+    return Object.keys(courses).map(c => courses[c]).reduce((courses, sublist) => {
+        for (e in sublist) {
+            
+        }
+    }, {})
+}
+
 function session(Session) {
     return {
         constant: {
