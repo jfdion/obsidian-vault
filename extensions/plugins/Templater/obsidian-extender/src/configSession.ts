@@ -2,7 +2,7 @@ import html from "./html"
 
 export type Cours = { short: string, number: string, long: string }
 
-const NullCourse: Cours = { short: "NA", number: "NA", long: "NA" }
+const NULL_COURSE: Cours = { short: "NA", number: "NA", long: "NA" }
 const PO2: Cours = { short: "PO2", number: "420-W30-SF", long: "Programmation orientée objet II" }
 const CS: Cours = { short: "CS", number: "420-W53-SF", long: "Cybersécurité" }
 const IT: Cours = { short: "IT", number: "420-W54-SF", long: "Innovation et veille technologique" }
@@ -31,7 +31,7 @@ function courseToChip(session: string): (cours: string) => string {
     return (cours: string): string => {
         const index = courseIndex(session)(cours)
         const course = findCourse(session)(cours)
-        return html.chip(`cours-${index}`, course.short)
+        return html.chip(`cours-${index + 1}`, course.short)
     }
 }
 
@@ -49,12 +49,17 @@ function findCourse(session: string): (cours: string) => Cours {
         return semester[session].find(c => c.long === cours
             || c.short === cours
             || c.number === cours
-        ) || NullCourse
+        ) || NULL_COURSE
     }
 }
 
-const configSession = {
-    courseToChip
+
+function currySession(session: string) {
+    return {
+        courseToChip: courseToChip(session)
+    }
 }
+
+const configSession = currySession
 
 export default configSession
