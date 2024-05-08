@@ -3,6 +3,9 @@
 * Élaboration de choix de sujet avec ChatGPT
 	* Prompts pour les projets 
 	* Développement de 2 suggestions en 3 variantes
+		* Suggestion 1: demande simple de 3 projets d'autoformation
+		* Suggestion 2: demande complexe visant un élément spécifique
+			* Devrait mener à un discussion avec ChatGPT sur la pertinence de ses réponses
 	* Choix d'une variante par suggestion et élaboration sur le thème
 * Remise
 	* Document avec les prompts demandés et réponses
@@ -86,3 +89,10 @@ Absolument ! Voici trois projets d'autoformation pour améliorer vos compétence
 
 En travaillant sur ces projets, vous développerez vos compétences en écriture de tests unitaires en Python, y compris l'utilisation de mocks pour isoler les dépendances externes. Vous serez mieux équipé pour garantir la qualité et la fiabilité de vos applications Python à mesure qu'elles évoluent.
 ```
+
+### Prompt 4
+```
+Les projets sont un peu trop simples, je maitrise déjà les tests automatisés, j'aimerais pouvoir développer mes compétences en suivant les apprches du TDD de Londres de de Chicago
+```
+
+### R
