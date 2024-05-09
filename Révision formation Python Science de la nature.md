@@ -302,8 +302,8 @@ vers
 
 # Networkx
 ## Pour en savoir plus
+De
+> La documentation de la librairie `itertools` est disponible [ici](https://networkx.org/documentation/stable/tutorial.html).
 
-La documentation de la librairie `itertools` est disponible [ici](https://networkx.org/documentation/stable/tutorial.html).
-
-[  
-](https://csfboileau.gitlab.io/sites/python/docs/libs/itertools)
+Vers
+> La documentation de la librairie `networkx` est disponible [ici](https://networkx.org/documentation/stable/tutorial.html).
