@@ -2,17 +2,13 @@ const DATE_FORMAT = `YYYY-MM-DD`
 const HOUR_FORMAT = `HH [h] mm`
 const DATE_HOUR_FORMAT = `${DATE_FORMAT} ${HOUR_FORMAT}`
 
-async function promptInt(tp, label = "Number", placeholder = undefined) {
-    if (placeholder !== undefined) {
-        placeholder = toString(placeholder)
-    }
-
+async function promptInt(tp: any, label = "Number", placeholder = undefined) {
     const value = await tp.system.prompt(label, placeholder, true)
 
     return parseInt(value, 10)
 }
 
-async function promptStr(tp, label = "String", placeholder = undefined) {
+async function promptStr(tp: any, label = "String", placeholder = undefined) {
     const value = await tp.system.prompt(label, placeholder, true)
 
     return value
@@ -31,24 +27,24 @@ function getCurrentFolder(tp: any): string {
     return tp.file.folder(true)
 }
 
-function getParentFolder(tp, level = 2) {
+function getParentFolder(tp: any, level = 2) {
     const folders = tp.file.folder(true).split("/")
     return folders.splice(level * -1, 1)
 }
 
-function getSiblingFileByName(tp, name) {
+function getSiblingFileByName(tp: any, name: string): string {
     return tp.file.find_tfile(name)
 }
 
-function toString(v) {
+function toString(v: any) {
     return `"${v}"`
 }
 
-function buildHierarchicalTag(values) {
+function buildHierarchicalTag(values: string[]) {
     return `#${values.join('/')}`
 }
 
-async function promptToString(prompt) {
+async function promptToString(prompt: string): Promise<string> {
     const result = await prompt
     return toString(result)
 }

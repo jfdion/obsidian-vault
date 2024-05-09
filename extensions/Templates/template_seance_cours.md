@@ -1,7 +1,7 @@
 <%*
 const ext = tp.user.obExt()
-const tx = ext.templaterExtender()
-const seance = tp.user.seanceTemplate()
+const tx = ext.templaterExtender
+const seance = ext.seance
 const cours = seance.nomCours(tp)
 
 const session = await tx.promptStr(tp, "Session (H|A + YY)")

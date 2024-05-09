@@ -1,6 +1,6 @@
 import html from "./html"
 
-export type Course = { short: string, number: string, long: string, schedule: Schedule[] }
+export type Course = { short: string, number: string, long: string, slug: string, schedule: Schedule[] }
 export type Schedule = { day: string, startTime: number, endTime: number }
 
 export enum Style {
@@ -9,13 +9,13 @@ export enum Style {
     NUMBER = 'number'
 }
 
-const NULL_COURSE: Course = { short: "NA", number: "NA", long: "NA", schedule: [] }
-const PO2: Course = { short: "PO2", number: "420-W30-SF", long: "Programmation orientée objet II", schedule: [] }
-const CS: Course = { short: "CS", number: "420-W53-SF", long: "Cybersécurité", schedule: [] }
-const IT: Course = { short: "IT", number: "420-W54-SF", long: "Innovation et veille technologique", schedule: [] }
-const BD1: Course = { short: "BD1", number: "420-W22-SF", long: "Bases de données I", schedule: [{ day: "Mercredi", startTime: 8, endTime: 11 }] }
-const SW: Course = { short: "SW", number: "420-W41-SF", long: "Services Web", schedule: [{ day: "Lundi", startTime: 11, endTime: 13 }, { day: "Mercredi", startTime: 16, endTime: 18 }] }
-const ST: Course = { short: "ST", number: "420-W70-W71-SF", long: "Stages", schedule: [] }
+const NULL_COURSE: Course = { short: "NA", number: "NA", long: "NA", slug: "NA", schedule: [] }
+const PO2: Course = { short: "PO2", number: "420-W30-SF", long: "Programmation orientée objet II", slug: "prog-objet-ii", schedule: [] }
+const CS: Course = { short: "CS", number: "420-W53-SF", long: "Cybersécurité", slug: "cybersecurite", schedule: [] }
+const IT: Course = { short: "IT", number: "420-W54-SF", long: "Innovation et veille technologique", slug: "innovation-et-veille-techno", schedule: [] }
+const BD1: Course = { short: "BD1", number: "420-W22-SF", long: "Bases de données I", slug: "bd-i", schedule: [{ day: "Mercredi", startTime: 8, endTime: 11 }] }
+const SW: Course = { short: "SW", number: "420-W41-SF", long: "Services Web", slug: "services-web", schedule: [{ day: "Lundi", startTime: 11, endTime: 13 }, { day: "Mercredi", startTime: 16, endTime: 18 }] }
+const ST: Course = { short: "ST", number: "420-W70-W71-SF", long: "Stages", slug: "stages", schedule: [] }
 
 
 const semester: Record<string, Course[]> = {
