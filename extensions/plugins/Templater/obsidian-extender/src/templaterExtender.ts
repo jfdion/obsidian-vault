@@ -13,7 +13,7 @@ async function promptStr(tp: any, label = "String", placeholder = undefined): Pr
 }
 
 async function suggester(tp: any, choices: Record<string, string>): Promise<string> {
-    return await tp.suggester(Object.keys(choices), Object.values(choices))
+    return await tp.system.suggester(Object.keys(choices), Object.values(choices))
 }
 
 async function promptOnFilenameUntitled(tp: any): Promise<string> {

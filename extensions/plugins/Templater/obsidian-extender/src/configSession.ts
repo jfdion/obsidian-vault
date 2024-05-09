@@ -1,4 +1,5 @@
-import { Course } from "./course"
+
+import { Course, Style } from "./course"
 import html from "./html"
 
 export type Semester = Record<string, Course[]>
@@ -26,7 +27,6 @@ function sortCourse(a: Course, b: Course) {
     }
     return 0
 }
-
 
 function courses(session: string): Course[] {
     return semester[session] || [NULL_COURSE]

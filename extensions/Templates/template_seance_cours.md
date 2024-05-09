@@ -14,6 +14,9 @@ const courseCode = xt.getParentFolder(tp, 2)[0].split(" ")[0]
 const course = cfgSession.findCourse(courseCode)
 
 if (course.schedule.length > 1) {
+	console.log(course.schedule.reduce((acc, s) => {
+	acc[s.day] = `${s.day} - ${s.startTime}:00 à ${s.endTime}:00`
+	return acc}, {}))
 	xt.suggester(tp, course.schedule.reduce((acc, s) => {
 	acc[s.day] = `${s.day} - ${s.startTime}:00 à ${s.endTime}:00`
 	return acc}, {}))
@@ -33,7 +36,7 @@ tR += xt.buildHierarchicalTag(["cours", course.slug, "planseance"]) + " " + "#pl
 
 **MOC:** 
 
-Chip:: <span class="chip cours-1">C1</span> |  <span class="chip cours-2">C2</span> |  <span class="chip cours-3">C3</span> |  <span class="chip cours-4">C4</span> |  <span class="chip cours-5">C5</span> 
+Chip:: <%* tR += cfgSession.courseToChip(course) %>
 Session:: <%* tR += session.code %>
 
 Date::  <%* tR += date %>  
