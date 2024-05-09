@@ -34,7 +34,7 @@ tR += xt.buildHierarchicalTag(["cours", course.slug, "planseance"]) + " " + "#pl
 **MOC:** 
 
 Chip:: <span class="chip cours-1">C1</span> |  <span class="chip cours-2">C2</span> |  <span class="chip cours-3">C3</span> |  <span class="chip cours-4">C4</span> |  <span class="chip cours-5">C5</span> 
-Session:: <%* tR += session.toUpperCase() %>
+Session:: <%* tR += session.code %>
 
 Date::  <%* tR += date %>  
 Semaine:: <% tp.file.cursor(1) %>

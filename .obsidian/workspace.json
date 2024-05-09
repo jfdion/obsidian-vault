@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "20d2885132188390",
+        "id": "a1835e8bde5de62c",
         "type": "tabs",
         "children": [
           {
@@ -19,8 +19,7 @@
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281
+    "width": 326
   },
   "right": {
     "id": "bb738e2bffc7e4ca",
@@ -168,10 +167,11 @@
   },
   "active": "51941da60b0c95e4",
   "lastOpenFiles": [
-    "extensions/Templates/template_seance_cours.md",
-    "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/seance + TP/Untitled.md",
-    "extensions/Templates/TEST-session.md",
     "extensions/plugins/Templater/obsidian-extender/dist/obExt.js",
+    "extensions/plugins/Templater/obsidian-extender/src/course.ts",
+    "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/seance + TP/Untitled.md",
+    "extensions/Templates/template_seance_cours.md",
+    "extensions/Templates/TEST-session.md",
     "extensions/plugins/Templater/obsidian-extender/src/seance.ts",
     "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/seance + TP",
     "Révision formation Python Science de la nature.md",

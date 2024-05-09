@@ -1,12 +1,12 @@
-#cours/420-W30-SF/ProgrammationObjet II/planseance #planseance
+#cours/prog-objet-ii/planseance #planseance
 # Meta info
 
-**Cours**:: #cours/420-W30-SF/ProgrammationObjet II 
+**Cours**:: #cours/prog-objet-ii 
 
 **MOC:** 
 
 Chip:: <span class="chip cours-1">C1</span> |  <span class="chip cours-2">C2</span> |  <span class="chip cours-3">C3</span> |  <span class="chip cours-4">C4</span> |  <span class="chip cours-5">C5</span> 
-Session:: H24
+Session:: A24
 
 Date::  2024-05-09  
 Semaine:: 

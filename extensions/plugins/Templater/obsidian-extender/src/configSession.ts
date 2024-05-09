@@ -1,13 +1,7 @@
+import { Course } from "./course"
 import html from "./html"
 
-export type Course = { short: string, number: string, long: string, slug: string, schedule: Schedule[] }
-export type Schedule = { day: string, startTime: number, endTime: number }
-
-export enum Style {
-    LONG = 'long',
-    SHORT = 'short',
-    NUMBER = 'number'
-}
+export type Semester = Record<string, Course[]>
 
 const NULL_COURSE: Course = { short: "NA", number: "NA", long: "NA", slug: "NA", schedule: [] }
 const PO2: Course = { short: "PO2", number: "420-W30-SF", long: "Programmation orientée objet II", slug: "prog-objet-ii", schedule: [{ day: "Lundi", startTime: 8, endTime: 11 }, { day: "Mercredi", startTime: 12, endTime: 15 }] }
@@ -18,7 +12,7 @@ const SW: Course = { short: "SW", number: "420-W41-SF", long: "Services Web", sl
 const ST: Course = { short: "ST", number: "420-W70-W71-SF", long: "Stages", slug: "stages", schedule: [] }
 
 
-const semester: Record<string, Course[]> = {
+const semester: Semester = {
     "A24": [CS, IT, PO2].sort(sortCourse),
     "H24": [BD1, SW, ST].sort(sortCourse)
 }
