@@ -28,10 +28,17 @@ Status:: <span class="chip ready">prêt</span>
 ### Plan de la rencontre
 1. Comment la semaine s'est passée
 	1. Résumé de la semaine
-2. Sujet de la semaine
+2. Informations de la semaine
+	1. Effectuer la remise du support de présentation dans le cours 420-W71-SF STAGE avant le 26 mai
+		1. Les présentations seront disponible sur les ordinateurs dans les différents locaux
+	2. Fin de stage
+		1. Revolvair - pas de rencontre la semaine prochaine
+	3. Changement d'horaire
+		1. Stagiaires du vendredi - jeudi à la même heure
+3. Sujet de la semaine
 	1. Si tu pouvais revenir en arrière, qu'est-ce que tu changerais dans le DEC en informatique du Cégep?
-3. Enjeux et préoccupations?
-4. Sujet de la semaine prochaine
+4. Enjeux et préoccupations?
+5. Sujet de la semaine prochaine
 	1. Qu'est-ce que tu as aimé le plus dans ton stage?
     
 # Notes
