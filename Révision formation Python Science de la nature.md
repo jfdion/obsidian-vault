@@ -218,3 +218,59 @@ De
 
 Vers
 À noter, les `[]` sont utilisés pour l'accès, même si le tuple est déclaré avec des `()`
+
+# Itertools
+## Produit cartésian
+
+```python
+import itertools
+
+digits = [1,2,3,4,5]
+iterator = itertools.product(digits, repeat=3)
+codes = [p for p in iterator]
+
+print(iterator) # affiche l'itérateur
+print(codes) # affiche toutes les combinaisons du produit cartésian
+
+>>> 
+# l'itérateur retourné par le premier 'print()'
+<itertools.product object at 0x000001C78D9D75C0>
+# le résultat du produit cartésian, stocké dans la variable 'codes'
+[(1, 1, 1), (1, 1, 2), (1, 1, 3), (1, 2, 1), (1, 2, 2), (1, 2, 3), (1, 3, 1), (1, 3, 2), (1, 3, 3), 
+ (2, 1, 1), (2, 1, 2), (2, 1, 3), (2, 2, 1), (2, 2, 2), (2, 2, 3), (2, 3, 1), (2, 3, 2), (2, 3, 3), 
+ (3, 1, 1), (3, 1, 2), (3, 1, 3), (3, 2, 1), (3, 2, 2), (3, 2, 3), (3, 3, 1), (3, 3, 2), (3, 3, 3)]
+```
+
+Il manque les valeurs 4 et 5 dans le résultat afficher
+```python
+[
+ (1, 1, 1), (1, 1, 2), (1, 1, 3), (1, 1, 4), (1, 1, 5), (1, 2, 1), (1, 2, 2), (1, 2, 3), (1, 2, 4), (1, 2, 5), (1, 3, 1), (1, 3, 2), (1, 3, 3), (1, 3, 4), (1, 3, 5), (1, 4, 1), (1, 4, 2), (1, 4, 3), (1, 4, 4), (1, 4, 5), (1, 5, 1), (1, 5, 2), (1, 5, 3), (1, 5, 4), (1, 5, 5),
+ # ...100 autres résultats
+]
+```
+
+## Permutations
+```python
+import itertools
+
+digits = [1,2,3,4,5]
+iterator = itertools.permutations(digits, 3)
+codes = [p for p in iterator]
+
+print(iterator) # affiche l'itérateur
+print(codes) # affiche toutes les permutations
+
+>>> 
+# l'itérateur retourné par le premier 'print()'
+<itertools.permutations object at 0x000001C78DA2B220>
+# le résultat des permutations, stocké dans la variable 'codes'
+[(1, 2, 3), (1, 3, 2), (2, 1, 3), (2, 3, 1), (3, 1, 2), (3, 2, 1)]
+```
+
+IDEM
+```python
+[
+ (1, 1, 1), (1, 1, 2), (1, 1, 3), (1, 1, 4), (1, 1, 5), (1, 2, 1), (1, 2, 2), (1, 2, 3), (1, 2, 4), (1, 2, 5), (1, 3, 1), (1, 3, 2), (1, 3, 3), (1, 3, 4), (1, 3, 5), (1, 4, 1), (1, 4, 2), (1, 4, 3), (1, 4, 4), (1, 4, 5), (1, 5, 1), (1, 5, 2), (1, 5, 3), (1, 5, 4), (1, 5, 5),
+ # ...100 autres résultats
+]
+```
