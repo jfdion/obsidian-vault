@@ -109,11 +109,34 @@ https://csfboileau.gitlab.io/sites/python/docs/base/loop#boucle-while
 Présenter le cas de base d'une boucle infinie
 
 ```python
-while (True):
+while True:
 	# boucle sans fin
 ```
 
 ## Interruption d'une boucle (nouveau contenu)
 Il est possible d'interrompre l'exécution d'une boucle de 2 façons
 
-si l'application rencontre une instruction de retour `return` la boucle s'arrête et on passe à l'instruction suivant
+Si l'exécution du code arrive sur une instruction de bris  `break` la boucle s'arrête et on passe à l'instruction suivante
+
+```python
+# Cette boucle comptera jusqu'à 5 puis affichera le me
+compteur = 1
+while True:
+    compteur += 1
+    if compteur == 5:
+        print("Compteur à 5")
+        break
+```
+
+Si l'exécution du code arrive sur une instruction de retour `continue` l'itération courante est interrompue et on passe à l'itération suivante
+
+```python
+# Cette boucle comptera jusqu'a l'infini en affichant uniquement les nombres pair
+
+compteur = 1
+while True:
+    compteur += 1
+    if compteur % 2 == 1:
+        continue
+    print(compteur, " est un nombre pair")
+```
