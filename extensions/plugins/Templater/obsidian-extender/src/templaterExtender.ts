@@ -2,16 +2,18 @@ const DATE_FORMAT = `YYYY-MM-DD`
 const HOUR_FORMAT = `HH [h] mm`
 const DATE_HOUR_FORMAT = `${DATE_FORMAT} ${HOUR_FORMAT}`
 
-async function promptInt(tp: any, label = "Number", placeholder = undefined) {
+async function promptInt(tp: any, label = "Number", placeholder = undefined): Promise<number> {
     const value = await tp.system.prompt(label, placeholder, true)
 
     return parseInt(value, 10)
 }
 
-async function promptStr(tp: any, label = "String", placeholder = undefined) {
-    const value = await tp.system.prompt(label, placeholder, true)
+async function promptStr(tp: any, label = "String", placeholder = undefined): Promise<string> {
+    return await tp.system.prompt(label, placeholder, true)
+}
 
-    return value
+async function suggester(tp: any, choices: Record<string, string>): Promise<string> {
+    return await tp.suggester(Object.keys(choices), Object.values(choices))
 }
 
 async function promptOnFilenameUntitled(tp: any): Promise<string> {
@@ -57,6 +59,7 @@ const templaterExtender = {
     },
     promptInt,
     promptStr,
+    suggester,
     promptOnFilenameUntitled,
     buildHierarchicalTag,
     toString,
