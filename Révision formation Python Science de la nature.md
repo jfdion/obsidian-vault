@@ -119,7 +119,7 @@ Il est possible d'interrompre l'exécution d'une boucle de 2 façons
 Si l'exécution du code arrive sur une instruction de bris  `break` la boucle s'arrête et on passe à l'instruction suivante
 
 ```python
-# Cette boucle comptera jusqu'à 5 puis affichera le me
+# Cette boucle comptera jusqu'à 5 puis affichera le message "Compteur à 5"
 compteur = 1
 while True:
     compteur += 1
@@ -132,6 +132,9 @@ Si l'exécution du code arrive sur une instruction de retour `continue` l'itéra
 
 ```python
 # Cette boucle comptera jusqu'a l'infini en affichant uniquement les nombres pair
+# 2 est un nombre pair
+# 4 est un nombre pair
+# ...
 
 compteur = 1
 while True:
@@ -139,4 +142,31 @@ while True:
     if compteur % 2 == 1:
         continue
     print(compteur, " est un nombre pair")
+```
+
+# Introduction (Collections)
+## Résumé
+https://csfboileau.gitlab.io/sites/python/docs/collections/intro#r%C3%A9sum%C3%A9
+
+Changement du libellé *Changeable* pour *Mutable* comme tu fais dans les pages de notes plus loin
+
+Mise en gras des élément différents
+
+| Collection   | Déclaration | Ordonnée         | Mutable | Duplicats                 |
+| ------------ | ----------- | ---------------- | ------- | ------------------------- |
+| Liste        | x = []      | Oui              | Oui     | Oui                       |
+| Ensemble     | x = set()   | **Non**          | Oui     | **Non**                   |
+| Tuple        | x = ()      | Oui              | **Non** | Oui                       |
+| Dictionnaire | x = {}      | Oui (Python 3.7) | Oui     | Non (clés), Oui (valeurs) |
+
+# Ensemble
+## Déclaration
+https://csfboileau.gitlab.io/sites/python/docs/collections/set#d%C3%A9claration
+
+```python
+# Ensemble vide
+set = set()
+
+# Liste avec des valeurs
+set = {'patate', 'frite', 'purée', 'Montecarlo'}
 ```
