@@ -299,3 +299,11 @@ de
 
 vers
 > `itertools` fait parti de la librairie de base de Python :snake:
+
+# Networkx
+## Pour en savoir plus
+
+La documentation de la librairie `itertools` est disponible [ici](https://networkx.org/documentation/stable/tutorial.html).
+
+[  
+](https://csfboileau.gitlab.io/sites/python/docs/libs/itertools)
