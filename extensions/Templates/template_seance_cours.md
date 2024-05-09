@@ -11,13 +11,15 @@ const cfgSession = ext.configSession(session.code)
 
 const date = await xt.promptStr(tp, "Date", tp.date.now())
 const courseCode = xt.getParentFolder(tp, 2)[0].split(" ")[0]
-console.log(cfgSession.findCourse(courseCode))
+const course = cfgSession.findCourse(courseCode)
 
-// const cours = await xt.promptStr(tp, "Cours")
-console.log(cfgSession.courses)
-console.log(cfgSession)
+if (course.schedule.length > 1) {
+	xt.suggester(tp, course.schedule.reduce((acc, s) => {
+	acc[s.day] = `${s.day} - ${s.startTime}:00 à ${s.endTime}:00`
+	return acc}, {}))
+}
 
-tR += xt.buildHierarchicalTag(["cours", cours, "planseance"]) + " " + "#planseance"
+tR += xt.buildHierarchicalTag(["cours", course.slug, "planseance"]) + " " + "#planseance"
 
 /** TODOS
  * Déterminer le nom du fichier à partir du dossier parent
@@ -27,7 +29,7 @@ tR += xt.buildHierarchicalTag(["cours", cours, "planseance"]) + " " + "#plansean
 %>
 # Meta info
 
-**Cours**:: <%* tR += xt.buildHierarchicalTag(["cours", cours]) %> 
+**Cours**:: <%* tR += xt.buildHierarchicalTag(["cours", course.slug]) %> 
 
 **MOC:** 
 

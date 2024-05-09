@@ -10,7 +10,7 @@ export enum Style {
 }
 
 const NULL_COURSE: Course = { short: "NA", number: "NA", long: "NA", slug: "NA", schedule: [] }
-const PO2: Course = { short: "PO2", number: "420-W30-SF", long: "Programmation orientée objet II", slug: "prog-objet-ii", schedule: [] }
+const PO2: Course = { short: "PO2", number: "420-W30-SF", long: "Programmation orientée objet II", slug: "prog-objet-ii", schedule: [{ day: "Lundi", startTime: 8, endTime: 11 }, { day: "Mercredi", startTime: 12, endTime: 15 }] }
 const CS: Course = { short: "CS", number: "420-W53-SF", long: "Cybersécurité", slug: "cybersecurite", schedule: [] }
 const IT: Course = { short: "IT", number: "420-W54-SF", long: "Innovation et veille technologique", slug: "innovation-et-veille-techno", schedule: [] }
 const BD1: Course = { short: "BD1", number: "420-W22-SF", long: "Bases de données I", slug: "bd-i", schedule: [{ day: "Mercredi", startTime: 8, endTime: 11 }] }
