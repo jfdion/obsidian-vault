@@ -29,6 +29,10 @@ function fromNow(): Session {
     )
 }
 
+function fromCode(code: string): Session {
+    return code.indexOf("A") === 0 ? newSession(AUTOMNE_NAME, Number(code.substring(1))
+}
+
 const session = {
     fromMonth,
     fromNow

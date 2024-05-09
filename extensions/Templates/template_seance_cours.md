@@ -1,13 +1,16 @@
 <%*
 const ext = tp.user.obExt()
-const tx = ext.templaterExtender
-const seance = ext.seance
-const cours = seance.nomCours(tp)
+const xt = ext.templaterExtender
+const seanceXt = ext.seance
+const seXt = ext.session
 
-const session = await tx.promptStr(tp, "Session (H|A + YY)")
-const date = await tx.promptStr(tp, "Date", tp.date.now())
+const cours = seanceXt.nomCours(tp)
+const currentSession = seXt.fromNow()
+const session = await xt.promptStr(tp, "Code de session", currentSession.code)
 
-tR += tx.buildHierarchicalTag(["cours", cours, "planseance"]) + " " + "#planseance"
+const date = await xt.promptStr(tp, "Date", tp.date.now())
+
+tR += xt.buildHierarchicalTag(["cours", cours, "planseance"]) + " " + "#planseance"
 
 /** TODOS
  * Déterminer le nom du fichier à partir du dossier parent
