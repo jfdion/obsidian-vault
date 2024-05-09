@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
+                "file": "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 9 - 2024-05-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468
+    "width": 717
   },
   "right": {
     "id": "bb738e2bffc7e4ca",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
+                "file": "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 9 - 2024-05-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
+                "file": "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 9 - 2024-05-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md"
+                "file": "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 9 - 2024-05-06.md"
               }
             }
           },
@@ -168,8 +168,15 @@
   },
   "active": "51941da60b0c95e4",
   "lastOpenFiles": [
-    "extensions/Templates/TEST-session.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 9 - 2024-05-06.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 8 - 2024-04-29.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 7 - 2024-04-22.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 6 - 2024-04-15.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 5 - 2024-04-08.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 4 - 2024-04-01.md",
     "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
+    "extensions/Templates/TEST-session.md",
     "extensions/plugins/Templater/obsidian-extender/dist/obExt.js",
     "extensions/plugins/Templater/obsidian-extender/src/templaterExtender.ts",
     "extensions/plugins/Templater/obsidian-extender/src/obsidianExtender.ts",
@@ -197,12 +204,6 @@
     "extensions/plugins/Templater/obsidian-extender/node_modules/typescript/README.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/type-detect/README.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/tinypool/README.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/tinybench/README.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/strip-literal/README.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/strip-final-newline/readme.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/std-env/README.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/stackback/README.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/source-map-js/README.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "extensions/plugins/Templater/obsidian-extender/dist/vite.svg",

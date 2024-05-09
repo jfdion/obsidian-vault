@@ -13,7 +13,7 @@ Semaine:: 8
 Heure:: : <span class="chip na">NA</span>
 ClasseNum:: 8
 
-Status:: <span class="chip ready">prêt</span> 
+Status:: <span class="chip done">fait</span> 
 
 **Thème**:: Changement dans le programme
 
