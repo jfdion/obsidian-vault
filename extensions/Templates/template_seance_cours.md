@@ -6,9 +6,10 @@ const seXt = ext.session
 
 const cours = seanceXt.nomCours(tp)
 const currentSession = seXt.fromNow()
-const session = await xt.promptStr(tp, "Code de session", currentSession.code)
+const session = seXt.fromCode(await xt.promptStr(tp, "Code de session", currentSession.code))
 
 const date = await xt.promptStr(tp, "Date", tp.date.now())
+const cours = await xt.promptStr(tp, "Cours")
 
 tR += xt.buildHierarchicalTag(["cours", cours, "planseance"]) + " " + "#planseance"
 
