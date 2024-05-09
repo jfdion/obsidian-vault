@@ -10,6 +10,9 @@ const session = seXt.fromCode(await xt.promptStr(tp, "Code de session", currentS
 const cfgSession = ext.configSession(session.code)
 
 const date = await xt.promptStr(tp, "Date", tp.date.now())
+const courseCode = xt.getParentFolder(tp, 2)[0].split(" ")[0]
+console.log(cfgSession.findCourse(courseCode))
+
 // const cours = await xt.promptStr(tp, "Cours")
 console.log(cfgSession.courses)
 console.log(cfgSession)
