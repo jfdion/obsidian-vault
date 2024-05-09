@@ -63,6 +63,33 @@ vers
 # Tests
 ## Tester une fonction 
 https://csfboileau.gitlab.io/sites/python/docs/base/program/test#tester-une-fonction-librarie
+de 
+> Il existe aussi des librairies pour faire des tests unitaires. Cela demande un plus grand formalisme, mais les résultats sont extrèmement clairs!
+
+vers
+> Il existe aussi des librairies pour faire des tests unitaires. Cela demande un plus grand formalisme, mais les résultats sont extrêmement clairs!
+
+# Lecture des inputs
+## Lecture des inputs
+de 
+>Pour lire un fichier, il faut utiliser une fonction spécifique pour ouvrir le fichier et charger les valeurs à traiter en mémoire. L'emplacement de ce fichier est important, car l'ouverture nécessite le chemin d'accès du fichier (son endroit sur l'ordinateur).
+
+vers
+> Pour lire un fichier, il faut utiliser une fonction spécifique pour ouvrir le fichier et charger les valeurs à traiter en mémoire. L'emplacement de ce fichier est important, car l'ouverture nécessite le chemin d'accès du fichier (son endroit sur l'ordinateur).
+>
+> Il est également important de fermer un fichier après avoir fait la lecture. Python nous offre des facilités pour éviter ce oubli qui pourrait nous poser problème lors de l'exécution de notre programme.
+
+## Exemple de lecture
+https://csfboileau.gitlab.io/sites/python/docs/base/program/input#exemple-de-lecture
+de
+> 1. Le mot-clé `with` permet d'utiliser une ressource externe au programme (un fichier, une base de donnée, etc.)
+
+vers
+> 1. Le mot-clé `with` permet d'utiliser une ressource externe au programme (un fichier, une base de donnée, etc.). Cette instruction s'assure également que le fichier ouvert pour la lecture sera refermé afin de le libérer.
+
+# Opérateurs
+## 
+
 
 # Elif
 https://csfboileau.gitlab.io/sites/python/docs/base/condition#elif
