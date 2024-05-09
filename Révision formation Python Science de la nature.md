@@ -163,6 +163,7 @@ Mise en gras des élément différents
 ## Déclaration
 https://csfboileau.gitlab.io/sites/python/docs/collections/set#d%C3%A9claration
 
+de
 ```python
 # Ensemble vide
 set = set()
@@ -170,3 +171,50 @@ set = set()
 # Liste avec des valeurs
 set = {'patate', 'frite', 'purée', 'Montecarlo'}
 ```
+
+vers
+```python
+# Ensemble vide
+set = set()
+
+# Ensemble avec des valeurs
+set = {'patate', 'frite', 'purée', 'Montecarlo', 'patate'}
+# {'patate', 'frite', 'purée', 'Montecarlo'} - le 2e patate est retiré de l'ensemble
+```
+
+# Tuple
+## Manipulations
+de
+```python
+# Liste avec des valeurs
+tuple = ('patate', 'frite', 'purée', 'Montecarlo')
+
+# Obtenir l'élément en position 1:
+value = tuple[1]
+
+# Obtenir l'élément en dernière position:
+value = tuple[-1]
+
+# Obtenir un intervalle
+valeur = tuple[2:5]
+```
+vers
+```python
+# Tuple avec des valeurs
+tuple = ('patate', 'frite', 'purée', 'Montecarlo')
+
+# Obtenir l'élément en position 1:
+value = tuple[1]
+
+# Obtenir l'élément en dernière position:
+value = tuple[-1]
+
+# Obtenir un intervalle
+valeur = tuple[2:5]
+```
+
+De
+>À noter, les [] sont utilisés pour l'accès, même si le tuple est déclaré avec des ()
+
+Vers
+À noter, les `[]` sont utilisés pour l'accès, même si le tuple est déclaré avec des `()`
