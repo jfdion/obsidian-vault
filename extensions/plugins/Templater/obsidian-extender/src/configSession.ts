@@ -1,6 +1,7 @@
 import html from "./html"
 
-export type Cours = { short: string, number: string, long: string }
+export type Course = { short: string, number: string, long: string, schedule: Schedule[] }
+export type Schedule = { day: string, startTime: number, endTime: number }
 
 export enum Style {
     LONG = 'long',
@@ -8,21 +9,21 @@ export enum Style {
     NUMBER = 'number'
 }
 
-const NULL_COURSE: Cours = { short: "NA", number: "NA", long: "NA" }
-const PO2: Cours = { short: "PO2", number: "420-W30-SF", long: "Programmation orientée objet II" }
-const CS: Cours = { short: "CS", number: "420-W53-SF", long: "Cybersécurité" }
-const IT: Cours = { short: "IT", number: "420-W54-SF", long: "Innovation et veille technologique" }
-const BD1: Cours = { short: "BD1", number: "420-W22-SF", long: "Bases de données I" }
-const SW: Cours = { short: "SW", number: "420-W41-SF", long: "Services Web" }
-const ST: Cours = { short: "ST", number: "420-W70-W71-SF", long: "Stages" }
+const NULL_COURSE: Course = { short: "NA", number: "NA", long: "NA", schedule: [] }
+const PO2: Course = { short: "PO2", number: "420-W30-SF", long: "Programmation orientée objet II", schedule: [] }
+const CS: Course = { short: "CS", number: "420-W53-SF", long: "Cybersécurité", schedule: [] }
+const IT: Course = { short: "IT", number: "420-W54-SF", long: "Innovation et veille technologique", schedule: [] }
+const BD1: Course = { short: "BD1", number: "420-W22-SF", long: "Bases de données I", schedule: [{ day: "Mercredi", startTime: 8, endTime: 11 }] }
+const SW: Course = { short: "SW", number: "420-W41-SF", long: "Services Web", schedule: [{ day: "Lundi", startTime: 11, endTime: 13 }, { day: "Mercredi", startTime: 16, endTime: 18 }] }
+const ST: Course = { short: "ST", number: "420-W70-W71-SF", long: "Stages", schedule: [] }
 
 
-const semester: Record<string, Cours[]> = {
+const semester: Record<string, Course[]> = {
     "A24": [CS, IT, PO2].sort(sortCourse),
     "H24": [BD1, SW, ST].sort(sortCourse)
 }
 
-function sortCourse(a: Cours, b: Cours) {
+function sortCourse(a: Course, b: Course) {
     if (a.number < b.number) {
         return -1;
     }
@@ -50,8 +51,8 @@ function courseIndex(session: string): (cours: string) => number {
     }
 }
 
-function findCourse(session: string): (cours: string) => Cours {
-    return (cours: string): Cours => {
+function findCourse(session: string): (cours: string) => Course {
+    return (cours: string): Course => {
         return semester[session].find(c => c.long === cours
             || c.short === cours
             || c.number === cours

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Révision formation Python Science de la nature.md",
+                "file": "extensions/Templates/template_seance_cours.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Révision formation Python Science de la nature.md",
+                "file": "extensions/Templates/template_seance_cours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Révision formation Python Science de la nature.md",
+                "file": "extensions/Templates/template_seance_cours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Révision formation Python Science de la nature.md"
+                "file": "extensions/Templates/template_seance_cours.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "51941da60b0c95e4",
   "lastOpenFiles": [
+    "Révision formation Python Science de la nature.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 9 - 2024-05-06.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 8 - 2024-04-29.md",
@@ -203,7 +204,6 @@
     "extensions/plugins/Templater/obsidian-extender/node_modules/typescript/SECURITY.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/typescript/README.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/type-detect/README.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/tinypool/README.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "extensions/plugins/Templater/obsidian-extender/dist/vite.svg",
