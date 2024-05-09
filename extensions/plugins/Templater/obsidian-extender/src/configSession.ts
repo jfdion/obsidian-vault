@@ -34,6 +34,10 @@ function sortCourse(a: Course, b: Course) {
 }
 
 
+function coursSession(session: string): Course[] {
+    return semester[session] || [NULL_COURSE]
+}
+
 function courseToChip(session: string): (cours: string) => string {
     return (cours: string, style: Style = Style.LONG): string => {
         const index = courseIndex(session)(cours)
@@ -67,6 +71,9 @@ function currySession(session: string) {
     }
 }
 
-const configSession = currySession
+const configSession = {
+    currySession,
+    coursSession
+}
 
 export default configSession

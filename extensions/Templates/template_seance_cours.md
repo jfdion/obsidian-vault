@@ -10,6 +10,7 @@ const session = seXt.fromCode(await xt.promptStr(tp, "Code de session", currentS
 
 const date = await xt.promptStr(tp, "Date", tp.date.now())
 const cours = await xt.promptStr(tp, "Cours")
+console.log(seXt.coursSession(session.code))
 
 tR += xt.buildHierarchicalTag(["cours", cours, "planseance"]) + " " + "#planseance"
 
