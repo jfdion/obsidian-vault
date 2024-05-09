@@ -15,7 +15,7 @@ Peut-être présenter un exemple avec les `"`
 #Déclaration de chaînes de caractères
 
 x = "une chaîne de caractères" # guillemets / guillemets doubles
-y = '1, 2, 3, 4' # apostrophe / guillement simle
+y = '1, 2, 3, 4' # apostrophe / guillemet simple
 z = 'True'
 
 # Déclaration d'une chaîne de caractères sur plusieurs lignes
