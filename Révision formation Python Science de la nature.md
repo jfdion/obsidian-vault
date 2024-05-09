@@ -88,10 +88,12 @@ vers
 > 1. Le mot-clé `with` permet d'utiliser une ressource externe au programme (un fichier, une base de donnée, etc.). Cette instruction s'assure également que le fichier ouvert pour la lecture sera refermé afin de le libérer.
 
 # Opérateurs
-## 
+## Opérateurs de comparaisons (ou booléens)
+https://csfboileau.gitlab.io/sites/python/docs/base/operators#op%C3%A9rateurs-de-comparaisons-ou-bool%C3%A9ens
 
-
-# Elif
+Il manque le `is` dans le tableau. Permet d'optimiser les appels lors que l'on vérifie avec `True`, `False` et `None`.
+# Conditions
+## Elif
 https://csfboileau.gitlab.io/sites/python/docs/base/condition#elif
 
 de
@@ -99,3 +101,19 @@ de
 
 vers
 > Le mot-clé `elif` est utilisé pour introduire plusieurs alternative au `if` et `else` dans un programme.
+
+# Boucles
+## Opérateurs de comparaisons (ou booléens)
+https://csfboileau.gitlab.io/sites/python/docs/base/loop#boucle-while
+
+Présenter le cas de base d'une boucle infinie
+
+```python
+while (True):
+	# boucle sans fin
+```
+
+## Interruption d'une boucle (nouveau contenu)
+Il est possible d'interrompre l'exécution d'une boucle de 2 façons
+
+si l'application rencontre une instruction de retour `return` la boucle s'arrête et on passe à l'instruction suivant
