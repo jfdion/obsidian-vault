@@ -6,6 +6,7 @@ const session = seEx.fromNow()
 const codeSession = await tpEx.promptStr(tp, "Code de session", session.code)
 const codeCours = await tpEx.promptStr(tp, "Code de cours")
 
+
 const chipSession = ext.configSession(codeSession).courseToChip(codeCours)
 
 %>

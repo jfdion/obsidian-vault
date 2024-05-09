@@ -34,7 +34,7 @@ function sortCourse(a: Course, b: Course) {
 }
 
 
-function coursSession(session: string): Course[] {
+function courses(session: string): Course[] {
     return semester[session] || [NULL_COURSE]
 }
 
@@ -67,13 +67,12 @@ function findCourse(session: string): (cours: string) => Course {
 
 function currySession(session: string) {
     return {
-        courseToChip: courseToChip(session)
+        courseToChip: courseToChip(session),
+        findCourse: findCourse(session),
+        courses: courses(session)
     }
 }
 
-const configSession = {
-    currySession,
-    coursSession
-}
+const configSession = currySession
 
 export default configSession

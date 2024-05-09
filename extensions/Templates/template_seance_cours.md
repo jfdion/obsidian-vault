@@ -4,13 +4,15 @@ const xt = ext.templaterExtender
 const seanceXt = ext.seance
 const seXt = ext.session
 
-const cours = seanceXt.nomCours(tp)
 const currentSession = seXt.fromNow()
 const session = seXt.fromCode(await xt.promptStr(tp, "Code de session", currentSession.code))
 
+const cfgSession = ext.configSession(session.code)
+
 const date = await xt.promptStr(tp, "Date", tp.date.now())
-const cours = await xt.promptStr(tp, "Cours")
-console.log(seXt.coursSession(session.code))
+// const cours = await xt.promptStr(tp, "Cours")
+console.log(cfgSession.courses)
+console.log(cfgSession)
 
 tR += xt.buildHierarchicalTag(["cours", cours, "planseance"]) + " " + "#planseance"
 
@@ -22,7 +24,7 @@ tR += xt.buildHierarchicalTag(["cours", cours, "planseance"]) + " " + "#plansean
 %>
 # Meta info
 
-**Cours**:: <%* tR += tx.buildHierarchicalTag(["cours", cours]) %> 
+**Cours**:: <%* tR += xt.buildHierarchicalTag(["cours", cours]) %> 
 
 **MOC:** 
 
