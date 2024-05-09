@@ -1,5 +1,6 @@
 
 # Chaines de caractères
+## Déclaration
 https://csfboileau.gitlab.io/sites/python/docs/base/program/string#d%C3%A9claration
 
 de
@@ -23,6 +24,46 @@ a = ''' roses are red
         Unexpected {
         at line 132 '''
 ```
+
+# Fonctions
+## Appel de fonction
+https://csfboileau.gitlab.io/sites/python/docs/base/program/funct#utilisation-dune-fonction-appel
+
+Présenter le même code que pour l'exemple sans fonction
+
+```python
+# Calcul de la masse volumique
+
+def masse_volumique(masse, volume):  
+    return masse / volume
+
+mass1 = 2500
+volume1 = 50
+
+mv1 = masse_volumique(mass1, volume1)
+
+print(mv1)
+
+mass2 = 600
+volume2 = 120
+
+mv2 = masse_volumique(mass2, volume2)
+
+print(mv2)
+```
+
+## Variantes
+https://csfboileau.gitlab.io/sites/python/docs/base/program/funct#variantes
+de
+> Une fonction doit avoir au minimum le mot-clé `def` et nom. La valeur de retour et les paramètres sont facultatifs.
+
+vers
+> Une fonction doit avoir au minimum le mot-clé `def` et un nom. La valeur de retour (`return`) et les paramètres sont facultatifs (`param1`).
+
+# Tests
+## Tester une fonction 
+https://csfboileau.gitlab.io/sites/python/docs/base/program/test#tester-une-fonction-librarie
+
 # Elif
 https://csfboileau.gitlab.io/sites/python/docs/base/condition#elif
 
