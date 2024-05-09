@@ -269,8 +269,33 @@ print(codes) # affiche toutes les permutations
 
 IDEM
 ```python
-[
- (1, 1, 1), (1, 1, 2), (1, 1, 3), (1, 1, 4), (1, 1, 5), (1, 2, 1), (1, 2, 2), (1, 2, 3), (1, 2, 4), (1, 2, 5), (1, 3, 1), (1, 3, 2), (1, 3, 3), (1, 3, 4), (1, 3, 5), (1, 4, 1), (1, 4, 2), (1, 4, 3), (1, 4, 4), (1, 4, 5), (1, 5, 1), (1, 5, 2), (1, 5, 3), (1, 5, 4), (1, 5, 5),
- # ...100 autres résultats
+[(1, 2, 3), (1, 2, 4), (1, 2, 5), (1, 3, 2), (1, 3, 4), (1, 3, 5), (1, 4, 2), (1, 4, 3), (1, 4, 5), (1, 5, 2), (1, 5, 3), (1, 5, 4), (2, 1, 3), (2, 1, 4), (2, 1, 5), (2, 3, 1), (2, 3, 4), (2, 3, 5), (2, 4, 1), (2, 4, 3), (2, 4, 5), (2, 5, 1), (2, 5, 3), (2, 5, 4), (3, 1, 2),
+ # ...35 autres résultats
 ]
 ```
+
+## Combinaisons
+Utilisation de la fonction `permutations`
+
+```python
+import itertools
+
+digits = [1,2,3,4,5]
+iterator = itertools.combinations(digits, 3)
+codes = [p for p in iterator]
+
+print(iterator) # affiche l'itérateur
+print(codes) # affiche toutes les permutations
+
+>>> 
+# l'itérateur retourné par le premier 'print()'
+<itertools.combinations object at 0x000001C78F52AB30>
+[(1, 2, 3), (1, 2, 4), (1, 2, 5), (1, 3, 4), (1, 3, 5), (1, 4, 5), (2, 3, 4), (2, 3, 5), (2, 4, 5), (3, 4, 5)]
+```
+
+## Installation
+de
+> `itertools` est déjà installée avec la distribution Anaconda :snake:
+
+vers
+> `itertools` fait parti de la librairie de base de Python :snake:
