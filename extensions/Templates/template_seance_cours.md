@@ -1,5 +1,6 @@
 <%*
-const tx = tp.user.templaterExtender()
+const ext = tp.user.obExt()
+const tx = ext.templaterExtender()
 const seance = tp.user.seanceTemplate()
 const cours = seance.nomCours(tp)
 

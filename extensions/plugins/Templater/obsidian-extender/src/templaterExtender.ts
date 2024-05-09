@@ -18,7 +18,7 @@ async function promptStr(tp, label = "String", placeholder = undefined) {
     return value
 }
 
-async function promptOnFilenameUntitled(tp) {
+async function promptOnFilenameUntitled(tp: any): Promise<string> {
     let title = tp.file.title
     if (title.startsWith("Untitled")) {
         title = await promptStr(tp, "title")
@@ -27,7 +27,7 @@ async function promptOnFilenameUntitled(tp) {
     return title
 }
 
-function getCurrentFolder(tp) {
+function getCurrentFolder(tp: any): string {
     return tp.file.folder(true)
 }
 
