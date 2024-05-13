@@ -1,1 +1,3 @@
-export function numberSubStr(v: number, start?: number, end?: number): number { }
+export function numberSubStr(v: number, start: number = 0, end?: number): number {
+    return Number(v.toString().substring(start, end))
+}

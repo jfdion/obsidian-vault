@@ -1,3 +1,5 @@
+import { numberSubStr } from "./number"
+
 export type Session = { long: string, short: string, year: number, code: string }
 export type SessionConfig = { long: string, short: string }
 
@@ -9,7 +11,7 @@ const HIVER: SessionConfig = { long: HIVER_NAME, short: "H" }
 export const NULL_SEMESTER = { long: "na", short: "na" }
 
 function newEmptySession(): Session {
-    return { ...NULL_SEMESTER, code: "na", year: Number(new Date().getFullYear().toString().substring(2)) }
+    return { ...NULL_SEMESTER, code: "na", year: numberSubStr(new Date().getFullYear(), 2) }
 }
 
 function newSession(name: string, year: number): Session {
