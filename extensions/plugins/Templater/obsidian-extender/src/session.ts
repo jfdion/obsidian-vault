@@ -10,7 +10,7 @@ const AUTOMNE: SessionConfig = { long: AUTOMNE_NAME, short: "A" }
 const HIVER: SessionConfig = { long: HIVER_NAME, short: "H" }
 export const NULL_SEMESTER = { long: "na", short: "na" }
 
-function newEmptySession(): Session {
+export function newEmptySession(): Session {
     return { ...NULL_SEMESTER, code: "na", year: numberSubStr(new Date().getFullYear(), 2) }
 }
 

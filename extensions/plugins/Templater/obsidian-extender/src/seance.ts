@@ -1,5 +1,5 @@
 import { Semester } from "./configSession"
-import { Course, Schedule, newCourse } from "./course"
+import { Course, Schedule, newCourse, newSchedule } from "./course"
 import { pipe } from "./functional"
 import templaterExtender, { Templater } from "./templaterExtender"
 

@@ -1,5 +1,5 @@
 
-import { Course, Style } from "./course"
+import { Course, NULL_COURSE, Style } from "./course"
 import html from "./html"
 
 export type Semester = Record<string, Course[]>
