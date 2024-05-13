@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.0 Références/Articles to read.md",
+                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/seance + TP/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0 Références/Articles to read.md",
+                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/seance + TP/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0 Références/Articles to read.md",
+                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/seance + TP/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0 Références/Articles to read.md"
+                "file": "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/seance + TP/Untitled.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "51941da60b0c95e4",
   "lastOpenFiles": [
+    "0.0 Références/Articles to read.md",
     "extensions/plugins/Templater/obsidian-extender/dist/obExt.js",
     "extensions/Templates/template_seance_cours.md",
     "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/seance + TP/Untitled.md",

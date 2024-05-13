@@ -1,7 +1,15 @@
 export type Templater = {
     system: {
         prompt(prompText?: string, defaultValue?: string, throwOnCancel?: boolean, multiline?: boolean): Promise<string>
-        suggester(textItems: string | ((item: T) => string), items: T[], throwOnCancel?: boolean, placeholder?: string, limit?: number)
+        suggester<T>(textItems: string[] | ((item: T) => string), items: T[], throwOnCancel?: boolean, placeholder?: string, limit?: number): Promise<T>
+    },
+    file: {
+
+        folder(relative?: boolean): string,
+        find_tfile(filename: string): string,
+        rename(newTitle: string): Promise<void>
+        tags: string[],
+        title: string,
     }
 };
 
@@ -23,7 +31,7 @@ async function suggester(tp: Templater, choices: Record<string, string>): Promis
     return await tp.system.suggester(Object.keys(choices), Object.values(choices))
 }
 
-async function promptOnFilenameUntitled(tp: any): Promise<string> {
+async function promptOnFilenameUntitled(tp: Templater): Promise<string> {
     let title = tp.file.title
     if (title.startsWith("Untitled")) {
         title = await promptStr(tp, "title")
@@ -32,16 +40,16 @@ async function promptOnFilenameUntitled(tp: any): Promise<string> {
     return title
 }
 
-function getCurrentFolder(tp: any): string {
+function getCurrentFolder(tp: Templater): string {
     return tp.file.folder(true)
 }
 
-function getParentFolder(tp: any, level = 2) {
+function getParentFolder(tp: Templater, level = 2) {
     const folders = tp.file.folder(true).split("/")
     return folders.splice(level * -1, 1)
 }
 
-function getSiblingFileByName(tp: any, name: string): string {
+function getSiblingFileByName(tp: Templater, name: string): string {
     return tp.file.find_tfile(name)
 }
 
