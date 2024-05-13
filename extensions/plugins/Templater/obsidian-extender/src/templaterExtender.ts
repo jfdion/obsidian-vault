@@ -1,18 +1,25 @@
+export type Templater = {
+    system: {
+        prompt(prompText?: string, defaultValue?: string, throwOnCancel?: boolean, multiline?: boolean): Promise<string>
+        suggester(textItems: string | ((item: T) => string), items: T[], throwOnCancel?: boolean, placeholder?: string, limit?: number)
+    }
+};
+
 const DATE_FORMAT = `YYYY-MM-DD`
 const HOUR_FORMAT = `HH [h] mm`
 const DATE_HOUR_FORMAT = `${DATE_FORMAT} ${HOUR_FORMAT}`
 
-async function promptInt(tp: any, label = "Number", placeholder = undefined): Promise<number> {
+async function promptInt(tp: Templater, label = "Number", placeholder = undefined): Promise<number> {
     const value = await tp.system.prompt(label, placeholder, true)
 
     return parseInt(value, 10)
 }
 
-async function promptStr(tp: any, label = "String", placeholder = undefined): Promise<string> {
+async function promptStr(tp: Templater, label = "String", placeholder = undefined): Promise<string> {
     return await tp.system.prompt(label, placeholder, true)
 }
 
-async function suggester(tp: any, choices: Record<string, string>): Promise<string> {
+async function suggester(tp: Templater, choices: Record<string, string>): Promise<string> {
     return await tp.system.suggester(Object.keys(choices), Object.values(choices))
 }
 
