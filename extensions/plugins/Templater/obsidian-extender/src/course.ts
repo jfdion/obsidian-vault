@@ -6,3 +6,12 @@ export enum Style {
     SHORT = 'short',
     NUMBER = 'number'
 }
+
+export const NULL_COURSE: Course = { short: "NA", number: "NA", long: "NA", slug: "NA", schedule: [] }
+
+export function newCourse() {
+    return {
+        ...NULL_COURSE,
+        schedule: []
+    }
+}

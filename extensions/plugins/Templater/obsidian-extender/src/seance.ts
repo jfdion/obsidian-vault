@@ -1,5 +1,5 @@
 import { Semester } from "./configSession"
-import { Course, Schedule } from "./course"
+import { Course, Schedule, newCourse } from "./course"
 import { pipe } from "./functional"
 import templaterExtender, { Templater } from "./templaterExtender"
 
@@ -32,7 +32,14 @@ function buildSeance(tp: Templater): Seance {
 
 function NewSeance(date: Date, semesterCode: string): Seance {
     return {
-        filename: 
+        filename: "",
+        cours: newCourse(),
+        session: "",
+        date: new Date(),
+        weekNumber: 0,
+        schedule: newSchedule(),
+        state: SeanceState.TODO,
+        MOC: ""
     }
 }
 
