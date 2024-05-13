@@ -1,5 +1,6 @@
 import { Semester } from "./configSession"
 import { Course, Schedule } from "./course"
+import { pipe } from "./functional"
 import templaterExtender, { Templater } from "./templaterExtender"
 
 
@@ -21,6 +22,9 @@ type Seance = {
     state: SeanceState
     MOC: string
 }
+
+const seance: Seance = pipe(newSeance(),)
+
 
 function buildSeance(tp: Templater): Seance {
     const semester = await tp.system.prompt()
