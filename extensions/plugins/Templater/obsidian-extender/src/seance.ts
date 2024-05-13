@@ -1,6 +1,6 @@
 import { Semester } from "./configSession"
 import { Course, Schedule } from "./course"
-import templaterExtender from "./templaterExtender"
+import templaterExtender, { Templater } from "./templaterExtender"
 
 
 enum SeanceState {
@@ -20,6 +20,10 @@ type Seance = {
     schedule: Schedule,
     state: SeanceState
     MOC: string
+}
+
+function buildSeance(tp: Templater): Seance {
+    const semester = await tp.system.prompt()
 }
 
 function NewSeance(date: Date, semesterCode: string): Seance {
