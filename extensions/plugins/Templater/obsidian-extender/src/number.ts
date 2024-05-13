@@ -1,0 +1,1 @@
+export function numberSubStr(v: number, start?: number, end?: number): number { }

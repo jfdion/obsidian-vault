@@ -9,7 +9,7 @@ const HIVER: SessionConfig = { long: HIVER_NAME, short: "H" }
 export const NULL_SEMESTER = { long: "na", short: "na" }
 
 function newEmptySession(): Session {
-    return { ...NULL_SEMESTER, code: "na", year: new Date().getFullYear() }
+    return { ...NULL_SEMESTER, code: "na", year: Number(new Date().getFullYear().toString().substring(2)) }
 }
 
 function newSession(name: string, year: number): Session {
