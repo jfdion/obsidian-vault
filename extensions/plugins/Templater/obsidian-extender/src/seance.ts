@@ -23,18 +23,18 @@ type Seance = {
     MOC: string
 }
 
-const seance: Seance = pipe(newSeance(),)
+const seance: Seance = pipe(newSeance(), withSession)
 
 
 function buildSeance(tp: Templater): Seance {
     const semester = await tp.system.prompt()
 }
 
-function NewSeance(date: Date, semesterCode: string): Seance {
+function ewSeance(date: Date, semesterCode: string): Seance {
     return {
         filename: "",
         cours: newCourse(),
-        session: "",
+        session: newEmptySession(),
         date: new Date(),
         weekNumber: 0,
         schedule: newSchedule(),
@@ -53,3 +53,7 @@ const seance = {
 }
 
 export default seance
+
+function newEmptySession(): Semester {
+    throw new Error("Function not implemented.")
+}
