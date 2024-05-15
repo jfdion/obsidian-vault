@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13.md",
+                "file": "0.0 Références/Articles to read.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13.md",
+                "file": "0.0 Références/Articles to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13.md",
+                "file": "0.0 Références/Articles to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13.md"
+                "file": "0.0 Références/Articles to read.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "51941da60b0c95e4",
   "lastOpenFiles": [
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13.md",
     "extensions/Templates/template_seance_cours.md",
     "extensions/plugins/Templater/obsidian-extender/src/number.spec.ts",
     "extensions/plugins/Templater/obsidian-extender/src/number.ts",
@@ -181,7 +182,6 @@
     "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/seance + TP",
     "Révision formation Python Science de la nature.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 9 - 2024-05-06.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 8 - 2024-04-29.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 7 - 2024-04-22.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 6 - 2024-04-15.md",
