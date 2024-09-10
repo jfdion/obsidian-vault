@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ce85e1b998753b9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +176,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "51941da60b0c95e4",
+  "active": "4ce85e1b998753b9",
   "lastOpenFiles": [
     "0.0 Références/Articles to read.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13.md",
