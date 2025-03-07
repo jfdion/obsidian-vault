@@ -74,9 +74,21 @@
               "icon": "lucide-file",
               "title": "SQL Murder Mystery Solution"
             }
+          },
+          {
+            "id": "86d62742fd3768a8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -241,7 +253,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "af815af6b41f36f6",
+  "active": "86d62742fd3768a8",
   "lastOpenFiles": [
     "SQL Murder Mystery.md",
     "1.0 Cours enseignés/1.02 Idées/Examen BD I - SQL.md",
