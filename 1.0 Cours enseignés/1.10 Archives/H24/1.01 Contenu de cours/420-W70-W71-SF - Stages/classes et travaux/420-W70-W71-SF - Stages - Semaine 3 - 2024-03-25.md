@@ -53,7 +53,7 @@ Vous accueillez des puis un peu plus de deux semaines {Nom complet étudiant} à
 
 C'est dans cette optique que j'aimerais planifier une rencontre avec vous et votre stagiaire. La formule de la rencontre serait une courte rencontre avec vous et votre stagiaire, environ 10-15 minutes, puis je poursuivrais seul avec le stagiaire.
 
-Dans le cas où une visite en personne n'est pas possible ou n'est pas pertinente, la rencontre peut être faite par [Teams](https://teams.microsoft.com/l/chat/0/0?users=jfdion@csfoy.ca "https://teams.microsoft.com/l/chat/0/0?users=jfdion@csfoy.ca").
+Dans le cas où une visite en personne n'est pas possible ou n'est pas pertinente, la rencontre peut être faite par [Teams](https://teams.microsoft.com/l/chat/0/0?users=jfdion@csfoy.ca).
 
 Mes périodes de disponibilités sont les suivantes:
 
