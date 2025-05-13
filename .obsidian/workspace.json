@@ -102,9 +102,21 @@
               "icon": "lucide-file",
               "title": "420-W70-W71-SF - Stages - Semaine 5 - 2024-04-08"
             }
+          },
+          {
+            "id": "ab8a522d1ca79ad2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -272,7 +284,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fbb9deb8a98638b6",
+  "active": "ab8a522d1ca79ad2",
   "lastOpenFiles": [
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 4 - 2024-04-01.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 3 - 2024-03-25.md",
