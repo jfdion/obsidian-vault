@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "80c74306df211480",
+        "id": "5016abdde2fa7424",
         "type": "tabs",
         "children": [
           {
-            "id": "e8410d35d08a7950",
+            "id": "458ef46b842c1f7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "82dca50fce9451c2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,8 +164,7 @@
               "title": "Todo List"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,11 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82dca50fce9451c2",
+  "active": "458ef46b842c1f7b",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Home.md",
     "0.0 Références/0.3 Snippets/go/Makefile.md",
     "0.0 Références/0.2 Resources/WSL-CMD/Powershell profile config.md",
-    "Home.md",
     "Messenger bag.md",
     "SQL Murder Mystery.md",
     "0.0 Références/0.2 Resources/Windows désactiver Bing menu recherche.md",
@@ -240,8 +223,6 @@
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 7  - 2024-03-12.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 6 - 2024-03-05.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 5 - 2024-02-27.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 4 - 2024-02-20.md",
-    "v4q11k8t.bmp",
-    "Untitled.canvas"
+    "v4q11k8t.bmp"
   ]
 }
