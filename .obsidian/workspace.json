@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Calendrier"
             }
+          },
+          {
+            "id": "68aa92f717496fb2",
+            "type": "leaf",
+            "state": {
+              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin Updates"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,10 +204,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "458ef46b842c1f7b",
+  "active": "68aa92f717496fb2",
   "lastOpenFiles": [
-    "S01-Mardi.md",
+    "Planification/templates/seance-template.md",
+    "Planification/séances/Séances.md",
+    "Planification/templates",
     "Planification/Calendrier.md",
+    "2025-09-01-S01-FeteTravail.md",
+    "Planification/séances",
+    "S01-Mardi.md",
     "Planification",
     "Untitled.canvas",
     "Home.md",
@@ -224,14 +240,9 @@
     "extensions/plugins/Templater/obsidian-extender/src/session.ts",
     "extensions/plugins/Templater/obsidian-extender/src/seance.ts",
     "extensions/plugins/Templater/obsidian-extender/src/number.ts",
-    "extensions/plugins/Templater/obsidian-extender/src/number.spec.ts",
-    "extensions/plugins/Templater/obsidian-extender/src/main.ts",
     "extensions/Templates/TEST-session.md",
     "extensions/Templates/Chip - cours.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 9 - 2024-03-26.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 8 - 2024-03-19.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 7  - 2024-03-12.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 6 - 2024-03-05.md",
     "v4q11k8t.bmp"
   ]
 }
