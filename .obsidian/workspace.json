@@ -1,124 +1,48 @@
 {
   "main": {
-    "id": "54749581c8edfe64",
+    "id": "e281756dc25fe72e",
     "type": "split",
     "children": [
       {
-        "id": "a1835e8bde5de62c",
+        "id": "80c74306df211480",
         "type": "tabs",
         "children": [
           {
-            "id": "51941da60b0c95e4",
+            "id": "9532e73c4535bdeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13.md",
+                "file": "0.0 Références/0.3 Snippets/go/Makefile.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13"
+              }
             }
           },
           {
-            "id": "4ce85e1b998753b9",
+            "id": "a4aec2bec5aec847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.0 Références/0.1 Articles/DRY is about Knowledge.md",
+                "file": "0.0 Références/0.2 Resources/WSL-CMD/Powershell profile config.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DRY is about Knowledge"
+              }
             }
           },
           {
-            "id": "8f0678d3d7bef28a",
+            "id": "1e09233b4a6cb33c",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
-            "id": "06bf61e223517882",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 Cours enseignés/1.02 Idées/Examen BD I - SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Examen BD I - SQL"
-            }
-          },
-          {
-            "id": "af815af6b41f36f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.0 Références/0.2 Resources/SQL games/SQL Murder Mystery Solution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL Murder Mystery Solution"
-            }
-          },
-          {
-            "id": "86d62742fd3768a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 0 - 2024-03-04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "420-W70-W71-SF - Stages - Semaine 0 - 2024-03-04"
-            }
-          },
-          {
-            "id": "fbb9deb8a98638b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 5 - 2024-04-08.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "420-W70-W71-SF - Stages - Semaine 5 - 2024-04-08"
-            }
-          },
-          {
-            "id": "ab8a522d1ca79ad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13"
+                "currentVersion": "1.5.12"
+              }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,11 +61,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -150,15 +71,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sql murder",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -166,32 +85,30 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 589
+    "width": 300
   },
   "right": {
     "id": "bb738e2bffc7e4ca",
     "type": "split",
     "children": [
       {
-        "id": "a28b2cc65827d331",
+        "id": "80b24794e70ec942",
         "type": "tabs",
         "children": [
           {
-            "id": "b6e2b5c6d192f634",
+            "id": "2acd96348eb5ed4e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13.md",
+                "file": "0.0 Références/0.2 Resources/WSL-CMD/Powershell profile config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,137 +116,117 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13"
+              }
             }
           },
           {
-            "id": "142d2eb7bdf4db56",
+            "id": "0fdea8d9fdcdab70",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13.md",
+                "file": "0.0 Références/0.2 Resources/WSL-CMD/Powershell profile config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13"
+              }
             }
           },
           {
-            "id": "1639df76f8c02ed7",
+            "id": "3bfc0805b6345bc7",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": false
+              }
             }
           },
           {
-            "id": "32d2eb64dd362b9c",
+            "id": "2d12221c7932d577",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
+                "file": "0.0 Références/0.2 Resources/WSL-CMD/Powershell profile config.md"
+              }
             }
           },
           {
-            "id": "4f5183813ca65249",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "6943f37f03180edf",
+            "id": "a55799be2358231c",
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "state": {}
+            }
+          },
+          {
+            "id": "0a94411ec2e1de6a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
+      "janitor:Janitor: scan vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "janitor:Janitor: scan vault": false,
-      "media-extended:Open media": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "ab8a522d1ca79ad2",
+  "active": "1e09233b4a6cb33c",
   "lastOpenFiles": [
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 4 - 2024-04-01.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 3 - 2024-03-25.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 2 - 2024-03-18.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 1 - 2024-03-11.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 0 - 2024-03-04.md",
-    "Messenger bag.md",
-    "Révision formation Python Science de la nature.md",
-    "SQL Murder Mystery.md",
-    "1.0 Cours enseignés/1.02 Idées/Examen BD I - SQL.md",
-    "0.0 Références/Articles to read.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13.md",
-    "extensions/Templates/template_seance_cours.md",
-    "extensions/plugins/Templater/obsidian-extender/src/number.spec.ts",
-    "extensions/plugins/Templater/obsidian-extender/src/number.ts",
-    "extensions/plugins/Templater/obsidian-extender/src/functional.ts",
     "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/seance + TP/Untitled.md",
-    "extensions/plugins/Templater/obsidian-extender/dist/obExt.js",
     "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
-    "extensions/plugins/Templater/obsidian-extender/src/course.ts",
-    "extensions/Templates/TEST-session.md",
-    "extensions/plugins/Templater/obsidian-extender/src/seance.ts",
     "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/seance + TP",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 9 - 2024-05-06.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 8 - 2024-04-29.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 7 - 2024-04-22.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 6 - 2024-04-15.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 5 - 2024-04-08.md",
+    "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II",
+    "1.0 Cours enseignés/1.01 Automne 2024/0.01 Légende.md",
+    "1.0 Cours enseignés/1.01 Automne 2024",
     "extensions/plugins/Templater/obsidian-extender/src/templaterExtender.ts",
-    "extensions/plugins/Templater/obsidian-extender/src/obsidianExtender.ts",
-    "extensions/plugins/Templater/obsidian-extender/src/configSession.ts",
-    "Home.md",
-    "Software development/OOP/SOLID principles.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/yocto-queue/readme.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/why-is-node-running/README.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/which/README.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/which/CHANGELOG.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "extensions/plugins/Templater/obsidian-extender/dist/vite.svg",
-    "extensions/plugins/Templater/obsidian-extender/src/typescript.svg",
-    "extensions/plugins/Templater/obsidian-extender/public/vite.svg",
-    "schema.png",
-    "v4q11k8t.bmp"
+    "extensions/plugins/Templater/obsidian-extender/src/session.ts",
+    "extensions/plugins/Templater/obsidian-extender/src/seance.ts",
+    "extensions/plugins/Templater/obsidian-extender/src/number.ts",
+    "extensions/plugins/Templater/obsidian-extender/src/number.spec.ts",
+    "extensions/plugins/Templater/obsidian-extender/src/main.ts",
+    "extensions/plugins/Templater/obsidian-extender/src/html.ts",
+    "extensions/Templates/TEST-session.md",
+    "extensions/Templates/Chip - cours.md",
+    "SQL Murder Mystery.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 9 - 2024-03-26.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 8 - 2024-03-19.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 7  - 2024-03-12.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 6 - 2024-03-05.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 5 - 2024-02-27.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 4 - 2024-02-20.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 3 - 2024-02-13.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 2 - 2024-02-06.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 12 - 2024-04-23.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 11 - 2024-04-16.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 10 - 2024-04-09.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 1 - 2024-01-30.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 9 - 2024-02-28.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 8 - 2024-02-26.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 7 - 2024-02-21.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 6 - 2024-02-19.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 5 - 2024-02-14.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 4 - 2024-02-12.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 3 - 2024-02-07.md",
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W41-SF - Services Web/classes et travaux/420-W41-SF - Service Web - Classe 25 - 2024-04-24.md",
+    "v4q11k8t.bmp",
+    "Untitled.canvas"
   ]
 }
