@@ -11,10 +11,14 @@
             "id": "458ef46b842c1f7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Planification/Calendrier.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Calendrier"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Planification/Calendrier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Calendrier"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Planification/Calendrier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Calendrier"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Planification/Calendrier.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Calendrier"
             }
           },
           {
@@ -168,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25c3dd049cf688dd",
+  "active": "458ef46b842c1f7b",
   "lastOpenFiles": [
+    "S01-Mardi.md",
+    "Planification/Calendrier.md",
     "Planification",
     "Untitled.canvas",
     "Home.md",
@@ -216,14 +226,12 @@
     "extensions/plugins/Templater/obsidian-extender/src/number.ts",
     "extensions/plugins/Templater/obsidian-extender/src/number.spec.ts",
     "extensions/plugins/Templater/obsidian-extender/src/main.ts",
-    "extensions/plugins/Templater/obsidian-extender/src/html.ts",
     "extensions/Templates/TEST-session.md",
     "extensions/Templates/Chip - cours.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 9 - 2024-03-26.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 8 - 2024-03-19.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 7  - 2024-03-12.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 6 - 2024-03-05.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W22-SF - BD I/classes et travaux/420-W22-SF - BD I - Classe 5 - 2024-02-27.md",
     "v4q11k8t.bmp"
   ]
 }
