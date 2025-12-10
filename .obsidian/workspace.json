@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2180e45909d99e9c",
+        "id": "3b9a6e4b29ce63aa",
         "type": "tabs",
         "children": [
           {
-            "id": "3274a3f8f02ad527",
+            "id": "d4124efe465b2da8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planification/templates/seance-template.md",
+                "file": "Cégep/PÉA/Correction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "seance-template"
+              "title": "Correction"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sql murder",
+                "query": "tag:PÉA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,12 +190,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3274a3f8f02ad527",
+  "active": "a8b21a67ee7a80ec",
   "lastOpenFiles": [
+    "Cégep/PÉA/PÉA.md",
+    "Cégep/Cégep.md",
+    "Planification/seances/seances.md",
+    "Planification/templates/seance-template.md",
     "Planification/templates/templates.md",
     "Planification/Calendrier.md",
     "seances/seances.md",
-    "Planification/seances/seances.md",
     "Planification/Planification.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/tinypool/dist/esm/entry/entry.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/vite/dist/node/chunks/chunks.md",
@@ -214,9 +218,6 @@
     "extensions/plugins/Templater/obsidian-extender/node_modules/typescript/lib/ko/ko.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/typescript/lib/ja/ja.md",
     "extensions/plugins/Templater/obsidian-extender/node_modules/typescript/lib/it/it.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/typescript/lib/es/es.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/typescript/lib/de/de.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/typescript/lib/cs/cs.md",
     "Untitled.canvas",
     "seances",
     "Planification/templates",
