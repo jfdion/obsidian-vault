@@ -116,9 +116,23 @@
               "icon": "lucide-file",
               "title": "420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13"
             }
+          },
+          {
+            "id": "5a2496b660bce88d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -286,8 +300,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ab8a522d1ca79ad2",
+  "active": "5a2496b660bce88d",
   "lastOpenFiles": [
+    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13.md",
+    "conflict-files-obsidian-git.md",
+    "seances/2025-08-11-S00-Intro.md",
+    "seances",
+    "Planification/templates/seance-template.md",
+    "Planification/seances/2025-08-22-S02-Cyber.md.md",
+    "Planification/seances/2025-08-20-S00-PreSession3.md.md",
+    "Planification/seances/Séances.md",
+    "Planification/seances/2025-08-18-S00-PreSession1.md.md",
+    "Planification/seances/2025-08-21-S01-PO2.md.md",
+    "Planification/seances/2025-08-19-S00-PreSession2.md.md",
+    "Planification/seances/2025-08-15-S00-Intro5.md.md",
+    "Planification/seances/2025-08-13-S00-Intro3.md.md",
+    "Planification/seances/2025-08-14-S00-Intro4.md.md",
+    "Planification/seances/2025-08-12-S00-Intro2.md.md",
+    "Planification/seances/2025-08-11-S00-Intro.md.md",
+    "Planification/templates",
+    "Planification/Calendrier.md",
+    "Planification/seances",
+    "Planification",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 4 - 2024-04-01.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 3 - 2024-03-25.md",
     "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 2 - 2024-03-18.md",
@@ -298,32 +332,12 @@
     "SQL Murder Mystery.md",
     "1.0 Cours enseignés/1.02 Idées/Examen BD I - SQL.md",
     "0.0 Références/Articles to read.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 10 - 2024-05-13.md",
-    "extensions/Templates/template_seance_cours.md",
     "extensions/plugins/Templater/obsidian-extender/src/number.spec.ts",
     "extensions/plugins/Templater/obsidian-extender/src/number.ts",
     "extensions/plugins/Templater/obsidian-extender/src/functional.ts",
-    "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/seance + TP/Untitled.md",
     "extensions/plugins/Templater/obsidian-extender/dist/obExt.js",
-    "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/Untitled.md",
     "extensions/plugins/Templater/obsidian-extender/src/course.ts",
-    "extensions/Templates/TEST-session.md",
     "extensions/plugins/Templater/obsidian-extender/src/seance.ts",
-    "1.0 Cours enseignés/1.01 Automne 2024/420-W30-SF - Programmation Objet II/seance + TP",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 9 - 2024-05-06.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 8 - 2024-04-29.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 7 - 2024-04-22.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 6 - 2024-04-15.md",
-    "1.0 Cours enseignés/1.10 Archives/H24/1.01 Contenu de cours/420-W70-W71-SF - Stages/classes et travaux/420-W70-W71-SF - Stages - Semaine 5 - 2024-04-08.md",
-    "extensions/plugins/Templater/obsidian-extender/src/templaterExtender.ts",
-    "extensions/plugins/Templater/obsidian-extender/src/obsidianExtender.ts",
-    "extensions/plugins/Templater/obsidian-extender/src/configSession.ts",
-    "Home.md",
-    "Software development/OOP/SOLID principles.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/yocto-queue/readme.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/why-is-node-running/README.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/which/README.md",
-    "extensions/plugins/Templater/obsidian-extender/node_modules/which/CHANGELOG.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "extensions/plugins/Templater/obsidian-extender/dist/vite.svg",
